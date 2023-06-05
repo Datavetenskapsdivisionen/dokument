@@ -159,3 +159,4 @@
 \RequirePackage[bookmarks]{hyperref}
 
 \RequirePackage[table]{xcolor}
+\RequirePackage{emoji}
