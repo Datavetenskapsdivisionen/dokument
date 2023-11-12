@@ -15,11 +15,11 @@
   time: "17:17",
   place: "Monaden (ev.EA)",
   board: (
-      chairman: "Samuel Hammersberg",
-      viceChairman: text(style: "italic","vakant"),
-      treasurer: "Lukas Gartman",
-      secretary: text(style: "italic","vakant"),
-      samo: "Tekla Siesjö"
+      chairman: (name: "Samuel Hammersberg", present: none),
+      viceChairman: (name: text(style: "italic","vakant"), present: none),
+      treasurer: (name: "Lukas Gartman", present: none),
+      secretary: (name: text(style: "italic","vakant"), present: none),
+      samo: (name: "Tekla Siesjö", present: none)
   ),
   meetingChairman: "Samuel Hammersberg",
   viceMeetingChairman: "inga förslag ifrån styrelsen",

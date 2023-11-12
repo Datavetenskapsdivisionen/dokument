@@ -195,11 +195,11 @@
       hlinex(),
       [*Befattning*], [*Namn*], [*Närvarande*],
       hlinex(),
-      [Ordförande],      [#board.chairman],     [], 
-      [Vice-ordförande], [#board.viceChairman], [],
-      [Kassör],          [#board.treasurer],    [],
-      [Sekreterare],     [#board.secretary],    [],
-      [SAMO],            [#board.samo],         [],  
+      [Ordförande],      [#board.chairman.name],     [#board.chairman.present], 
+      [Vice-ordförande], [#board.viceChairman.name], [#board.viceChairman.present],
+      [Kassör],          [#board.treasurer.name],    [#board.treasurer.present],
+      [Sekreterare],     [#board.secretary.name],    [#board.secretary.present],
+      [SAMO],            [#board.samo.name],         [#board.samo.present],  
       hlinex(),
     )
     
