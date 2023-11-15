@@ -2,19 +2,26 @@
 
 #let boardSuggested(who) = (late: who);
 
-#let att(content) = {
-  [*Att* $space space space$ #content]
-}
+#let signatureSpot() = [
+  #table(
+    columns: (1fr, 1fr),
+    stroke: none,
+    inset: (top: 3em, bottom: 4em, left: 1em, right: 1em),
+    line(length: 100%),
+    line(length: 100%),
+  )
+];
 
 #let attSatserGen(attSatser) = {
   if type(attSatser) == content {
-    enum()[
-      #att(attSatser)
+    enum(numbering: n => str(n) + [. *Att* $space space space$])[
+      #attSatser
     ]
   } else {
-    for attSats in attSatser [
-      + #att([#attSats #block(inset: (top: 0.1em))])
-    ]
+    let a = attSatser.map(attSats => [
+      #attSats #block(inset: (top: 0.1em))
+    ]); 
+    [#enum(numbering: n => str(n) + [. *Att* $space space space$],..a)]
   }
 }
 
@@ -66,11 +73,21 @@
 #let diskussionspunkt(
   title: [Title],
   text: [We shall discuss this],
+  said: none
 ) = {
   [
-    == #title
+    #block(inset: (top: 1em, bottom: 0.25em))[== #title]
     #text
-    #block(inset: (top: 0.5em))
+
+    #if said == none {
+      block(inset: (top: 0.5em))
+    } else {
+      [
+        #heading(level: 3, outlined: false, numbering: none, "Anteckningar")
+        #said
+        #block(inset: (top: 0.5em))
+      ]
+    }
   ]
 }
 
@@ -79,10 +96,10 @@
 ) = {
   if type(punkter) == array {
       for punkt in punkter [
-        #diskussionspunkt(title: punkt.title, text: punkt.text)
+        #diskussionspunkt(title: punkt.title, text: punkt.text, said: punkt.at("said", default: none))
       ]
   } else {
-    diskussionspunkt(title: punkter.title, text: punkter.text)
+    diskussionspunkt(title: punkter.title, text: punkter.text, said: punkter.at("said", default: none))
   }
 }
 
@@ -148,6 +165,7 @@
   callingDate: datetime.today(),
   sendoutDate: datetime.today(),
   time: "00:00",
+  timeEnded: "00:00",
   meetingStarted: false,
   place: "Monaden",
   meetingChairman: "inget förslag ifrån styrelsen",
@@ -296,13 +314,14 @@
     )
     #pagebreak()
     
-    #block(inset: (top: 3em))[= Öppnande av möte]
+    #block(inset: (top: 3em, bottom: 1em))[= Öppnande av möte]
     #let openWord = if not meetingStarted {
       [beräknas öppnas]
     } else {
       [öppnades]
     }
     Mötet #openWord av #meetingChairman #time
+    #pagebreak()
 
     // ********************************************
     // ********************************************
@@ -350,6 +369,8 @@
         attSatserGen([attsatsen bifalles.])
       }
     )
+
+    #pagebreak()
 
     #beslutsPunkt(
       title: [Val av mötesordförande],
@@ -445,7 +466,7 @@
     // ********************************************
     // ********************************************
     // ********************************************
-    #block(inset: (top: 3em))[= Rapporter]
+    #block(inset: (top: 3em, bottom: 1em))[= Rapporter]
     Det har varit ett litet tag sedan vårt senaste mötet, så det är passande att ha rapporter ifrån styrelsen och kommittéerna, så att vi vet hur läget ser ut!
 
     #for report in reports [ 
@@ -462,7 +483,7 @@
     // ********************************************
     // ********************************************
     // ********************************************
-    #block(inset: (top: 3em))[= Beslutsärenden]
+    #block(inset: (top: 3em, bottom: 1em))[= Beslutsärenden]
     Enligt Stadgan måste ändringar av Stadgan röstas igenom på två av 
     Divisionsstämmans varandra följande möten. Om en beslutpunkt innehåller 
     "första läsningen" innebär det att det är första gången beslutet tas upp 
@@ -480,12 +501,35 @@
     // ********************************************
     // ********************************************
     // ********************************************
-    #block(inset: (top: 3em))[= Diskussionspunkter]
+    #block(inset: (top: 3em, bottom: 1em))[= Diskussionspunkter]
     Stämman är inte bara en chans för oss i divisionen att rösta om saker,
     utan den ger oss även en chans att diskutera olika ämnen, som kanske 
     nödvändigtvis inte behövs röstas om.
 
     #diskussionsPunktGen(punkter: diskussionspunkter)
+
+    #block(inset: (top: 0em, bottom: 1em))[= Avslutande av möte]
+    #if meetingStarted [
+      Mötet avslutades klockan #timeEnded.
+      #pagebreak()
+      #block(inset: (top: 1em))
+      *Mötesordförande:*\
+      #signatureSpot()
+
+      *Vice mötesordförande:*\
+      #signatureSpot()
+
+      *Mötesekreterare:*\
+      #signatureSpot()
+
+      *Justerare:*\
+      #signatureSpot()
+
+      *Justerare:*\
+      #signatureSpot()
+    ] else [
+      Mötet beräknas avslutas klockan #timeEnded.
+    ]
   ]
 }
 

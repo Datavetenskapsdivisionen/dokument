@@ -17,6 +17,7 @@
     day: 13,
 );
 #let time = "17:17";
+#let timeEnded = "18:18";
 #let meetingStarted = false;
 #let place = "Monaden (ev.EA)";
 #let board = (
@@ -50,11 +51,18 @@
   (
     title: [Proposition: Förlänging av tiden på väggundersökning],
     text: [
-      Då denna stämman var på begäran har inte styreslen hunnit komma till någon konkret
-      slutsats om frågan om att riva väggen mellan stora och lilla rummet i Monaden och
-      skulle på grund av det vilja föreslå att arbetet kan fortsätta till nästkommande stämma.
+      Senast den tidigare gången har styrelsen ej kommit vidare på detta arbetet,
+      då styreslen har haft annat och eget arbete att arbeta på, och personen 
+      som drev i arbetet har avklarat sin utbildning. 
+      Därför föreslår styrelsen följande punkter.
     ],
-    attSatser: ([uppdraget för att undersöka frågan om att riva väggen fortsätter till nästkommande stämma])
+    attSatser: (
+      [uppdraget fortsätter under styrelsen till nästkommande stämma.],
+      [en arbetsgrupp skapas vars syfte är att fortsätta arbetet, och får hjälp
+      och resurser av styrelsen, för att kunna komma fram till en slutsats till 
+      nästkommande stämma.],
+      [arbetet avslutas.]
+    )
   ),
   (
     title: [Proposition: Val av revisor],
@@ -63,37 +71,47 @@
       slutsats om frågan om att riva väggen mellan stora och lilla rummet i Monaden och
       skulle på grund av det vilja föreslå att arbetet kan fortsätta till nästkommande stämma.
     ],
-    attSatser: ([uppdraget för att undersöka frågan om att riva väggen fortsätter till nästkommande stämma]),
-    beslut: [
-      #attSatserGen([första attsatsen nekas])
-    ]
+    attSatser: ([_inga förslag ifrån styrelsen_]),
+    beslut: none
   ),
   (
-    title: [Motion: Uppdatering av logotyp],
+    title: [Motion: Inval till DVRK: 24'],
     text: [
-      Under förra stämman så startades det en arbetsgrupp styrd av Tim Persson 
-      med syfte att ta fram en ny logotyp för divisionen. Under kommande 
-      stämman kommer en presentation framföras av gruppen för att visa hur 
-      arbetet har gått. Gruppen vill även ställa beslutsfrågan om en av dessa 
-      presenterade loggor kan användas som den slutgiltiga loggan, eller om en 
-      av loggorna ska användas som bas för de resterande arbete. 
+      Rekomenderar Edward Music som ordförande för DVRK.
+
+      -- Tim Båten Tåten
     ],
-    attSatser: ([avliva Tim för skojs skull!]),
-    beslut: [
-      #attSatserGen([första attsatsen bifalles])
-    ],
-    personval: true
-  )
+    attSatser: ([välja in Edward Music som ordförande för DVRK.]),
+    beslut: none
+  ),
 );
 
 #let diskussionspunkter = (
     (
-      title: [Diskotime],
-      text: [Jo men de vill vi ha!]
+      title: [DVRK och Mega6],
+      text: [
+        Slå ihop DVRK och Mega6 för att skapa en större och mer aktiv komitte som 
+        agerar som ansikte utåt för divisonen.
+
+        -- Tim Båten Tåten
+      ]
     ),
     (
-      title: [Diskotime],
-      text: [Jo men de vill vi ha!]
+      title: [Status av köket],
+      text: [
+        Åtgärda köket och Monadens tillstånd. Det är ofta stökigt i köket och Monaden 
+        i helhet. Min uppfattning har varit att detta är concats uppgift?
+
+        -- Tim Båten Tåten
+      ]
+    ),
+    (
+      title: [Ovverall regler],
+      text: [
+        Diskutera och besluta "regler" kring ovverall
+
+        -- Tim Båten Tåten
+      ]
     )
 );
 
@@ -103,6 +121,7 @@
   sendoutDate: sendoutDate,
   formulaDecisions: formulaDecisions,
   time: time,
+  timeEnded: timeEnded,
   meetingStarted: meetingStarted,
   place: place,
   board: board,
