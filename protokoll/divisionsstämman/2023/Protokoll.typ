@@ -1,27 +1,50 @@
 #import "@preview/tablex:0.0.6": tablex, cellx, rowspanx, colspanx, hlinex
 
+#let boardSuggested(who) = (late: who);
 
+#let att(content) = {
+  [*Att* $space space space$ #content]
+}
+
+#let attSatserGen(attSatser) = {
+  if type(attSatser) == content {
+    enum()[
+      #att(attSatser)
+    ]
+  } else {
+    for attSats in attSatser [
+      + #att([#attSats #block(inset: (top: 0.1em))])
+    ]
+  }
+}
 
 #let beslutsPunkt(
   title: [Title],
   text: [We shall be voting about this],
-  attSatser: ([dräpa Tim],[köpa hoppborg],[spränga nordpolen])
+  attSatser: ([dräpa Tim],[köpa hoppborg],[spränga nordpolen]),
+  beslut: none,
+  personval: false
 ) = {
   [
     #block(inset: (top: 2em))[== #title]
     #text
-    #block(inset: (top: 1em))[
+    #block(inset: (top: 1em, bottom: 1em))[
       #heading(level: 3, numbering: none, outlined: false)[Förslag till att beslut]
     ]
-    #if type(attSatser) == content {
-      enum()[
-        *Att* #attSatser
+    #attSatserGen(attSatser)
+
+    #if beslut != none {[
+      #if personval [
+        #block(inset: (top: 1em))[#heading(level: 3, numbering: none, outlined: false)[Utjustering]]
+        Den nominerade justeras ut.
       ]
-    } else {
-      for attSats in attSatser [
-        + *Att* #attSats #block(inset: (top: 0.1em))
+      #block(inset: (top: 1em, bottom: 1em))[#heading(level: 3, numbering: none, outlined: false)[Beslut]]
+      #beslut
+      #if personval [
+        #block(inset: (top: 1em))[#heading(level: 3, numbering: none, outlined: false)[Injustering]]
+        Den nominerade justeras in.
       ]
-    }
+    ]} else {[]}
   ]
 }
 
@@ -30,10 +53,13 @@
 ) = {
   if type(punkter) == array {
       for punkt in punkter [
-        #beslutsPunkt(title: punkt.title, text: punkt.text, attSatser: punkt.attSatser)
+        #beslutsPunkt(
+          title: punkt.title, text: punkt.text, 
+          attSatser: punkt.attSatser, beslut: punkt.at("beslut", default: none), 
+          personval: punkt.at("personval", default: false))
       ]
   } else {
-    beslutsPunkt(title: punkter.title, text: punkter.text, attSatser: punkter.attSatser)
+    beslutsPunkt(title: punkter.title, text: punkter.text, attSatser: punkter.attSatser, beslut: punkter.at("beslut", default: none,personval: punkter.at("personval", default: false)))
   }
 }
 
@@ -60,12 +86,69 @@
   }
 }
 
+#let createAttendeesList(list) = {
+  let header = [
+    #block(inset: (top: 0.5em))
+    #heading(level: 3, numbering: none, outlined: false)[Närvarande övriga medlemmar]
+    #block(inset: (top: 0.5em))
+  ]
+  if type(list) == content {
+    [
+      #header
+      #tablex(
+        columns: (1fr, 1fr),
+        align: horizon,
+        auto-vlines: false,
+        auto-hlines: false,
+        header-rows: 1,
+        hlinex(),
+        [*Namn*], [*Avikelser*],
+        hlinex(), list
+      )
+      #pagebreak()
+    ]
+  } else {
+    if list.len() == 0 {[]}
+    else {
+      [
+        #header
+        #tablex(
+          columns: (1fr, 1fr),
+          align: horizon,
+          auto-vlines: false,
+          auto-hlines: false,
+          header-rows: 1,
+          hlinex(),
+          [*Namn*], [*Avikelser*],
+          hlinex(),
+          ..list.map(v => if type(v) != content and v.len() == 2 {
+            (v.at(0), v.at(1))
+          } else {
+            (v, [])
+          }).flatten()
+        )
+        #pagebreak()
+      ]
+    }
+  }
+}
+
 #let protokoll( 
+  formulaDecisions: (
+    beslutbarhet: false,
+    schema: false,
+    votinglength: false,
+    meetingChairman: false,
+    viceMeetingChairman: false,
+    meetingSecretary: false,
+    protokollJusterare: false
+  ),
   title: [Meeting],
   date: datetime.today(),
   callingDate: datetime.today(),
   sendoutDate: datetime.today(),
   time: "00:00",
+  meetingStarted: false,
   place: "Monaden",
   meetingChairman: "inget förslag ifrån styrelsen",
   viceMeetingChairman: "inget förslag ifrån styrelsen",
@@ -111,7 +194,8 @@
       report: [_inget att rapportera_]
     ),
   ),
-  diskussionspunkter: ()
+  diskussionspunkter: (),
+  meetingAttendees: ()
 ) = {
   let cell = rect.with(
     inset: 0pt,
@@ -202,6 +286,8 @@
       [SAMO],            [#board.samo.name],         [#board.samo.present],  
       hlinex(),
     )
+
+    #createAttendeesList(meetingAttendees)
     
     #outline(
       title: "Mötespunkter",
@@ -211,7 +297,12 @@
     #pagebreak()
     
     #block(inset: (top: 3em))[= Öppnande av möte]
-    Mötet beräknas öppnas av #meetingChairman #time
+    #let openWord = if not meetingStarted {
+      [beräknas öppnas]
+    } else {
+      [öppnades]
+    }
+    Mötet #openWord av #meetingChairman #time
 
     // ********************************************
     // ********************************************
@@ -232,7 +323,10 @@
 
         Detta möteschema ska ha skickats ut under måndagen den #sendoutDate.display().
       ],
-      attSatser: ([divisionsstämman har uppnått kraven i stadgan för att få hålla möte, och är därmed beslutbar.])
+      attSatser: ([divisionsstämman har uppnått kraven i stadgan för att få hålla möte, och är därmed beslutbar.]),
+      beslut: if formulaDecisions.beslutbarhet {
+        attSatserGen([attsatsen bifalles.])
+      }
     )
 
     #beslutsPunkt(
@@ -240,7 +334,10 @@
       text: [
         För att divisionsstämman ska kunna fatta ett beslut eller protokollföra en diskussion behöver punkten i mötesschemat där stämman ska fatta beslut vara inlagd eller föras in i mötesschemat senast vid den här punkten.
       ],
-      attSatser: [mötesschemat fastställs utan några ändringar.]
+      attSatser: [mötesschemat fastställs utan några ändringar.],
+      beslut: if formulaDecisions.schema {
+        attSatserGen([attsatsen bifalles.])
+      }
     )
 
     #beslutsPunkt(
@@ -248,7 +345,10 @@
       text: [
         blabla
       ],
-      attSatser: [röstlängden fastställs utan några ändringar.]
+      attSatser: [röstlängden fastställs utan några ändringar.],
+      beslut: if formulaDecisions.votinglength {
+        attSatserGen([attsatsen bifalles.])
+      }
     )
 
     #beslutsPunkt(
@@ -257,7 +357,10 @@
         Mötesordförande har till uppgift att leda Divisionsstämmans sammankomst. 
         Hen ansvarar för att mötesformalia sköts.
       ],
-      attSatser: [#meetingChairman väljs till mötesordförande.]
+      attSatser: [#meetingChairman väljs till mötesordförande.],
+      beslut: if formulaDecisions.meetingChairman {
+        attSatserGen([#meetingChairman väljs in som mötesordfarande.])
+      }
     )
 
     #beslutsPunkt(
@@ -266,7 +369,19 @@
         Vice mötesordförande hjälper mötesordförande med att hålla talarlistan, 
         och att alla får komma till tals.
       ],
-      attSatser: [#viceMeetingChairman väljs till vice mötesordförande.] 
+      attSatser: [
+        #if viceMeetingChairman != none and type(viceMeetingChairman) != dictionary [
+          #viceMeetingChairman väljs till vice mötesordförande.
+        ] else [
+          _inga förslag ifrån styrelsen_
+        ]
+      ],
+      beslut: if formulaDecisions.viceMeetingChairman {
+        attSatserGen(if type(viceMeetingChairman) == dictionary 
+            [#viceMeetingChairman.late väljs till vice mötesordförande.]
+          else
+            [#viceMeetingChairman väljs till vice mötesordförande.])
+      }
     )
 
     #beslutsPunkt(
@@ -274,7 +389,19 @@
       text: [
         Mötessekreteraren har till uppgift att anteckna diskussioner, beslut, och eventuella reservationer under mötet.
       ],
-      attSatser: [#meetingSecretary väljs till mötessekreterare.]
+      attSatser: [
+        #if meetingSecretary != none and type(meetingSecretary) != dictionary [
+          #meetingSecretary väljs till mötessekreterare.
+        ] else [
+          _inga förslag ifrån styrelsen_
+        ]
+      ],
+      beslut: if formulaDecisions.meetingSecretary {
+        attSatserGen(if type(meetingSecretary) == dictionary 
+            [#meetingSecretary.late väljs till protokolljusterare.]
+          else
+            [#meetingSecretary väljs till protokolljusterare.])
+      }
     )
 
     #beslutsPunkt(
@@ -287,11 +414,26 @@
         signera protokollet. Vid Divisionsstämmans sammanträden ska det vara två 
         justerare. Mötesordförande och mötessekreteraren kan inte vara justerare.
       ],
-      attSatser: ([
-        #protokolJusterare1 väljs till protokolljusterare.
-      ],[
-        #protokolJusterare2 väljs till protokolljusterare.
-      ])
+      attSatser: (
+        if protokolJusterare1 != none and type(protokolJusterare1) != dictionary [
+          #protokolJusterare1 väljs till protokolljusterare. 
+        ] else [_inga förslag ifrån styrelsen_],
+        if protokolJusterare2 != none and type(protokolJusterare2) != dictionary [ 
+          #protokolJusterare2 väljs till protokolljusterare.
+        ] else [_inga förslag ifrån styrelsen_]
+      ),
+      beslut: if formulaDecisions.protokollJusterare {
+        attSatserGen(
+          ( if type(protokolJusterare1) == dictionary 
+            [#protokolJusterare1.late väljs till protokolljusterare.]
+          else
+            [#protokolJusterare1 väljs till protokolljusterare.] 
+          , if type(protokolJusterare2) == dictionary 
+            [#protokolJusterare2.late väljs till protokolljusterare.]
+          else
+            [#protokolJusterare2 väljs till protokolljusterare.])
+        )
+      }
     )
 
     #pagebreak()
@@ -307,7 +449,7 @@
     Det har varit ett litet tag sedan vårt senaste mötet, så det är passande att ha rapporter ifrån styrelsen och kommittéerna, så att vi vet hur läget ser ut!
 
     #for report in reports [ 
-      == #report.group
+      #block(inset: (top: 1em, bottom: 0.25em))[== #report.group]
       #report.report
     ]
 
