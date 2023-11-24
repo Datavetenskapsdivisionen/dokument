@@ -46,6 +46,27 @@
 #let meetingAttendees = (
 );
 
+#let reports = (
+  (  
+    group: "DVRK",
+    report: [
+      Vi i DVRK har sedan senaste stämman främst arbetat med Insparken. Vi anser att insparken gick väldigt bra. Allt arbete, förutom utvärderingen gentemot CSE, är klart och vi ser fram emot att arrangera några få saker innan vi slutligen lämnar över staffetpinnen till nästa år.
+
+      Tim Persson\
+      DV'22
+    ]
+  ),
+  (
+    group: "DV_Ops",
+    report: [
+      DV_Ops är fortfarande väldigt mycket i uppstarts fasen. Vi hade ett antal arrangemang under insparken med varierande framgång samt lite samarbete med företag. Förhoppningen är att DV_Ops ska arrangera lite fler roliga arrangemang resten av hösten och den kommande våren.
+
+      Tim Persson\
+      DV'22
+    ]
+  )
+);
+
 
 #let beslutsPunkter = (
   (
@@ -77,40 +98,45 @@
   (
     title: [Motion: Inval till DVRK: 24'],
     text: [
-      Rekomenderar Edward Music som ordförande för DVRK.
+      Efter nogrann process har vi i DVRK'23 enats om kandidater till nästa års iteration för DVRK. Vi kan alla stolt ställa oss bakom kandidaterna och placerar fullt förtroende att dem kommer uppfylla sina uppgifter med bravur. 
 
-      -- Tim Båten Tåten
+      DVRK'23 rekomenderar Edward "Snowden" Music till ordförande för DVRK'24.\
+      DVRK'23 rekomenderar Ida "iceByte" Vranvuk till propaganda minister för DVRK'24.\
+      DVRK'23 rekomenderar Felix "Overflow" Tan till eventansvarig för DVRK'24.\
+      DVRK'23 rekomenderar Kevin "Pettzzon" Pettersson till phadderansvarig/extern för DVRK'24.\
+      DVRK'23 rekomenderar Hannes "belfort" Carlsson till kassör.\
+
+      Det är helt upp till nästkommande ordförande vilka andra personer som blir invalda under mandatperioden 2024, och posterna bestäms sedan av kommittéens medlemmar.\
+      DVRK'23s rekommendationer är vårt råd till nästkommande kommittéordförande.
+
+      Tim "Båtsman" Persson\
+      Nils "PNils" Lyrevik\
+      Sebastian "Basse"  Pålsson\
+      Oscar "Reiban" Rei\
+      DVRK'23
     ],
-    attSatser: ([välja in Edward Music som ordförande för DVRK.]),
+    attSatser: ([välja Edward "Snowden" Music till ordförande för DVRK under verksamhetsåret 2024.]),
     beslut: none
   ),
 );
 
 #let diskussionspunkter = (
     (
-      title: [DVRK och Mega6],
+      title: [Regler och formalia kring overall],
       text: [
-        Slå ihop DVRK och Mega6 för att skapa en större och mer aktiv komitte som 
-        agerar som ansikte utåt för divisonen.
+        Fler av oss aktiva syns numera i overall, något jag tycker är väldigt roligt, men jag anser att vi behöver vara mer enhetliga i hur vi upplevs och ser ut. Saker som, vilket ben står namnet på, är det några märken som ska sys på poch var, ryggmärken, uppkappat eller nerkappat. Eftersom vi är uppdelade i flera kommitter finns det syfte skillnader i utseende men jag upplever att vi behöver ha några enade "regler".
 
-        -- Tim Båten Tåten
+        Tim Persson\
+        DV'22
       ]
     ),
     (
-      title: [Status av köket],
+      title: [Hur ska köket och Monaden åtgärdas?],
       text: [
-        Åtgärda köket och Monadens tillstånd. Det är ofta stökigt i köket och Monaden 
-        i helhet. Min uppfattning har varit att detta är concats uppgift?
+        Just nu är standard tillståndet i köket kaos. Det är smutsigt och stökigt och det finns sällan nog med bestick på lunchen. Jag anser att det behövs ett förtydligande kring vems uppgift det är att ta hand om köket och se till att det sköts om. Anser även att Monaden ofta upplevs som stökig eller smutsig där disk och godispapper lämnas framme. Båda dessa punker är förståss något vi alla som brukar Monaden ansvarar för men det behövs diskuteras och på något vis åtgärdas.
 
-        -- Tim Båten Tåten
-      ]
-    ),
-    (
-      title: [Ovverall regler],
-      text: [
-        Diskutera och besluta "regler" kring ovverall
-
-        -- Tim Båten Tåten
+        Tim Persson\ 
+        DV'22
       ]
     )
 );
@@ -133,5 +159,6 @@
   callingDate: callingDate,
   beslutsPunkter: beslutsPunkter,
   diskussionspunkter: diskussionspunkter,
-  meetingAttendees: meetingAttendees
+  meetingAttendees: meetingAttendees,
+  reports: reports
 )
