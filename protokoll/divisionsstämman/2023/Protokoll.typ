@@ -355,7 +355,7 @@
 
         Den #callingDate.display() kallade styrelsen till divisionsstämma genom att skriva i discordservern _MonadenDV_, och att sätta upp affisher i sektionslokalen Monaden. 
 
-        Detta möteschema ska ha skickats ut under måndagen den #sendoutDate.display().
+        Detta möteschema ska ha skickats ut under tisdagen den #sendoutDate.display().
       ],
       attSatser: (
         [divisionsstämman har uppnått kraven i stadgan för att få hålla möte, och är därmed beslutbar.]
