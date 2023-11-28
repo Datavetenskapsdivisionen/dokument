@@ -36,7 +36,7 @@
     #block(inset: (top: 2em))[== #title]
     #text
     #block(inset: (top: 1em, bottom: 1em))[
-      #heading(level: 3, numbering: none, outlined: false)[Förslag till att beslut]
+      #heading(level: 3, numbering: none, outlined: false)[Förslag till beslut]
     ]
     #attSatserGen(attSatser)
 
@@ -152,6 +152,7 @@
 
 #let protokoll( 
   formulaDecisions: (
+    voiceLength: false,
     beslutbarhet: false,
     schema: false,
     votinglength: false,
@@ -333,16 +334,32 @@
     #block(inset: (top: 3em))[= Formalia]
 
     #beslutsPunkt(
+      title: [Fastställande av röstlängd],
+      text: [
+        En röstlängd är en lista på personer som har rösträtt. Under våra stämmomöten äger endast divisionsmedlemmar som närvarar vid mötet rösträtt. Därmed krävs det att för att stämmomötet ska kunna genomföras behöver vi en lista med namn på röstberättigade medlemmar som närvarar vid stämmosammanträdet.
+
+        Medlemmar kan under mötets gång, det vill säga efter denna punkt, läggas till eller tas bort ur röstlängden. Det ska då framgå i röstlängden vid vilken punkt i mötesschemat medlemmen lämnar eller ankommer till stämmomötet.
+      ],
+      attSatser: (
+        [stämman fastställer den nuvarande röstlängden]
+      ),
+      beslut: if formulaDecisions.voiceLength {
+        attSatserGen([attsatsen bifalles.])
+      }
+    )
+
+    #beslutsPunkt(
       title: [Divisionsstämmans beslutbarhet],
       text: [
         6 kap. i stadgan definierar regler Divisionstämman.
 
-        Den #callingDate.display() kallade styrelsen till divisionsstämma genom att skriva i discordservern _MonadenDV_, sätta upp affisher i sektionslokalen Monaden,
-        och kontaktat medlemmar genom _Orbi_. 
+        Den #callingDate.display() kallade styrelsen till divisionsstämma genom att skriva i discordservern _MonadenDV_, och att sätta upp affisher i sektionslokalen Monaden. 
 
         Detta möteschema ska ha skickats ut under måndagen den #sendoutDate.display().
       ],
-      attSatser: ([divisionsstämman har uppnått kraven i stadgan för att få hålla möte, och är därmed beslutbar.]),
+      attSatser: (
+        [divisionsstämman har uppnått kraven i stadgan för att få hålla möte, och är därmed beslutbar.]
+      ),
       beslut: if formulaDecisions.beslutbarhet {
         attSatserGen([attsatsen bifalles.])
       }
@@ -355,17 +372,6 @@
       ],
       attSatser: [mötesschemat fastställs utan några ändringar.],
       beslut: if formulaDecisions.schema {
-        attSatserGen([attsatsen bifalles.])
-      }
-    )
-
-    #beslutsPunkt(
-      title: [Fastställande av röstlängden],
-      text: [
-        blabla
-      ],
-      attSatser: [röstlängden fastställs utan några ändringar.],
-      beslut: if formulaDecisions.votinglength {
         attSatserGen([attsatsen bifalles.])
       }
     )
@@ -467,7 +473,6 @@
     // ********************************************
     // ********************************************
     #block(inset: (top: 3em, bottom: 1em))[= Rapporter]
-    Det har varit ett litet tag sedan vårt senaste mötet, så det är passande att ha rapporter ifrån styrelsen och kommittéerna, så att vi vet hur läget ser ut!
 
     #for report in reports [ 
       #block(inset: (top: 1em, bottom: 0.25em))[== #report.group]
@@ -508,7 +513,8 @@
 
     #diskussionsPunktGen(punkter: diskussionspunkter)
 
-    #block(inset: (top: 0em, bottom: 1em))[= Avslutande av möte]
+    #pagebreak()
+    #block(inset: (top: 3em, bottom: 1em))[= Avslutande av möte]
     #if meetingStarted [
       Mötet avslutades klockan #timeEnded.
       #pagebreak()
