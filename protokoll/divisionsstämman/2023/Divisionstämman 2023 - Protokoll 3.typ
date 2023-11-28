@@ -47,6 +47,26 @@
 );
 
 #let reports = (
+  (
+    group: "MEGA6",
+    report: [
+      Under de sex månaderna sedan förra stämman hölls har vi, Mega6, haft en hel del 
+      för oss. Vi började med under sommaren att designa och beställa våra egna 
+      patches. Därefter planerade och utförde vi våra events under mottagningen till 
+      allas belåtenhet. Efter det så höll vi även i våran aspnings-vecka som trots 
+      budgetskillnaden ändå var en succe. Vi vill framför allt belysa att under den 
+      utsålda Halloweensittningen så fick alla sin mat efter sina etiska och 
+      allergiska preferenser i tid utan bismak av träkol. Emellertid och under dessa 
+      events har vi umgåtts och ingått i förhandling med andra studentgrupper på kåren 
+      vilket har resulterat i dekorationen av våra vänsterben. Just nu är vi i 
+      processen att avsluta våran aspningen genom att ratificera nya medlemmar $*$ASPA 
+      Mega6$*$.
+
+      Kristoffer “Schlätta” Gustafsson, Ordförande Mega6'23\
+      Lukas “Lucky” Gartman, Mega6'23\
+      Petter Blomkvist, Mega6'23
+    ]
+  ),
   (  
     group: "DVRK",
     report: [
