@@ -16,9 +16,9 @@
     month: 11,
     day: 13,
 );
-#let time = "17:17";
-#let timeEnded = "18:18";
-#let meetingStarted = false;
+#let time = "17:38";
+#let timeEnded = "20:18";
+#let meetingStarted = true;
 #let place = "Monaden (ev.EA)";
 #let board = (
     chairman: (name: "Samuel Hammersberg", present: none),
@@ -30,8 +30,8 @@
 #let meetingChairman = "Samuel Hammersberg";
 #let meetingSecretary = "Gustav Dalemo";
 #let viceMeetingChairman = "Sebastian Selander";
-#let protokolJusterare1 =  none;
-#let protokolJusterare2 =  none;
+#let protokolJusterare1 =  "Kristoffer Gustafsson";
+#let protokolJusterare2 =  "Albin Otterhäll";
 
 #let formulaDecisions = (
   voiceLength: false,
@@ -45,6 +45,32 @@
 );
 
 #let meetingAttendees = (
+  ("Oscar Enes Rei", "under paus 4.5-4.6"),
+  ("Anthon Wirback"),
+  ("Nils Lyrevik","5.3"),
+  ("Tim Persson"),
+  ("Alva Johansson","5.3"),
+  ("Josefin Kokkinakis","5.3"),
+  ("Anthon Wirback","under paus 4.5-4.6"),
+  ("Lukas Gartman"),
+  ("Nikhil Olsson Mukhopadhyay"),
+  ("Vilma Ljungblad"),
+  ("Albin Otterhäll"),
+  ("Max Rydberg"),
+  ("Kristoffer Gustafsson"),
+  ("Björn Rosengren"),
+  ("William Bodin"),
+  ("Sebastian Selander"),
+  ("Sebastian Pålsson","5.1"),
+  ("Kevin Pettersson","5.3"),
+  ("Hannes Carlsson","5.1"),
+  ("Ida Vranvuk","5.1"),
+  ("Ida Kjellerstedt","5.1"),
+  ("Angelika Hagberg","4.1"),
+  ("Mikaela Keegan", "under paus 4.5-4.6"),
+  ("Daniel Cole"),
+  ("Linus Wallman","5.3"),
+  ("Alexander Lisborg","5.3")
 );
 
 #let reports = (
@@ -179,6 +205,12 @@
       och resurser av styrelsen, för att kunna komma fram till en slutsats till 
       nästkommande stämma.],
       [arbetet avslutas.]
+    ), beslut: (
+      [Styrelsen ändrar sitt yrkande till att rösta först om arbetet ska fortsätta elelr inte, sen ytterligare en röstning för hurvida arbetet ska fortsätta om så är fallet.
+      
+      Resultat av första röstning (punkt 0 vs 3): Arbetet forstätter
+      Resultat av andra röstning (punkt 1 vs 2): Arbetet forstätter under styrelsen
+      ]
     )
   ),
   (
@@ -200,7 +232,11 @@
     $space$
     
     $space$]),
-    beslut: none
+    beslut: ([
+      Albin Otterhäll nominerar sig själv och ett personval genomfördes:
+      Resultat av personval: Albin Otterhäll
+    ]
+    )
   ),
   (
     title: [Motion: Inval till DVRK'24],
@@ -223,7 +259,10 @@
       DVRK'23
     ],
     attSatser: ([välja Edward "Snowden" Music till ordförande för DVRK under verksamhetsåret 2024.]),
-    beslut: none
+    beslut: ([
+      Edward "Snowden" Music väljs till ordförande för DVRK'24.\
+    ]
+    )
   ),
   (
     title: [Proposition: Fyllnadsval till Styrelsen],
@@ -247,7 +286,12 @@
     
     $space$],
     ),
-    beslut: none
+    beslut: ([
+      Tim Persson (DV'22) väljs in som vice-ordförande under verksamhetsåret 2023
+      Gustav Dalemo (DV'22) väljs in som sekreterare under verksamhetsåret 2023
+      Josefin Kokkinakis (DV'21) väljs för rollen som SAMO under verksamhetsåret 2023
+    ]
+    )
   ),
   (
     title: [Val av divisionsordförande],
@@ -266,6 +310,14 @@
       
       $space$
       ]
+    ),
+    beslut: ([
+      Sebastian Selander (vice ordförande) agerar ordförande under personval för Samuel Hammersberg.
+      Samuel Hammersberg väljs in som ordförande för verksamhetsåret 2024.
+      Sebastian Selander (vice ordförande) tillfälliga ordförandeskap avslutas och Samuel Hammersberg tar över.
+
+      Mötet tar en paus 18:50 - 18:55
+    ]
     )
   ),
   (
@@ -276,7 +328,12 @@
     attSatser: (
       [Lukas Gartman (DV'20);  Tim Persson (DV'22); Gustav Dalemo (DV'22); Josefin Kokkinakis (DV'21) väljs in till styrelsen för verksamhetsåret 2024.],
     ),
-    beslut: none
+    beslut: ([
+      Nils Lyrevis välj in som vice sekreterare pch agerar sekreterare under personval.
+      Lukas Gartman (DV'20);  Tim Persson (DV'22); Gustav Dalemo (DV'22); Josefin Kokkinakis (DV'21) väljs in till styrelsen för verksamhetsåret 2024.
+      Nils Lyreviks agerande som sekreterare upphör och Gustav Dalemo tar över.
+    ]
+    )
   ),
   (
     title: [Proposition: Mega7 2024],
@@ -295,7 +352,19 @@
       [välja Nils "PNils" Lyrerik (DV'22) som ordförande för Mega7 för
       verksamhetsåret 2024]
     ),
-    beslut: none
+    beslut: ([
+      Röstning om följande tillägsyrkande: 
+      Tilläggsyrkanden till punkt 4.7.4: Att samtliga styrelseledamöter har på sig en enhetlig dräkt och peruk till nästa stämmomöte, går igenom.
+      Tilläggyrkande 4.7.5 av Samuel: Även revisorn ska ingå tidigare punkt 4.7.4.
+
+      William mot Alva: William med ett rungande ja
+      William mot Nils: Anonym handuppräkning resulteras 11 vs 4, William röstas in.
+      William mot vakanssättning: William vann med 11 vs 5.
+
+      Tilläggsyrkanden 4.7.4 röstas igenom.
+      Tilläggsyrkanden 4.7.5 röstas igenom.
+    ]
+    )
   )
 );
 
@@ -307,7 +376,29 @@
 
         Tim Persson\
         DV'22
+      ],
+      Sammanfattning: [
+        En stilguide diskuterades:
+
+        Höger ben föreningsnamn,
+        vänster ben diverse-märken,
+        Komittemärket på vänster arm, 
+        Kårmärket på höger arm, 
+        DV-på bröstet.
+
+        - En guide i reglementet föreslås
+        - Många verkar hålla med om att ha en enhetlig "look" är något att eftersträva.
+        - Ryggtryck tycker Tim är bra, men några invändingar är att det kan vara lite för dyrt.
+        - Att göra masstryck är billigare.
+        - Alla skulle kunna ha sammma rygglogga (den svarta loggan) och det skulle då bli billigare.
+        - Enlighet stärker omgivningen förståelse kring att vi tillhör DVD.
+        - Alla borde ha skärp.
+        - Kan finnas andra sätt än att trycka. Måla/sy på tyg?
+        - Att hålla overaller billigt är alltid bra
+        - Att screenprinta själv kan bli en rolig aktivitet.
+        - Namnet på benet bör vara vit
       ]
+      
     ),
     (
       title: [Hur ska köket och Monaden åtgärdas?],
@@ -316,14 +407,25 @@
 
         Tim Persson\ 
         DV'22
+      ],
+      Sammanfattning: [
+        - Lappa upp hyllorna bättre
+        - Någon/några som kanske ska ha köksansvar
+        - Concats ska eventuellt fortsätta det arbetet, de behöver fler folk som aspar.
+        - Concats kan sätta upp ett system som gör det lättare att göra rätt för alla, gäran dokumenterat.
       ]
     ),
     (
       title: [Spendering av pengar och allmän ekonomi],
       text: [
-        Då Göta Studentkår endast har budgeterat 1000kr till varje förening vill vi i styrelsen diskutera med stämman dels hur dessa pengar ska användas, men änven andra sätt vi kan driva in pengar till divisionen. Saker som försäljning under event bör uppmuntras och är en bra inkomstkälla för DVD!
+        Då Göta Studentkår endast har budgeterat 1000kr till varje förening vill vi i styrelsen diskutera med stämman dels hur dessa pengar ska användas, men även andra sätt vi kan driva in pengar till divisionen. Saker som försäljning under event bör uppmuntras och är en bra inkomstkälla för DVD!
 
         _Styrelsen_
+      ],
+      Sammanfattning: [
+        - Det blir lättare för kommiteer som inte är särkilt indrivande av pengar att få tillgång till inkomsten.
+        - Det är trevligt att ha lite mer pengar att röra sig med som vi kan besluta om själva.
+        - Enligt skatteverkets krav ska försäljning ske under event.
       ]
     ),
     (
@@ -337,6 +439,9 @@
         om de men sist men inte minst alla ordföranden som är med på stämman.
 
         _Styrelsen_
+      ],
+      Sammanfattning: [
+        - Kanske skulle kunna göra det under stämmor.
       ]
     )
 );
