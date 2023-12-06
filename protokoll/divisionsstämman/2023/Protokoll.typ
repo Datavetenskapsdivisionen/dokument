@@ -106,7 +106,7 @@
 #let createAttendeesList(list) = {
   let header = [
     #block(inset: (top: 0.5em))
-    #heading(level: 3, numbering: none, outlined: false)[Närvarande övriga medlemmar]
+    #heading(level: 3, numbering: none, outlined: false)[Närvarande övriga medlemmar:]
     #block(inset: (top: 0.5em))
   ]
   if type(list) == content {

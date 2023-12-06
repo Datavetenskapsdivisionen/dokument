@@ -34,14 +34,14 @@
 #let protokolJusterare2 =  "Albin Otterhäll";
 
 #let formulaDecisions = (
-  voiceLength: false,
-  beslutbarhet: false,
-  schema: false,
-  votinglength: false,
-  meetingChairman: false,
-  viceMeetingChairman: false,
-  meetingSecretary: false,
-  protokollJusterare: false
+  voiceLength: true,
+  beslutbarhet: true,
+  schema: true,
+  votinglength: true,
+  meetingChairman: true,
+  viceMeetingChairman: true,
+  meetingSecretary: true,
+  protokollJusterare: true
 );
 
 #let meetingAttendees = (
@@ -205,11 +205,26 @@
       och resurser av styrelsen, för att kunna komma fram till en slutsats till 
       nästkommande stämma.],
       [arbetet avslutas.]
-    ), beslut: (
-      [Styrelsen ändrar sitt yrkande till att rösta först om arbetet ska fortsätta elelr inte, sen ytterligare en röstning för hurvida arbetet ska fortsätta om så är fallet.
-      
-      Resultat av första röstning (punkt 0 vs 3): Arbetet forstätter
-      Resultat av andra röstning (punkt 1 vs 2): Arbetet forstätter under styrelsen
+    ), 
+    beslut: (
+      [Styrelsen ändrar sitt yrkande till att rösta två gånger. Först om arbetet ska fortsätta eller inte, sen ytterligare en röstning för hurvida arbetet ska fortsätta om så är fallet.
+
+      Förslag till beslut för omröstning 1:
+
+      #attSatserGen((
+        [Arbetet forstätter],
+        [Arbetet avslutas]))
+
+      #heading(level: 3, numbering: none, outlined: false)[Beslut]
+      #attSatserGen(([Första attsatsen bifalles och omröstning 2 följer.]))
+
+      Förslag till beslut för omröstning 2:
+      #attSatserGen((
+        [Uppdraget fortsätter under styrelsen till nästkommande stämma],
+        [En arbetsgrupp skapas vars syfte är att fortsätta arbetet, och får hjälp och resurser av styrelsen, för att kunna komma fram till en slutsats till nästkommande stämma.]
+      ))
+      #heading(level: 3, numbering: none, outlined: false)[Beslut]
+      #attSatserGen(([Första attsatsen bifalles]))
       ]
     )
   ),
@@ -219,23 +234,30 @@
       Vi behöver revisorer för 2024 så att någon kan se till att styrelsen
       beter sig!
     ],
-    attSatser: ([posten vakantsätts
-    
-    $space$
-    
-    $space$
-    
-    $space$
-    
-    $space$
-    
-    $space$
-    
-    $space$]),
+    attSatser: ([posten vakantsätts]),
     beslut: ([
-      Albin Otterhäll nominerar sig själv och ett personval genomfördes:
-      Resultat av personval: Albin Otterhäll
+      #attSatserGen(([Attsatsen nekas]))
+
+      #heading(level: 3, numbering: none, outlined: false)[Ytterligare yrkanden till beslut]
+
+      #attSatserGen(([Nominera en revisor]))
+
+      #heading(level: 3, numbering: none, outlined: false)[Beslut]
+      #attSatserGen(([Attsatsen bifalles]))
+
+      #heading(level: 3, numbering: none, outlined: false)[Val av revisor]
+      #heading(level: 3, numbering: none, outlined: false)[Nomineringar]
+      - Albin Otterhäll nominerar sig själv
+      #heading(level: 3, numbering: none, outlined: false)[Utjustering]
+      Den nominerade justeras ut
+
+      #heading(level: 3, numbering: none, outlined: false)[Beslut]
+      #attSatserGen(([Albin Otterhäll väljs som revisor]))
+      #heading(level: 3, numbering: none, outlined: false)[Injustering]
+      Den nominerade justeras in
     ]
+
+    
     )
   ),
   (
@@ -260,16 +282,26 @@
     ],
     attSatser: ([välja Edward "Snowden" Music till ordförande för DVRK under verksamhetsåret 2024.]),
     beslut: ([
-      Edward "Snowden" Music väljs till ordförande för DVRK'24.\
+      #attSatserGen(([Attsatsen bifalles]))
+
+      #heading(level: 3, numbering: none, outlined: false)[Val av ordförande för DVRK under verksamhetsåret 2024]
+
+      #heading(level: 3, numbering: none, outlined: false)[Nomineringar]
+      - Edward "Snowden" Music nomineras
+
+      Nominerad är ej närvarande så ingen ut- eller injustering sker.
+
+      #heading(level: 3, numbering: none, outlined: false)[Beslut]
+      #attSatserGen(([Edward "Snowden" Music väljs till ordförande för DVRK'24.]))   
     ]
     )
   ),
   (
     title: [Proposition: Fyllnadsval till Styrelsen],
     text: [
-      Under året har styrelsen märkt att Tim Persson, Gustav Dalemo och Josefin Kokkinakis hade passat som styrelsemedlemmar. Gustav Dalemo har visat intresse för att vara sekreterare, Tim Persson har visat intresse för vice-ordförande och Josefin Kokkinakis för rolen som SAMO. 
+      Under året har styrelsen märkt att Tim Persson, Gustav Dalemo och Josefin Kokkinakis hade passat som styrelsemedlemmar. Gustav Dalemo har visat intresse för att vara sekreterare, Tim Persson har visat intresse för vice-ordförande och Josefin Kokkinakis för rollen som SAMO. 
       
-      Styrelsen känner att dessa kandidater hade passat bra i dessa roler, då 
+      Styrelsen känner att dessa kandidater hade passat bra i dessa roller, då 
       de är väldigt engagerade i studentlivet här på divisionen, och de
       har bevisat sig vara ansvarsfulla tidigare!
     ],
@@ -277,19 +309,28 @@
       [välja in Tim Persson (DV'22) som vice-ordförande under verksamhetsåret 2023,
       välja in Gustav Dalemo (DV'22) som sekreterare under verksamhetsåret 2023,
       och välja in Josefin Kokkinakis (DV'21) för rollen som SAMO under verksamhetsåret 2023
-    
-    $space$
-    
-    $space$
-    
-    $space$
-    
-    $space$],
+    ],
     ),
     beslut: ([
-      Tim Persson (DV'22) väljs in som vice-ordförande under verksamhetsåret 2023
-      Gustav Dalemo (DV'22) väljs in som sekreterare under verksamhetsåret 2023
-      Josefin Kokkinakis (DV'21) väljs för rollen som SAMO under verksamhetsåret 2023
+      #heading(level: 3, numbering: none, outlined: false)[Val av fyllnadsval till styrelsen för verksamhetsåret 2023]
+
+      #heading(level: 3, numbering: none, outlined: false)[Mötessekreteraröverlämning]
+      Mötessekreterare (Gustav Dalemo) överlämnar posten till Nils Lyrevik
+
+      #heading(level: 3, numbering: none, outlined: false)[Nomineringar]
+      - Tim Persson (DV'22) nomineras som medlem i styrelsen under verksamhetsåret 2023
+      - Gustav Dalemo (DV'22) nomineras som medlem i styrelsen under verksamhetsåret 2023
+      - Josefin Kokkinakis (DV'21) nomineras som medlem i styrelsen under verksamhetsåret 2023
+      #heading(level: 3, numbering: none, outlined: false)[Utjustering]
+      Samtliga nominerade justeras ut
+      #heading(level: 3, numbering: none, outlined: false)[Beslut]
+      - Tim Persson (DV'22) väljs in som medlem i styrelsen under verksamhetsåret 2023
+      - Gustav Dalemo (DV'22) väljs in som medlem i styrelsen under verksamhetsåret 2023
+      - Josefin Kokkinakis (DV'21) väljs in som medlem i styrelsen under verksamhetsåret 2023
+      #heading(level: 3, numbering: none, outlined: false)[Injustering]
+      Samtliga nominerade justeras in
+      #heading(level: 3, numbering: none, outlined: false)[Mötessekreteraröverlämning]
+      Mötessekreterare (Nils Lyrevik) överlämnar posten till Gustav Dalemo
     ]
     )
   ),
@@ -305,18 +346,24 @@
     attSatser: (
       [divsionstämman väljer Samuel Hammersberg (DV'20) till divisionsordförande
       för verksamhetsåret 2024
-      
-      $space$
-      
-      $space$
       ]
     ),
     beslut: ([
-      Sebastian Selander (vice ordförande) agerar ordförande under personval för Samuel Hammersberg.
-      Samuel Hammersberg väljs in som ordförande för verksamhetsåret 2024.
-      Sebastian Selander (vice ordförande) tillfälliga ordförandeskap avslutas och Samuel Hammersberg tar över.
+      #heading(level: 3, numbering: none, outlined: false)[Mötesordförandeöverlämning]
+      Mötesordförande (Samuel Hammersberg) överlämnar posten till vice-mötesordförande Sebastian Selander
+      #heading(level: 3, numbering: none, outlined: false)[Nomineringar]
+      - Samuel Hammersberg nomineras
+      #heading(level: 3, numbering: none, outlined: false)[Utjustering]
+      Den nominerande justeras ut
+      #heading(level: 3, numbering: none, outlined: false)[Beslut]
+      #attSatserGen(([Samuel Hammersberg väljs till divisionsordförande för verksamhetsåret 2024]))
+      #heading(level: 3, numbering: none, outlined: false)[Injustering]
+      Den nominerande justeras in
+      #heading(level: 3, numbering: none, outlined: false)[Mötesordförandeöverlämning]
+      Mötesordförande (Sebastian Selander) överlämnar posten till Samuel Hammersberg
 
-      Mötet tar en paus 18:50 - 18:55
+
+      #heading(level: 3, numbering: none, outlined: false)[Mötet tar en paus 18:50 - 18:55]
     ]
     )
   ),
@@ -329,9 +376,27 @@
       [Lukas Gartman (DV'20);  Tim Persson (DV'22); Gustav Dalemo (DV'22); Josefin Kokkinakis (DV'21) väljs in till styrelsen för verksamhetsåret 2024.],
     ),
     beslut: ([
-      Nils Lyrevis välj in som vice sekreterare pch agerar sekreterare under personval.
-      Lukas Gartman (DV'20);  Tim Persson (DV'22); Gustav Dalemo (DV'22); Josefin Kokkinakis (DV'21) väljs in till styrelsen för verksamhetsåret 2024.
-      Nils Lyreviks agerande som sekreterare upphör och Gustav Dalemo tar över.
+      #heading(level: 3, numbering: none, outlined: false)[Val av styrelsemedlemmar för verksamhetsåret 2024]
+
+      #heading(level: 3, numbering: none, outlined: false)[Mötessekreteraröverlämning]
+      Mötessekreterare (Gustav Dalemo) överlämnar posten till Nils Lyrevik
+
+      #heading(level: 3, numbering: none, outlined: false)[Nomineringar]
+      - Tim Persson (DV'22) nomineras som medlem i styrelsen under verksamhetsåret 2024
+      - Gustav Dalemo (DV'22) nomineras som medlem i styrelsen under verksamhetsåret 2024
+      - Josefin Kokkinakis (DV'21) nomineras som medlem i styrelsen under verksamhetsåret 2024
+      - Lukas Gartman (DV'20) nomineras som medlem i styrelsen under verksamhetsåret 2024
+      #heading(level: 3, numbering: none, outlined: false)[Utjustering]
+      Samtliga nominerade justeras ut
+      #heading(level: 3, numbering: none, outlined: false)[Beslut]
+      - Tim Persson (DV'22) väljs in som medlem i styrelsen under verksamhetsåret 2023
+      - Gustav Dalemo (DV'22) väljs in som medlem i styrelsen under verksamhetsåret 2023
+      - Josefin Kokkinakis (DV'21) väljs in som medlem i styrelsen under verksamhetsåret 2023
+      - Lukas Gartman (DV'20) väljs in som medlem i styrelsen under verksamhetsåret 2024
+      #heading(level: 3, numbering: none, outlined: false)[Injustering]
+      Samtliga nominerade justeras in
+      #heading(level: 3, numbering: none, outlined: false)[Mötessekreteraröverlämning]
+      Mötessekreterare (Nils Lyrevik) överlämnar posten till Gustav Dalemo
     ]
     )
   ),
@@ -353,16 +418,65 @@
       verksamhetsåret 2024]
     ),
     beslut: ([
-      Röstning om följande tillägsyrkande: 
-      Tilläggsyrkanden till punkt 4.7.4: Att samtliga styrelseledamöter har på sig en enhetlig dräkt och peruk till nästa stämmomöte, går igenom.
-      Tilläggyrkande 4.7.5 av Samuel: Även revisorn ska ingå tidigare punkt 4.7.4.
+      #heading(level: 3, numbering: none, outlined: false)[Ytterligare yrkanden till beslut]
+      
+      #heading(level: 3, numbering: none, outlined: false)[Tilläggsyrkanden 4.7.4 från Albin Otterhäll]
+      Samtliga styrelseledamöter har på sig en enhetlig dräkt och peruk till nästa stämmomöte.
+      #heading(level: 3, numbering: none, outlined: false)[Beslut]
+      #attSatserGen(([Samtliga styrelseledamöter har på sig en enhetlig dräkt och peruk till nästa stämmomöte.]))
 
-      William mot Alva: William med ett rungande ja
-      William mot Nils: Anonym handuppräkning resulteras 11 vs 4, William röstas in.
-      William mot vakanssättning: William vann med 11 vs 5.
+      #heading(level: 3, numbering: none, outlined: false)[Tilläggsyrkanden 4.7.5 från Samuel Hammersberg]
+      Revisorn ska ingå till yrkande 4.7.4
+      #heading(level: 3, numbering: none, outlined: false)[Beslut]
+      #attSatserGen(([Revisorn ska ingå tidigare punkt 4.7.4.]))
 
-      Tilläggsyrkanden 4.7.4 röstas igenom.
-      Tilläggsyrkanden 4.7.5 röstas igenom.
+      #heading(level: 3, numbering: none, outlined: false)[Beslut till 4.7]
+
+      #heading(level: 3, numbering: none, outlined: false)[Val av ordförande för Mega7 för verksamhetsåret 2024]
+
+      #heading(level: 3, numbering: none, outlined: false)[Nomineringar]
+      - William "Minten" Bodin (DV'20) nomineras som ordförande för Mega7 för
+      verksamhetsåret 2024
+      - Alva "Blond" Johansson (DV'21) nomineras som ordförande för Mega7 för
+      verksamhetsåret 2024
+      - Nils "PNils" Lyrerik (DV'22) nomineras som ordförande för Mega7 för
+      verksamhetsåret 2024
+      #heading(level: 3, numbering: none, outlined: false)[Utjustering]
+      Samtliga nominerade justeras ut
+      #heading(level: 3, numbering: none, outlined: false)[Beslut]
+      Styrelsen ändrar sitt yrkande till att rösta tre gånger. Först ställs William mot Alva, sedan vinnaren av den omröstningen mot Nils, och sist vinnaren mot vakanssättning.
+
+      #heading(level: 3, numbering: none, outlined: false)[Förslag till omröstning 1]
+      #attSatserGen(([
+        William "Minten" Bodin (DV'20) går vidare till nästa omröstning som ordförande för Mega7 för verksamhetsåret 2024],[
+        Alva "Blond" Johansson (DV'21) går vidare till nästa omröstning som ordförande för Mega7 för
+      verksamhetsåret 2024
+      ]))
+      #heading(level: 3, numbering: none, outlined: false)[Beslut]
+      William "Minten" Bodin (DV'20) går vidare till nästa omröstning som ordförande för Mega7 för
+      verksamhetsåret 2024
+
+      #heading(level: 3, numbering: none, outlined: false)[Förslag till omröstning 2]
+      #attSatserGen(([
+        William "Minten" Bodin (DV'20) går vidare till nästa omröstning som ordförande för Mega7 för verksamhetsåret 2024],[
+        Nils "PNils" Lyrerik (DV'22) går vidare till nästa omröstning som ordförande för Mega7 för
+      verksamhetsåret 2024
+        ]))
+      #heading(level: 3, numbering: none, outlined: false)[Beslut]
+      Votering begärdes, och resultatet blev att William "Minten" Bodin (DV'20) går vidare till nästa omröstning som ordförande för Mega7 för
+      verksamhetsåret 2024
+
+      #heading(level: 3, numbering: none, outlined: false)[Förslag till omröstning 3]
+      #attSatserGen(([
+        William "Minten" Bodin (DV'20) går vidare till nästa omröstning som ordförande för Mega7 för verksamhetsåret 2024],[
+        Posten vakanssätts
+        ]))
+      #heading(level: 3, numbering: none, outlined: false)[Beslut]
+      Votering begärdes, och resultatet blev att William "Minten" Bodin (DV'20) går vidare till nästa omröstning som ordförande för Mega7 för
+      verksamhetsåret 2024
+
+      #heading(level: 3, numbering: none, outlined: false)[Injustering]
+      Samtliga nominerade justeras in
     ]
     )
   )
@@ -377,7 +491,7 @@
         Tim Persson\
         DV'22
       ],
-      Sammanfattning: [
+      said: [
         En stilguide diskuterades:
 
         Höger ben föreningsnamn,
@@ -408,7 +522,7 @@
         Tim Persson\ 
         DV'22
       ],
-      Sammanfattning: [
+      said: [
         - Lappa upp hyllorna bättre
         - Någon/några som kanske ska ha köksansvar
         - Concats ska eventuellt fortsätta det arbetet, de behöver fler folk som aspar.
@@ -422,7 +536,7 @@
 
         _Styrelsen_
       ],
-      Sammanfattning: [
+      said: [
         - Det blir lättare för kommiteer som inte är särkilt indrivande av pengar att få tillgång till inkomsten.
         - Det är trevligt att ha lite mer pengar att röra sig med som vi kan besluta om själva.
         - Enligt skatteverkets krav ska försäljning ske under event.
@@ -440,7 +554,7 @@
 
         _Styrelsen_
       ],
-      Sammanfattning: [
+      said: [
         - Kanske skulle kunna göra det under stämmor.
       ]
     )
