@@ -6,3 +6,5 @@ output/
 *.fls
 *.log
 *.pdf
+*.out
+*.gz
