@@ -92,12 +92,16 @@ punkten.
 
 == Val av mötesordförande
 Mötesordförande har till uppgift att leda Divisionsstämmans sammankomst. Hen ansvarar för att mötesformalia sköts.
-=== Förslag
-#attSatser(
-  [
-    Samuel Hammersberg väljs till mötesordförande.
-  ]
-)
+
+=== Inkomna nomineringar inför mötet
+Nomineringar som har inkommit till styrelsen i tid för att inkluderas i stämmohandlingarna.
+
+==== Från styrelsen
+Styrelseordförande brukar tradionellt vara den som driver stämmorna så
+styrelsen väljer att nominera 
+
+- Samuel Hammersberg
+
 // === Beslut
 // #attSatser(
 //   [ Samuel Hammersberg väljs in som mötesordförande. ]
@@ -105,12 +109,14 @@ Mötesordförande har till uppgift att leda Divisionsstämmans sammankomst. Hen 
 
 == Val av vice mötesordförande
 Vice mötesordförande hjälper mötesordförande med att hålla talarlistan, och att alla får komma till tals.
-=== Förslag
-#attSatser(
-  [
-    Tim Persson väljs till vice mötesordförande.
-  ]
-)
+=== Inkomna nomineringar inför mötet
+Nomineringar som har inkommit till styrelsen i tid för att inkluderas i stämmohandlingarna.
+
+==== Från styrelsen
+Styrelsen finner det passande att vice ordförande för styrelsen även
+är vice mötesordförande så styrelsen väljer att nominera:
+
+- Tim Persson
 // === Beslut
 // #attSatser(
 //   [ Tim Persson väljs in som vice mötesordförande. ]
@@ -121,12 +127,14 @@ Vice mötesordförande hjälper mötesordförande med att hålla talarlistan, oc
 == Val av vice mötessekreterare
 Mötessekreteraren har till uppgift att anteckna diskussioner, beslut, och eventuella reservationer under mötet.
 
-=== Förslag
-#attSatser(
-  [
-    Gustav Dalemo väljs till vice mötessekreterare.
-  ]
-)
+=== Inkomna nomineringar inför mötet
+Nomineringar som har inkommit till styrelsen i tid för att inkluderas i stämmohandlingarna.
+
+==== Från styrelsen
+Styrelsen finner även det passande att sekreteraren för styrelsen även
+är mötessekreteraren så styrelsen väljer att nominera:
+
+- Gustav Dalemo
 // === Beslut
 // #attSatser(
 //   [ Gustav Dalemo väljs in som vice mötessekreterare. ]
@@ -137,15 +145,12 @@ Protokolljusterare har till uppgift att kontrollera att protokollet i slutändan
 och diskussionerna som fördes under sammanträdet; samt agera rösträknare vid slutna omröstningar. Utöver
 protokolljusterarna så ska mötesordförande och mötessekreteraren signera protokollet. Vid Divisionsstäm mans sammanträden ska det vara två justerare. Mötesordförande och mötessekreteraren kan inte vara
 justerare.
-=== Förslag
-#attSatser(
-  [
-    _inget förslag ifrån styrelsen._
-  ],
-  [
-    _inget förslag ifrån styrelsen._
-  ]
-)
+
+=== Inkomna nomineringar inför mötet
+Nomineringar som har inkommit till styrelsen i tid för att inkluderas i stämmohandlingarna.
+
+_Inga nomineringar för dessa positioner har inkommit._
+
 // === Beslut
 // #attSatser(
 //   [
@@ -161,7 +166,25 @@ justerare.
 = Rapport
 == Styrelsen
 === Ordförande
-Insert rapport.
+Nu är vi alla igång igen och förhoppningsvis lär allt rulla på som det ska!
+Vi har haft en väldigt skoj mottagning tack vare DVRK och alla phaddrar, och
+jag ser verkligen fram emot att se hur resten av året kommer se ut!
+
+Har varit representant på instutionsrådet den 2024-10-11 *lägg in notes här!*.
+
+Kommer även närvara som representant för föreningen 2024-11-05 på
+programrådet för Datavetenskaps programmet och Computer Science programmet,
+och ni kommer förmodligen höra om vad som diskuterades där strax efter!
+
+Utöver det har jag och resterande styrelsen fokuserat mycket på nästkommande
+styrelse. Jag är väldigt optimistiskt om föreningens framtid, 
+då vi har flertal intresserade som vi känner verkligen bryr som om föreningen
+och hade passat bra i styrelsen!
+
+Jag hoppas att resten av året går fint, att klarar sina tentor, att jag
+undviker vodkan under krök, och att vi ses på nästa stämma i november/december! 
+
+Samuel "Hammarn" Hammersberg
 
 === Kassör
 Insert rapport.
@@ -198,10 +221,11 @@ Insert rapport.
 == ConCats
 Insert rapport.
 
+#pagebreak()
 == Mega7
-Det har varit ett spännande år för Mega 7, fyllt med växtkraft, idéer och framtida möjligheter! Även om vi inte har haft några stora synliga projekt detta år, har vår kommitté outtröttligt arbetat bakom kulisserna för att stärka vår mission i att vårda och sköta Monadens plastväxter. 💧✨ Vi har haft flertalet möten för att brainstorma kreativa lösningar och diskutera hur vi bäst kan bidra till att skapa en grönare och mer levande miljö – även om våra växter är av plast. 😅🌿
+Det har varit ett spännande år för Mega 7, fyllt med växtkraft, idéer och framtida möjligheter! Även om vi inte har haft några stora synliga projekt detta år, har vår kommitté outtröttligt arbetat bakom kulisserna för att stärka vår mission i att vårda och sköta Monadens plastväxter. Vi har haft flertalet möten för att brainstorma kreativa lösningar och diskutera hur vi bäst kan bidra till att skapa en grönare och mer levande miljö – även om våra växter är av plast.
 
-Vi har också använt tiden till att planera för framtida initiativ som kommer att få Monaden att blomstra som aldrig förr! 🌸🪴 Under året har Mega 7 fördjupat sin forskning kring innovativa sätt att "vattna" och vårda våra plastväxter, och vi ser fram emot att omsätta dessa idéer i praktiken nästa år. Med starkt engagemang och gemensamma krafter kommer vi att fortsätta odla vår kärlek till naturen, även om den är konstgjord. Tack för ert stöd och er tilltro, och vi ser fram emot ett ännu mer händelserikt 2024! 🌿💪😊
+Vi har också använt tiden till att planera för framtida initiativ som kommer att få Monaden att blomstra som aldrig förr! Under året har Mega 7 fördjupat sin forskning kring innovativa sätt att "vattna" och vårda våra plastväxter, och vi ser fram emot att omsätta dessa idéer i praktiken nästa år. Med starkt engagemang och gemensamma krafter kommer vi att fortsätta odla vår kärlek till naturen, även om den är konstgjord. Tack för ert stöd och er tilltro, och vi ser fram emot ett ännu mer händelserikt 2024!
 
 #pagebreak()
 = Beslutspunkter
@@ -223,7 +247,7 @@ Josefin "Bomben" Kokkinakis#linebreak()
 Gustav "Görby" Dalemo
 
 #pagebreak()
-=== Förslag till beslut:
+=== Förslag till beslut
 #attSatser(
   [ kapitel 12 "Regler för Mega7" i reglementet ändras från 
     ```md
@@ -255,38 +279,60 @@ Nikhil "Minaj" #linebreak()
 Daniel "Casilda" #linebreak()
 Martin "Marabou"
 
-=== Styrelsens svar
-Jag som ordförande finner detta en jobbig idé, I like it. Kör på.
-
-Samuel "Slampan" Hammersberg
-
-=== Förslag till beslut:
+=== Förslag till beslut från motionär
 #attSatser([
   Ordförande bör bära en propellerhatt I under alla kommande stämmor såvida detta inte hindrar hen från att utföra sin uppgift
 ], [
   Ordförande ska överlämna denna hatt till nästkommande ordförande under invalet av denne
 ])
 
+=== Styrelsens yrkande
+Jag som ordförande och resterande styrelse finner detta en jobbig idé, we like it. Kör på.
+
+Samuel "Slampan" Hammersberg
+
+#attSatser([
+  attsatsen 1 bifalles.
+], [
+  attsatsen 2 bifalles.
+])
+
 // === Beslut:
 // #attSatser([attsatsen bifalles.])
 
 #pagebreak()
-== Motion: Inval av ny ordförande för Studienämnden:
-Pick me, choose me, love me 
+
+= Inval
+Inval av personer till förtroendeposterna som väljs in av Divisionsstämman. Dessa väljs in för en ordinarie mandatperiod, vilket sträcker sig från 1 januari till 31 december.
+
+== Studienämnden'25 ordförande
+Studienämnden ansvarar för att se till att kvaliten på kurserna här på
+universitet håller sig, och att lärare m.m följer up på den kritik de får.
+
+=== Inkomna nomineringar inför mötet
+
+Nomineringar som har inkommit till styrelsen i tid för att inkluderas i stämmohandlingarna.
+
+=== Från Ida Vranvuk och Nikhil Olsson Mukhopadhyay
+
+Pick me, choose me, love me, vi nominerar
+
+- Ida Vranvuk
 
 Ida “iceByte” Vranvuk
 
 Nikhil “Minaj” Olsson Mukhopadhyay
 
-#image("2024-10-15-ida.jpeg")
+#place(
+  center,
+  scale(
+    x: 70%,
+    y: 70%,
+    reflow: true,
+    image("2024-10-15-ida.jpeg")
+  )
+)
 
-=== Styrelsens svar
-Självfallet ska studienämnden ha en ordförande, och styrelsen finner att Ida hade varit extremt passande för denna rollen!
-
-_Styrelsen_
-
-=== Förslag till beslut:
-#attSatser([välja in Ida Vranvuk som ordförande för studienämnden under verksamhetsåret 24/25.])
 
 // === Utjustering:
 // Nikhil "Minaj" Olsson Mukhopadhyay justeras ut.
