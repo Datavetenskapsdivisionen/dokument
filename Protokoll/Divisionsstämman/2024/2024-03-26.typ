@@ -14,8 +14,8 @@
     [Samuel Hammersberg], [Ja],
     [Tim Person], [Ja],
     [Lukas Gartman], [Ja],
-    [Gustav Dalemo], [Ja],
     [Josefin Kokkinakis], [Ja],
+    [Gustav Dalemo], [Ja],
 )
 
 #deltagere(
@@ -93,12 +93,9 @@ punkten.
 
 == Val av mötesordförande
 Mötesordförande har till uppgift att leda Divisionsstämmans sammankomst. Hen ansvarar för att mötesformalia sköts.
-=== Förslag
-#attSatser(
-  [
-    Samuel Hammersberg väljs till mötesordförande.
-  ]
-)
+=== Nomineringar
+- Samuel Hammersberg 
+
 === Beslut
 #attSatser(
   [ Samuel Hammersberg väljs in som mötesordförande. ]
@@ -106,12 +103,9 @@ Mötesordförande har till uppgift att leda Divisionsstämmans sammankomst. Hen 
 
 == Val av vice mötesordförande
 Vice mötesordförande hjälper mötesordförande med att hålla talarlistan, och att alla får komma till tals.
-=== Förslag
-#attSatser(
-  [
-    Tim Persson väljs till vice mötesordförande.
-  ]
-)
+=== Nomineringar
+- Tim Persson
+
 === Beslut
 #attSatser(
   [ Tim Persson väljs in som vice mötesordförande. ]
@@ -119,18 +113,14 @@ Vice mötesordförande hjälper mötesordförande med att hålla talarlistan, oc
 
 #pagebreak()
 
-== Val av vice mötessekreterare
+== Val av mötessekreterare
 Mötessekreteraren har till uppgift att anteckna diskussioner, beslut, och eventuella reservationer under mötet.
 
-=== Förslag
-#attSatser(
-  [
-    Gustav Dalemo väljs till vice mötessekreterare.
-  ]
-)
+=== Nomineringar
+- Gustav Dalemo 
 === Beslut
 #attSatser(
-  [ Gustav Dalemo väljs in som vice mötessekreterare. ]
+  [ Gustav Dalemo väljs in som mötessekreterare. ]
 )
 
 == Val av protokolljusterare
@@ -138,15 +128,13 @@ Protokolljusterare har till uppgift att kontrollera att protokollet i slutändan
 och diskussionerna som fördes under sammanträdet; samt agera rösträknare vid slutna omröstningar. Utöver
 protokolljusterarna så ska mötesordförande och mötessekreteraren signera protokollet. Vid Divisionsstäm mans sammanträden ska det vara två justerare. Mötesordförande och mötessekreteraren kan inte vara
 justerare.
-=== Förslag
-#attSatser(
-  [
-    Kristoffer Gustafsson väljs till protokolljusterare.
-  ],
-  [
-    Daniell Cole väljs till protokolljusterare.
-  ]
-)
+
+=== Nomineringar
+Styrelsen har ej kommit med några nomineringar innan mötet.
+
+=== Fri nominering
+- Kristoffer Gustafsson 
+- Daniell Cole 
 === Beslut
 #attSatser(
   [
@@ -296,7 +284,7 @@ Vi i styrelsen vill då lägga till ett ytterligare dokument i reglementet/dokum
 
 Detta är något som tidigare har saknats och något vi märkt av att andra föreningar har, så styrelsen föreslår att detta läggs till som ett styrelsedokument.
 
-=== Förslag till beslut:
+=== Förslag till beslut
 #attSatser(
   [ i avsnittet med regler för styrelsen i reglement införa ett delkapitel,    
     eller som ett självständigt dokument i dokumentsamlingen, införa följande:
@@ -353,22 +341,22 @@ Detta är något som tidigare har saknats och något vi märkt av att andra för
     - Kontinuerlig utvärdering av incidenthanteringsprotokollet rekommenderas för att säkerställa effektivitet och anpassning till nya situationer och behov.
   ],
 )
-=== Beslut:
+=== Beslut
 #attSatser(
   [Attsatsen avslages, och styrelsen röstar in detta dokument 
     på ett styrelsemöte istället för att kunna bearbeta det],
 )
 
-== Motion: Inval av ordförande till Mega6:
+== Motion: Inval av ordförande till Mega6
 Mega6 är nu fler än någonsin, men utan ordförande. Detta behöver åtgärdas.
 
 Kristoffer, Schlätta, Gustafsson #linebreak()
 2020' 
 
-=== Förslag till beslut:
-#attSatser([Kristoffer Gustafsson väljs till ordförande för Mega6.])
+=== Nomineringar
+- Kristoffer Gustafsson
 
-=== Beslut:
+=== Beslut
 #attSatser([attsatsen bifalles.])
 
 == Motion: Byte av ordförande för ConCats
@@ -380,19 +368,20 @@ Martin "Smasher" Felix
 
 Daniell "Cthulhu" Cole
 
-=== Förslag till beslut:
-#attSatser([välja Nikhil "Minaj" Olsson Mukhopadhyay till ordförande för concats under verksamhetsåret 2024.])
+=== Nomineringar
+- Nikhil "Minaj" Olsson Mukhopadhyay
 
-=== Utjustering:
+=== Utjustering
 Nikhil "Minaj" Olsson Mukhopadhyay justeras ut.
 
-=== Beslut:
+#pagebreak()
+=== Beslut
 #attSatser([Nikhil "Minaj" Olsson Mukhopadhyay till ordförande för DVRK’24.])
 
-=== Injustering:
+=== Injustering
 Nikhil "Minaj" Olsson Mukhopadhyay justeras in.
 
-== Motion: Byte av ordförande för DVRK’24:
+== Motion: Byte av ordförande för DVRK’24
 På grund av personliga omständigheter har den nuvarande ordföranden för DVRK’24 varit inaktiv. Vi i kommittén föreslår därför ett byte av ordförande till Ida “iceByte” Vranvuk. 
 
 Ida “iceByte” Vranvuk
@@ -409,58 +398,58 @@ DVRK’24
 
 En ändringsyrkan kom in och vi röstade igenom att ha med punkten 
 att missförtroende förklara nuvarande DVRK.
-=== Förslag till beslut:
+=== Förslag till beslut
 #attSatser([välja Ida “iceByte” Vranvuk till ordförande för DVRK under verksamhetsåret 2024.])
 
-=== Ändrings yrkan från Albin Otterhäll:
+=== Ändrings yrkan från Albin Otterhäll
 Då tidigare ordförande fortfarande är invald under 2024 så behövs den tidigare
 DVRK bli missförtroendeförklarad.
 
-=== Yrkande förslag till beslut:
+=== Yrkande förslag till beslut
 #attSatser([lägga till en attsats att missförtroendeförklara nuvarande DVRK som första attsats.])
 
-=== Beslut:
+=== Beslut
 #attSatser(
   [attsatsen bifalles]
 )
 
-=== Utjustering:
+=== Utjustering
 Ida “iceByte” Vranvuk justeras ut.
 
-=== Förslag till beslut:
+=== Förslag till beslut
 #attSatser(
   [missförtroendeförklara nuvarande DVRK],
   [välja Ida “iceByte” Vranvuk till ordförande för DVRK under verksamhetsåret 2024.]
 )
 
 
-=== Beslut:
+=== Beslut
 #attSatser(
   [attsatsen bifalles],
   [attsatsen bifalles],
 )
 
-=== Injustering:
+=== Injustering
 Ida “iceByte” Vranvuk justeras in.
 
 #pagebreak()
-== Motion: Byte av ordförande för Femme++:
+== Motion: Byte av ordförande för Femme++
 Sittande Femme++ känner att det är dags för en ny ordförande och nominerar Daniell Cole.
 
 Josefin Kokkinakis, Alva Johansson, Moa Ahlberg och Natalie Stein
 
-=== Utjustering:
+=== Nomineringar
+- Daniell Cole
+
+=== Utjustering
 Daniell Cole justeras ut.
 
-=== Förslag till beslut:
-#attSatser([välja Daniell Cole som ordförande för femme++ under verksamhetsåret 2024.])
-=== Beslut:
+=== Beslut
 #attSatser(
-  [attsatsen bifalles],
-  [attsatsen bifalles],
+  [Daniell Cole väljs in som ordförande för Femme++ under verksamhetsåret 2024.],
 )
 
-=== Injustering:
+=== Injustering
 Daniell Cole justeras in.
 
 #pagebreak()
@@ -475,14 +464,14 @@ Styrelsen har letat efter intresserade och fått in ett par, men vi
 skulle behöva ha lite fler! Vi skulle även vilja diskutera _vilken_
 logga vi bör måla på backen.
 
-=== Anteckningar:
+=== Anteckningar
 Tim kommer dra ihop en grupp med intresserade medlemmar som 
 är sugna på att hjälpa till med detta, och även kontakta 
 Chalmers kåren för hur man ska sig till väga med det.
 
 Det är den inofficiella loggan som kommer målas.
 
-== Monadenenkätt:
+== Monadenenkätt
 Vi styrelsen vill förbättra Monaden! 
 Men hur detta ska göras behöver vi även fråga er om. 
 Vi vill sammanställa en enkätt om detta och vi vill diskuttera vilka frågor ni tycker bör vara med på en sådan enkätt.
