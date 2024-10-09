@@ -323,3 +323,25 @@
     Mötesordförande och mötessekreteraren kan inte var justerare.
   ]
 )
+
+#let ordningsFråga(title, body) = [
+  #box(
+    stroke: black,
+    width: 100%,
+    [
+      #box(
+        fill: black,
+        width: 100%,
+        inset: (left: 5pt, right: 5pt),
+        text(fill: white, heading([Ordningsfråga: #title], 
+          level: 2, bookmarked: false, outlined: false,
+          numbering: none
+        ))
+      )
+      #box(
+        inset: (left: 5pt, right: 5pt, bottom: 10pt),
+        body
+      )
+    ]
+  )
+]

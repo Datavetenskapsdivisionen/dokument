@@ -1,4 +1,4 @@
-#import "../../../Template/Typst/DVD.typ": setupDocument, attSatser, blank, blockqoute, deltagere, signatures, formalia
+#import "../../../Template/Typst/DVD.typ": setupDocument, attSatser, blank, blockqoute, deltagere, signatures, formalia, ordningsFråga
 
 #let time = "17:38"
 #show: setupDocument.with(
@@ -14,8 +14,8 @@
     [Samuel Hammersberg], [Ja],
     [_vakant_], [],
     [Lukas Gartman], [Ja],
-    [_vakant_], [],
     [Tekla Siesjö], [Nej],
+    [_vakant_], [],
 )
 
 #deltagere(
@@ -60,7 +60,7 @@ Medlemmar kan under mötets gång, det vill säga efter denna punkt, läggas til
 Det ska då framgå i röstlängden vid vilken punkt i mötesschemat medlemmen lämnar eller ankommer till
 stämmomötet.
 
-=== Förslag
+=== Förslag till beslut inför mötet
 #attSatser([ stämman fastställer den nuvarande röstlängden ])
 
 === Beslut
@@ -70,14 +70,14 @@ stämmomötet.
 
 #pagebreak()
 == Divisionsstämmans beslutbarhet
-6 kap. i stadgan definierar regler Divisionstämman.
+6 kap. i stadgan och 3 kap. i reglemenetet definierar regler för Divisionstämman.
 
 Den 2023-11-13 kallade styrelsen till divisionsstämma genom att skriva i discordservern MonadenDV, och
 att sätta upp affisher i sektionslokalen Monaden.
 
 Detta möteschema ska ha skickats ut under tisdagen den 2023-11-28.
 
-=== Förslag
+=== Förslag till beslut inför mötet
 #attSatser(
   [
     divisionsstämman har uppnått kraven i stadgan för att få hålla möte, och är därmed beslutbar.
@@ -94,7 +94,7 @@ För att divisionsstämman ska kunna fatta ett beslut eller protokollföra en di
 mötesschemat där stämman ska fatta beslut vara inlagd eller föras in i mötesschemat senast vid den här
 punkten.
 
-=== Förslag
+=== Förslag till beslut inför mötet
 #attSatser(
   [ mötesschemat fastställs utan några ändringar. ]
 )
@@ -107,12 +107,8 @@ punkten.
 
 == Val av mötesordförande
 Mötesordförande har till uppgift att leda Divisionsstämmans sammankomst. Hen ansvarar för att mötesformalia sköts.
-=== Förslag
-#attSatser(
-  [
-    Samuel Hammersberg väljs till mötesordförande.
-  ]
-)
+=== Nomineringar
+- Samuel Hammersberg
 === Beslut
 #attSatser(
   [ Samuel Hammersberg väljs in som mötesordförande. ]
@@ -120,12 +116,9 @@ Mötesordförande har till uppgift att leda Divisionsstämmans sammankomst. Hen 
 
 == Val av vice mötesordförande
 Vice mötesordförande hjälper mötesordförande med att hålla talarlistan, och att alla får komma till tals.
-=== Förslag
-#attSatser(
-  [
-    Sebastian Selander väljs till vice mötesordförande.
-  ]
-)
+=== Nomineringar
+- Sebastian Selander
+
 === Beslut
 #attSatser(
   [ Sebastian Selander väljs in som vice mötesordförande. ]
@@ -133,18 +126,15 @@ Vice mötesordförande hjälper mötesordförande med att hålla talarlistan, oc
 
 #pagebreak()
 
-== Val av vice mötessekreterare
+== Val av mötessekreterare
 Mötessekreteraren har till uppgift att anteckna diskussioner, beslut, och eventuella reservationer under mötet.
 
-=== Förslag
-#attSatser(
-  [
-    Gustav Dalemo väljs till vice mötessekreterare.
-  ]
-)
+=== Nomineringar
+- Gustav Dalemo
+
 === Beslut
 #attSatser(
-  [ Gustav Dalemo väljs in som vice mötessekreterare. ]
+  [ Gustav Dalemo väljs in som mötessekreterare. ]
 )
 
 == Val av protokolljusterare
@@ -152,15 +142,14 @@ Protokolljusterare har till uppgift att kontrollera att protokollet i slutändan
 och diskussionerna som fördes under sammanträdet; samt agera rösträknare vid slutna omröstningar. Utöver
 protokolljusterarna så ska mötesordförande och mötessekreteraren signera protokollet. Vid Divisionsstäm mans sammanträden ska det vara två justerare. Mötesordförande och mötessekreteraren kan inte vara
 justerare.
-=== Förslag
-#attSatser(
-  [
-    Kristoffer Gustafsson väljs till protokolljusterare.
-  ],
-  [
-    Albin Otterhäll väljs till protokolljusterare.
-  ]
-)
+
+=== Nomineringar
+Styrelsen har ej kommit med några nomineringar innan mötet.
+
+=== Fri nominering
+- Kristoffer Gustafsson väljs till protokolljusterare.
+- Albin Otterhäll väljs till protokolljusterare.
+
 === Beslut
 #attSatser(
   [
@@ -291,63 +280,39 @@ medlemmar av styrelsen, så inget är förlorat.
 
 Därför föreslår styrelsen följande punkter.
 
-=== Förslag till beslut:
+=== Förslag till beslut inför mötet
 #attSatser(
   [uppdraget fortsätter under styrelsen till nästkommande stämma.],
   [en arbetsgrupp skapas vars syfte är att fortsätta arbetet, och får hjälp och resurser av styrelsen,
 för att kunna komma fram till en slutsats till nästkommande stämma.],
   [arbetet avslutas.]
 )
-=== Beslut:
-Styrelsen ändrar sitt yrkande till att rösta två gånger. Först om arbetet ska fortsätta eller inte, sen ytterli-
-gare en röstning för hurvida arbetet ska fortsätta om så är fallet.
+#pagebreak()
+=== Beslut
+#attSatser(
+  [attsatsen bifalles.],
+  [attsatsen nekas.],
+  [attsatsen nekas.]
+)
 
-förslag till beslut för omröstning 1:
-#attSatser(
-  [arbetet fortsätter.],
-  [arbetet avslutas.]
-)
-=== Beslut omröstning 1:
-#attSatser(
-  [första attsatsen bifalles och omröstning 2 följer.]
-)
-Förslag till beslut för omröstning 2:
-#attSatser(
-  [uppdraget fortsätter under styrelsen till nästkommande stämma],
-  [en arbetsgrupp skapas vars syfte är att fortsätta arbetet, och får hjälp och resurser av styrelsen, för att kunna komma fram till en slutsats till nästkommande stämma.]
-)
-=== Beslut omröstning 2: 
-#attSatser(
-  [första attsatsen bifalles.]
-)
 #pagebreak()
 == Proposition: Val av revisor
 Vi behöver revisorer för 2024 så att någon kan se till att styrelsen 
 beter sig!
 
-=== Förslag till beslut:
-#attSatser([posten vakanssätts.])
-
-=== Beslut:
-#attSatser([attsatsen nekas.])
-
-=== Yrkanden:
-#attSatser([nominera en revisor.])
-=== Yrkanden: Beslut
-#attSatser([attsatsen bifalles])
-
-=== Beslut: Val av revisor:
 === Nomineringar
-- Albin Otterhäll nominerar sig själv
+Styrelsen har ej kommit med några nomineringar innan mötet.
+
+=== Fri nominering
+- Albin Otterhäll
+
 === Utjustering
-Den nominerade justeras ut
-#pagebreak()
-=== Förslag till beslut:
-#attSatser([Albin Otterhäll väljs in som revsior.])
+Den nominerade justeras ut.
+
 === Beslut
 #attSatser([Albin Otterhäll väljs in som revsior.])
 === Injustering
-den nominerade justeras in.
+Den nominerade justeras in.
 #pagebreak()
 == Motion: Inval till DVRK’24
 Efter nogrann process har vi i DVRK’23 enats om kandidater till nästa års iteration för DVRK. Vi kan alla
@@ -370,102 +335,151 @@ Sebastian "Basse" Pålsson#linebreak()
 Oscar "Reiban" Rei#linebreak()
 DVRK’23
 
-=== Förslag till beslut:
-#attSatser([välja Edward "Snowden" Music till ordförande för DVRK under verksamhetsåret 2024.])
+=== Nomineringar
+- Edward "Snowden" Music
 
-== Nomineringar
-- Edward "Snowden" Music nomineras
-Nominerad är ej närvarande så ingen ut- eller injustering sker
+=== Utjustering
+Nominerad är ej närvarande så ingen ut- eller injustering sker.
 
-=== Beslut:
+=== Beslut
 #attSatser([Edward "Snowden" Music väljs till ordförande för DVRK’24.])
+
+#pagebreak()
 
 == Proposition: Fyllnadsval till Styrelsen
 Under året har styrelsen märkt att Tim Persson, Gustav Dalemo och Josefin Kokkinakis hade passat som
 styrelsemedlemmar. Gustav Dalemo har visat intresse för att vara sekreterare, Tim Persson har visat intresse för vice-ordförande och Josefin Kokkinakis för rollen som SAMO.
 
 Styrelsen känner att dessa kandidater hade passat bra i dessa roller, då de är väldigt engagerade i studentlivet här på divisionen, och de har bevisat sig vara ansvarsfulla tidigare!
-=== Förslag till beslut:
-#attSatser([välja in Tim Persson (DV’22) som vice-ordförande under verksamhetsåret 2023, välja in Gustav
-Dalemo (DV’22) som sekreterare under verksamhetsåret 2023, och välja in Joseﬁn Kokkinakis
-(DV’21) för rollen som SAMO under verksamhetsåret 2023])
-=== Beslut:
-=== Mötessekreteraröverlämning:
-Mötessekreterare (Gustav Dalemo) överlämnar posten till Nils Lyrevik
 
-=== Nomineringar:
+=== Nomineringar
 - Tim Persson (DV’22) nomineras som medlem i styrelsen under verksamhetsåret 2023.
 - Gustav Dalemo (DV’22) nomineras som medlem i styrelsen under verksamhetsåret 2023.
 - Joseﬁn Kokkinakis (DV’21) nomineras som medlem i styrelsen under verksamhetsåret 2023.
 
-=== Utjustering:
+=== Beslut
+
+=== Mötessekreteraröverlämning
+#attSatser(
+  [mötessekreterare (Gustav Dalemo) överlämnar posten till Nils Lyrevik.]
+)
+
+=== Mötessekreteraröverlämning: Beslut
+#attSatser(
+  [attsatsen bifalles.]
+)
+
+
+=== Utjustering
 Samtliga nominerade justeras ut
 
-=== Beslut:
+#pagebreak()
+
+=== Beslut
 #attSatser(
   [Tim Persson (DV’22) väljs in som medlem i styrelsen under verksamhetsåret 2023],
   [Gustav Dalemo (DV’22) väljs in som medlem i styrelsen under verksamhetsåret 2023],
   [Joseﬁn Kokkinakis (DV’21) väljs in som medlem i styrelsen under verksamhetsåret 2023],
 )
 
-=== Injustering:
+=== Injustering
 Samtliga nominerade justeras in
 
-=== Mötessekreteraröverlämning:
-Mötessekreterare (Nils Lyrevik) överlämnar posten till Gustav Dalemo
+=== Mötessekreteraröverlämning
+#attSatser(
+  [mötessekreterare (Nils Lyrevik) överlämnar posten till Gustav Dalemo.]
+)
 
-== Preposition: Val av divisionsordförande:
+=== Mötessekreteraröverlämning: Beslut
+#attSatser(
+  [attsatsen bifalles.]
+)
+#pagebreak()
+
+== Preposition: Val av divisionsordförande
 Då den nuvarande styrelsens mandatperiod tar slut den 31:e december, behöver vi ännu en gång rösta in
 en divisionsordförande.
 
 Då Samuel Hammersberg idag är ordförande för divisonen och kan tänka sig fortsätta att vara det under 2024, så ﬁnner styrelsen honom passande för rollen!
-=== Förslag till beslut:
-#attSatser([divsionstämman väljer Samuel Hammersberg (DV’20) till divisionsordförande för verksamhetsåret 2024])
-=== Beslut:
-=== Mötesordförandeöverlämning:
-Mötesordförande (Samuel Hammersberg) överlämnar posten till vice-mötesordförande Sebastian Selander
+=== Nomineringar
+- Samuel Hammersberg 
 
-=== Nomineringar:
-- Samuel Hammersberg nomineras
+=== Mötesordförandeöverlämning
+#attSatser(
+  [mötesordförande (Samuel Hammersberg) överlämnar posten till vice-mötesordförande Sebastian Selander.]
+)
 
-=== Utjustering:
+=== Mötesordförandeöverlämning: Beslut
+#attSatser(
+  [attsatsen bifalles.]
+)
+
+
+=== Utjustering
 Den nominerande justeras ut
 
-=== Beslut:
+=== Beslut
 #attSatser([
   Att Samuel Hammersberg väljs till divisionsordförande för verksamhetsåret 2024.
 ])
-=== Injustering:
+=== Injustering
 Den nominerande justeras in
 
-=== Mötesordförandeöverlämning:
-Mötesordförande (Sebastian Selander) överlämnar posten till Samuel Hammersberg
+=== Mötesordförandeöverlämning
+#attSatser(
+  [mötesordförande (Sebastian Selander) överlämnar posten till Samuel Hammersberg.]
+)
 
-=== Mötet tar en paus 18:50 - 18:55
+=== Mötesordförandeöverlämning: Beslut
+#attSatser(
+  [attsatsen bifalles.]
+)
 
-=== Förslag till beslut:
-#attSatser([INSERT ATT SATS])
-=== Beslut:
-#attSatser([bifalles])
+
+#ordningsFråga([Tim Persson], [
+  === Förslag till beslut
+  #attSatser(
+    [rösta om att pausa mötet mella 18:50 - 18:55]
+  )
+  === Beslut
+  #attSatser(
+    [attsatsen biffales]
+  )
+
+  === Förslag till beslut
+  #attSatser(
+    [pausa mötet mella 18:50 - 18:55]
+  )
+  === Beslut
+  #attSatser(
+    [attsatsen biffales]
+  )
+])
+
 #pagebreak()
-== Proposition: Styrelsen 2024:
+
+== Proposition: Styrelsen 2024
 Då vi självfallet vill fortsätta arbeta med Tim Persson, Gustav Dalemo och Joseﬁn Kokkinakis föreslår vi
 dessa personer för styrelsen 2024, men även vår nuvarande kassör Lukas Gartman för verksamhetsåret 2024.
 
-=== Förslag till beslut:
+=== Nomineringar
+- Tim Persson (DV’22)
+- Gustav Dalemo (DV’22)
+- Joseﬁn Kokkinakis (DV’21)
+- Lukas Gartman (DV’20) 
+
+=== Beslut
+=== Mötessekreteraröverlämning
 #attSatser(
-  [Lukas Gartman (DV’20); Tim Persson (DV’22); Gustav Dalemo (DV’22); Joseﬁn Kokkinakis (DV’21) väljs in till styrelsen för verksamhetsåret 2024.]
+  [mötessekreterare (Gustav Dalemo) överlämnar posten till Nils Lyrevik.]
 )
 
-=== Beslut:
-=== Mötessekreteraröverlämning:
-Mötessekreterare (Gustav Dalemo) överlämnar posten till Nils Lyrevik
-=== Nomineringar:
-- Tim Persson (DV’22) nomineras som medlem i styrelsen under verksamhetsåret 2024
-- Gustav Dalemo (DV’22) nomineras som medlem i styrelsen under verksamhetsåret 2024
-- Joseﬁn Kokkinakis (DV’21) nomineras som medlem i styrelsen under verksamhetsåret 2024
-- Lukas Gartman (DV’20) nomineras som medlem i styrelsen under verksamhetsåret 2024
-=== Utjustering:
+=== Mötessekreteraröverlämning: Beslut
+#attSatser(
+  [attsatsen bifalles.]
+)
+
+=== Utjustering
 Samtliga nominerade justeras ut
 === Beslut: 
 #attSatser(
@@ -479,88 +493,60 @@ Samtliga nominerade justeras ut
 Samtliga nominerade justeras in
 
 === Mötessekreteraröverlämning
-Mötessekreterare (Nils Lyrevik) överlämnar posten till Gustav Dalemo
+#attSatser(
+  [mötessekreterare (Nils Lyrerik) överlämnar posten till Gustav Dalemo.]
+)
 
+=== Mötessekreteraröverlämning: Beslut
+#attSatser(
+  [attsatsen bifalles.]
+)
+#pagebreak()
 == Proposition: Mega7 2024
 Styrelsen ﬁnner det lite tråkigt att alla kommittéer inte har en ordförande! Mega7 fyller en viktig roll i
 studentlivet här i datavetenskapsdivisionen och är en riktigt lykta i våra mörka liv. Tråkigt nog så kan en
 kommittée bara ha en ordförande, men vi får göra vårt bästa! På grund av detta föreslår styrelsen följande:
 
-=== Förslag till beslut:
-#attSatser(
-  [välja William “Minten” Bodin (DV’20) som ordförande för Mega7 för verksamhetsåret 2024.],
-  [välja Alva “Blond” Johansson (DV’21) som ordförande för Mega7 för verksamhetsåret 2024.],
-  [välja Nils “PNils” Lyrerik (DV’22) som ordförande för Mega7 för verksamhetsåret 2024.]
-)
-=== Beslut:
-#pagebreak()
-=== Ytterligare yrkanden till beslut:
-=== Tilläggsyrkanden 4.7.4 från Albin Otterhäll:
-Samtliga styrelseledamöter har på sig en enhetlig dräkt och peruk till nästa stämmomöte.
+=== Nomineringar
+- William “Minten” Bodin
+- Alva “Blond” Johansson
+- Nils “PNils” Lyrerik
+
+=== Ytterligare yrkanden till beslut
+=== Tilläggsyrkanden från Albin Otterhäll
+#attSatser([
+  lägga till en attsats om att samtliga styrelseledamöter har på sig en enhetlig dräkt och peruk till nästa stämmomöte.
+])
 === Beslut
 #attSatser([
-  samtliga styrelseledamöter har på sig en enhetlig dräkt och peruk till nästa stämmomöte.
+  attsatsen bifalles.
 ])
 
-=== Tilläggsyrkanden 4.7.5 från Samuel Hammersberg:
-Revisorn ska ingå till yrkande 4.7.4.
-
-=== Beslut:
+=== Tilläggsyrkanden från Samuel Hammersberg
 #attSatser([
-  revisorn ska ingå tidigare punkt 4.7.4.
+  lägga till en attsats om att revisor har på sig en enhetlig dräkt och peruk till nästa stämmomöte.
+])
+=== Beslut
+#attSatser([
+  attsatsen bifalles.
 ])
 
-=== Beslut till 4.7:
-=== Val av ordförande för Mega7 för verksamhetsåret 2024:
-=== Nomineringar:
-- William “Minten” Bodin (DV’20) nomineras som ordförande för Mega7 för verksamhetsåret 2024.
-- Alva “Blond” Johansson (DV’21) nomineras som ordförande för Mega7 för verksamhetsåret 2024.
-- Nils “PNils” Lyrerik (DV’22) nomineras som ordförande för Mega7 för verksamhetsåret 2024.
-
-=== Utjustering:
+=== Utjustering
 Samtliga nominerade justeras ut
 
-=== Beslut:
-Styrelsen ändrar sitt yrkande till att rösta tre gånger. Först ställs William mot Alva, sedan vinnaren av
-den omröstningen mot Nils, och sist vinnaren mot vakanssättning.
-
-=== Förslag till omröstning 1:
+=== Förslag till beslut
 #attSatser(
   [William “Minten” Bodin (DV’20) går vidare till nästa omröstning som ordförande för Mega7 för verksamhetsåret 2024.],
-  [Alva “Blond” Johansson (DV’21) går vidare till nästa omröstning som ordförande för Mega7 för verksamhetsåret 2024.]
-)
-
-=== Beslut: 
-#attSatser(
-  [attsatsen bifalles.],
-  [attsatsen nekas.]
-)
-
-=== Förslag till omröstning 2:
-#attSatser(
-  [William “Minten” Bodin (DV’20) går vidare till nästa omröstning som ordförande för Mega7 för verksamhetsåret 2024.],
-  [Nils “PNils” Lyrerik (DV’22) går vidare till nästa omröstning som ordförande för Mega7 för verksamhetsåret 2024.]
-)
-
-=== Beslut: 
-#attSatser(
-  [attsatsen bifalles.],
-  [attsatsen nekas.]
-)
-
-=== Beslut:
-Votering begärdes, och resultatet blev att William “Minten” Bodin (DV’20) går vidare till nästa omröstning som ordförande för Mega7 för verksamhetsåret 2024
-=== Förslag till omröstning 3:
-#attSatser(
-  [William “Minten” Bodin (DV’20) går vidare till nästa omröstning som ordförande för Mega7 för verksamhetsåret 2024.],
-  [posten vakanssätts.],
+  [Alva “Blond” Johansson (DV’21) går vidare till nästa omröstning som ordförande för Mega7 för verksamhetsåret 2024.],
+  [Nils “PNils” Lyrerik (DV’22) går vidare till nästa omröstning som ordförande för Mega7 för verksamhetsåret 2024.],
   [samtliga styrelseledamöter har på sig en enhetlig dräkt och peruk till nästa stämmomöte.],
   [revisor har på sig en enhetlig dräkt och peruk till nästa stämmomöte.]
 )
 
-=== Beslut:
+=== Beslut
 #attSatser(
   [attsatsen bifalles.],
+  [attsatsen nekas.],
   [attsatsen nekas.],
   [attsatsen bifalles.],
   [attsatsen bifalles.],
@@ -573,7 +559,7 @@ Samtliga nominerade justeras in.
 Stämman är inte bara en chans för oss i divisionen att rösta om saker, utan den ger oss även en chans att
 diskutera olika ämnen, som kanske nödvändigtvis inte behövs röstas om.
 
-== Regler och formalia kring overall:
+== Regler och formalia kring overall
 Fler av oss aktiva syns numera i overall, något jag tycker är väldigt roligt, men jag anser att vi behöver vara
 mer enhetliga i hur vi upplevs och ser ut. Saker som, vilket ben står namnet på, är det några märken som
 ska sys på poch var, ryggmärken, uppkappat eller nerkappat. Eftersom vi är uppdelade i flera kommitter
@@ -581,7 +567,7 @@ finns det syfte skillnader i utseende men jag upplever att vi behöver ha några
 
 Tim Persson DV’22
 
-=== Anteckningar:
+=== Anteckningar
 En stilguide diskuterades:
 
 Höger ben föreningsnamn, vänster ben diverse-märken, Komittemärket på vänster arm, Kårmärket på höger
@@ -626,7 +612,7 @@ _Styrelsen_
 - Det är trevligt att ha lite mer pengar att röra sig med som vi kan besluta om själva.
 - Enligt skatteverkets krav ska försäljning ske under event.
 #pagebreak()
-== Regelbundna möten med kommittéordförande:
+== Regelbundna möten med kommittéordförande
 Under nya styrelsen kan vi även passa på att föra in lite bra traditioner, och en av dessa förslag som Tim
 Persson har tagit upp är att styrelsen bör anordna regelbundna möten med alla kommittéer. Detta tror
 styrelsen hade varit bra för att stämmna av och se till att allt flyter på som de ska. Vi vill självfallet höra
