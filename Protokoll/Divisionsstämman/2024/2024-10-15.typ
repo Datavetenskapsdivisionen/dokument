@@ -199,7 +199,9 @@ Insert rapport.
 Insert rapport.
 
 == Mega7
-Insert rapport.
+Det har varit ett spännande år för Mega 7, fyllt med växtkraft, idéer och framtida möjligheter! Även om vi inte har haft några stora synliga projekt detta år, har vår kommitté outtröttligt arbetat bakom kulisserna för att stärka vår mission i att vårda och sköta Monadens plastväxter. 💧✨ Vi har haft flertalet möten för att brainstorma kreativa lösningar och diskutera hur vi bäst kan bidra till att skapa en grönare och mer levande miljö – även om våra växter är av plast. 😅🌿
+
+Vi har också använt tiden till att planera för framtida initiativ som kommer att få Monaden att blomstra som aldrig förr! 🌸🪴 Under året har Mega 7 fördjupat sin forskning kring innovativa sätt att "vattna" och vårda våra plastväxter, och vi ser fram emot att omsätta dessa idéer i praktiken nästa år. Med starkt engagemang och gemensamma krafter kommer vi att fortsätta odla vår kärlek till naturen, även om den är konstgjord. Tack för ert stöd och er tilltro, och vi ser fram emot ett ännu mer händelserikt 2024! 🌿💪😊
 
 #pagebreak()
 = Beslutspunkter
