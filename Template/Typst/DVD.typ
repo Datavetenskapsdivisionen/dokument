@@ -15,6 +15,7 @@
   set par(justify: true)
   set heading(numbering: "1.1")
   show selector(heading.where(level: 3)) : set heading(numbering: none)
+  show selector(heading.where(level: 4)) : set heading(numbering: none)
   // show heading: set text(font: "DejaVu Sans", weight: "medium", size: 0.9em)
   show heading: it => {
     if it.depth == 1 {

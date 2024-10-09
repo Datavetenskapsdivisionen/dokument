@@ -439,7 +439,7 @@ Den nominerande justeras in
 #ordningsFråga([Tim Persson], [
   === Förslag till beslut
   #attSatser(
-    [rösta om att pausa mötet mella 18:50 - 18:55]
+    [rösta om att pausa mötet mellan 18:50 - 18:55]
   )
   === Beslut
   #attSatser(
@@ -448,7 +448,7 @@ Den nominerande justeras in
 
   === Förslag till beslut
   #attSatser(
-    [pausa mötet mella 18:50 - 18:55]
+    [pausa mötet mellan 18:50 - 18:55]
   )
   === Beslut
   #attSatser(
