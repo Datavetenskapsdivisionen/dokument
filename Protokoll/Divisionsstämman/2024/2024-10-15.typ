@@ -203,10 +203,21 @@ Insert rapport.
 #pagebreak()
 
 == MEGA6
-Insert rapport.
+Sedan senaste stämman för 9 månader sedan har Mega6 varit upptagna med både det ena och det andra. I våras anordnade vi en vinprovning och fulsittning till stor förtjusning av allmänheten och alkoholkonässörer.  Sommaren präglades av planering och förberedelser inför insparken. Framför allt var kräftskivan ett ytters krävande event att planera då ambitionerna uppgick i höjder som inte tidigare skådats i Mega6. Men nu med facit i hand kan vi stolt säga att det blev ett fenomenalt event och att vi ger nästa generation en god grund att planera nästa års kräftskiva på. Efter mottagningen, under hävda alkoholrestriktioner, har vi återgått till vår reguljära verksamhet. 
+
+Mega6’24 blickar även framåt över hösten då vi har planerat ett flertal aspirering events som skall mynna ut i medlems skiftet tills Mega6’25. Vi ser även positivt på engagemanget från nuvarande aspirerande och är djupt intresserade av att bekanta oss med våra efterföljare och överlämna det arv vi har att lämna bakom oss. 
+
+Kristoffer "Schlätta" Gustafsson, Ordförande Mega6′24#pagebreak()
+Lukas "Lucky" Gartman, Mega6′24#pagebreak()
+Angelika “Hex” Hagberg, Mega6’24#pagebreak()
+Ida “Poppi” Kjellerstedt, Mega6’24#pagebreak()
+Gustav “Bärvern” Richter, Mega6’24
 
 == Femme++
-Insert rapport.
+Sedan förra stämman har vi medverkat under insparken. Vårt första event var en lunch, där vi bjöd reccarna på valfri rätt från Benne pastabar och vårt andra event var On Air, en gameshow där vi tävlade mot varandra. 
+
+
+Daniell “Cassilda” Cole
 
 == Studienämnden
 Insert rapport.
