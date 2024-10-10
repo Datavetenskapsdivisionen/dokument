@@ -147,8 +147,8 @@ justerare.
 Styrelsen har ej kommit med några nomineringar innan mötet.
 
 === Fri nominering
-- Kristoffer Gustafsson väljs till protokolljusterare.
-- Albin Otterhäll väljs till protokolljusterare.
+- Kristoffer Gustafsson 
+- Albin Otterhäll
 
 === Beslut
 #attSatser(
@@ -290,9 +290,9 @@ för att kunna komma fram till en slutsats till nästkommande stämma.],
 #pagebreak()
 === Beslut
 #attSatser(
-  [attsatsen bifalles.],
-  [attsatsen nekas.],
-  [attsatsen nekas.]
+  [attsats 1 bifalles.],
+  [attsats 2 nekas.],
+  [attsats 3 nekas.]
 )
 
 #pagebreak()
@@ -357,25 +357,23 @@ Styrelsen känner att dessa kandidater hade passat bra i dessa roller, då de ä
 - Gustav Dalemo (DV’22) nomineras som medlem i styrelsen under verksamhetsåret 2023.
 - Joseﬁn Kokkinakis (DV’21) nomineras som medlem i styrelsen under verksamhetsåret 2023.
 
-=== Beslut
 
-=== Mötessekreteraröverlämning
-#attSatser(
-  [mötessekreterare (Gustav Dalemo) överlämnar posten till Nils Lyrevik.]
-)
+=== Yrkande: mötessekreteraröverlämning
+#attSatser([Nils Lyrevik tar över rollen som mötessekreterare tills efter Gustav Dalemo justeras in 
+igen efter omröstningen.])
 
-=== Mötessekreteraröverlämning: Beslut
+=== Yrkande: mötessekreteraröverlämning beslut
 #attSatser(
   [attsatsen bifalles.]
 )
 
 
+=== Beslut
 === Utjustering
 Samtliga nominerade justeras ut
 
 #pagebreak()
 
-=== Beslut
 #attSatser(
   [Tim Persson (DV’22) väljs in som medlem i styrelsen under verksamhetsåret 2023],
   [Gustav Dalemo (DV’22) väljs in som medlem i styrelsen under verksamhetsåret 2023],
@@ -385,9 +383,12 @@ Samtliga nominerade justeras ut
 === Injustering
 Samtliga nominerade justeras in
 
-=== Mötessekreteraröverlämning
+=== Yrkande: mötessekreteraröverlämning
+#attSatser([Nils Lyrevik lämnar tillbaka rollen som mötessekreterare till Gustav Dalemo.])
+
+=== Yrkande: mötessekreteraröverlämning beslut
 #attSatser(
-  [mötessekreterare (Nils Lyrevik) överlämnar posten till Gustav Dalemo.]
+  [attsatsen bifalles.]
 )
 
 === Mötessekreteraröverlämning: Beslut
@@ -545,11 +546,11 @@ Samtliga nominerade justeras ut
 
 === Beslut
 #attSatser(
-  [attsatsen bifalles.],
-  [attsatsen nekas.],
-  [attsatsen nekas.],
-  [attsatsen bifalles.],
-  [attsatsen bifalles.],
+  [attsats 1 bifalles.],
+  [attsats 2 nekas.],
+  [attsats 3 nekas.],
+  [yrkan attsats 1 bifalles.],
+  [yrkan attsats 2 bifalles.],
 )
 
 === Injustering
