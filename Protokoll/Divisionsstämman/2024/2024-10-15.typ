@@ -210,7 +210,27 @@ Insert rapport.
 Insert rapport.
 
 == DVRK
-Insert rapport.
+Vi i DVRK har hållit i Insparken under början av året vilket blev väldigt lyckat. Vi fick extremt mycket hjälp från resten av divisionen vilket var väldigt uppskattat. 
+
+Kommentarer om mottagningen: 
+Det mest uppskattade arret var definitivt utflykten + kräftskivan och något liknande borde vara med nästa år också. Om man jämför med förra årets mottagning så hade årets ett större engagemang från masters, därför borde vi se till att större arr hamnar under deras inspark också. 
+
+Många lugna arr blev satta efter festligheter vilket ledde till att mindre recentiorer dök upp på dessa. Kan vara värt att tänka på tills nästa mottagning och ha ett bättre upplägg. 
+
+Vi hade nog rekommenderat till nästa mottagning att ha några tomma dagar så att både phaddrar och recentiorer får vila (kvantitet vs. kvalitet) 
+
+Alla kvitton som ska ligga på CSE har bokförts, några enstaka kvitton från Göta återstår. 
+
+Vi har nu påbörjat vår aspningsperiod och beräknar ha våra intervjuer i början av december. 
+
+Utöver asp-arren planerar vi också ett event för framtida DVRK’25 (+ gamlingar) efter aspningen samt en extern sittning i slutet av terminen för alla på GU. 
+
+
+Ida “iceByte” Vranvuk#pagebreak()
+Ida “Poppi” Kjellerstedt#pagebreak()
+Hannes “belfort” Carlsson#pagebreak()
+Kevin “Pettzzon” Pettersson#pagebreak()
+Felix “Overflow” Tan
 
 == DV_Ops
 Insert rapport.
