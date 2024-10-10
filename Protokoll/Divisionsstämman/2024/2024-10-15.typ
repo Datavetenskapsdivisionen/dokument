@@ -193,7 +193,9 @@ Insert rapport.
 Insert rapport.
 
 === SAMO
-Insert rapport.
+Sedan senaste stämma så har jag utöver styrelsemöten haft egna möten med studenter. Jag har även skapat ett tystnadspliktsavtal till Styrelsen. 
+
+Josefin "Bomben" Kokkinakis
 #pagebreak()
 
 == Revisionsberättelse
