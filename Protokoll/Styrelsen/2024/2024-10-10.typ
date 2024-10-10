@@ -25,7 +25,8 @@
 )
 
 = Öppnande av möte
-Mötet planeras att öppnas #time
+Mötet planeras att öpnnas 17:00 \
+Mötet öppnades #time
 
 = Runda bordet
 #formalia.rundaBordet
@@ -100,14 +101,14 @@ Mötet planeras att öppnas #time
 
 = Rapport
 == Ordförande
-Mötet öppnades enligt planeringen och protokollet har blivit korrekturerat. Jag har även haft möte med programansvarig för Computer Science där vi diskuterade kommande evenemang. Jag informerade även om att Petrus har koll på rabatter. Imorgon kommer jag att delta i institutionsrådet där Lukas och Tim också planerar att närvara.
-Jag har gjort om dokumentrepot så att det är mer dynamiskt. Detta underlättar för sittande och kommande styrelse att hålla koll på dokumenten och hurivda dem är eller behöver bli signerade.
+Mötet öppnades enligt planeringen och protokollet har blivit korrekturerat. Jag har även haft möte med programansvarig för Computer Science där vi diskuterade kommande evenemang. Jag informerade även om att Petrus har koll på rabatter.
+Jag har gjort om dokumentrepot så att det är mer dynamiskt. Detta underlättar för sittande och kommande styrelse att hålla koll på dokumenten och hurivda dem är eller behöver bli signerade. Ska på instutionsråd imorgon.
 
-=== Sekreterare
+== Sekreterare
 Inget nytt att rapportera.
 
 == Vice ordförande
-Haft gemensammt asp-möte. Alla föreningar har kommit igång med sin aspning, förutom DV-ops. Det har uttryckts intresse för DV-arm. Har löst att vi har tillgång till återviningsrummet. På lördag ska vi ha en oktoberfest som 
+Haft gemensammt asp-möte. Alla föreningar har kommit igång med sin aspning, förutom DV-ops. Det har uttryckts intresse för DV-arm. Har löst att vi har tillgång till återviningsrummet. På lördag ska vi ha en oktoberfest som jag har dragit i.
 
 == Kassör
 Har påbörjar processen att sammanställa mottagningen. Blir förhoppningsvis klar inom snar framtid.
@@ -120,13 +121,11 @@ Ej närvarande.
 = Diskussionspunkter
 Här diskuterar styrelsen diverse punkter som behövs tas upp men kanske inte behövs beslutas om. 
 
-== Diskussionspunkt
-Ny stämma formalia
+== Ny stämma formalia
 === Anteckningar
 Det är två ändringar vi ska göra. Alla inval ska dokumenteras under en punkt. Istället för att använda ordet "motion" vid inval ska vi använda "nominering". Fri nominering kommer att göras på plats. Vi behöver vara tydligare när det gäller ordningsfrågor. Dessa ändringar kommer att underlätta för att följa, dokumentera och förstå stämman. Vi kommer också att sätta ihop guider om hur man hanterar beslutspunkter och nomineringar för framtiden.
 
-== Diskussionspunkt
-Styrelse merch
+== Styrelse merch
 === Anteckningar
 Har fått en offert. Reaktionen bland styrelsen är att det är ett rimligt pris. Vi siktar på att köpa in till nästa fredag.
 
@@ -137,31 +136,34 @@ Här bestämmer disktuerar och *bestämmer* styrelsen diverse saker.
 När nästa stämma är, styrelsens arbeten, äskningar, och allt annat som kan bestämmas 
 om bestäms här!
 
-== Beslutspunkt
-Styrelserenovering
+== Styrelserenovering
 === Förslag till beslut:
-#attSatser([Lukas införskaffar IKEA Kartotek krok 2st och pluggar för 357kr])
+#attSatser([Lukas införskaffar IKEA Kartotek krok 2st och pluggar för totalt 357kr])
 
 === Beslut:
 #attSatser([bifalles])
 
-== Beslutspunkt
-Införskaffning av ringklocka
+== Införskaffning av ringklocka
 === Förslag till beslut:
-#attSatser([Tim införskaffar 200kr och fixar installationen och styrelsen godkänner äskan])
+#attSatser(
+  [Tim införskaffar ringklocka för 200kr],
+  [Styrelsen godkänner äskan]
+)
 
 === Beslut:
-#attSatser([bifalles])
+#attSatser(
+  [attsats 1 bifalles],
+  [attsats 2 bifalles])
 
-== Beslutspunkt
-KG äskning. KG vill ha 500kr för 4 däck för transportvagnen + kullager.
+== KG äskning
+KG vill ha 500kr för 4 däck för transportvagnen + kullager.
 === Förslag till beslut:
 #attSatser([Styrelsen godkänner äskan])
 
 === Beslut:
 #attSatser([bifalles])
 
-== Beslutspunkt
+== Enkät
 Det var tal om en enkät om hur nya studenter upplevde mottagningen och hur väl utbildningen stämde överens med förväntningar.
 === Förslag till beslut:
 #attSatser([Enkäten ska fixas innan verksamhetsåret tar slut men kommer inte skickas ut])
@@ -169,8 +171,7 @@ Det var tal om en enkät om hur nya studenter upplevde mottagningen och hur väl
 === Beslut:
 #attSatser([bifalles])
 
-== Beslutspunkt
-Yrkanden till stämman.
+== Yrkanden till stämman
 === Förslag till beslut:
 #attSatser([Styrelsen godkänner samtliga inskickade motioner och lägger till yrkanden på samtliga])
 
