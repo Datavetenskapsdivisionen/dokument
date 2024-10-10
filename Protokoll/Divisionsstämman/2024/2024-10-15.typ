@@ -325,6 +325,36 @@ Samuel "Slampan" Hammersberg
 = Inval
 Inval av personer till förtroendeposterna som väljs in av Divisionsstämman. Dessa väljs in för en ordinarie mandatperiod, vilket sträcker sig från 1 januari till 31 december.
 
+== Fyllnadsval för Studienämnden'24
+Studienämnden ansvarar för att se till att kvaliten på kurserna här på
+universitet håller sig, och att lärare m.m följer up på den kritik de får.
+
+Just nu saknas en ordförande så det ska nu förhoppningsvis fixas!
+
+=== Inkomna nomineringar inför mötet
+
+Nomineringar som har inkommit till styrelsen i tid för att inkluderas i stämmohandlingarna.
+
+=== Från Ida Vranvuk och Nikhil Olsson Mukhopadhyay
+
+Pick me, choose me, love me, vi nominerar
+
+- Ida Vranvuk
+
+Ida “iceByte” Vranvuk
+
+Nikhil “Minaj” Olsson Mukhopadhyay
+
+#place(
+  center,
+  scale(
+    x: 70%,
+    y: 70%,
+    reflow: true,
+    image("2024-10-15-ida.jpeg")
+  )
+)
+
 == Studienämnden'25 ordförande
 Studienämnden ansvarar för att se till att kvaliten på kurserna här på
 universitet håller sig, och att lärare m.m följer up på den kritik de får.
