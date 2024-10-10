@@ -252,7 +252,21 @@ Insert rapport.
 Insert rapport.
 
 == ConCats
-Insert rapport.
+Hejsan, nedan kommer rapporten från ConCats för kommande stämman:
+
+Vi i ConCats har under året haft en hel del arr, både under insparken och utanför.
+Vi anser att dessa arr har varit lyckade och har uppnåt våra mål om att skapa en god gemenskap på DVD.
+
+Vi har under insparken arrangerat en rad arr i sammarbete med DVRK. Dessa har varit lyckade och upskattade, speciellt filmkvällen med tacos och spelkvällen.
+En del arr hade inte så många deltagare. Detta tror vi beror på att de schemalagts direkt efter ett arr med alkohol. Vi har tagit upp detta med DVRK och tror att detta enkelt kan åtgärdas nästa inspark.
+
+Untanför insparket har ConCats arrangerat ConCats nights som planerat. Vi har även hållt i en städdag då hela monaden städades av ConCats med hjälp av övriga aktiva samt satt upp ett städschema i styrelserummet.
+
+I framtiden har ConCats planerat arr för aspningen av ConCats som sammanfaller med resten av aspningsperioderna.
+
+Vi har även utöver aspningen planerat att fortsätta med ConCats night på samma vis då detta varit ett bra sätt att främja en god gemenskap. 
+
+Nikhil Olsson Mukhopadhyay 
 
 #pagebreak()
 == Mega7
