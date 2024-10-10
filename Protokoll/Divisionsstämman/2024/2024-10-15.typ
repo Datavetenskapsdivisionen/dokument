@@ -248,6 +248,80 @@ Det har varit ett spännande år för Mega 7, fyllt med växtkraft, idéer och f
 Vi har också använt tiden till att planera för framtida initiativ som kommer att få Monaden att blomstra som aldrig förr! Under året har Mega 7 fördjupat sin forskning kring innovativa sätt att "vattna" och vårda våra plastväxter, och vi ser fram emot att omsätta dessa idéer i praktiken nästa år. Med starkt engagemang och gemensamma krafter kommer vi att fortsätta odla vår kärlek till naturen, även om den är konstgjord. Tack för ert stöd och er tilltro, och vi ser fram emot ett ännu mer händelserikt 2024!
 
 #pagebreak()
+
+= Inval
+Inval av personer till förtroendeposterna som väljs in av Divisionsstämman. Dessa väljs in för en ordinarie mandatperiod, vilket sträcker sig från 1 januari till 31 december.
+
+== Fyllnadsval för Studienämnden'24
+Studienämnden ansvarar för att se till att kvaliten på kurserna här på
+universitet håller sig, och att lärare m.m följer up på den kritik de får.
+
+Just nu saknas en ordförande så det ska nu förhoppningsviss.
+
+=== Inkomna nomineringar inför mötet
+
+Nomineringar som har inkommit till styrelsen i tid för att inkluderas i stämmohandlingarna.
+
+=== Från Ida Vranvuk och Nikhil Olsson Mukhopadhyay
+
+Pick me, choose me, love me, vi nominerar
+
+- Ida Vranvuk
+
+Ida “iceByte” Vranvuk
+
+Nikhil “Minaj” Olsson Mukhopadhyay
+
+#place(
+  center,
+  scale(
+    x: 70%,
+    y: 70%,
+    reflow: true,
+    image("2024-10-15-ida.jpeg")
+  )
+)
+#pagebreak()
+
+== Studienämnden'25 ordförande
+Studienämnden ansvarar för att se till att kvaliten på kurserna här på
+universitet håller sig, och att lärare m.m följer up på den kritik de får.
+
+=== Inkomna nomineringar inför mötet
+
+Nomineringar som har inkommit till styrelsen i tid för att inkluderas i stämmohandlingarna.
+
+=== Från Ida Vranvuk och Nikhil Olsson Mukhopadhyay
+
+Pick me, choose me, love me, vi nominerar
+
+- Ida Vranvuk
+
+Ida “iceByte” Vranvuk
+
+Nikhil “Minaj” Olsson Mukhopadhyay
+
+#place(
+  center,
+  scale(
+    x: 70%,
+    y: 70%,
+    reflow: true,
+    image("2024-10-15-ida.jpeg")
+  )
+)
+
+
+// === Utjustering:
+// Nikhil "Minaj" Olsson Mukhopadhyay justeras ut.
+
+// === Beslut:
+// #attSatser([Nikhil "Minaj" Olsson Mukhopadhyay till ordförande för DVRK’24.])
+
+// === Injustering:
+// Nikhil "Minaj" Olsson Mukhopadhyay justeras in.
+
+#pagebreak()
 = Beslutspunkter
 Enligt Stadgan måste ändringar av Stadgan röstas igenom på två av Divisionsstämmans varandra följande
 möten. Om en beslutpunkt innehåller "första läsningen" innebär det att det är första gången beslutet tas
@@ -319,79 +393,6 @@ Samuel "Slampan" Hammersberg
 
 // === Beslut:
 // #attSatser([attsatsen bifalles.])
-
-#pagebreak()
-
-= Inval
-Inval av personer till förtroendeposterna som väljs in av Divisionsstämman. Dessa väljs in för en ordinarie mandatperiod, vilket sträcker sig från 1 januari till 31 december.
-
-== Fyllnadsval för Studienämnden'24
-Studienämnden ansvarar för att se till att kvaliten på kurserna här på
-universitet håller sig, och att lärare m.m följer up på den kritik de får.
-
-Just nu saknas en ordförande så det ska nu förhoppningsvis fixas!
-
-=== Inkomna nomineringar inför mötet
-
-Nomineringar som har inkommit till styrelsen i tid för att inkluderas i stämmohandlingarna.
-
-=== Från Ida Vranvuk och Nikhil Olsson Mukhopadhyay
-
-Pick me, choose me, love me, vi nominerar
-
-- Ida Vranvuk
-
-Ida “iceByte” Vranvuk
-
-Nikhil “Minaj” Olsson Mukhopadhyay
-
-#place(
-  center,
-  scale(
-    x: 70%,
-    y: 70%,
-    reflow: true,
-    image("2024-10-15-ida.jpeg")
-  )
-)
-
-== Studienämnden'25 ordförande
-Studienämnden ansvarar för att se till att kvaliten på kurserna här på
-universitet håller sig, och att lärare m.m följer up på den kritik de får.
-
-=== Inkomna nomineringar inför mötet
-
-Nomineringar som har inkommit till styrelsen i tid för att inkluderas i stämmohandlingarna.
-
-=== Från Ida Vranvuk och Nikhil Olsson Mukhopadhyay
-
-Pick me, choose me, love me, vi nominerar
-
-- Ida Vranvuk
-
-Ida “iceByte” Vranvuk
-
-Nikhil “Minaj” Olsson Mukhopadhyay
-
-#place(
-  center,
-  scale(
-    x: 70%,
-    y: 70%,
-    reflow: true,
-    image("2024-10-15-ida.jpeg")
-  )
-)
-
-
-// === Utjustering:
-// Nikhil "Minaj" Olsson Mukhopadhyay justeras ut.
-
-// === Beslut:
-// #attSatser([Nikhil "Minaj" Olsson Mukhopadhyay till ordförande för DVRK’24.])
-
-// === Injustering:
-// Nikhil "Minaj" Olsson Mukhopadhyay justeras in.
 
 #pagebreak()
 
