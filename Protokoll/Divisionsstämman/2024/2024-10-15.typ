@@ -207,10 +207,10 @@ Sedan senaste stämman för 9 månader sedan har Mega6 varit upptagna med både 
 
 Mega6’24 blickar även framåt över hösten då vi har planerat ett flertal aspirering events som skall mynna ut i medlems skiftet tills Mega6’25. Vi ser även positivt på engagemanget från nuvarande aspirerande och är djupt intresserade av att bekanta oss med våra efterföljare och överlämna det arv vi har att lämna bakom oss. 
 
-Kristoffer "Schlätta" Gustafsson, Ordförande Mega6′24#pagebreak()
-Lukas "Lucky" Gartman, Mega6′24#pagebreak()
-Angelika “Hex” Hagberg, Mega6’24#pagebreak()
-Ida “Poppi” Kjellerstedt, Mega6’24#pagebreak()
+Kristoffer "Schlätta" Gustafsson, Ordförande Mega6′24#linebreak()
+Lukas "Lucky" Gartman, Mega6′24#linebreak()
+Angelika “Hex” Hagberg, Mega6’24#linebreak()
+Ida “Poppi” Kjellerstedt, Mega6’24#linebreak()
 Gustav “Bärvern” Richter, Mega6’24
 
 == Femme++
@@ -273,6 +273,16 @@ Nikhil Olsson Mukhopadhyay
 Det har varit ett spännande år för Mega 7, fyllt med växtkraft, idéer och framtida möjligheter! Även om vi inte har haft några stora synliga projekt detta år, har vår kommitté outtröttligt arbetat bakom kulisserna för att stärka vår mission i att vårda och sköta Monadens plastväxter. Vi har haft flertalet möten för att brainstorma kreativa lösningar och diskutera hur vi bäst kan bidra till att skapa en grönare och mer levande miljö – även om våra växter är av plast.
 
 Vi har också använt tiden till att planera för framtida initiativ som kommer att få Monaden att blomstra som aldrig förr! Under året har Mega 7 fördjupat sin forskning kring innovativa sätt att "vattna" och vårda våra plastväxter, och vi ser fram emot att omsätta dessa idéer i praktiken nästa år. Med starkt engagemang och gemensamma krafter kommer vi att fortsätta odla vår kärlek till naturen, även om den är konstgjord. Tack för ert stöd och er tilltro, och vi ser fram emot ett ännu mer händelserikt 2024!
+
+#place(
+  center + bottom,
+  scale(
+    x: 70%,
+    y: 70%,
+    reflow: true,
+    image("2024-10-15-mega7.png")
+  )
+)
 
 #pagebreak()
 
