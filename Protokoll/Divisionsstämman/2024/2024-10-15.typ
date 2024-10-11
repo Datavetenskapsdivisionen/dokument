@@ -449,7 +449,7 @@ Vi i styrelsen finner detta som sunda förslag, men skulle förslå följande
 istället:
 
 #attSatser([
-  ConCats ska undersöka vilka av väggarna som skulle kunna stödja vikten för skåp eller hyllor. .
+  ConCats ska undersöka vilka av väggarna som skulle kunna stödja vikten för skåp eller hyllor.
 ], [
   tillsätta ConCats för planering, inköp, äskning, och montering av skåp eller hyllor.
 ])
