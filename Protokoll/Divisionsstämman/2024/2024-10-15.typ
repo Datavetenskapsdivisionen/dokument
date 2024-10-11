@@ -187,7 +187,15 @@ undviker vodkan under krök, och att vi ses på nästa stämma i november/decemb
 Samuel "Hammarn" Hammersberg
 
 === Kassör
-Insert rapport.
+Ännu en lyckad mottagning är nu slut och det har varit ett par mycket roliga veckor! Som vanligt har vi lyckats spendera en hel del pengar och vi slog dessutom rekord i år. Från CSE-budgeten har vi spenderat 108 tkr, från Göta-budgeten blev det 15 tkr, och nytt för i år fick vi även en budget från Studenternas hus där vi spenderade 28 tkr till finalsittningen. Totalt gick mottagningen alltså på 151 tkr!
+
+Det hände också lite grejer innan mottagningen sedan förra stämman. Med hjälp av institutionens stöd hade Femme++ en middag för 1 tkr, vi höll i en examensfest som gick på 3,7 tkr, vi köpte två st festivalbord för 4 tkr, och till sist höll ConCats i en räknestuga och köpte fika för 300 kr.
+
+Med hjälp av Götas föreningsbudget på 1 tkr köpte vi kaffe, te och maskindiskmedel.
+
+Jag kan även meddela att Swedbank hörde av sig angående den skumma insättningen från Rune Johansson på 905kr. Pengarna hade av misstag skickats till oss och banken bad oss vänligen att skicka tillbaka dem till Rune Johanssons dödsbo. Vila i frid Rune!
+
+Lukas "Lucky" Gartman
 
 === Vice ordförande
 Insert rapport.
@@ -239,10 +247,10 @@ Vi har nu påbörjat vår aspningsperiod och beräknar ha våra intervjuer i bö
 Utöver asp-arren planerar vi också ett event för framtida DVRK’25 (+ gamlingar) efter aspningen samt en extern sittning i slutet av terminen för alla på GU. 
 
 
-Ida “iceByte” Vranvuk#pagebreak()
-Ida “Poppi” Kjellerstedt#pagebreak()
-Hannes “belfort” Carlsson#pagebreak()
-Kevin “Pettzzon” Pettersson#pagebreak()
+Ida “iceByte” Vranvuk#linebreak()
+Ida “Poppi” Kjellerstedt#linebreak()
+Hannes “belfort” Carlsson#linebreak()
+Kevin “Pettzzon” Pettersson#linebreak()
 Felix “Overflow” Tan
 
 == DV_Ops
