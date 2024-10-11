@@ -432,6 +432,29 @@ Samuel "Slampan" Hammersberg
 // #attSatser([attsatsen bifalles.])
 
 #pagebreak()
+== Förvaring i köket
+
+Som många känner till så har vi mycket saker med liten plats att förvara dem på i köket. Men det finns utrymme längs väggarna i den delen med högre tak. Därför skulle vi kunna sätta upp skåp eller hyllplan där för långtidsförvaring. Dessutom så skulle all porslin och annan köksutrustning flyttas från våra grå förvaringsskåp, vilka också är hyfsat fulla med saker. 
+
+- Kristoffer “Schlätta” Gustafsson
+
+=== Förslag till beslut från motionär
+#attSatser([
+  styrelsen ska undersöka vilka av väggarna som skulle kunna stödja vikten för skåp eller hyllor. 
+], [
+  tillsätta en arbetsgrupp för planering, inköp, äskning, och montering av skåp eller hyllor. 
+])
+=== Styrelsens yrkande
+Vi i styrelsen finner detta som sunda förslag, men skulle förslå följande 
+istället:
+
+#attSatser([
+  ConCats ska undersöka vilka av väggarna som skulle kunna stödja vikten för skåp eller hyllor. .
+], [
+  tillsätta ConCats för planering, inköp, äskning, och montering av skåp eller hyllor.
+])
+
+#pagebreak()
 
 = Diskussionspunkter
 Stämman är inte bara en chans för oss i divisionen att rösta om saker, utan den ger oss även en chans att
