@@ -198,7 +198,7 @@ Jag kan även meddela att Swedbank hörde av sig angående den skumma insättnin
 Lukas "Lucky" Gartman
 
 === Vice ordförande
-Insert rapport.
+Muntlig presentation på stämman.
 
 === SAMO
 Sedan senaste stämma så har jag utöver styrelsemöten haft egna möten med studenter. Jag har även skapat ett tystnadspliktsavtal till Styrelsen. 
@@ -228,7 +228,7 @@ Sedan förra stämman har vi medverkat under insparken. Vårt första event var 
 Daniell “Cassilda” Cole
 
 == Studienämnden
-Insert rapport.
+Muntlig presentation på stämman.
 
 == DVRK
 Vi i DVRK har hållit i Insparken under början av året vilket blev väldigt lyckat. Vi fick extremt mycket hjälp från resten av divisionen vilket var väldigt uppskattat. 
@@ -254,10 +254,10 @@ Kevin “Pettzzon” Pettersson#linebreak()
 Felix “Overflow” Tan
 
 == DV_Ops
-Insert rapport.
+Ingen rapport.
 
 == DVarm
-Insert rapport.
+Ingen rapport.
 
 == ConCats
 Hejsan, nedan kommer rapporten från ConCats för kommande stämman:
@@ -276,7 +276,6 @@ Vi har även utöver aspningen planerat att fortsätta med ConCats night på sam
 
 Nikhil Olsson Mukhopadhyay 
 
-#pagebreak()
 == Mega7
 Det har varit ett spännande år för Mega 7, fyllt med växtkraft, idéer och framtida möjligheter! Även om vi inte har haft några stora synliga projekt detta år, har vår kommitté outtröttligt arbetat bakom kulisserna för att stärka vår mission i att vårda och sköta Monadens plastväxter. Vi har haft flertalet möten för att brainstorma kreativa lösningar och diskutera hur vi bäst kan bidra till att skapa en grönare och mer levande miljö – även om våra växter är av plast.
 
@@ -373,74 +372,13 @@ möten. Om en beslutpunkt innehåller "första läsningen" innebär det att det 
 upp för omröstning. Om en beslutspunkt innehåller "andra läsningen" innebär det att beslutspunkten har
 röstats igenom förra stämmomötet, och beslutet behöver bekräftas för att gå igenom.
 
-== Proposition: Mega7 straff
-Nuvarande ordförande av Mega7 William Bodin har suttit i sin roll ett tag nu. 
-Mega7s viktigaste uppdrag enligt reglementet är följande: "2 § Mega7 vattnar Monadens blommor."
-Styrelsen finner att detta uppdrag EJ har följts av ordförande, då många blommor har strukit med under sommaren då ordförande valde att en semesterresa i Finland var viktigare än Monadens blommor!
-Styrelsen tycker därmed att en klargöring av Mega7s uppgifter bör ske!
-
-Samuel "Hammarn" Hammersberg#linebreak()
-Lukas "Lucky" Gartman#linebreak()
-Tim "Båtsman" Persson#linebreak()
-Josefin "Bomben" Kokkinakis#linebreak()
-Gustav "Görby" Dalemo
-
-#pagebreak()
-=== Förslag till beslut
-#attSatser(
-  [ kapitel 12 "Regler för Mega7" i reglementet ändras från 
-    ```md
-    1 § Kommittéens namn är Mega7.
-    2 § Mega7 vattnar Monadens blommor.
-    3 § Mandatperioden för kommittémedlemmarna bestäms internt inom kommittén.
-    4 § Kommittémedlemmarna bestäms internt inom kommittén.
-    ```
-    till
-    ```md
-    1 § Kommittéens namn är Mega7.
-    2 § Mega7 vattnar gräsmattan utanför Monaden under första veckan i varje månad, oavsett väder tillstånd. Detta ska dokumenteras genom frivilligt men tillgängligt forum.
-    3 § Mandatperioden för kommittémedlemmarna bestäms internt inom kommittén.
-    4 § Kommittémedlemmarna bestäms internt inom kommittén.
-    ``` 
-  ],
-)
 // === Beslut:
 // #attSatser(
 //   [Attsatsen avslages, och styrelsen röstar in detta dokument 
 //     på ett styrelsemöte istället för att kunna bearbeta det],
 // )
 
-#pagebreak()
-== Motion: Ny huvudbonad till ordförande
-Vi anser att ordförande för styrelsen, för att framföra ett godtagbart utseende, bör bära propellerhatt. Denna hatt bör överlämnas till den nya ordförande när denne väljs in.
-
-Nikhil "Minaj" #linebreak()
-Daniel "Casilda" #linebreak()
-Martin "Marabou"
-
-=== Förslag till beslut från motionär
-#attSatser([
-  Ordförande bör bära en propellerhatt I under alla kommande stämmor såvida detta inte hindrar hen från att utföra sin uppgift
-], [
-  Ordförande ska överlämna denna hatt till nästkommande ordförande under invalet av denne
-])
-
-=== Styrelsens yrkande
-Jag som ordförande och resterande styrelse finner detta en jobbig idé, we like it. Kör på.
-
-Samuel "Slampan" Hammersberg
-
-#attSatser([
-  attsatsen 1 bifalles.
-], [
-  attsatsen 2 bifalles.
-])
-
-// === Beslut:
-// #attSatser([attsatsen bifalles.])
-
-#pagebreak()
-== Förvaring i köket
+== Motion: Förvaring i köket
 
 Som många känner till så har vi mycket saker med liten plats att förvara dem på i köket. Men det finns utrymme längs väggarna i den delen med högre tak. Därför skulle vi kunna sätta upp skåp eller hyllplan där för långtidsförvaring. Dessutom så skulle all porslin och annan köksutrustning flyttas från våra grå förvaringsskåp, vilka också är hyfsat fulla med saker. 
 
@@ -462,6 +400,223 @@ istället:
   tillsätta ConCats för planering, inköp, äskning, och montering av skåp eller hyllor.
 ])
 
+#pagebreak()
+
+== Motion: Ändra namn på Studienämnden till NSA
+
+Vi har en stolt tradition att byta namn på vissa kommitter, och jag tycker vi ska hålla liv i den!
+
+Namnet NSA låter coolt, bara lite svårt att hitta något som passar in på bokstaven A.
+
+Albin "Slaget" Otterhäll, DV'18
+
+=== Förslag till beslut inför mötet
+#attSatser([
+  ändra 1 § i Regler för Datavetenskaps Studienämnd i reglementet från
+
+  Kommittéens namn är Datavetenskaps Studienämnd.
+   
+  till
+   
+  Kommittéens namn är NSA, vilket är en akronym för Nänmden för Studier och Alla-tider-fika.
+])
+
+=== Styrelsens yrkande
+Vi finner att detta är en fin tradition! Namnet låter ballt!
+
+#attSatser([
+  attsats 1 från motionen bifalles.
+], [
+  attsats 2 från motionen bifalles.
+])
+
+#pagebreak()
+== Motion: Förtydliga att det är en studentförening i divisionens engelska namn
+
+Det finns en avdelning/enhet vid CSE som heter något med Computer Science, så bra att vi kan vara tydliga med att vi är en studenförening. Inte samma problem på svenska.
+
+=== Förslag till beslut inför mötet
+#attSatser([
+  Att 1 kap. 1 § 2 stycket i stadgan ändras från
+
+  Vid översättning till engelska ska divisionens namn översättas till Division for Computer Science.
+
+  till
+
+  Vid översättning till engelska ska divisionens namn översättas till Student Division for Computer Science.
+])
+
+=== Styrelsens yrkande
+Vi tycker att detta är bra idé, men finner det lite uda att inte ha samma namn
+på båda språken.
+#attSatser([
+  attsats 1 från motionen bifalles.
+], [
+    Att 1 kap. 1 § 2 stycket i stadgan ändras från
+
+  Vid översättning till engelska ska divisionens namn översättas till Division for Computer Science.
+
+  till
+
+  Vid översättning till engelska ska divisionens namn översättas till Computer Science Division.
+])
+
+#pagebreak()
+
+== Motion: Förtydliga att styrelsen sköter administration av medlemssystem
+
+Inte en nödvändig förändring, men tydlighet är bra.
+
+Albin "Slaget" Otterhäll#linebreak()
+Revisor
+
+=== Förslag till beslut inför mötet
+#attSatser([
+  4 kap. 2 § i stadgan ändras från
+
+  Man blir medlem i divisionen genom att kontakta divisionens styrelse.
+
+  till
+
+  Styrelsen ansvarar för administrationen av medlemskap i divisionen.
+])
+=== Styrelsens yrkande
+#attSatser([
+  attsats 1 från motionen bifalles.
+])
+
+#pagebreak()
+
+== Motion: Regler för ekonomiskt ansvar och ansvarfrihet
+Det finns ingen lag som reglerar ideella föreningar i Sverige. Det innebär att vi behöver själva definiera vad det innebär med ansvarsfrihet i divisionen.
+
+Den nuvarande lydelsen är till stora delar kopierad från Wikipedias artikel om ansvarfrihet. Den lydelsen är inte testad i svenska domstolar (vad undertecknad känner till). Den sektionen är stort sett bara relevant när det blir rättsfall, så det är bra att ha en lydelse som jurister känner till och används i domstolar idag och har gjort det länge.
+
+Den nya lydelsen är den som jurister specialiserade på ideella föreningar rekomenderar att man antar.
+
+Albin "Slaget" Otterhäll#linebreak()
+Revisor
+
+=== Förslag till beslut inför mötet
+#attSatser([
+  ändra 5 kap. 4 § i stadgan från
+
+  Att bevilja styrelsen ansvarsfrihet innebär att medlemmarna utifrån den information de har på ordinarie divisionsstämman godkänner att styrelsen har arbetat korrekt utifrån styrdokumenten. Om ansvarsfrihet inte beviljas markerar divisionsstämman att man inte är nöjd med styrelsens arbete, att man misstänker att något inte skötts korrekt/lagligt, att man vill underlätta framtida skadeståndsansvar eller att man har resterande uppgifter man vill att styrelsen skall ha löst innan ansvarsfrihet beviljas. Om ansvarsfrihet inte beviljats skall frågan behandlas på följande divisionsstämma.
+
+  till
+
+  I föreningen gäller reglerna för ansvar och ansvarsfrihet enligt 21 kap. i Lag (2018:672) om ekonomiska föreningar.
+])
+
+=== Styrelsens yrkande
+#attSatser([attsats 1 från motionen bifalles.])
+
+#pagebreak()
+
+== Motion: Kräv inte ny revsisor för ny styrelse
+
+Den nuvarande stadgan kräver att vi har tillräkligt med invalda styrelseledamöter OCH minst en revisor för att en ny styrelse ska kunna gå på vid årsskiftet. Fett onödigt (jag orkar inte försöka hitta ny revisor).
+
+Albin "Slaget" Otterhäll#linebreak()
+Revisor
+
+=== Förslag till beslut inför mötet
+#attSatser([
+  Att 6 kap. 2 § 1 stycket i stadgan ändras från
+
+  Senast dagen före ett nytt räkenskapsår börjar ska divisionsstämman beslutat om
+  - tillräckligt många styrelsemedlemmar för att styrelsen ska vara beslutsfattig; samt
+  - revisor
+  för det kommande räkenskapsåret.
+
+  till
+
+  Senast dagen före ett nytt räkenskapsår börjar ska divisionsstämman beslutat om tillräckligt många styrelsemedlemmar för att styrelsen ska vara beslutsfattig för det kommande räkenskapsåret.
+])
+=== Styrelsens yrkande
+Detta är ett väldigt rimligt förslag, speciellt med tanke på att divisionen gick många år
+utan en revisor.
+#attSatser([attsats 1 från motionen bifalles.])
+#pagebreak()
+
+== Motion: Revisor > ordförande
+
+Då det är revisorn som anses vara den som granskar makten™ är det rimligt att revisorn är den som tolkar dokumentet. Dessutom finns det mindre risk att revisorn är direkt part i en frågan som behövs tolkas.
+
+Albin "Slaget" Otterhäll#linebreak()
+Revisor
+
+=== Förslag till beslut inför mötet
+#attSatser([
+  ändra 10 kap. 4 § andra stycket från
+
+  Om det uppstår en tvist om hur man ska tolka dokument där endast divisionsstämman kan besluta om ändringar tolkas dokumentet av divisionssordförande för avgörande.
+
+  till
+
+  Om det uppstår en tvist om hur man ska tolka dokument där endast divisionsstämman kan besluta om ändringar tolkas dokumentet av revisor för avgörande. I händelse av att det inte finns en revisor tolkas dokumentet av divisionsordförande.
+])
+
+=== Styrelsens yrkande
+#attSatser([attsats 1 från motionen bifalles.])
+#pagebreak()
+
+== Proposition: Mega7 straff
+Nuvarande ordförande av Mega7 William Bodin har suttit i sin roll ett tag nu. 
+Mega7s viktigaste uppdrag enligt reglementet är följande: "2 § Mega7 vattnar Monadens blommor."
+Styrelsen finner att detta uppdrag EJ har följts av ordförande, då många blommor har strukit med under sommaren då ordförande valde att en semesterresa i Finland var viktigare än Monadens blommor!
+Styrelsen tycker därmed att en klargöring av Mega7s uppgifter bör ske!
+
+Samuel "Hammarn" Hammersberg#linebreak()
+Lukas "Lucky" Gartman#linebreak()
+Tim "Båtsman" Persson#linebreak()
+Josefin "Bomben" Kokkinakis#linebreak()
+Gustav "Görby" Dalemo
+
+=== Förslag till beslut
+#attSatser(
+  [ kapitel 12 "Regler för Mega7" i reglementet ändras från 
+    ```md
+    1 § Kommittéens namn är Mega7.
+    2 § Mega7 vattnar Monadens blommor.
+    3 § Mandatperioden för kommittémedlemmarna bestäms internt inom kommittén.
+    4 § Kommittémedlemmarna bestäms internt inom kommittén.
+    ```
+    till
+    ```md
+    1 § Kommittéens namn är Mega7.
+    2 § Mega7 vattnar gräsmattan utanför Monaden under första veckan i varje månad, oavsett väder tillstånd. Detta ska dokumenteras genom frivilligt men tillgängligt forum.
+    3 § Mandatperioden för kommittémedlemmarna bestäms internt inom kommittén.
+    4 § Kommittémedlemmarna bestäms internt inom kommittén.
+    ``` 
+  ],
+)
+#pagebreak()
+
+== Motion: Ny huvudbonad till ordförande
+Vi anser att ordförande för styrelsen, för att framföra ett godtagbart utseende, bör bära propellerhatt. Denna hatt bör överlämnas till den nya ordförande när denne väljs in.
+
+Nikhil "Minaj" #linebreak()
+Daniel "Casilda" #linebreak()
+Martin "Marabou"
+
+=== Förslag till beslut från motionär
+#attSatser([
+  Ordförande bör bära en propellerhatt I under alla kommande stämmor såvida detta inte hindrar hen från att utföra sin uppgift
+], [
+  Ordförande ska överlämna denna hatt till nästkommande ordförande under invalet av denne
+])
+
+=== Styrelsens yrkande
+Jag som ordförande och resterande styrelse finner detta en jobbig idé, we like it. Kör på.
+
+Samuel "Slampan" Hammersberg
+
+#attSatser([
+  attsats 1 från motionen bifalles.
+], [
+  attsats 2 från motionen bifalles.
+])
 #pagebreak()
 
 = Diskussionspunkter
