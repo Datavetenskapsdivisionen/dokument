@@ -207,7 +207,7 @@ Josefin "Bomben" Kokkinakis
 #pagebreak()
 
 == Revisionsberättelse
-Insert rapport.
+Muntlig rapport på stämman.
 #pagebreak()
 
 == MEGA6
@@ -610,7 +610,7 @@ Martin "Marabou"
 === Styrelsens yrkande
 Jag som ordförande och resterande styrelse finner detta en jobbig idé, we like it. Kör på.
 
-Samuel "Slampan" Hammersberg
+Samuel "Hammarn" Hammersberg
 
 #attSatser([
   attsats 1 från motionen bifalles.
