@@ -181,8 +181,7 @@ styrelse. Jag är väldigt optimistiskt om föreningens framtid,
 då vi har flertal intresserade som vi känner verkligen bryr som om föreningen
 och hade passat bra i styrelsen!
 
-Jag hoppas att resten av året går fint, att klarar sina tentor, att jag
-undviker vodkan under krök, och att vi ses på nästa stämma i november/december! 
+Jag hoppas att resten av året går fint, att klarar sina tentor, och att vi ses på nästa stämma i november/december! 
 
 Samuel "Hammarn" Hammersberg
 
