@@ -170,7 +170,12 @@ Nu är vi alla igång igen och förhoppningsvis lär allt rulla på som det ska!
 Vi har haft en väldigt skoj mottagning tack vare DVRK och alla phaddrar, och
 jag ser verkligen fram emot att se hur resten av året kommer se ut!
 
-Har varit representant på instutionsrådet den 2024-10-11 *lägg in notes här!*.
+Har varit representant på instutionsrådet den 2024-10-11, där ett flertal saker
+diskuterades, men det mest relevanta är att CSE och ITIT kommer läggas
+under Naturvetenskapliga Fakulteten på GU. Vi kommer även få en ny vice-prefekt
+som hanterar grundutbildningen i formen av Niklas Broberg. Just nu håller
+han på att revidera kursplaner så vi kommer förmodligen få höra mer om det
+i framtiden.
 
 Kommer även närvara som representant för föreningen 2024-11-05 på
 programrådet för Datavetenskaps programmet och Computer Science programmet,
