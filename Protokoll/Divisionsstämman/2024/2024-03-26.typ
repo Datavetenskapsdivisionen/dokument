@@ -19,17 +19,17 @@
 )
 
 #deltagere(
-  [Ida Vranvuk], [Lämnade vid 5.2],
-  [Nikhil Mukhopadhyay Olsson], [],
-  [Daniell Cole], [],
-  [Martin Felix], [],
-  [Kristoﬀer Gustafsson], [],
-  [Albin Otterhäll], [],
-  [William Bodin], [],
-  [Alexander Lisborg], [],
-  [Anthon Wirback], [],
-  [Björn Rosengren], [],
-  [Angelika Hagberg], [],
+  [Ida Vranvuk],                [Ja, lämnade vid 5.2],
+  [Nikhil Mukhopadhyay Olsson], [Ja],
+  [Daniell Cole],               [Ja],
+  [Martin Felix],               [Ja],
+  [Kristoﬀer Gustafsson],       [Ja],
+  [Albin Otterhäll],            [Ja],
+  [William Bodin],              [Ja],
+  [Alexander Lisborg],          [Ja],
+  [Anthon Wirback],             [Ja],
+  [Björn Rosengren],            [Ja],
+  [Angelika Hagberg],           [Ja],
 )
 
 = Öppnande av möte
