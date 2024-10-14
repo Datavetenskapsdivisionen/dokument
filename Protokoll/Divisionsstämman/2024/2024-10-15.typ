@@ -406,7 +406,8 @@ istället:
 #attSatser([
   ConCats ska undersöka vilka av väggarna som skulle kunna stödja vikten för skåp eller hyllor.
 ], [
-  tillsätta ConCats för planering, inköp, äskning, och montering av skåp eller hyllor.
+  ConCats ska planera, inköp, äskning, och montering av skåp eller hyllor, vilket
+  presenteras vid nästkommande stämma.
 ])
 
 #pagebreak()
@@ -435,8 +436,6 @@ Vi finner att detta är en fin tradition! Namnet låter ballt!
 
 #attSatser([
   attsats 1 från motionen bifalles.
-], [
-  attsats 2 från motionen bifalles.
 ])
 
 #pagebreak()
@@ -456,7 +455,7 @@ Det finns en avdelning/enhet vid CSE som heter något med Computer Science, så 
 ])
 
 === Styrelsens yrkande
-Vi tycker att detta är bra idé, men finner det lite uda att inte ha samma namn
+Vi tycker att detta är bra idé, men finner det lite udda att inte ha samma namn
 på båda språken.
 #attSatser([
   attsats 1 från motionen bifalles.
@@ -582,6 +581,17 @@ Tim "Båtsman" Persson#linebreak()
 Josefin "Bomben" Kokkinakis#linebreak()
 Gustav "Görby" Dalemo
 
+#place(
+  dx: 360pt,
+  dy: -70pt,
+  scale(
+    x: 54%,
+    y: 54%,
+    reflow: true,
+    image("2024-10-15-mega7-lies.png")
+  )
+)
+
 === Förslag till beslut
 #attSatser(
   [ kapitel 12 "Regler för Mega7" i reglementet ändras från 
@@ -632,8 +642,8 @@ Samuel "Hammarn" Hammersberg
 Stämman är inte bara en chans för oss i divisionen att rösta om saker, utan den ger oss även en chans att
 diskutera olika ämnen, som kanske nödvändigtvis inte behövs röstas om.
 
-Styrelsen har ej kommit med några diskussions punkter, men vi lämnar golvet
-öppet för medvarande medlemmar att ta upp det dom har på hjärtat.
+Styrelsen har ej kommit med några diskussionspunkter, men vi lämnar golvet
+öppet för närvarande medlemmar att ta upp det dom har på hjärtat.
 
 #pagebreak()
 = Avslutande av möte
