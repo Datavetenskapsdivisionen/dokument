@@ -202,7 +202,12 @@ Jag kan även meddela att Swedbank hörde av sig angående den skumma insättnin
 Lukas "Lucky" Gartman
 
 === Vice ordförande
-Muntlig presentation på stämman.
+Under mitt verksamhetsår har jag arbetat för att koordinera kommitteer och försöka skapa en "helhet" på divisionen.
+Detta arbetet har sköts utifrån kommittemöten som sporadiskt skett men även i icke-officiella kanaler.
+
+Tackar för ännu en lyckad mottagning och jag hoppas på fortsatt bra samarbete på divisionen.
+
+Tim "Båtsman" Persson
 
 === SAMO
 Sedan senaste stämma så har jag utöver styrelsemöten haft egna möten med studenter. Jag har även skapat ett tystnadspliktsavtal till Styrelsen. 
