@@ -13,8 +13,8 @@
     [Samuel Hammersberg], [],
     [Tim Person], [],
     [Lukas Gartman], [],
-    [Gustav Dalemo], [],
     [Josefin Kokkinakis], [],
+    [Gustav Dalemo], [], 
 )
 
 // #deltagere(
