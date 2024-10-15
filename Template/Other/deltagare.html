@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Stämma XXXX-XX-XX Namn</title> <!-- TODO Update date -->
+    <style>
+      input[type="checkbox"] {
+        transform: scale(1.5);
+        padding: 10px;
+      }
+      li {
+        margin: 5px;
+      }
+      ul {
+        list-style-type: none;
+        padding: 0;
+      }
+      button {
+        background-color: lightgreen;
+        border-color: lightgreen;
+        font-size: 1.5rem;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Stämma XXXX-XX-XX Namn</h1>
+    <ul id="checklist">
+      <!-- <li><input type="checkbox" id="checkbox1" /> Namn 1</li> -->
+      <!-- TODO Add more names here -->
+    </ul>
+    <button onclick="saveCheckedNames()">Save</button>
+    <script>
+      document.addEventListener("DOMContentLoaded", (event) => {
+        function saveCheckedNames() {
+          const checklist = document.getElementById("checklist");
+          const checkboxes = checklist.querySelectorAll(
+            'input[type="checkbox"]'
+          );
+          let checkedNames = [];
+
+          checkboxes.forEach((checkbox, index) => {
+            if (checkbox.checked) {
+                const name = checkbox.parentElement.textContent.trim();
+              checkedNames.push(`[${name}], [],`);
+            }
+          });
+          console.log(checkedNames);
+
+          const blob = new Blob([checkedNames.join("\n")], {
+            type: "text/plain",
+          });
+          const link = document.createElement("a");
+          link.href = URL.createObjectURL(blob);
+          link.download = "checked_names.txt";
+          link.click();
+        }
+        window.saveCheckedNames = saveCheckedNames;
+      });
+    </script>
+  </body>
+</html>
