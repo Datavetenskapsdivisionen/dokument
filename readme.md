@@ -103,6 +103,7 @@ lualatex --output-directory=output/ styrdokument/Datavetenskapsdivisionen\ stadg
 | [Protokoll/Styrelsen/2024/2024-09-23.tex](Protokoll/Styrelsen/2024/2024-09-23.tex) | [✅ Signerad](https://drive.google.com/file/d/1O-iy8BwYJwAAH-o1WnVw5AefczF8v40L/view?usp=sharing) |
 | [Protokoll/Styrelsen/2024/2024-10-01.tex](Protokoll/Styrelsen/2024/2024-10-01.tex) | [✅ Signerad](https://drive.google.com/file/d/15S_5RE_B5LcZze7Yq4axRNot9I8P6wGW/view?usp=sharing) |
 | [Protokoll/Styrelsen/2024/2024-10-10.typ](Protokoll/Styrelsen/2024/2024-10-10.typ) | [✅ Signerad](https://drive.google.com/file/d/1OJu5okO-4Mj9Kw3Eho2iQpUoFHVlo52X/view) |
+| [Protokoll/Styrelsen/2024/2024-10-14.typ](Protokoll/Styrelsen/2024/2024-10-14.typ) | [✅ Signerad](https://drive.google.com/file/d/1nuOxsAjEMGihW3gKKRw89N0_HkPSmjGq/view?usp=sharing) |
 ## Dokument/Divisionsstämman - Signerat
 | Dokument | Link |
 | -------- | ---- |
@@ -113,7 +114,7 @@ lualatex --output-directory=output/ styrdokument/Datavetenskapsdivisionen\ stadg
 | [Protokoll/Divisionsstämman/2023/2023-02-22.tex](Protokoll/Divisionsstämman/2023/2023-02-22.tex) | [✅ Signerad](https://drive.google.com/file/d/1Q8ec64EngU795dN4C_nuwOQM3QZJWmtO/view?usp=sharing) |
 | [Protokoll/Divisionsstämman/2023/2023-05-24.tex](Protokoll/Divisionsstämman/2023/2023-05-24.tex) | [✅ Signerad](https://drive.google.com/file/d/1m6wXRTKNv299VkRs0z9dRvHZtZA5pI4V/view?usp=sharing) |
 | [Protokoll/Divisionsstämman/2023/2023-11-30.typ](Protokoll/Divisionsstämman/2023/2023-11-30.typ) | [✅ Signerad](https://drive.google.com/file/d/1kfYLz2-A_0vy80zwuJhI1R18w2z8VPHI/view?usp=sharing) |
-| [Protokoll/Divisionsstämman/2024/2024-03-26.typ](Protokoll/Divisionsstämman/2024/2024-03-26.typ) | [❌ Saknas](mailto:styrelsen@dvet.se?subject=Dokument%20som%20saknas&body=Signerade%20PDF%20filen%20för%20Protokoll/Divisionsstämman/2024/2024-03-26.typ%20saknas!) |
+| [Protokoll/Divisionsstämman/2024/2024-03-26.typ](Protokoll/Divisionsstämman/2024/2024-03-26.typ) | [✅ Signerad](https://drive.google.com/file/d/1-pgjaJakN5YZOsNgHwIlRyXQIM5f9ni_/view?usp=sharing) |
 | [Protokoll/Divisionsstämman/2024/2024-10-15.typ](Protokoll/Divisionsstämman/2024/2024-10-15.typ) | [❌ Saknas](mailto:styrelsen@dvet.se?subject=Dokument%20som%20saknas&body=Signerade%20PDF%20filen%20för%20Protokoll/Divisionsstämman/2024/2024-10-15.typ%20saknas!) |
 ## Dokument/Extra - Signerat
 | Dokument | Link |
