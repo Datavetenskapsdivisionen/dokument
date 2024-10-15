@@ -1,4 +1,4 @@
-#import "../../../Template/Typst/DVD.typ": setupDocument, attSatser, blank, blockqoute, deltagere, signatures, formalia
+#import "../../../Template/Typst/DVD.typ": setupDocument, attSatser, blank, blockqoute, deltagere, signatures, formalia, ordningsFråga
 
 #let time = "17:17"
 #show: setupDocument.with(
@@ -10,29 +10,35 @@
 
 #deltagere(
     styrelsen: true, 
-    [Samuel Hammersberg], [],
-    [Tim Person], [],
-    [Lukas Gartman], [],
-    [Josefin Kokkinakis], [],
-    [Gustav Dalemo], [], 
+    [Samuel Hammersberg], [Ja, Ut 19:45 In 19:46],
+    [Tim Person], [Ja],
+    [Lukas Gartman], [Ja],
+    [Josefin Kokkinakis], [Ja],
+    [Gustav Dalemo], [Ja], 
 )
 
-// #deltagere(
-//   [Ida Vranvuk], [Lämnade vid 5.2],
-//   [Nikhil Mukhopadhyay Olsson], [],
-//   [Daniell Cole], [],
-//   [Martin Felix], [],
-//   [Kristoﬀer Gustafsson], [],
-//   [Albin Otterhäll], [],
-//   [William Bodin], [],
-//   [Alexander Lisborg], [],
-//   [Anthon Wirback], [],
-//   [Björn Rosengren], [],
-//   [Angelika Hagberg], [],
-// )
+#deltagere(
+ [Albin Otterhäll], [],
+ [Angelika Hagberg], [],
+ [Anton Frost], [],
+ [Aowis Tabbaa], [Lämnade 4.8],
+ [Björn Rosengren], [Lämnade 4.8],
+ [Daniel Cole], [],
+ [Hannes Carlsson], [],
+ [Ida Kjellerstedt], [],
+ [Ida Vranvuk], [],
+ [Josefin Kokkinakis], [Lämnade 4.8],
+ [Kristoffer Gustafsson], [],
+ [Martin Felix], [Lämnade 4.8],
+ [Nikhil Olsson], [],
+ [Sofia Gustafsson], [],
+ [William Bodin], [],
+ [Vanja Utberg], [Ankom 2.4]
+)
 
 = Öppnande av möte
-Mötet planeras öppnas av #time
+Mötet planeras öppnas av #time. #linebreak()
+Mötet öppnades 17:23.
 
 #pagebreak()
 
@@ -48,10 +54,10 @@ stämmomötet.
 === Förslag
 #attSatser([ stämman fastställer den nuvarande röstlängden ])
 
-// === Beslut
-// #attSatser(
-//   [ attsatsen bifalles. ]
-// )
+=== Beslut
+#attSatser(
+  [ attsatsen bifalles. ]
+)
 
 #pagebreak()
 == Divisionsstämmans beslutbarhet
@@ -69,10 +75,10 @@ Detta möteschema ska ha skickats ut under fredagen den 2024-10-13.
   ]
 )
 
-// === Beslut
-// #attSatser(
-//   [ attsatsen bifalles ]
-// )
+=== Beslut
+#attSatser(
+  [ attsatsen bifalles ]
+)
 
 == Fastställande av mötesschema
 För att divisionsstämman ska kunna fatta ett beslut eller protokollföra en diskussion behöver punkten i
@@ -84,10 +90,10 @@ punkten.
   [ mötesschemat fastställs utan några ändringar. ]
 )
 
-// === Beslut
-// #attSatser(
-//   [ attsatsen bifalles. ]
-// )
+=== Beslut
+#attSatser(
+  [ attsatsen bifalles. ]
+)
 #pagebreak()
 
 == Val av mötesordförande
@@ -102,10 +108,10 @@ styrelsen väljer att nominera
 
 - Samuel Hammersberg
 
-// === Beslut
-// #attSatser(
-//   [ Samuel Hammersberg väljs in som mötesordförande. ]
-// )
+=== Beslut
+#attSatser(
+  [ Samuel Hammersberg väljs in som mötesordförande. ]
+)
 
 == Val av vice mötesordförande
 Vice mötesordförande hjälper mötesordförande med att hålla talarlistan, och att alla får komma till tals.
@@ -117,10 +123,10 @@ Styrelsen finner det passande att vice ordförande för styrelsen även
 är vice mötesordförande så styrelsen väljer att nominera:
 
 - Tim Persson
-// === Beslut
-// #attSatser(
-//   [ Tim Persson väljs in som vice mötesordförande. ]
-// )
+=== Beslut
+#attSatser(
+  [ Tim Persson väljs in som vice mötesordförande. ]
+)
 
 #pagebreak()
 
@@ -135,10 +141,10 @@ Styrelsen finner även det passande att sekreteraren för styrelsen även
 är mötessekreteraren så styrelsen väljer att nominera:
 
 - Gustav Dalemo
-// === Beslut
-// #attSatser(
-//   [ Gustav Dalemo väljs in som vice mötessekreterare. ]
-// )
+=== Beslut
+#attSatser(
+  [ Gustav Dalemo väljs in som vice mötessekreterare. ]
+)
 
 == Val av protokolljusterare
 Protokolljusterare har till uppgift att kontrollera att protokollet i slutändan reflekterar de faktiska besluten
@@ -151,15 +157,17 @@ Nomineringar som har inkommit till styrelsen i tid för att inkluderas i stämmo
 
 _Inga nomineringar för dessa positioner har inkommit._
 
-// === Beslut
-// #attSatser(
-//   [
-//     Kristoffer Gustafsson väljs till protokolljusterare.
-//   ],
-//   [
-//     Daniell Cole väljs till protokolljusterare.
-//   ]
-// )
+Kristoffer Gustafsson och Daniell Cole nominerar sig själva till protokolljusterare.
+
+=== Beslut
+#attSatser(
+  [
+    Kristoffer Gustafsson väljs till protokolljusterare.
+  ],
+  [
+    Daniell Cole väljs till protokolljusterare.
+  ]
+)
 
 #pagebreak()
 
@@ -216,13 +224,13 @@ Josefin "Bomben" Kokkinakis
 #pagebreak()
 
 == Revisionsberättelse
-Muntlig rapport på stämman.
+Revisor har inget rapport till denna stämma.
 #pagebreak()
 
 == MEGA6
 Sedan senaste stämman för 9 månader sedan har Mega6 varit upptagna med både det ena och det andra. I våras anordnade vi en vinprovning och fulsittning till stor förtjusning av allmänheten och alkoholkonässörer.  Sommaren präglades av planering och förberedelser inför insparken. Framför allt var kräftskivan ett ytters krävande event att planera då ambitionerna uppgick i höjder som inte tidigare skådats i Mega6. Men nu med facit i hand kan vi stolt säga att det blev ett fenomenalt event och att vi ger nästa generation en god grund att planera nästa års kräftskiva på. Efter mottagningen, under hävda alkoholrestriktioner, har vi återgått till vår reguljära verksamhet. 
 
-Mega6’24 blickar även framåt över hösten då vi har planerat ett flertal aspirering events som skall mynna ut i medlems skiftet tills Mega6’25. Vi ser även positivt på engagemanget från nuvarande aspirerande och är djupt intresserade av att bekanta oss med våra efterföljare och överlämna det arv vi har att lämna bakom oss. 
+Mega6’24 blickar även framåt över hösten då vi har planerat ett flertal aspirering events som skall mynna ut i medlems skiftet tills Mega6’25. Vi ser även positivt på engagemanget från nuvarande aspirerande och är djupt intresserade av att bekanta oss med våra efterföljare och överlämna det arv vi har att lämna bakom oss.
 
 Kristoffer "Schlätta" Gustafsson, Ordförande Mega6′24#linebreak()
 Lukas "Lucky" Gartman, Mega6′24#linebreak()
@@ -233,11 +241,11 @@ Gustav “Bärvern” Richter, Mega6’24
 == Femme++
 Sedan förra stämman har vi medverkat under insparken. Vårt första event var en lunch, där vi bjöd reccarna på valfri rätt från Benne pastabar och vårt andra event var On Air, en gameshow där vi tävlade mot varandra. 
 
-
 Daniell “Cassilda” Cole
 
 == Studienämnden
 Muntlig presentation på stämman.
+Vi har deltagit i två kursutvärderingsmöten för kurserna i lp4, datastrukturer, communicating computer science och matematisk analys. Vi planerar att hålla ett kursutvärderingsfika för den nuvarande läsperioden och fortsätta med detta i framtiden.
 
 == DVRK
 Vi i DVRK har hållit i Insparken under början av året vilket blev väldigt lyckat. Vi fick extremt mycket hjälp från resten av divisionen vilket var väldigt uppskattat. 
@@ -269,8 +277,6 @@ Ingen rapport.
 Ingen rapport.
 
 == ConCats
-Hejsan, nedan kommer rapporten från ConCats för kommande stämman:
-
 Vi i ConCats har under året haft en hel del arr, både under insparken och utanför.
 Vi anser att dessa arr har varit lyckade och har uppnåt våra mål om att skapa en god gemenskap på DVD.
 
@@ -290,6 +296,8 @@ Det har varit ett spännande år för Mega 7, fyllt med växtkraft, idéer och f
 
 Vi har också använt tiden till att planera för framtida initiativ som kommer att få Monaden att blomstra som aldrig förr! Under året har Mega 7 fördjupat sin forskning kring innovativa sätt att "vattna" och vårda våra plastväxter, och vi ser fram emot att omsätta dessa idéer i praktiken nästa år. Med starkt engagemang och gemensamma krafter kommer vi att fortsätta odla vår kärlek till naturen, även om den är konstgjord. Tack för ert stöd och er tilltro, och vi ser fram emot ett ännu mer händelserikt 2024!
 
+
+// TODO bilden renderas ovanpå text
 #place(
   center + bottom,
   scale(
@@ -299,7 +307,22 @@ Vi har också använt tiden till att planera för framtida initiativ som kommer 
     image("2024-10-15-mega7.png")
   )
 )
+#pagebreak()
 
+#ordningsFråga([Anton Frost], [
+  #attSatser(
+    [Förslag om att lägga in en toapaus på 10 minuter (18:00-18:10) i dokumentet]
+  )
+  #attSatser(
+    [Förslaget bifalles]
+  )
+  #attSatser(
+    [Förslag om att utföra denna punkten nu]
+  )
+  #attSatser(
+    [Förslaget bifalles]
+  )
+])
 #pagebreak()
 
 = Beslutspunkter
@@ -337,6 +360,17 @@ istället:
   presenteras vid nästkommande stämma.
 ])
 
+//TODO 
+Styrelse ändrar sin egen attsats 2 till:
+ConCats ska planera inköp och äskning och montering för upprustning och förbättrad förvaring i köket, vilket presenteras vid nästkommande stämma.
+
+=== Beslut
+#attSatser([
+  Attsats 1 bifalles
+],[
+  Attsats 2 bifalles
+])
+
 #pagebreak()
 
 == Motion: Ändra namn på Studienämnden till NSA
@@ -363,6 +397,11 @@ Vi finner att detta är en fin tradition! Namnet låter ballt!
 
 #attSatser([
   attsats 1 från motionen bifalles.
+])
+
+=== Beslut
+#attSatser([
+  Attsatsen bifalles ej
 ])
 
 #pagebreak()
@@ -396,6 +435,22 @@ på båda språken.
   Vid översättning till engelska ska divisionens namn översättas till Computer Science Division.
 ])
 
+// Albin yrkande
+
+
+=== Beslut
+#attSatser([
+  Attsats 2 bifalles
+])
+
+// TODO 
+Röstning 2
+En till röstning om:
+Attsats 1 Computer Science Division
+Attsats 2 Computer Science Student Division
+
+Attsats 2 bifalles
+
 #pagebreak()
 
 == Motion: Förtydliga att styrelsen sköter administration av medlemssystem
@@ -418,6 +473,11 @@ Revisor
 === Styrelsens yrkande
 #attSatser([
   attsats 1 från motionen bifalles.
+])
+
+=== Beslut
+#attSatser([
+  Attsats 1 bifalles.
 ])
 
 #pagebreak()
@@ -446,6 +506,11 @@ Revisor
 === Styrelsens yrkande
 #attSatser([attsats 1 från motionen bifalles.])
 
+=== Beslut
+#attSatser([
+  Attsats 1 bifalles
+])
+
 #pagebreak()
 
 == Motion: Kräv inte ny revisor för ny styrelse
@@ -472,6 +537,12 @@ Revisor
 Detta är ett väldigt rimligt förslag, speciellt med tanke på att divisionen gick många år
 utan en revisor.
 #attSatser([attsats 1 från motionen bifalles.])
+
+=== Beslut
+#attSatser([
+  Attsats 1 bifalles
+])
+
 #pagebreak()
 
 == Motion: Revisor > ordförande
@@ -494,6 +565,12 @@ Revisor
 
 === Styrelsens yrkande
 #attSatser([attsats 1 från motionen bifalles.])
+
+=== Beslut
+#attSatser([
+  Attsats 1 bifalles
+])
+
 #pagebreak()
 
 == Proposition: Mega7 straff
@@ -539,6 +616,21 @@ Gustav "Görby" Dalemo
 )
 #pagebreak()
 
+// TODO
+#ordningsFråga([Aowis Tabbaa], [
+  #attSatser(
+    [Förslag om att lämna]
+  )
+  #attSatser(
+    [Förslaget bifalles]
+  )
+])
+
+=== Beslut
+#attSatser([
+  Attsats 1 bifalles
+])
+
 == Motion: Ny huvudbonad till ordförande
 Vi anser att ordförande för styrelsen, för att framföra ett godtagbart utseende, bör bära propellerhatt. Denna hatt bör överlämnas till den nya ordförande när denne väljs in.
 
@@ -563,6 +655,18 @@ Samuel "Hammarn" Hammersberg
 ], [
   attsats 2 från motionen bifalles.
 ])
+
+// TODO
+Nikil yrkar om ändring av attsats 1 till:
+Ordförande ska bära en propellerhatt I under alla kommande stämmor såvida detta inte hindrar denne från att utföra sin uppgift.
+
+
+=== Beslut
+#attSatser([
+  Attsats 1 bifalles
+],
+[ Attsats 2 bifalles])
+
 #pagebreak()
 
 == Proposition: Ny slogga!
@@ -576,6 +680,16 @@ Datavetenskapsdivisionen - Vi är vår egna sektion.
 
 Tim "Båtsman" Persson DV'22, DVRK'23, Styrelsen'24, Arbetsgrupp - Logotyp'22
 
+// TODO
+Tim yrkar om ytterligare en attsats:
+Vår slogan på engelska ska vara: "Computer Science Division - We are our own section"
+
+=== Beslut
+#attSatser([
+  Attsats 1 bifalles
+],[
+  Attsats 2 bifalles])
+
 #pagebreak()
 = Inval
 Inval av personer till förtroendeposterna som väljs in av Divisionsstämman. Dessa väljs in för en ordinarie mandatperiod, vilket sträcker sig från 1 januari till 31 december.
@@ -585,8 +699,14 @@ DV_Arm ansvarar för att förbättra relationer mellan divisionen och företag
 
 Just nu saknas det en ordförande.
 
+
 === Inkomna nomineringar inför mötet
 _Styrelsen har ej fått in några nominering innan stämman._
+
+=== Beslut
+#attSatser([
+  Punkten bordslägges till nästa stämma.
+])
 
 == Fyllnadsval för DV_Ops'24
 DV_Ops har som jobb att arbeta med divisionen IT och främja
@@ -594,8 +714,21 @@ våran tekniska sida.
 
 Just nu saknas det en ordförande.
 
+
 === Inkomna nomineringar inför mötet
 _Styrelsen har ej fått in några nominering innan stämman._
+
+// TODO
+Tim nominerar Kevin "Petsson" Petterson
+
+Albin yrkar om att genomföra röstningen med acklamation
+
+Det röstas igenom
+
+=== Beslut
+#attSatser([
+  Attsats 1 bifalles
+])
 
 #pagebreak()
 
@@ -628,6 +761,22 @@ Nikhil “Minaj” Olsson Mukhopadhyay
     image("2024-10-15-ida.jpeg")
   )
 )
+
+// TODO
+Styrelsen föreslår att genomföra omröstningen acklamation.
+
+Det röstas igenom
+
+
+=== Utjustering:
+Ida "Icebyte" Vranvuk justeras ut.
+
+=== Beslut:
+#attSatser([Ida "Icebyte" Vranvruk väljs till ordförande för DVRK’24.])
+
+=== Injustering:
+Ida "Icebyte" Vranvruk justeras in.
+
 #pagebreak()
 
 == Studienämnden'25 ordförande
@@ -668,6 +817,19 @@ Nikhil “Minaj” Olsson Mukhopadhyay
 // === Injustering:
 // Nikhil "Minaj" Olsson Mukhopadhyay justeras in.
 
+=== Beslut
+Ida Vranvuk och Nikhil "Minaj" Olsson Mukhopadhyay drar tillbaka sin nominering
+
+=== Förslag till beslut
+#attSatser([
+  Styrelse föreslår att bordslägga punkten till nästa stämma
+])
+
+=== Beslut
+#attSatser([
+  Attsats 1 bifalles
+])
+
 #pagebreak()
 
 
@@ -678,10 +840,13 @@ diskutera olika ämnen, som kanske nödvändigtvis inte behövs röstas om.
 Styrelsen har ej kommit med några diskussionspunkter, men vi lämnar golvet
 öppet för närvarande medlemmar att ta upp det dom har på hjärtat.
 
+== Alumnnätverk
+Upprätta en kommitté eller utskott som ansvarar för att organisera sittningar och evenemang för alumner. Denna kommitté bör också välkomna nuvarande studenter att närvara på dessa evenemang för att främja nätverkande och kunskapsutbyte mellan alumner och studenter. Genom att skapa en stark och aktiv alumnnätverk kan vi dra nytta av erfarenheter och kontakter från tidigare studenter för att stödja och främja karriärmöjligheter för nuvarande studenter. Detta kommer att bidra till att stärka banden mellan divisionen och dess alumner samt skapa en känsla av samhörighet och gemenskap inom divisionen.
+
 #pagebreak()
 = Avslutande av möte
 
 == Mötets avslutande
-Mötet planeras avslutas 18:18.
+Mötet planeras avslutas 19:51.
 // #pagebreak()
 // #signatures(stämma: true)
