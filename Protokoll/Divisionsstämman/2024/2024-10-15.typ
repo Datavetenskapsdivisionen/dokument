@@ -302,79 +302,6 @@ Vi har också använt tiden till att planera för framtida initiativ som kommer 
 
 #pagebreak()
 
-= Inval
-Inval av personer till förtroendeposterna som väljs in av Divisionsstämman. Dessa väljs in för en ordinarie mandatperiod, vilket sträcker sig från 1 januari till 31 december.
-
-== Fyllnadsval för Studienämnden'24
-Studienämnden ansvarar för att se till att kvaliten på kurserna här på
-universitet håller sig, och att lärare m.m följer up på den kritik de får.
-
-Just nu saknas en ordförande så det ska nu förhoppningsviss.
-
-=== Inkomna nomineringar inför mötet
-
-Nomineringar som har inkommit till styrelsen i tid för att inkluderas i stämmohandlingarna.
-
-=== Från Ida Vranvuk och Nikhil Olsson Mukhopadhyay
-
-Pick me, choose me, love me, vi nominerar
-
-- Ida Vranvuk
-
-Ida “iceByte” Vranvuk
-
-Nikhil “Minaj” Olsson Mukhopadhyay
-
-#place(
-  center,
-  scale(
-    x: 70%,
-    y: 70%,
-    reflow: true,
-    image("2024-10-15-ida.jpeg")
-  )
-)
-#pagebreak()
-
-== Studienämnden'25 ordförande
-Studienämnden ansvarar för att se till att kvaliten på kurserna här på
-universitet håller sig, och att lärare m.m följer up på den kritik de får.
-
-=== Inkomna nomineringar inför mötet
-
-Nomineringar som har inkommit till styrelsen i tid för att inkluderas i stämmohandlingarna.
-
-=== Från Ida Vranvuk och Nikhil Olsson Mukhopadhyay
-
-Pick me, choose me, love me, vi nominerar
-
-- Ida Vranvuk
-
-Ida “iceByte” Vranvuk
-
-Nikhil “Minaj” Olsson Mukhopadhyay
-
-#place(
-  center,
-  scale(
-    x: 70%,
-    y: 70%,
-    reflow: true,
-    image("2024-10-15-ida.jpeg")
-  )
-)
-
-
-// === Utjustering:
-// Nikhil "Minaj" Olsson Mukhopadhyay justeras ut.
-
-// === Beslut:
-// #attSatser([Nikhil "Minaj" Olsson Mukhopadhyay till ordförande för DVRK’24.])
-
-// === Injustering:
-// Nikhil "Minaj" Olsson Mukhopadhyay justeras in.
-
-#pagebreak()
 = Beslutspunkter
 Enligt Stadgan måste ändringar av Stadgan röstas igenom på två av Divisionsstämmans varandra följande
 möten. Om en beslutpunkt innehåller "första läsningen" innebär det att det är första gången beslutet tas
@@ -521,7 +448,7 @@ Revisor
 
 #pagebreak()
 
-== Motion: Kräv inte ny revsisor för ny styrelse
+== Motion: Kräv inte ny revisor för ny styrelse
 
 Den nuvarande stadgan kräver att vi har tillräkligt med invalda styrelseledamöter OCH minst en revisor för att en ny styrelse ska kunna gå på vid årsskiftet. Fett onödigt (jag orkar inte försöka hitta ny revisor).
 
@@ -637,6 +564,93 @@ Samuel "Hammarn" Hammersberg
   attsats 2 från motionen bifalles.
 ])
 #pagebreak()
+
+== Proposition: Ny slogga!
+
+För att stärka vår position på Göta och campus Johanneberg finner jag att vi är i starkt behov av en slogan som sammanfattar vår uppgift och funktion.
+Denna slogan lyder:
+Datavetenskapsdivisionen - Vi är vår egna sektion.
+#attSatser([
+  "Datavetenskapsdivisionen - Vi är vår egna sektion" införs som officiell slogan i reglementet.
+])
+
+Tim "Båtsman" Persson DV'22, DVRK'23, Styrelsen'24, Arbetsgrupp - Logotyp'22
+
+#pagebreak()
+= Inval
+Inval av personer till förtroendeposterna som väljs in av Divisionsstämman. Dessa väljs in för en ordinarie mandatperiod, vilket sträcker sig från 1 januari till 31 december.
+
+== Fyllnadsval för Studienämnden'24
+Studienämnden ansvarar för att se till att kvaliten på kurserna här på
+universitet håller sig, och att lärare m.m följer up på den kritik de får.
+
+Just nu saknas en ordförande så det ska nu förhoppningsviss.
+
+=== Inkomna nomineringar inför mötet
+
+Nomineringar som har inkommit till styrelsen i tid för att inkluderas i stämmohandlingarna.
+
+=== Från Ida Vranvuk och Nikhil Olsson Mukhopadhyay
+
+Pick me, choose me, love me, vi nominerar
+
+- Ida Vranvuk
+
+Ida “iceByte” Vranvuk
+
+Nikhil “Minaj” Olsson Mukhopadhyay
+
+#place(
+  center,
+  scale(
+    x: 70%,
+    y: 70%,
+    reflow: true,
+    image("2024-10-15-ida.jpeg")
+  )
+)
+#pagebreak()
+
+== Studienämnden'25 ordförande
+Studienämnden ansvarar för att se till att kvaliten på kurserna här på
+universitet håller sig, och att lärare m.m följer up på den kritik de får.
+
+=== Inkomna nomineringar inför mötet
+
+Nomineringar som har inkommit till styrelsen i tid för att inkluderas i stämmohandlingarna.
+
+=== Från Ida Vranvuk och Nikhil Olsson Mukhopadhyay
+
+Pick me, choose me, love me, vi nominerar
+
+- Ida Vranvuk
+
+Ida “iceByte” Vranvuk
+
+Nikhil “Minaj” Olsson Mukhopadhyay
+
+#place(
+  center,
+  scale(
+    x: 70%,
+    y: 70%,
+    reflow: true,
+    image("2024-10-15-ida.jpeg")
+  )
+)
+
+
+// === Utjustering:
+// Nikhil "Minaj" Olsson Mukhopadhyay justeras ut.
+
+// === Beslut:
+// #attSatser([Nikhil "Minaj" Olsson Mukhopadhyay till ordförande för DVRK’24.])
+
+// === Injustering:
+// Nikhil "Minaj" Olsson Mukhopadhyay justeras in.
+
+#pagebreak()
+
 
 = Diskussionspunkter
 Stämman är inte bara en chans för oss i divisionen att rösta om saker, utan den ger oss även en chans att
