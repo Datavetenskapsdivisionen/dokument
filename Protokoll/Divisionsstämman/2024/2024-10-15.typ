@@ -1,4 +1,4 @@
-#import "../../../Template/Typst/DVD.typ": setupDocument, attSatser, blank, blockqoute, deltagere, signatures, formalia, ordningsFråga
+#import "../../../Template/Typst/DVD.typ": *
 
 #let time = "17:17"
 #show: setupDocument.with(
@@ -6,11 +6,12 @@
   title: "",
   date: datetime(year: 2024, month: 10, day: 15),
   stämma: true,
+  location: "EA"
 )
 
 #deltagere(
     styrelsen: true, 
-    [Samuel Hammersberg], [Ja, Ut 19:45 In 19:46],
+    [Samuel Hammersberg], [Ja],
     [Tim Person], [Ja],
     [Lukas Gartman], [Ja],
     [Josefin Kokkinakis], [Ja],
@@ -310,17 +311,12 @@ Vi har också använt tiden till att planera för framtida initiativ som kommer 
 #pagebreak()
 
 #ordningsFråga([Anton Frost], [
-  #attSatser(
-    [Förslag om att lägga in en toapaus på 10 minuter (18:00-18:10) i dokumentet]
+Mötet har pågått i drygt en timme och många deltagare här även ätit mat under denna tiden. Det anses lämpligt med en kort paus för att mötets deltagare skall kunna uträtta sina naturbehov. \
+  #ordningsFrågaBody(
+    förslag: "Förslag om att lägga in en toapaus på 10 minuter (18:00-18:10) i dokumentet", 
   )
-  #attSatser(
-    [Förslaget bifalles]
-  )
-  #attSatser(
-    [Förslag om att utföra denna punkten nu]
-  )
-  #attSatser(
-    [Förslaget bifalles]
+  #ordningsFrågaBody(
+    förslag: "Utföra denna punkt nu", 
   )
 ])
 #pagebreak()
@@ -614,22 +610,22 @@ Gustav "Görby" Dalemo
     ``` 
   ],
 )
-#pagebreak()
-
-// TODO
-#ordningsFråga([Aowis Tabbaa], [
-  #attSatser(
-    [Förslag om att lämna]
-  )
-  #attSatser(
-    [Förslaget bifalles]
-  )
-])
-
 === Beslut
 #attSatser([
   Attsats 1 bifalles
 ])
+#pagebreak()
+
+// TODO
+#ordningsFråga([Jusera röstlängd], [
+  Flera av mötets medlemmar behöver avvika. Vi behöver därför justera röstlängden.
+  
+  #ordningsFrågaBody(
+    förslag: "Justera röstlängd"
+  )
+  )
+])
+
 
 == Motion: Ny huvudbonad till ordförande
 Vi anser att ordförande för styrelsen, för att framföra ett godtagbart utseende, bör bära propellerhatt. Denna hatt bör överlämnas till den nya ordförande när denne väljs in.
