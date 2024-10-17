@@ -433,19 +433,29 @@ på båda språken.
 
 // Albin yrkande
 
+=== Yrkan av motionär
+#attSatser([Vid översättning till engelska ska divisionens namn översättas till Computer Science Division.])
 
+=== Nya attsatser efter yrkanden
+Vi tycker att detta är bra idé, men finner det lite udda att inte ha samma namn
+på båda språken.
+#attSatser([
+  attsats 1 från motionen bifalles.
+], [
+    Att 1 kap. 1 § 2 stycket i stadgan ändras från
+
+  Vid översättning till engelska ska divisionens namn översättas till Division for Computer Science.
+
+  till
+
+  Vid översättning till engelska ska divisionens namn översättas till Computer Science Division.
+], 
+
+[Vid översättning till engelska ska divisionens namn översättas till Computer Studen Science Division.])
 === Beslut
 #attSatser([
   Attsats 2 bifalles
 ])
-
-// TODO 
-Röstning 2
-En till röstning om:
-Attsats 1 Computer Science Division
-Attsats 2 Computer Science Student Division
-
-Attsats 2 bifalles
 
 #pagebreak()
 
