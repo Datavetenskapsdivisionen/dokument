@@ -346,3 +346,15 @@
     ]
   )
 ]
+  #let ordningsFrågaBody(
+    förslag: "",
+    förslagTillBeslut: "Attsatsen bifalles",
+    beslut: "Attsatsen bifalles",
+  ) = [
+    *Förslag:* \
+    #attSatser(förslag) \
+    *Förslag till beslut:* \
+    #attSatser(förslagTillBeslut) \
+    *Beslut:* \
+    #attSatser(beslut) \
+  ]
