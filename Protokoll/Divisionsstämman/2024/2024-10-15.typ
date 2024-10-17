@@ -226,7 +226,6 @@ Josefin "Bomben" Kokkinakis
 
 == Revisionsberättelse
 Revisor har inget rapport till denna stämma.
-#pagebreak()
 
 == MEGA6
 Sedan senaste stämman för 9 månader sedan har Mega6 varit upptagna med både det ena och det andra. I våras anordnade vi en vinprovning och fulsittning till stor förtjusning av allmänheten och alkoholkonässörer.  Sommaren präglades av planering och förberedelser inför insparken. Framför allt var kräftskivan ett ytters krävande event att planera då ambitionerna uppgick i höjder som inte tidigare skådats i Mega6. Men nu med facit i hand kan vi stolt säga att det blev ett fenomenalt event och att vi ger nästa generation en god grund att planera nästa års kräftskiva på. Efter mottagningen, under hävda alkoholrestriktioner, har vi återgått till vår reguljära verksamhet. 
@@ -407,7 +406,7 @@ Det finns en avdelning/enhet vid CSE som heter något med Computer Science, så 
 
 === Förslag till beslut inför mötet
 #attSatser([
-  Att 1 kap. 1 § 2 stycket i stadgan ändras från
+  1 kap. 1 § 2 stycket i stadgan ändras från
 
   Vid översättning till engelska ska divisionens namn översättas till Division for Computer Science.
 
@@ -422,7 +421,7 @@ på båda språken.
 #attSatser([
   attsats 1 från motionen bifalles.
 ], [
-    Att 1 kap. 1 § 2 stycket i stadgan ändras från
+    1 kap. 1 § 2 stycket i stadgan ändras från
 
   Vid översättning till engelska ska divisionens namn översättas till Division for Computer Science.
 
@@ -442,7 +441,7 @@ på båda språken.
 #attSatser([
   attsats 1 från motionen bifalles.
 ], [
-    Att 1 kap. 1 § 2 stycket i stadgan ändras från
+    1 kap. 1 § 2 stycket i stadgan ändras från
 
   Vid översättning till engelska ska divisionens namn översättas till Division for Computer Science.
 
@@ -456,6 +455,7 @@ på båda språken.
 #attSatser([
   Attsats 2 bifalles
 ])
+
 
 #pagebreak()
 
@@ -732,7 +732,7 @@ Det röstas igenom
 
 === Beslut
 #attSatser([
-  Attsats 1 bifalles
+  Kevin "Petsson" Petterson väljs som ordförande för DV_Ops'24
 ])
 
 #pagebreak()
@@ -849,5 +849,5 @@ Upprätta en kommitté eller utskott som ansvarar för att organisera sittningar
 
 == Mötets avslutande
 Mötet planeras avslutas 19:51.
-// #pagebreak()
-// #signatures(stämma: true)
+#pagebreak()
+#signatures(stämma: true)
