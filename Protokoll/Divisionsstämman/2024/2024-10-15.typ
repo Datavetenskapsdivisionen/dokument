@@ -146,7 +146,7 @@ Styrelsen finner även det passande att sekreteraren för styrelsen även
 #attSatser(
   [ Gustav Dalemo väljs in som vice mötessekreterare. ]
 )
-
+#pagebreak()
 == Val av protokolljusterare
 Protokolljusterare har till uppgift att kontrollera att protokollet i slutändan reflekterar de faktiska besluten
 och diskussionerna som fördes under sammanträdet; samt agera rösträknare vid slutna omröstningar. Utöver
@@ -277,6 +277,7 @@ Ingen rapport.
 == DVarm
 Ingen rapport.
 
+#pagebreak()
 == ConCats
 Vi i ConCats har under året haft en hel del arr, både under insparken och utanför.
 Vi anser att dessa arr har varit lyckade och har uppnåt våra mål om att skapa en god gemenskap på DVD.
@@ -291,7 +292,7 @@ I framtiden har ConCats planerat arr för aspningen av ConCats som sammanfaller 
 Vi har även utöver aspningen planerat att fortsätta med ConCats night på samma vis då detta varit ett bra sätt att främja en god gemenskap. 
 
 Nikhil Olsson Mukhopadhyay 
-
+#pagebreak()
 == Mega7
 Det har varit ett spännande år för Mega 7, fyllt med växtkraft, idéer och framtida möjligheter! Även om vi inte har haft några stora synliga projekt detta år, har vår kommitté outtröttligt arbetat bakom kulisserna för att stärka vår mission i att vårda och sköta Monadens plastväxter. Vi har haft flertalet möten för att brainstorma kreativa lösningar och diskutera hur vi bäst kan bidra till att skapa en grönare och mer levande miljö – även om våra växter är av plast.
 
@@ -299,15 +300,14 @@ Vi har också använt tiden till att planera för framtida initiativ som kommer 
 
 
 // TODO bilden renderas ovanpå text
-#place(
-  center + bottom,
-  scale(
+
+#scale(
     x: 70%,
     y: 70%,
     reflow: true,
     image("2024-10-15-mega7.png")
   )
-)
+
 #pagebreak()
 
 #ordningsFråga([Anton Frost], [
@@ -619,10 +619,9 @@ Gustav "Görby" Dalemo
 // TODO
 #ordningsFråga([Jusera röstlängd], [
   Flera av mötets medlemmar behöver avvika. Vi behöver därför justera röstlängden.
-  
+
   #ordningsFrågaBody(
     förslag: "Justera röstlängd"
-  )
   )
 ])
 
@@ -748,15 +747,12 @@ Ida “iceByte” Vranvuk
 
 Nikhil “Minaj” Olsson Mukhopadhyay
 
-#place(
-  center,
-  scale(
+  #scale(
     x: 70%,
     y: 70%,
     reflow: true,
     image("2024-10-15-ida.jpeg")
   )
-)
 
 // TODO
 Styrelsen föreslår att genomföra omröstningen acklamation.
@@ -793,15 +789,14 @@ Ida “iceByte” Vranvuk
 
 Nikhil “Minaj” Olsson Mukhopadhyay
 
-#place(
-  center,
-  scale(
+
+#scale(
     x: 70%,
     y: 70%,
     reflow: true,
     image("2024-10-15-ida.jpeg")
   )
-)
+
 
 
 // === Utjustering:
