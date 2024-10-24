@@ -115,7 +115,7 @@ lualatex --output-directory=output/ styrdokument/Datavetenskapsdivisionen\ stadg
 | [Protokoll/Divisionsstämman/2023/2023-05-24.tex](Protokoll/Divisionsstämman/2023/2023-05-24.tex) | [✅ Signerad](https://drive.google.com/file/d/1m6wXRTKNv299VkRs0z9dRvHZtZA5pI4V/view?usp=sharing) |
 | [Protokoll/Divisionsstämman/2023/2023-11-30.typ](Protokoll/Divisionsstämman/2023/2023-11-30.typ) | [✅ Signerad](https://drive.google.com/file/d/1kfYLz2-A_0vy80zwuJhI1R18w2z8VPHI/view?usp=sharing) |
 | [Protokoll/Divisionsstämman/2024/2024-03-26.typ](Protokoll/Divisionsstämman/2024/2024-03-26.typ) | [✅ Signerad](https://drive.google.com/file/d/1-pgjaJakN5YZOsNgHwIlRyXQIM5f9ni_/view?usp=sharing) |
-| [Protokoll/Divisionsstämman/2024/2024-10-15.typ](Protokoll/Divisionsstämman/2024/2024-10-15.typ) | [❌ Saknas](mailto:styrelsen@dvet.se?subject=Dokument%20som%20saknas&body=Signerade%20PDF%20filen%20för%20Protokoll/Divisionsstämman/2024/2024-10-15.typ%20saknas!) |
+| [Protokoll/Divisionsstämman/2024/2024-10-15.typ](Protokoll/Divisionsstämman/2024/2024-10-15.typ) | [✅ Signerad](https://drive.google.com/file/d/1dCj3KwPHMbLrn4gR1JU-_EEnHCsTaxEU/view?usp=sharing) |
 ## Dokument/Extra - Signerat
 | Dokument | Link |
 | -------- | ---- |
