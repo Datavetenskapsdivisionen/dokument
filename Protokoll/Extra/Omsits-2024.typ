@@ -73,7 +73,7 @@ Mötet planeras att öppnas #time
 
 == Runda skålen
 Runda skålen innebär att varje person skålar! Detta görs med valjfri dryck
-men rekommenderat, per reglementet (12 kap. 3.1 § my ass), att drycken innehåler ethanol.
+men rekommenderat, per reglementet (12 kap. 3.1 § my ass), att drycken innehåller ethanol.
 
 #pagebreak()
 
