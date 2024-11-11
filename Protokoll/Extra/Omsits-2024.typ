@@ -341,10 +341,13 @@ kommer disktueras på mötet. En korsfästelse är inte nog.
 Kommer fylla ut här :)
 
 == Siffervisan
+Högra delen av bordet tar alla ojämna tal, vänstra gör motsats.\
+Vid fel inhaleras valfri dryck, och man kör om.
+
 1, 2, 75, 6, 7, 75, 6, 7, 75, 6, 7 #linebreak()
 1, 2, 75, 6, 7, 75, 6, 7, 73 #linebreak()
-107, 103, 102, 107, 6, 19, 27 #linebreak()
-17, 18, 16, 15, 13, 19, 14, 17 #linebreak()
+107, 103, 102, 107, 6, 19, 28 #linebreak()
+17, 18, 16, 12, 13, 19, 14, 17 #linebreak()
 19, 16, 15, 11, 8, 47!
 
 
@@ -356,27 +359,34 @@ När nästa stämma är, styrelsens arbeten, äskningar, och allt annat som kan 
 om bestäms här!
 
 == Min mamma
-[Start] #linebreak()
-Jag vet inte när jag blev lurad av dig #linebreak()
-Så jag bestämde mig: det måste ta slut #linebreak()
-Titta på mig nu, ska jag plugga? #linebreak()
-Jag vet inte vad som hände, jag tappade plötsligt kontrollen #linebreak()
-Det brinner i min själ
+#grid(
+  columns: (1fr, 1fr),
+  [
+    [Start] #linebreak()
+    Jag vet inte när jag blev lurad av dig #linebreak()
+    Så jag bestämde mig: det måste ta slut #linebreak()
+    Titta på mig nu, ska jag plugga? #linebreak()
+    Jag vet inte vad som hände, jag tappade plötsligt kontrollen #linebreak()
+    Det brinner i min själ
 
-[pre-chorus] #linebreak()
-Bara en blick och jag kan höra klockan #linebreak()
-En titt till, jag glömde allt, wow
+    [pre-chorus] #linebreak()
+    Bara en blick och jag kan höra klockan #linebreak()
+    En titt till, jag glömde allt, wow
 
-[kör] #linebreak()
-#"//:" Min Mamma, här kommer jag igen #linebreak()
-Min min, hur kan jag motstå dig? #linebreak()
-Min Mamma, har den dykt upp igen? #linebreak()
-Min min, vad jag saknar dig #linebreak()
-ja jag är hjärtbruten #linebreak()
-blå från dagen vi skildes åt #linebreak()
-Varför, varför släppte jag dig? #linebreak()
-Min Mamma, nu vet jag verkligen #linebreak()
-Min min, jag kan aldrig släppa dig #"://"
+    [kör] #linebreak()
+    #"//:" Min Mamma, här kommer jag igen #linebreak()
+    Min min, hur kan jag motstå dig? #linebreak()
+    Min Mamma, har den dykt upp igen? #linebreak()
+    Min min, vad jag saknar dig #linebreak()
+    ja jag är hjärtbruten #linebreak()
+    blå från dagen vi skildes åt #linebreak()
+    Varför, varför släppte jag dig? #linebreak()
+    Min Mamma, nu vet jag verkligen #linebreak()
+    Min min, jag kan aldrig släppa dig #"://"
+  ],
+  image("OmsitsArt/megaman-thicc.png")
+)
+
 
 === Förslag till beslut:
 #attSatser([banger?])
