@@ -4,7 +4,8 @@
 #show: setupDocument.with(
   union: [Göta Pisskår],
   time: time,
-  title: "Omsits"
+  date: datetime(year: 2024, month: 11, day: 22),
+  title: "- Avstänging"
 )
 
 #deltagere(
@@ -24,29 +25,24 @@
   [#v(spacing)#blank()], [#v(spacing)#blank()],
 )
 
-= Öppnande av möte
-Mötet planeras att öppnas #time
-
-= Runda bordet
-#formalia.rundaBordet
-
 #place(
   dx: 5cm,
-  dy: 2cm,
+  dy: 3cm,
   right + bottom,
   scale(x: 50%, y: 50%, image("OmsitsArt/diy.png"))
 )
 
 #place(
   dx: -2cm,
-  dy: 1cm,
+  dy: 3cm,
   right + bottom,
   scale(x: 50%, y: 30%, image("OmsitsArt/pen.png"))
 )
 
 #pagebreak()
+= Öppnande av möte
+Mötet planeras att öppnas #time
 
-= Formalia
 == Knö Daj In
 #blockqoute([
   Knô daj in fast dôrra é trång #linebreak()
@@ -71,6 +67,18 @@ Mötet planeras att öppnas #time
   detta häfte
 ])
 
+
+= Runda bordet
+#formalia.rundaBordet
+
+== Runda skålen
+Runda skålen innebär att varje person skålar! Detta görs med valjfri dryck
+men rekommenderat, per reglementet (12 kap. 3.1 § my ass), att drycken innehåler ethanol.
+
+#pagebreak()
+
+= Formalia
+
 == Styrelsens beslutbarhet
 #formalia.styrelsensBeslutbarhet
 
@@ -87,6 +95,13 @@ Mötet planeras att öppnas #time
   [ #blank() ]
 )
 
+#align(
+  center + horizon,
+  scale(x: 100%, y: 50%, reflow: true, 
+    image("OmsitsArt/megaman.png")
+  )
+)
+#pagebreak()
 == Fastställande av mötesschema
 #formalia.fastställandeAvMötesSchema
 
@@ -99,7 +114,6 @@ Mötet planeras att öppnas #time
     #blank()
   ]
 )
-
 === Beslut
 #attSatser(
   [ #blank() ],
@@ -197,6 +211,43 @@ möte med högst allvar.
 == Vice ordförande V2
 #threeBlanks()
 #pagebreak()
+== Jesus Lever
+#grid(
+  columns: (1fr, 1fr),
+  [
+    Jesus lever, han bor på Hissingen\
+    Han kör en Volvo och han är gift\
+    Han har en villa med rododendron\
+    Han sparar pengar och jobbar skift
+
+    Redan på lekis var han märklig\
+    Han ville inte leka krig\
+    Men när hans kompis, Knut, blev skjuten\
+    så lät han Jesus uppväcka sig
+
+    Jesus lever, han bor på Hissingen...
+
+    Han gick i skolan, som alla andra\
+    Han var rätt duktig på gymnastik\
+    å vilken kille han gick på vatten\
+    en gång så gick han till Reykjavik
+
+    Jesus lever, han bor på Hissingen...
+
+    I sina tonår så var han poppis\
+    Och han blev bjuden på varje fest\
+    Å vilken kille, han fick ju vatten\
+    att bli till rusdryck utan jäst
+
+    :\// Jesus lever, han bor på Hissingen... \//:
+  ],
+  image("OmsitsArt/jesus.jpg")
+)
+#align(right, [-- Jesus])
+
+#threeBlanks()
+
+#pagebreak()
 == Kassör
 #threeBlanks()
 == Kassör V2
@@ -205,6 +256,31 @@ möte med högst allvar.
 #threeBlanks()
 == SAMO V2
 #threeBlanks()
+#pagebreak()
+
+== Spritbolaget
+Till spritbolaget ränner jag,\
+och bankar på dess port.\
+Jag vill ha nå’t som bränner bra,\
+och får mig skitfull fort.\
+Expediten sade goda’,\
+hur gammal kan min herre va’.\
+Har du nåt leg, ditt fula drägg,\
+kom hit igen när du har fått skägg!
+
+Nej, detta var ju inte bra,\
+jag skall bli full ikväll.\
+Då plötsligt en ide jag fick,\
+de har ju sprit på Shell.\
+Många flaskor stod där på ra’.\
+Så nu kan jag bli full och gla’.\
+Den röda drycken åkte ner,\
+nu kan jag inte se nåtmer!
+#align(right, [-- Jesus])
+
+#threeBlanks()
+
+
 #pagebreak()
 == Sekreterare
 #threeBlanks()
@@ -227,19 +303,39 @@ Har något hänt, ska kåren stjäla fler lokaler, eller har kassören kissat ne
 Allt kan pratas om här!
 
 == En MegaMan
-#"//:" #linebreak()
-En MegaMan #linebreak()
-En MegaMan #linebreak()
-Det är ju ingen ProtoMan #linebreak()
-Och är man ingen ProtoMan #linebreak()
-Så är man ändå en MegaMan 
+#grid(
+  columns: (1fr, 1fr),
+  [
+    #"//:" #linebreak()
+    En MegaMan #linebreak()
+    En MegaMan #linebreak()
+    Det är ju ingen ProtoMan #linebreak()
+    Och är man ingen ProtoMan #linebreak()
+    Så är man ändå en MegaMan 
 
-En ProtoMan #linebreak()
-En ProtoMan #linebreak()
-Det är ju ingen MegaMan #linebreak()
-Och är man ingen MegaMan #linebreak()
-Så är man ändå en ProtoMan #linebreak()
-#"://"
+    En ProtoMan #linebreak()
+    En ProtoMan #linebreak()
+    Det är ju ingen MegaMan #linebreak()
+    Och är man ingen MegaMan #linebreak()
+    Så är man ändå en ProtoMan #linebreak()
+    #"://"
+  ],
+  align(center, 
+    scale(x: 100%,y: 80%, reflow: true, image("OmsitsArt/alpha.jpg"))
+  )
+)
+
+#pagebreak()
+
+== Josefins synder
+Som alla är medvetna om är Josefin en syndare. Detta måste åtgärdas och 
+kommer disktueras på mötet. En korsfästelse är inte nog.
+
+#align(center, scale(x: 70%, y: 70%, reflow: true,image("OmsitsArt/offer.jpg")))
+
+#threeBlanks()
+
+#pagebreak()
 
 == Skämmiga skämt med mera
 Kommer fylla ut här :)
@@ -250,6 +346,7 @@ Kommer fylla ut här :)
 107, 103, 102, 107, 6, 19, 27 #linebreak()
 17, 18, 16, 15, 13, 19, 14, 17 #linebreak()
 19, 16, 15, 11, 8, 47!
+
 
 #pagebreak()
 
@@ -295,12 +392,27 @@ Styrelsen börjar bli törstig
 === Förslag till beslut:
 #attSatser([styrelsen dricker.])
 
+== Orgel till styrelserummet
+Styrelsen har länge diskuterat att införskaffa en orgel för ambians på
+styrelsemöten. Gustav Dalemo har starkt rekommenderat en Opus Choir 360E
+för 161718,66kr.
+
+=== Förslag till beslut:
+#attSatser([styrelsen äskar till Chalmers Studentkår för 2000000,66kr])
+
 === Beslut:
 #attSatser([#blank()])
 
 
-== Skämmiga skämt med mera
-Kommer fylla ut här :)
+== Avstänging av nuvarande styrelse
+Nuvarande styrelse är inkompetent. De har spenderat 10000,78kr på en orgel,
+korsfäst SAMO och ätit kokta mozarella sticks. Vad fan ska vi göra med dom?
+
+=== Förslag till beslut:
+#attSatser([#blank()])
+
+=== Beslut:
+#attSatser([#blank()])
 
 #pagebreak()
 = Avslutande av möte
@@ -368,3 +480,6 @@ får det va ́ till sämre dar. #"://"
   v(0.5cm)
   blank()
 }
+
+#pagebreak()
+#align(center + horizon, image("OmsitsArt/cat7.jpg"))
