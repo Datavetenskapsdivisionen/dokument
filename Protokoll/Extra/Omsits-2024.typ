@@ -44,28 +44,32 @@
 Mötet planeras att öppnas #time
 
 == Knö Daj In
-#blockqoute([
-  Knô daj in fast dôrra é trång #linebreak()
-  för här é änna nǻ t på gång. 
+#grid(
+  columns: (1.5fr, 1fr),
+  blockqoute([
+    Knô daj in fast dôrra é trång #linebreak()
+    för här é änna nǻ t på gång. 
 
 
-  När som du känner dig joggens vessen, #linebreak()
-  ta dig en frikväll, du kan adressen.
+    När som du känner dig joggens vessen, #linebreak()
+    ta dig en frikväll, du kan adressen.
 
 
-  Kom å lyssna till skrölet, #linebreak()
-  det skummar utav ölet, #linebreak()
-  å alla gamla tjommarna é här!
+    Kom å lyssna till skrölet, #linebreak()
+    det skummar utav ölet, #linebreak()
+    å alla gamla tjommarna é här!
 
 
-  Det trängs å dé brôtas #linebreak()
-  kring desken det tjôtas, #linebreak()
-  secken festlig atmosfär.
-],[
-  3 kap. 3.0
-], [
-  detta häfte
-])
+    Det trängs å dé brôtas #linebreak()
+    kring desken det tjôtas, #linebreak()
+    secken festlig atmosfär.
+  ],[
+    3 kap. 3.0
+  ], [
+    detta häfte
+  ]),
+  scale(x: 90%, y: 90%, reflow: true,image("OmsitsArt/yum.jpg"))
+)
 
 
 = Runda bordet
@@ -354,7 +358,7 @@ Vid fel inhaleras valfri dryck, och man kör om.
 #pagebreak()
 
 = Beslutspunkter
-Här bestämmer disktuerar och *bestämmer* styrelsen diverse saker. 
+Här disktuerar och *bestämmer* styrelsen diverse saker. 
 När nästa stämma är, styrelsens arbeten, äskningar, och allt annat som kan bestämmas 
 om bestäms här!
 
@@ -396,11 +400,40 @@ om bestäms här!
 
 #pagebreak()
 
-== En till shot 
-Styrelsen börjar bli törstig
+== Nytt bord i styrelserummet
+#grid(
+  columns: (1fr, 1fr),
+  inset: 0.5cm,
+  image("OmsitsArt/new table.jpg"),
+  [
+    Styrelsen finner att vi behöver skaffa ett nytt bord, då vi känner att
+    en uppenbar upgradering behövs.
+  ],
+)
+
 
 === Förslag till beslut:
-#attSatser([styrelsen dricker.])
+#attSatser([#blank()])
+
+=== Beslut:
+#attSatser([#blank()])
+
+#pagebreak()
+
+#grid(
+  columns: (1fr, 1fr),
+  [
+    == En till shot 
+    Styrelsen börjar bli törstig
+
+    === Förslag till beslut:
+    #attSatser([styrelsen dricker.])
+
+    === Beslut:
+    #attSatser([#blank()])
+  ],
+  align(center, image("OmsitsArt/fisk.jpg"))
+)
 
 == Orgel till styrelserummet
 Styrelsen har länge diskuterat att införskaffa en orgel för ambians på
@@ -413,7 +446,7 @@ för 161718,66kr.
 === Beslut:
 #attSatser([#blank()])
 
-
+#pagebreak()
 == Avstänging av nuvarande styrelse
 Nuvarande styrelse är inkompetent. De har spenderat 10000,78kr på en orgel,
 korsfäst SAMO och ätit kokta mozarella sticks. Vad fan ska vi göra med dom?
