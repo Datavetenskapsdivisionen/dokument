@@ -22,7 +22,7 @@
         buildInputs = [
           pkgs.typst
           pkgs.typstfmt
-          pkgs.typst-lsp
+          pkgs.tinymist
         ];
       };
     });
