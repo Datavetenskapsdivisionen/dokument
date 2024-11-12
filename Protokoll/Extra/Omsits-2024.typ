@@ -77,7 +77,7 @@ Mötet planeras att öppnas #time
 
 == Runda skålen
 Runda skålen innebär att varje person skålar! Detta görs med valjfri dryck
-men rekommenderat, per reglementet (12 kap. 3.1 § my ass), att drycken innehåller ethanol.
+men rekommenderat, per reglemenetet (12 kap. 3.1 § my ass), att drycken innehåller ethanol.
 
 #pagebreak()
 
@@ -190,9 +190,9 @@ möte med högst allvar.
 #place(
   dy: -1cm,
   scale(
-    x: 100%,
-    y: 50%,
-    image("OmsitsArt/cat5.jpg")
+    x: 70%,
+    y: 70%,
+    image("OmsitsArt/raccoon- dinner.jpg")
   )
 )
 #pagebreak()
@@ -207,13 +207,19 @@ möte med högst allvar.
 ]
 = Rapport
 == Ordförande
-#threeBlanks()
+#grid(
+  columns: (1fr, 1fr),
+  threeBlanks(),
+  scale(x: 200%, y:50%, reflow: true,image("OmsitsArt/god.jpg"))
+)
 == Ordförande V2
 #threeBlanks()
 == Vice ordförande
 #threeBlanks()
 == Vice ordförande V2
-#threeBlanks()
+#blank()
+#v(10pt)
+#blank()
 #pagebreak()
 == Jesus Lever
 #grid(
@@ -263,23 +269,30 @@ möte med högst allvar.
 #pagebreak()
 
 == Spritbolaget
-Till spritbolaget ränner jag,\
-och bankar på dess port.\
-Jag vill ha nå’t som bränner bra,\
-och får mig skitfull fort.\
-Expediten sade goda’,\
-hur gammal kan min herre va’.\
-Har du nåt leg, ditt fula drägg,\
-kom hit igen när du har fått skägg!
+#grid(
+  columns: (1fr, 1fr),
+  column-gutter: 10pt,
+  image("OmsitsArt/drink.jpg"),
+  [
+    Till spritbolaget ränner jag,\
+    och bankar på dess port.\
+    Jag vill ha nå’t som bränner bra,\
+    och får mig skitfull fort.\
+    Expediten sade goda’,\
+    hur gammal kan min herre va’.\
+    Har du nåt leg, ditt fula drägg,\
+    kom hit igen när du har fått skägg!
 
-Nej, detta var ju inte bra,\
-jag skall bli full ikväll.\
-Då plötsligt en ide jag fick,\
-de har ju sprit på Shell.\
-Många flaskor stod där på ra’.\
-Så nu kan jag bli full och gla’.\
-Den röda drycken åkte ner,\
-nu kan jag inte se nåtmer!
+    Nej, detta var ju inte bra,\
+    jag skall bli full ikväll.\
+    Då plötsligt en ide jag fick,\
+    de har ju sprit på Shell.\
+    Många flaskor stod där på ra’.\
+    Så nu kan jag bli full och gla’.\
+    Den röda drycken åkte ner,\
+    nu kan jag inte se nåtmer!
+  ]
+)
 #align(right, [-- Jesus])
 
 #threeBlanks()
@@ -348,11 +361,18 @@ Kommer fylla ut här :)
 Högra delen av bordet tar alla ojämna tal, vänstra gör motsats.\
 Vid fel inhaleras valfri dryck, och man kör om.
 
-1, 2, 75, 6, 7, 75, 6, 7, 75, 6, 7 #linebreak()
-1, 2, 75, 6, 7, 75, 6, 7, 73 #linebreak()
-107, 103, 102, 107, 6, 19, 28 #linebreak()
-17, 18, 16, 12, 13, 19, 14, 17 #linebreak()
-19, 16, 15, 11, 8, 47!
+#grid(
+  columns: (1fr, 1fr),
+  [
+    1, 2, 75, 6, 7, 75, 6, 7, 75, 6, 7 #linebreak()
+    1, 2, 75, 6, 7, 75, 6, 7, 73 #linebreak()
+    107, 103, 102, 107, 6, 19, 28 #linebreak()
+    17, 18, 16, 12, 13, 19, 14, 17 #linebreak()
+    19, 16, 15, 11, 8, 47!
+  ],
+  align(center,scale(x: 70%, y: 40%, reflow: true, image("OmsitsArt/cat5.jpg")))
+)
+
 
 
 #pagebreak()
