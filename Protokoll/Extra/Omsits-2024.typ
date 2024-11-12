@@ -219,7 +219,7 @@ möte med högst allvar.
 #grid(
   columns: (1fr, 1fr),
   [
-    Jesus lever, han bor på Hissingen\
+    Jesus lever, han bor på Hisingen\
     Han kör en Volvo och han är gift\
     Han har en villa med rododendron\
     Han sparar pengar och jobbar skift
@@ -229,21 +229,21 @@ möte med högst allvar.
     Men när hans kompis, Knut, blev skjuten\
     så lät han Jesus uppväcka sig
 
-    Jesus lever, han bor på Hissingen...
+    Jesus lever, han bor på Hisingen...
 
     Han gick i skolan, som alla andra\
     Han var rätt duktig på gymnastik\
     å vilken kille han gick på vatten\
     en gång så gick han till Reykjavik
 
-    Jesus lever, han bor på Hissingen...
+    Jesus lever, han bor på Hisingen...
 
     I sina tonår så var han poppis\
     Och han blev bjuden på varje fest\
     Å vilken kille, han fick ju vatten\
     att bli till rusdryck utan jäst
 
-    :\// Jesus lever, han bor på Hissingen... \//:
+    :\// Jesus lever, han bor på Hisingen... \//:
   ],
   image("OmsitsArt/jesus.jpg")
 )
@@ -407,7 +407,8 @@ om bestäms här!
   image("OmsitsArt/new table.jpg"),
   [
     Styrelsen finner att vi behöver skaffa ett nytt bord, då vi känner att
-    en uppenbar upgradering behövs.
+    en uppenbar upgradering behövs. SAMO finner att detta är en brilliant idé
+    och har personliga rekommendationer på bord. 
   ],
 )
 
