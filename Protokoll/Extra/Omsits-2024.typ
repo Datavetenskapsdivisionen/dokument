@@ -77,7 +77,7 @@ Mötet planeras att öppnas #time
 
 == Runda skålen
 Runda skålen innebär att varje person skålar! Detta görs med valjfri dryck
-men rekommenderat, per reglemenetet (12 kap. 3.1 § my ass), att drycken innehåller ethanol.
+men rekommenderat, per reglemenetet (12 kap. 3.1 § my ass), att drycken innehåller etanol.
 
 #pagebreak()
 
@@ -482,20 +482,29 @@ korsfäst SAMO och ätit kokta mozarella sticks. Vad fan ska vi göra med dom?
 = Avslutande av möte
 
 == Punchen kommer...
-Punschen kommer, #linebreak()
-punschen kommer #linebreak()
-ljuv och sval. #linebreak()
-Glasen imma, #linebreak()
-röster stimma #linebreak()
-i vår sal. #linebreak()
-Skål för glada minnen! #linebreak()
-Skål för varje vår! #linebreak()
-Inga sorger finnas mer, #linebreak()
-när punsch vi får! #linebreak()
+#grid(
+  columns: (1fr, 1fr),
+  [
+    Punschen kommer, #linebreak()
+    punschen kommer #linebreak()
+    ljuv och sval. #linebreak()
+    Glasen imma, #linebreak()
+    röster stimma #linebreak()
+    i vår sal. #linebreak()
+    Skål för glada minnen! #linebreak()
+    Skål för varje vår! #linebreak()
+    Inga sorger finnas mer, #linebreak()
+    när punsch vi får! #linebreak()
 
-Raj, raj, raj, raj, raj #linebreak()
+    Raj, raj, raj, raj, raj #linebreak()
 
-Punschen kommer...
+    Punschen kommer...
+  ],
+  align(
+    center+horizon,
+    scale(x:100%,y:110%, reflow: true, image("OmsitsArt/theo.jpg"))
+  )
+)
 
 == Nästa möte
 #v(0.5cm)
@@ -503,21 +512,30 @@ Punschen kommer...
 
 #pagebreak()
 == Djungelpunchen
-Punsch till frukost, punsch till lunch, #linebreak()
-en punsch till förrätt, varmrätt och dessert. #linebreak()
-Jag gillar punsch för vet du vad, #linebreak()
-rent kaffe gör ju ingen glad. #linebreak()
-Så punsch för fulla muggar vill jag ha.
-
-Med konjak du lockar. #linebreak()
-Den bästa Renault. #linebreak()
-Förlåt om jag chockar #linebreak()
-och tar punsch ändå. #linebreak()
-Och bjuder du på fin likör #linebreak()
-får du ursäkta om det stör. #linebreak()
-Jag väljer hellre Grönstedts Blå, #linebreak()
-en Cederlunds eller Flaggpunsch å #linebreak()
-kanske har du ren Platin?
+#grid(
+  columns: (1fr, 1fr),
+  [
+    Punsch till frukost, punsch till lunch, #linebreak()
+    en punsch till förrätt, varmrätt och dessert. #linebreak()
+    Jag gillar punsch för vet du vad, #linebreak()
+    rent kaffe gör ju ingen glad. #linebreak()
+    Så punsch för fulla muggar vill jag ha.
+    
+    Med konjak du lockar. #linebreak()
+    Den bästa Renault. #linebreak()
+    Förlåt om jag chockar #linebreak()
+    och tar punsch ändå. #linebreak()
+    Och bjuder du på fin likör #linebreak()
+    får du ursäkta om det stör. #linebreak()
+    Jag väljer hellre Grönstedts Blå, #linebreak()
+    en Cederlunds eller Flaggpunsch å #linebreak()
+    kanske har du ren Platin?
+  ],
+  align(
+    center+horizon,
+    scale(x:100%,y:70%, reflow: true, image("OmsitsArt/tim.jpg"))
+  )
+)
 
 == Mötets avslutande
 #v(0.5cm)
