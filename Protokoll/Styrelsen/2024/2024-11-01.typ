@@ -9,11 +9,11 @@
 
 #deltagere(
     styrelsen: true, 
-    [Ordförande], [Ja],
-    [Vice Ordförande], [Ja på länk],
-    [Kassör], [Ja],
-    [SAMO], [Ja på länk],
-    [Sekreterare], [Ja på länk],
+    [Samuel Hammersberg], [Ja],
+    [Tim Persson], [Ja på länk],
+    [Lukas Gartman], [Ja],
+    [Josefin Kokkinakis], [Ja på länk],
+    [Gustav Dalemo], [Ja på länk],
 )
 
 = Öppnande av möte
