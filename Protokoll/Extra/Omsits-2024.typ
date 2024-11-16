@@ -38,6 +38,21 @@
   right + bottom,
   scale(x: 50%, y: 30%, image("OmsitsArt/pen.png"))
 )
+#pagebreak()
+
+== Regler
+- Mötesordförande har alltid rätt!
+- Intagen föda återges i Monaden
+- Har du problem med bordsgrannen, kontakta SAMO
+- Dörrar med höga trösklar, är fönster, och får ej beträdas, 
+  förutom i slutet av mötet, då alla måste lämna lokalen genom ett.
+- För att få göra tempo, se till att du först blir uppskriven på talarlistan
+  av vice-mötesordförande (vi har ingen sådan på ett styrelsemöte)
+- Gũckel uppskattas och får göras närsom. Detta görs genom att ställa säga
+  upp och yttra orden "Nu ska jag gũckla!".
+- Spill av dryck städas upp av aspar. 
+- Håll i mitten av bordet, undvik stolpen.
+
 
 #pagebreak()
 = Öppnande av möte
@@ -354,8 +369,13 @@ kommer disktueras på mötet. En korsfästelse är inte nog.
 
 #pagebreak()
 
-== Skämmiga skämt med mera
-Kommer fylla ut här :)
+== Hantera Gustav Dalemos kannibalistiska tendenser
+Gustav har länge yttrat sig själv som en vegan. 
+Men styrelsen vet sanningen... Vad hände med Abraham...?
+Rampen kom upp, men så såg vi honom aldrig igen...
+Gustav får försvara sig själv på mötet.
+
+#threeBlanks()
 
 == Siffervisan
 Högra delen av bordet tar alla ojämna tal, vänstra gör motsats.\
@@ -366,14 +386,18 @@ Vid fel inhaleras valfri dryck, och man kör om.
   [
     1, 2, 75, 6, 7, 75, 6, 7, 75, 6, 7 #linebreak()
     1, 2, 75, 6, 7, 75, 6, 7, 73 #linebreak()
-    107, 103, 102, 107, 6, 19, 28 #linebreak()
+    107, 103, 139, 107, 6, 19, 28 #linebreak()
     17, 18, 16, 12, 13, 19, 14, 17 #linebreak()
     19, 16, 15, 11, 8, 47!
   ],
   align(center,scale(x: 70%, y: 40%, reflow: true, image("OmsitsArt/cat5.jpg")))
 )
 
+== Yum yum yum!
+Josefin, vår SAMO, har länge yrkat för olivspads-dshots åt befolkningen.
+Resterande styrelse anser att detta är sjukt betéende. Hon får nu bevisa att detta är gott.
 
+#threeBlanks()
 
 #pagebreak()
 
@@ -420,11 +444,29 @@ om bestäms här!
 
 #pagebreak()
 
+== Dråp
+Tim sköt en treåring. Surprise, surprise. Han får förklara.
+=== Förslag till beslut:
+#attSatser([#blank()])
+=== Beslut:
+#attSatser([#blank()])
+
+== Samuels bedrägeri
+Under mottagningen kom det in många fakturor, men efter en undersökning så har det kommit
+fram till att Samuel har förfalskat många av dom. Samuel tog pengarna och spenderade detta på 
+markandsföring på sitt OnlyFeet#emoji.tm konto, men sen dök fotvårtan(#emoji.face.sad) upp.
+=== Förslag till beslut:
+#attSatser([#blank()])
+=== Beslut:
+#attSatser([#blank()])
+
+#pagebreak()
+
 == Nytt bord i styrelserummet
 #grid(
   columns: (1fr, 1fr),
   inset: 0.5cm,
-  image("OmsitsArt/new table.jpg"),
+  scale(x:80%, y:80%,reflow: true, image("OmsitsArt/new table.jpg")),
   [
     Styrelsen finner att vi behöver skaffa ett nytt bord, då vi känner att
     en uppenbar upgradering behövs. SAMO finner att detta är en brilliant idé
@@ -432,10 +474,34 @@ om bestäms här!
   ],
 )
 
-
 === Förslag till beslut:
 #attSatser([#blank()])
+=== Beslut:
+#attSatser([#blank()])
 
+== Orgel till styrelserummet
+Styrelsen har länge diskuterat att införskaffa en orgel för ambians på
+styrelsemöten. Gustav Dalemo har starkt rekommenderat en Opus Choir 360E
+för 161718,66kr.
+
+=== Förslag till beslut:
+#attSatser([styrelsen äskar till Chalmers Studentkår för 2000000,66kr])
+
+=== Beslut:
+#attSatser([#blank()])
+
+#pagebreak()
+== PR Dilema
+Lukas har skickat in dokument till banken om att byta namn på föreningen till 
+"Lukas Lilla Änglar" (LLÄ),
+och det blev jobbigt nog godkänt.
+Enligt svensk lag paragraf 720 § 41 får föreningar bara byta namn var sjätte år. 
+Föreningen står nu inför en PR kris då 
+Göta har tvingat oss byta logga för att visa korrekt vad vi står för.
+=== Förslag till beslut:
+#attSatser([rösta in följande logga:
+    #block(width: 10cm, height: 10cm, stroke: black)
+])
 === Beslut:
 #attSatser([#blank()])
 
@@ -455,17 +521,6 @@ om bestäms här!
   ],
   align(center, image("OmsitsArt/fisk.jpg"))
 )
-
-== Orgel till styrelserummet
-Styrelsen har länge diskuterat att införskaffa en orgel för ambians på
-styrelsemöten. Gustav Dalemo har starkt rekommenderat en Opus Choir 360E
-för 161718,66kr.
-
-=== Förslag till beslut:
-#attSatser([styrelsen äskar till Chalmers Studentkår för 2000000,66kr])
-
-=== Beslut:
-#attSatser([#blank()])
 
 #pagebreak()
 == Avstänging av nuvarande styrelse
@@ -564,4 +619,5 @@ får det va ́ till sämre dar. #"://"
 }
 
 #pagebreak()
-#align(center + horizon, image("OmsitsArt/cat7.jpg"))
+#align(center + horizon, 
+image("OmsitsArt/cat7.jpg"))
