@@ -454,7 +454,7 @@ Tim sköt en treåring. Surprise, surprise. Han får förklara.
 == Samuels bedrägeri
 Under mottagningen kom det in många fakturor, men efter en undersökning så har det kommit
 fram till att Samuel har förfalskat många av dom. Samuel tog pengarna och spenderade detta på 
-markandsföring på sitt OnlyFeet#emoji.tm konto, men sen dök fotvårtan(#emoji.face.sad) upp.
+markandsföring på sitt OnlyFeet#emoji.tm konto, men sen dök den sjätte tån(#emoji.face.sad) upp.
 === Förslag till beslut:
 #attSatser([#blank()])
 === Beslut:
