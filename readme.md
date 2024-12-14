@@ -123,3 +123,9 @@ lualatex --output-directory=output/ styrdokument/Datavetenskapsdivisionen\ stadg
 | Dokument | Link |
 | -------- | ---- |
 | [Protokoll/Extra/Omsits-2024.typ](Protokoll/Extra/Omsits-2024.typ) | [❌ Saknas](mailto:styrelsen@dvet.se?subject=Dokument%20som%20saknas&body=Signerade%20PDF%20filen%20för%20Protokoll/Extra/Omsits-2024.typ%20saknas!) |
+| [Protokoll/Extra/Roast/Daniell.typ](Protokoll/Extra/Roast/Daniell.typ) | [❌ Saknas](mailto:styrelsen@dvet.se?subject=Dokument%20som%20saknas&body=Signerade%20PDF%20filen%20för%20Protokoll/Extra/Roast/Daniell.typ%20saknas!) |
+| [Protokoll/Extra/Roast/Hannes.typ](Protokoll/Extra/Roast/Hannes.typ) | [❌ Saknas](mailto:styrelsen@dvet.se?subject=Dokument%20som%20saknas&body=Signerade%20PDF%20filen%20för%20Protokoll/Extra/Roast/Hannes.typ%20saknas!) |
+| [Protokoll/Extra/Roast/IdaV.typ](Protokoll/Extra/Roast/IdaV.typ) | [❌ Saknas](mailto:styrelsen@dvet.se?subject=Dokument%20som%20saknas&body=Signerade%20PDF%20filen%20för%20Protokoll/Extra/Roast/IdaV.typ%20saknas!) |
+| [Protokoll/Extra/Roast/Idar.typ](Protokoll/Extra/Roast/Idar.typ) | [❌ Saknas](mailto:styrelsen@dvet.se?subject=Dokument%20som%20saknas&body=Signerade%20PDF%20filen%20för%20Protokoll/Extra/Roast/Idar.typ%20saknas!) |
+| [Protokoll/Extra/Roast/Nikhil.typ](Protokoll/Extra/Roast/Nikhil.typ) | [❌ Saknas](mailto:styrelsen@dvet.se?subject=Dokument%20som%20saknas&body=Signerade%20PDF%20filen%20för%20Protokoll/Extra/Roast/Nikhil.typ%20saknas!) |
+| [Protokoll/Extra/Roast/RoastTemplate.typ](Protokoll/Extra/Roast/RoastTemplate.typ) | [❌ Saknas](mailto:styrelsen@dvet.se?subject=Dokument%20som%20saknas&body=Signerade%20PDF%20filen%20för%20Protokoll/Extra/Roast/RoastTemplate.typ%20saknas!) |
