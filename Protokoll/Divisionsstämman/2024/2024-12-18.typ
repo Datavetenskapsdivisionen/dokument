@@ -560,6 +560,34 @@ Revisor
 
 = Inval
 Inval av personer till förtroendeposterna som väljs in av Divisionsstämman. Dessa väljs in för en ordinarie mandatperiod, vilket sträcker sig från 1 januari till 31 december.
+
+== Mega6'25
+Mega6 ansvarar för festligheter.
+
+=== Inkomna nomineringar inför mötet
+Efter en mycket hård och långvarig gallring så har nu Mega6’24 kommit fram till sina medlems rekommendationer, och nominering till ordförande för Mega6’25. 
+
+Vi rekommenderar följande medlemmar:\
+Gustav “Bävern” Richter\
+Angelika “Hex” Hagberg\
+Aowis “Mirage” Tabbaa\
+Hannes “Belfort” Carlsson\
+Ida “IceByte” Vranvuk\
+Isac “Zucc” Ekeroth\
+Max “Ark” Rydberg\
+Nikhil “Minaj” Olsson Mukhopadhyay\
+Robin “Mr Cake” Persson\
+Vanja “alpha” Utberg
+
+\- Kristoffer “KG” "Schlätta" Gustafsson, Ordförande Mega6’24
+\- Lukas “Lucky” Gartman, Mega6’24
+\- Angelika “Hex” Hagberg, Mega6’24
+\- Ida “Poppi” Kjellerstedt, Mega6’24
+\- Gustav “Bävern” Richter, Mega6’24
+
+Vi nominerar Gustav “Bävern” Richter som ordförande för Mega6 mandatperiod 2025
+#pagebreak()
+
 == DVRK'25
 DVRK ansvarar för mottagningen!
 
@@ -608,32 +636,6 @@ Från Ida Vranvuk och Nikhil Olsson Mukhopadhyay
 
 Pick me, choose me, love me, vi nominerar\
 • Ida Vranvuk
-
-== Mega6'25
-Mega6 ansvarar för festligheter.
-
-=== Inkomna nomineringar inför mötet
-Efter en mycket hård och långvarig gallring så har nu Mega6’24 kommit fram till sina medlems rekommendationer, och nominering till ordförande för Mega6’25. 
-
-Vi rekommenderar följande medlemmar:\
-Gustav “Bävern” Richter\
-Angelika “Hex” Hagberg\
-Aowis “Mirage” Tabbaa\
-Hannes “Belfort” Carlsson\
-Ida “IceByte” Vranvuk\
-Isac “Zucc” Ekeroth\
-Max “Ark” Rydberg\
-Nikhil “Minaj” Olsson Mukhopadhyay\
-Robin “Mr Cake” Persson\
-Vanja “alpha” Utberg
-
-\- Kristoffer “KG” "Schlätta" Gustafsson, Ordförande Mega6’24
-\- Lukas “Lucky” Gartman, Mega6’24
-\- Angelika “Hex” Hagberg, Mega6’24
-\- Ida “Poppi” Kjellerstedt, Mega6’24
-\- Gustav “Bävern” Richter, Mega6’24
-
-Vi nominerar Gustav “Bävern” Richter som ordförande för Mega6 mandatperiod 2025
 
 == ConCats'25
 ConCats har hand om Monaden.
