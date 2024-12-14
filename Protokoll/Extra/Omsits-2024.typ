@@ -524,8 +524,8 @@ Göta har tvingat oss byta logga för att visa korrekt vad vi står för.
 
 #pagebreak()
 == Avstänging av nuvarande styrelse
-Nuvarande styrelse är inkompetent. De har spenderat 10000,78kr på en orgel,
-korsfäst SAMO och ätit kokta mozarella sticks. Vad fan ska vi göra med dom?
+Nuvarande styrelse är inkompetent. De har spenderat 10000,78kr på en orgel, skjutit treåringar,
+kannibaliserat studenter, korsfäst SAMO och ätit kokta mozarella sticks. Vad fan ska vi göra med dom?
 
 === Förslag till beslut:
 #attSatser([#blank()])
