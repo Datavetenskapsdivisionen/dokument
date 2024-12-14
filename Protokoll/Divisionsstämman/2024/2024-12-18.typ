@@ -666,7 +666,7 @@ Mega7 ansvarar för att vattna gräsmattan utanför Monaden.
 _Styrelsen har ej fått in några nominering innan stämman._
 
 == Styrelse Ordförande'25
-Styrelsens ordförande har i jobb att leda föreningen.
+Styrelsens ordförande har i jobb att leda styrelsen.
 
 === Inkomna nomineringar inför mötet
 Ida Vranvuk har länge varit en otroligt aktiv medlem i vår förening. 
