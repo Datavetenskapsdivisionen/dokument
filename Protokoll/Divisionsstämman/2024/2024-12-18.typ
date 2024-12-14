@@ -223,7 +223,16 @@ Ingen rapport.
 Ingen rapport.
 
 == ConCats
-TODO
+
+Vi har sedan senaste stämman fokuserat på aspningen. Denna har inkluderat ett flertal arr varav en del varit mer populära än andra.
+
+ConCats har även fortsatt med ConCats night som vanligt i samband med aspningen vilket vi anser var lyckat.
+Ingen ConCats night har arrangerats i December månad men en fortsättning av denna tradition anser vi kommer främja ConCats mål väl, vi rekomenderar nästkommande ConCats att fortsätta detta.
+
+Mer praktiskt har ConCats tagit fram ett förslag till utökning av kökets förvaring samt jobbat på att hålla monaden någolunda renlig. En Storstädning planeras till efter jul vilket kommer kommuniceras till nästkommande sittande.
+Kyl och frys har även städats ur helt och frysen defrostats då en sådan städning var behövd. I samband med detta har även mer strikta reglar för kylskåpet satts up som vi önskar att alla följer. För klagomol eller frågor kontakta gärna ConCats.
+
+\- ConCats'24
 
 == Mega7
 TODO
@@ -700,11 +709,13 @@ Inköp av en "KALLAX" hylla från IKEA för 399kr. Får plats under nuvarande b�
 === Höger vägg (Mot masters rummet)
 
 Inköp av tre "BURHULT" + "SIBBHULT" combos (hyllplan + monteringshårdvara) till en kostnad av 49kr/st för att:
-förlänga nuvarande hyllplan
-sätta upp en ny hylla ovanför den innersta kylen (längst mot fönstret)
+* förlänga nuvarande hyllplan
+* sätta upp en ny hylla ovanför den innersta kylen (längst mot fönstret)
 
+ConCats vill även notera att cirkulärbutiken och andra second hand alternativ är bra val för billiga hyllor av liknande storlek. Dessa är inte inkluderade här då utbudet av varor konstant varierar och inget kan garanteras.
 
-Detta bör, tillsamans med hyllan ovan, ge mycket mer utrymme för förvaring.
+Detta bör, tillsamans med hyllan ovan, ge mycket mer utrymme för förvaring 
+
 
 \- ConCats'24
 
