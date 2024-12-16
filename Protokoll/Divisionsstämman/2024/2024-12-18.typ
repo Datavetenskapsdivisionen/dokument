@@ -259,7 +259,7 @@ Sedan senaste stämman har jag i vanlig ordning fört protokoll under styrelsem�
 #pagebreak()
 
 == Revisionsberättelse
-TODO
+Muntlig rapport på stämman.
 
 == MEGA6
 Sen i oktober har Mega6 mest ägnat sig åt sin aspning och inval för mandatperioden 2025. Våra events sedan dess har varit Bubbel provning, Halloween sittningen, Edward kir hands, Fulsittningen, ett chill krök, och Glöggkväll. Verksamheten har smidigt flutit på då vi har anammat rutiner och beprövade tillvägagångssätt. För Mega6’25 kvarstår att bevara dessa lärdomar för kommande generationer. 
@@ -267,7 +267,7 @@ Sen i oktober har Mega6 mest ägnat sig åt sin aspning och inval för mandatper
 \- Mega6'24
 
 == Femme++
-TODO
+Muntlig rapport på stämman.
 
 == Studienämnden
 Vi höll i ett kursutvärderingsfika i Monaden efter första läsperioden. Det var lyckat. 
@@ -302,7 +302,15 @@ Kyl och frys har även städats ur helt och frysen defrostats då en sådan stä
 \- ConCats'24
 
 == Mega7
-TODO
+Muntlig rapport på stämman.
+
+#pagebreak()
+
+= Beslutspunkter
+Enligt Stadgan måste ändringar av Stadgan röstas igenom på två av Divisionsstämmans varandra följande
+möten. Om en beslutpunkt innehåller "första läsningen" innebär det att det är första gången beslutet tas
+upp för omröstning. Om en beslutspunkt innehåller "andra läsningen" innebär det att beslutspunkten har
+röstats igenom förra stämmomötet, och beslutet behöver bekräftas för att gå igenom.
 
 == ConCats: Förslag till köksrenovering
 Förra stämman röstades det igenom att ConCats skulle ta fram en plan för köket:
@@ -320,16 +328,8 @@ ConCats vill även notera att cirkulärbutiken och andra second hand alternativ 
 
 Detta bör, tillsamans med hyllan ovan, ge mycket mer utrymme för förvaring 
 
-
-\- ConCats'24
-
-#pagebreak()
-
-= Beslutspunkter
-Enligt Stadgan måste ändringar av Stadgan röstas igenom på två av Divisionsstämmans varandra följande
-möten. Om en beslutpunkt innehåller "första läsningen" innebär det att det är första gången beslutet tas
-upp för omröstning. Om en beslutspunkt innehåller "andra läsningen" innebär det att beslutspunkten har
-röstats igenom förra stämmomötet, och beslutet behöver bekräftas för att gå igenom.
+=== Förslag till beslut inför mötet
+#attSatser([ConCats ska börja utföra arbetet, och komma med en rapport till nästa stämma.])
 
 == Motion: Omformulering av målformuleringen för Femme++
 För tillfället är beskrivningen av vårt mål konstigt formulerat och innehåller ett syftningsfel. Vi skulle vilja fixa detta. 
@@ -725,7 +725,7 @@ Pick me, choose me, love me, vi nominerar\
 ConCats har hand om Monaden.
 
 === Inkomna nomineringar inför mötet
-ConCats nominerar Nikhil "Minaj" som ordförande för ConCats till kommande mandatperiod
+ConCats nominerar Nikhil "Minaj" som ordförande för ConCats till kommande mandatperiod.
 
 == Femme++'25
 Femme++ har i uppgift att främja minoriteter inom programmet.
@@ -759,7 +759,7 @@ Ida Vranvuk har länge varit en otroligt aktiv medlem i vår förening.
 Hon och resten av DVRK gjorde ett väldigt fint jobb med mottagningen 2024,
 och hon har visat sig ta sitt ansvar seriöst. Jag tror verkligen på att Ida 
 hade varit en bra ordförande och jag tror starkt på att hon kommer göra ett 
-fenomenalt jobb med att leda denna förening. 
+riktigt bra jobb med att leda denna förening. 
 
 \- Samuel Hammersberg, Styrelse'24/23/22/21
 
@@ -774,7 +774,7 @@ hade passat i styrelsen nämligen:
 - Nikhil Olsson Mukhopadhyay, Sekreterare
 - Daniell Cole, SAMO
 Vi tycker att dessa fyra personer hade gjort ett väldigt fint jobb som styrelse, och
-vi tror starkt på att de kommer kunna leda föreningen till att bli bättre än vad den redan är!
+vi har största förtroendet i dem!
 
 \- Styrelsen 24
 
