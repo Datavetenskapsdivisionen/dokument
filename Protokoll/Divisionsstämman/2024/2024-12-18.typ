@@ -173,22 +173,89 @@ _Inga nomineringar för dessa positioner har inkommit._
 = Rapport
 == Styrelsen
 === Ordförande
+Nu är det dags för årets sista stämma! Vi har haft ett roligt år, och jag 
+hoppas att nästa år fortsätter på samma not. Sedan sista stämman 
+har inte super mycket skett, men några intressenta bitar har vi här:
+- *Programråd: 2024-11-05*\
+  Den dåliga genomströmningen på Datavetenskap (kandidat) var fokuset på detta möte.
+  Planen är just nu är inte klar men det lär bli att ta bort lite valbarhet, och enbart 
+  ha valbara kurser under tredjeåret. Antallet studenter programmet tar in lär även minskas.
 
-TODO
+  Om Computer Science (mastern) sades det inte mycket, men det kommer förmodligen bli ändringar
+  på lite krav på programmet, så som att man måste läsa minst en uppföljnings kurs, 
+  så att ens utbildning ej blir för spretig.
+
+- *Instutionsråd: 2024-11-29*\
+  Inte så mycket intressant för oss studenter sades här, men instutionen kommer 
+  lägga krut på att anställa mer lärare, och att det har skett en undersökning
+  på hur man ska få plats med alla studenter när Lindholmen flyttar till Johanneberg.
+  EDIT är inte den största byggnaden, och förmodligen så behöver någon instution (CSE/Elektro) 
+  flytta ifrån byggnaden. Inget är bestämt än, och inget lär bli bestämt på några år
+  då det ej finns en byggnad att flytta till för tillfället.
+
+  Det är även prat om att göra ett diciplinavtal med naturvetenskapliga fakulteten (NatFak)
+  och CSE. Planen är att CSE ska utföra all utbildning inom data under NatFak, och 
+  preliminära planen är att börja med detta 2026.
+
+Jag har nu suttit länge som ordförande, men det är äntligen dags för mig att lämna över faklan.
+Vi har ett ny styrelse, och jag har starkt förtroende i att de kommer göra ett fantastiskt
+jobb när de tar över! 
+
+\- Samuel Hammersberg, Styrelsen'24/23/22/21
 
 === Kassör
-TODO
+Efter två år som kassör för divisionen skriver jag nu min sista rapport. Tyvärr kunde jag inte närvara på stämman då jag som i vanlig ordning åker på semester mitt i terminen. Sedan förra stämman har vi fått pengar från institutionen för ett antal event:
+
+* Grillen fixades iordning för 201,60kr.
+* Transportvagnen fick nya hjul som gick på 452.54kr.
+* Det köptes in en dörrklocka till Monaden för 307kr som kommer så småningom att monteras upp.
+* Studienämnden höll i ett kursutvärderingsfika som kostade 1049,40kr.
+* ConCats höll i en trivia night och köpte snacks och dricka för 348,80kr.
+* Styrelsen köpte krokar för våra overaller för 258kr som också kommer att monteras upp i styrelserummet.
+
+Allt detta gick på 2 617,34kr.
+
+Styrelsen höll även i ett Lucia-fika som gick på 649,40kr. Detta evenemanget drogs dock från institutionens mottagningsbudget (likt i fjol).
+
+Utöver alla äskningar har jag att rapportera att vår gratis bokföring hos Wrebit upphört. Detta ledde till att jag nu har fått komma på en ny lösning för hur divisionen skall sköta bokföringen. På grund av en mycket stressfull termin har jag inte hunnit med att flytta över all data vilket vår revisor förmodligen kommer att rapportera om. Detta är dock något jag planerar att göra färdigt inom en snar framtid.
+
+Dessa två år har varit mycket kul och lärorikt och jag vill önska nästa styrelse lycka till!
+
+\- Lukas Gartman
 
 === Vice ordförande
-Under verksamhetsåret 2024 har mycket skett i vår lilla förening. Nu har vi ett motto, enhetliga overaller och vid ett tillfälle åkte vi även jorden runt på hela 8 enheter. Under mitt år har vi lyckats skapa bättre samarbeten och struktur i föreningen samt fått ut ordet om "Data på GU" runt om på campus och på Göta. Delvis i form av diplomatiska visiter på bland annat Gasquen och Kårkällarn. Jag hoppas att detta arbete kommer fortsättas av min efterträdare. Datavetenskapsdivisionen ser inte ut som den gjorde när jag började på DV 2022 och jag vill tacka er alla för att ni varit med i arbetet för att tillsammans skapa den bästa föreningen som vi kan vara. Sen terminsstart har ni arrangerat något nästan varje vecka, något jag är övertygad för många studenter har större betydelse än vad ni inser. Jag vill tacka för att jag fick ta del av detta och tacka resten av styrelsen för ett toppen bra arbete. Vill även passa på och önska nästkommande styrelse ett stort lycka till, jag tror jag talar för alla i styrelsen när jag säger att styrelsens arbete lämnas över i goda händer.
+Under verksamhetsåret 2024 har mycket skett i vår lilla förening. 
+Nu har vi ett motto, enhetliga overaller och vid ett tillfälle 
+åkte vi även jorden runt på hela 8 enheter. 
+Under mitt år har vi lyckats skapa bättre samarbeten och 
+struktur i föreningen samt fått ut ordet om "Data på GU" 
+runt om på campus och på Göta. Delvis i form av diplomatiska 
+visiter på bland annat Gasquen och Kårkällarn. 
+Jag hoppas att detta arbete kommer fortsättas av min efterträdare. 
+Datavetenskapsdivisionen ser inte ut som den gjorde när jag började 
+på DV 2022 och jag vill tacka er alla för att ni varit med i arbetet 
+för att tillsammans skapa den bästa föreningen som vi kan vara. 
+Sen terminsstart har ni arrangerat något nästan varje vecka, något 
+jag är övertygad för många studenter har större betydelse än vad 
+ni inser. Jag vill tacka för att jag fick ta del av detta och tacka 
+resten av styrelsen för ett toppen bra arbete. 
+Vill även passa på och önska nästkommande styrelse ett stort lycka till,
+jag tror jag talar för alla i styrelsen när jag säger att styrelsens 
+arbete lämnas över i goda händer.
 
 \- Tim 'Båtsman' Persson DV'22, DVRK'23, Styrelsen'24, DV_Ops'23/24
 
 === SAMO
-TODO
+Sedan senaste stämman så har det varit lugnt på SAMO-sidan. 
+Därför vill jag ta detta tillfälle till att tacka för min tid som SAMO. 
+Det har varit en lärorik och givande erfarenhet och jag önskar min efterträdare, Daniell, all lycka till!
+
+\- Josefin Kokkinakis
 
 === Sekreterare
-TODO
+Sedan senaste stämman har jag i vanlig ordning fört protokoll under styrelsemöten. Att få möjligheten att vara med i styrelsen och vara en del av det arbete och engagemang som gör föreningen till vad den är har varit väldigt betydelsefullt, och för det vill jag tacka. Det har varit en värdefull och utvecklande erfarenhet, och jag har verkligen uppskattat att få samarbeta med så engagerade och härliga människor. Jag önskar min efterträdare Nikhil och resten av nästkommande styrelse, ett stort lycka till!
+
+\- Gustav Dalemo
 #pagebreak()
 
 == Revisionsberättelse
@@ -237,7 +304,24 @@ Kyl och frys har även städats ur helt och frysen defrostats då en sådan stä
 == Mega7
 TODO
 
-== ConCats köksplan
+== ConCats: Förslag till köksrenovering
+Förra stämman röstades det igenom att ConCats skulle ta fram en plan för köket:
+=== Vänster vägg (Mot arkivrummet)
+
+Inköp av en "KALLAX" hylla från IKEA för 399kr. Får plats under nuvarande bänk och ger plats för förvaring samt kan användas som bänk om så önskas
+
+=== Höger vägg (Mot masters rummet)
+
+Inköp av tre "BURHULT" + "SIBBHULT" combos (hyllplan + monteringshårdvara) till en kostnad av 49kr/st för att:
+* förlänga nuvarande hyllplan
+* sätta upp en ny hylla ovanför den innersta kylen (längst mot fönstret)
+
+ConCats vill även notera att cirkulärbutiken och andra second hand alternativ är bra val för billiga hyllor av liknande storlek. Dessa är inte inkluderade här då utbudet av varor konstant varierar och inget kan garanteras.
+
+Detta bör, tillsamans med hyllan ovan, ge mycket mer utrymme för förvaring 
+
+
+\- ConCats'24
 
 #pagebreak()
 
@@ -429,10 +513,18 @@ på båda språken.
   Vid översättning till engelska ska divisionens namn översättas till Computer Science Division.
 ], 
 
-[Vid översättning till engelska ska divisionens namn översättas till Computer Studen Science Division.])
-=== Beslut
+[Vid översättning till engelska ska divisionens namn översättas till Computer Student Science Division.])
+
+=== Beslutet efter förgående stämma
+Följande attsats bifalldes förgående stämma.
 #attSatser([
-  Attsats 2 bifalles
+  1 kap. 1 § 2 stycket i stadgan ändras från
+
+  Vid översättning till engelska ska divisionens namn översättas till Division for Computer Science.
+
+  till
+
+  Vid översättning till engelska ska divisionens namn översättas till Computer Science Division.
 ])
 
 
@@ -460,9 +552,11 @@ Revisor
   attsats 1 från motionen bifalles.
 ])
 
-=== Beslut
+
+=== Beslutet efter förgående stämma
+Följande attsats bifalldes förgående stämma.
 #attSatser([
-  Attsats 1 bifalles.
+  attsats 1 från motionen bifalles.
 ])
 
 #pagebreak()
@@ -491,12 +585,12 @@ Revisor
 === Styrelsens yrkande
 #attSatser([attsats 1 från motionen bifalles.])
 
-=== Beslut
-#attSatser([
-  Attsats 1 bifalles
-])
 
-#pagebreak()
+=== Beslutet efter förgående stämma
+Följande attsats bifalldes förgående stämma.
+#attSatser([
+  attsats 1 från motionen bifalles.
+])
 
 == Andra läsning: Kräv inte ny revisor för ny styrelse
 
@@ -523,9 +617,11 @@ Detta är ett väldigt rimligt förslag, speciellt med tanke på att divisionen 
 utan en revisor.
 #attSatser([attsats 1 från motionen bifalles.])
 
-=== Beslut
+
+=== Beslutet efter förgående stämma
+Följande attsats bifalldes förgående stämma.
 #attSatser([
-  Attsats 1 bifalles
+  attsats 1 från motionen bifalles.
 ])
 
 #pagebreak()
@@ -551,9 +647,10 @@ Revisor
 === Styrelsens yrkande
 #attSatser([attsats 1 från motionen bifalles.])
 
-=== Beslut
+=== Beslutet efter förgående stämma
+Följande attsats bifalldes förgående stämma.
 #attSatser([
-  Attsats 1 bifalles
+  attsats 1 från motionen bifalles.
 ])
 
 #pagebreak()
@@ -567,22 +664,22 @@ Mega6 ansvarar för festligheter.
 === Inkomna nomineringar inför mötet
 Efter en mycket hård och långvarig gallring så har nu Mega6’24 kommit fram till sina medlems rekommendationer, och nominering till ordförande för Mega6’25. 
 
-Vi rekommenderar följande medlemmar:\
-Gustav “Bävern” Richter\
-Angelika “Hex” Hagberg\
-Aowis “Mirage” Tabbaa\
-Hannes “Belfort” Carlsson\
-Ida “IceByte” Vranvuk\
-Isac “Zucc” Ekeroth\
-Max “Ark” Rydberg\
-Nikhil “Minaj” Olsson Mukhopadhyay\
-Robin “Mr Cake” Persson\
-Vanja “alpha” Utberg
+Vi rekommenderar följande medlemmar:
+- Gustav “Bävern” Richter
+- Angelika “Hex” Hagberg
+- Aowis “Mirage” Tabbaa
+- Hannes “Belfort” Carlsson
+- Ida “IceByte” Vranvuk
+- Isac “Zucc” Ekeroth
+- Max “Ark” Rydberg
+- Nikhil “Minaj” Olsson Mukhopadhyay
+- Robin “Mr Cake” Persson
+- Vanja “alpha” Utberg
 
-\- Kristoffer “KG” "Schlätta" Gustafsson, Ordförande Mega6’24
-\- Lukas “Lucky” Gartman, Mega6’24
-\- Angelika “Hex” Hagberg, Mega6’24
-\- Ida “Poppi” Kjellerstedt, Mega6’24
+\- Kristoffer “KG” "Schlätta" Gustafsson, Ordförande Mega6’24\
+\- Lukas “Lucky” Gartman, Mega6’24\
+\- Angelika “Hex” Hagberg, Mega6’24\
+\- Ida “Poppi” Kjellerstedt, Mega6’24\
 \- Gustav “Bävern” Richter, Mega6’24
 
 Vi nominerar Gustav “Bävern” Richter som ordförande för Mega6 mandatperiod 2025
@@ -592,7 +689,6 @@ Vi nominerar Gustav “Bävern” Richter som ordförande för Mega6 mandatperio
 DVRK ansvarar för mottagningen!
 
 === Inkomna nomineringar inför mötet
-=== Nominering 1:
 Efter en intensiv process har vi i DVRK'24 kommit överens om kandidaterna för nästa års upplaga av DVRK. Vi ställer oss enhälligt bakom dessa personer och har fullt förtroende för att de kommer utföra sina uppdrag med excellens. Vi litar även på att nästa ordförande stannar kvar längre än till årsskiftet -- helst hela verksamhetsåret. 
 
 DVRK'24 rekommenderar Anton "SubZero" Frost till ordförande för DVRK'25.
@@ -612,18 +708,6 @@ Felix "Overflow" Tan
 DVRK'24
 
 Vi nominerar Anton "SubZero" Frost till Ordförande för DVRK under verksamhetsåret 2025
-
-=== Nominering 2:
-En annan nominering för ordförande för DVRK'25
-
-Vi nominerar Vanja 'alpha' Utberg till ordförande för DVRK'25.
-
-
-Med sådär vänliga hälsningar,
-
-DVRK'24
-
-
 
 == Studienämnd'25
 Studienämnden ansvarar för att se till att kvaliten på kurserna här på universitet håller sig,
@@ -701,25 +785,6 @@ diskutera olika ämnen, som kanske nödvändigtvis inte behövs röstas om.
 Styrelsen har ej kommit med några diskussionspunkter, men vi lämnar golvet
 öppet för närvarande medlemmar att ta upp det dom har på hjärtat.
 
-
-== Förslag till köksrenovering
-Förra stämman röstades det igenom att ConCats skulle ta fram en plan för köket:
-=== Vänster vägg (Mot arkivrummet)
-
-Inköp av en "KALLAX" hylla från IKEA för 399kr. Får plats under nuvarande bänk och ger plats för förvaring samt kan användas som bänk om så önskas
-
-=== Höger vägg (Mot masters rummet)
-
-Inköp av tre "BURHULT" + "SIBBHULT" combos (hyllplan + monteringshårdvara) till en kostnad av 49kr/st för att:
-* förlänga nuvarande hyllplan
-* sätta upp en ny hylla ovanför den innersta kylen (längst mot fönstret)
-
-ConCats vill även notera att cirkulärbutiken och andra second hand alternativ är bra val för billiga hyllor av liknande storlek. Dessa är inte inkluderade här då utbudet av varor konstant varierar och inget kan garanteras.
-
-Detta bör, tillsamans med hyllan ovan, ge mycket mer utrymme för förvaring 
-
-
-\- ConCats'24
 
 #pagebreak()
 = Avslutande av möte
