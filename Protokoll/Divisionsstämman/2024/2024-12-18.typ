@@ -790,6 +790,6 @@ Styrelsen har ej kommit med några diskussionspunkter, men vi lämnar golvet
 = Avslutande av möte
 
 == Mötets avslutande
-Mötet planeras avslutas 19:51.
-#pagebreak()
-#signatures(stämma: true)
+Mötet planeras avslutas 18:18.
+// #pagebreak()
+// #signatures(stämma: true)
