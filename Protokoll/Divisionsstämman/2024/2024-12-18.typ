@@ -726,8 +726,7 @@ Nomineringar som har inkommit till styrelsen i tid för att inkluderas i stämmo
 
 Från Ida Vranvuk och Nikhil Olsson Mukhopadhyay
 
-Pick me, choose me, love me, vi nominerar\
-• Ida Vranvuk
+Pick me, choose me, love me, vi nominerar: Ida Vranvuk
 
 == ConCats'25
 ConCats har hand om Monaden.
@@ -747,6 +746,7 @@ DV_Ops ansvarar för föreningens diverse IT system och med att främja hackeran
 === Inkomna nomineringar inför mötet
 _Styrelsen har ej fått in några nominering innan stämman._
 
+#pagebreak()
 == DV_Arm'25
 DV_Arm ansvarar för att förbättra relationer mellan divisionen och företag.
 
@@ -783,13 +783,13 @@ Styrlesen består av fem medlemmar, ordförande, vice-ordförande, kassör, SAMO
 === Inkomna nomineringar inför mötet
 En styrelse är ju inte en styrelse utan styrelsemedlemmar! Styrelsen har haft
 en intervju process och vi har hittat ett flertal kandidater vi tycker
-hade passat i styrelsen nämligen:
+hade passat i styrelsen, nämligen:
 - Hannes Carlsson, Kassör
 - Ida Kjellerstedt, Vice Ordförande
 - Nikhil Olsson Mukhopadhyay, Sekreterare
 - Daniell Cole, SAMO
-Vi tycker att dessa fyra personer hade gjort ett väldigt fint jobb som styrelse, och
-vi har största förtroendet i dem!
+Vi tycker att dessa fyra personer hade gjort ett väldigt fint jobb i styrelsen, och
+vi har stort förtroendet i dem!
 
 \- Styrelsen 24
 
