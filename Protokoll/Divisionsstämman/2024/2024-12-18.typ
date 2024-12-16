@@ -374,7 +374,7 @@ På dvet.se står det, med ordförandens eget namn undertecknat:
 "Jag ansvarar för all IT i Monaden och saker som vår fina hemsida..."
 Detta "ansvar" har jag inte sett röken av. Jag kommer presentera två exempel.
 
-Tittar vi på förbindelse-historiken* på GitHub där förvaringen* av föreningens hemsida, dvet.se, befinner sig ser jag inga spår av ordförande. Inte heller har ordförande skapat någon ryck begäran. Istället har utvecklingen och underhållet av hemsidan så tappert axlats av främst två medlemmar, Lukas Gartman och Samuel Hammersberg.
+Tittar vi på förbindelse-historiken\* på GitHub där förvaringen\* av föreningens hemsida, dvet.se, befinner sig ser jag inga spår av ordförande. Inte heller har ordförande skapat någon ryck begäran. Istället har utvecklingen och underhållet av hemsidan så tappert axlats av främst två medlemmar, Lukas Gartman och Samuel Hammersberg.
 
 Tittar vi sedan upp i taket i vår kära föreningslokal Monaden lyser ordförandes dåliga engagemang starkt, eller rättare sagt lyser inte alls. De smarta lamporna som ofta används vid arrangemang på kvällstid. Dessa lampor har länge varit ur funktion. Nyckelordet "smart" innefattar att detta går under IT, och eftersom lamporna befinner sig i Monaden, direkt ordförandes ansvar.
 
@@ -385,7 +385,7 @@ agera IT-Avdelning för divisionen och dess lokaler.
 
 Det är min åsikt att inget sådant främjande har skett.
 
-Ordförande Kevin "Pettsson" Pettersson valdes vid förra stämma in till ordförande för DV_Ops. Jag anser att kommittén lidit länge nog och Kevin bör misstroende förklaras och avsättas från sin roll med omedelbar verkan.
+Ordförande Kevin "Pettzzon" Pettersson valdes vid förra stämma in till ordförande för DV_Ops. Jag anser att kommittén lidit länge nog och Kevin bör misstroende förklaras och avsättas från sin roll med omedelbar verkan.
 
 \* Git på Svenska (https://github.com/bjorne/git-pa-svenska)
 \- Tim 'Båtsman' Persson DV'22, DVRK'23, Styrelsen'24, DV_Ops'23/24
