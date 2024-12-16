@@ -302,7 +302,9 @@ Kyl och frys har även städats ur helt och frysen defrostats då en sådan stä
 \- ConCats'24
 
 == Mega7
-Muntlig rapport på stämman.
+Under andra halvan av 2024 har Mega 7 varit i full gång med att göra Monaden till en ännu bättre plats #emoji.rainbow #emoji.sparkle! Vårt team har lagt stort fokus på att vattna gräsmattan utanför Monaden #emoji.spinach #emoji.drops – ett arbete som vi tagit oss an med både engagemang och kärlek. Trots att det inte är riktiga växter, tror vi att varje dropp #emoji.drop av vår insats bidrar till att hålla stämningen vid Monaden både frisk och grön! #emoji.tree #emoji.flower.yellow
+
+Förutom vårt hårda arbete ute på gräsmattan har vi också haft regelbundna möten för att brainstorma ännu fler kreativa idéer för framtiden #emoji.lightbulb #emoji.page.pencil. Mega 7 fortsätter att vara en sammansvetsad grupp som inte bara ser värdet i naturen – även om den är konstgjord – utan också njuter av att dela skratt och energi medan vi arbetar #emoji.heart.green #emoji.face.rofl. Vi ser fram emot att ta oss an nya utmaningar och projekt under 2025 med samma glöd och entusiasm som vi visat i år. Tack för ert stöd, och låt oss fortsätta göra Monaden till en plastgrön oas! #emoji.leaf.herb #emoji.flower.pink #emoji.arm.muscle
 
 #pagebreak()
 
@@ -312,7 +314,7 @@ möten. Om en beslutpunkt innehåller "första läsningen" innebär det att det 
 upp för omröstning. Om en beslutspunkt innehåller "andra läsningen" innebär det att beslutspunkten har
 röstats igenom förra stämmomötet, och beslutet behöver bekräftas för att gå igenom.
 
-== ConCats: Förslag till köksrenovering
+== Proposition: Förslag till köksrenovering
 Förra stämman röstades det igenom att ConCats skulle ta fram en plan för köket:
 === Vänster vägg (Mot arkivrummet)
 
@@ -321,15 +323,19 @@ Inköp av en "KALLAX" hylla från IKEA för 399kr. Får plats under nuvarande b�
 === Höger vägg (Mot masters rummet)
 
 Inköp av tre "BURHULT" + "SIBBHULT" combos (hyllplan + monteringshårdvara) till en kostnad av 49kr/st för att:
-* förlänga nuvarande hyllplan
-* sätta upp en ny hylla ovanför den innersta kylen (längst mot fönstret)
+- förlänga nuvarande hyllplan
+- sätta upp en ny hylla ovanför den innersta kylen (längst mot fönstret)
 
 ConCats vill även notera att cirkulärbutiken och andra second hand alternativ är bra val för billiga hyllor av liknande storlek. Dessa är inte inkluderade här då utbudet av varor konstant varierar och inget kan garanteras.
 
 Detta bör, tillsamans med hyllan ovan, ge mycket mer utrymme för förvaring 
 
 === Förslag till beslut inför mötet
-#attSatser([ConCats ska börja utföra arbetet, och komma med en rapport till nästa stämma.])
+Efter att denna rapport så föreslår styrelsen följande:
+#attSatser(
+  [ConCats ska börja utföra arbetet, och komma med en rapport till nästa stämma.],
+  [ConCats ordförande ska komma klädd som katt på nästa stämma.]
+)
 
 == Motion: Omformulering av målformuleringen för Femme++
 För tillfället är beskrivningen av vårt mål konstigt formulerat och innehåller ett syftningsfel. Vi skulle vilja fixa detta. 
@@ -358,6 +364,7 @@ Tycker detta låter väldigt sunt!
     Femme++ har till uppgift att stödja minoritetsgrupper under de program divisionen riktar sig mot och att skapa en trygg miljö att uttrycka åsikter och sig själv i. 
 ])
 
+#pagebreak()
 == Proposition: Stoppa skändningen av DV_Ops
 
 Det är min åsikt att sittande ordförande för DV_Ops inte skött sitt uppdrag till någon punkt. Ordförande har inte gjort någon ansträngning att utföra sitt uppdrag, han har inte ens gått med i DIscord kanalen!
@@ -462,7 +469,7 @@ Detta låter som en självklar ändring och så styrelsen föreslår följande a
   Mandatperioden för kommittémedlemmarna är densamma som kalenderår.
 ])
 
-
+#pagebreak()
 == Andra läsning: Förtydliga att det är en studentförening i divisionens engelska namn
 
 Det finns en avdelning/enhet vid CSE som heter något med Computer Science, så bra att vi kan vara tydliga med att vi är en studenförening. Inte samma problem på svenska.
@@ -777,6 +784,13 @@ Vi tycker att dessa fyra personer hade gjort ett väldigt fint jobb som styrelse
 vi har största förtroendet i dem!
 
 \- Styrelsen 24
+
+== Revisior'25
+Revisorn ansvarar för att föreningen sköter sig! Detta görs genom att se 
+att stadgan följs och alla ekonomiska regler!
+
+=== Inkomna nomineringar inför mötet
+_Styrelsen har ej fått in några nominering innan stämman._
 
 = Diskussionspunkter
 Stämman är inte bara en chans för oss i divisionen att rösta om saker, utan den ger oss även en chans att
