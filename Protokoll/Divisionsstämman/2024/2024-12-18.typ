@@ -698,24 +698,25 @@ DVRK ansvarar för mottagningen!
 === Inkomna nomineringar inför mötet
 Efter en intensiv process har vi i DVRK'24 kommit överens om kandidaterna för nästa års upplaga av DVRK. Vi ställer oss enhälligt bakom dessa personer och har fullt förtroende för att de kommer utföra sina uppdrag med excellens. Vi litar även på att nästa ordförande stannar kvar längre än till årsskiftet -- helst hela verksamhetsåret. 
 
-DVRK'24 rekommenderar Anton "SubZero" Frost till ordförande för DVRK'25.
-DVRK'24 rekommenderar Vanja "alpha" Utberg till vice ordförande för DVRK'25.
-DVRK'24 rekommenderar Isac "Zucc" Ekeroth till kassör för DVRK'25.
-DVRK'24 rekommenderar Sofia "rubix" Gustafsson till PR-minister för DVRK'25.
-DVRK'24 rekommenderar Erica "Ricky" Geramyari till eventansvarig för DVRK'25.
-DVRK'24 rekommenderar Robin "Mr Cake" Persson till uppdragschef för DVRK'25.
+- DVRK'24 rekommenderar Anton "SubZero" Frost till ordförande för DVRK'25.
+- DVRK'24 rekommenderar Vanja "alpha" Utberg till vice ordförande för DVRK'25.
+- DVRK'24 rekommenderar Isac "Zucc" Ekeroth till kassör för DVRK'25.
+- DVRK'24 rekommenderar Sofia "rubix" Gustafsson till PR-minister för DVRK'25.
+- DVRK'24 rekommenderar Erica "Ricky" Geramyari till eventansvarig för DVRK'25.
+- DVRK'24 rekommenderar Robin "Mr Cake" Persson till uppdragschef för DVRK'25.
 
 Det är upp till nästkommande ordförande att välja vilka andra personer som ska ingå i kommittén under mandatperioden 2025. Fördelning av poster sker sedan internt. DVRK'24s nomineringar är är vår rekommendation till nästa kommittéordförande. 
 
-Ida "iceByte" Vranvuk
-Ida "Poppi" Kjellerstedt
-Hannes "belfort" Carlsson
-Kevin "Pettzzon" Pettersson 
-Felix "Overflow" Tan
-DVRK'24
+- Ida "iceByte" Vranvuk
+- Ida "Poppi" Kjellerstedt
+- Hannes "belfort" Carlsson
+- Kevin "Pettzzon" Pettersson 
+- Felix "Overflow" Tan
+- DVRK'24
 
 Vi nominerar Anton "SubZero" Frost till Ordförande för DVRK under verksamhetsåret 2025
 
+#pagebreak()
 == Studienämnd'25
 Studienämnden ansvarar för att se till att kvaliten på kurserna här på universitet håller sig,
 och att lärare m.m följer up på den kritik de får.
