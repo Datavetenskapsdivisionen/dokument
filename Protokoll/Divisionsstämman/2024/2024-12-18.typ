@@ -198,7 +198,7 @@ har inte super mycket skett, men några intressenta bitar har vi här:
   preliminära planen är att börja med detta 2026.
 
 Jag har nu suttit länge som ordförande, men det är äntligen dags för mig att lämna över faklan.
-Vi har ett ny styrelse, och jag har starkt förtroende i att de kommer göra ett fantastiskt
+Vi har (förhoppningsvis) en ny styrelse, och jag har starkt förtroende i att de kommer göra ett fantastiskt
 jobb när de tar över! 
 
 \- Samuel Hammersberg, Styrelsen'24/23/22/21
