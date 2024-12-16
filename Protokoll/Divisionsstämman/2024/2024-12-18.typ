@@ -63,10 +63,10 @@ stämmomötet.
 == Divisionsstämmans beslutbarhet
 6 kap. i stadgan definierar regler Divisionstämman.
 
-Den 2024-09-30 kallade styrelsen till divisionsstämma genom att skriva i discordservern MonadenDV, och
+Den 2024-12-03 kallade styrelsen till divisionsstämma genom att skriva i discordservern MonadenDV, och
 genom en nyhet på dvet.se.
 
-Detta möteschema ska ha skickats ut under fredagen den 2024-10-13.
+Detta möteschema ska ha skickats ut under måndagen den 2024-12-16.
 
 === Förslag
 #attSatser(
@@ -130,7 +130,7 @@ Styrelsen finner det passande att vice ordförande för styrelsen även
 
 #pagebreak()
 
-== Val av vice mötessekreterare
+== Val av mötessekreterare
 Mötessekreteraren har till uppgift att anteckna diskussioner, beslut, och eventuella reservationer under mötet.
 
 === Inkomna nomineringar inför mötet
@@ -346,6 +346,7 @@ Daniell "Cassilda" Cole
     Byta målformuleringen för Femme++ från: 
 
     Femme++ har till uppgift att stödja dessa minoriteter och skapa en trygg miljö att uttrycka åsikter
+    
     Till: 
     
     Femme++ har till uppgift att stödja minoritetsgrupper under de program divisionen riktar sig mot och att skapa en trygg miljö att uttrycka åsikter och sig själv i. 
