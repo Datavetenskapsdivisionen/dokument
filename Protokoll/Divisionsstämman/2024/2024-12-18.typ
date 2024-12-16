@@ -757,8 +757,15 @@ _Styrelsen har ej fått in några nominering innan stämman._
 Mega7 ansvarar för att vattna gräsmattan utanför Monaden.
 
 === Inkomna nomineringar inför mötet
-_Styrelsen har ej fått in några nominering innan stämman._
+Mega7 har haft många och långa diskussioner om vem som kan ta över detta arbete.
+Framtiden såg blek ut, men in svep han som en ängel. Han har visat stark 
+talang i att vattna gräsmattor *oavsett* vädertillstånd, och det är något
+han brinner starkt för. Rådet mår bra över denna rekommendation och vi tror
+att detta kommer leda till en grönare framtid.
 
+Mega7 rekomenderar *starkt*: Kevin "Pettzzon" Pettersson 
+
+#pagebreak()
 == Styrelse Ordförande'25
 Styrelsens ordförande har i jobb att leda styrelsen.
 
