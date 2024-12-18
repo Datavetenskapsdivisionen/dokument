@@ -1,6 +1,6 @@
 #import "../../../Template/Typst/DVD.typ": *
 
-#let time = "17:17"
+#let time = "17:36"
 #show: setupDocument.with(
   time: time,
   title: "",
@@ -11,31 +11,62 @@
 
 #deltagere(
     styrelsen: true, 
-    [Samuel Hammersberg], [],
-    [Tim Person], [],
-    [Lukas Gartman], [],
-    [Josefin Kokkinakis], [],
-    [Gustav Dalemo], [], 
+    [Samuel Hammersberg], [Ja],
+    [Tim Person], [Ja],
+    [Lukas Gartman], [Nej],
+    [Josefin Kokkinakis], [Ja, kom vid punkt 3.1],
+    [Gustav Dalemo], [Ja], 
 )
 
-// #deltagere(
-//  [Albin Otterhäll], [],
-//  [Angelika Hagberg], [],
-//  [Anton Frost], [],
-//  [Aowis Tabbaa], [Lämnade 4.8],
-//  [Björn Rosengren], [Lämnade 4.8],
-//  [Daniel Cole], [],
-//  [Hannes Carlsson], [],
-//  [Ida Kjellerstedt], [],
-//  [Ida Vranvuk], [],
-//  [Josefin Kokkinakis], [Lämnade 4.8],
-//  [Kristoffer Gustafsson], [],
-//  [Martin Felix], [Lämnade 4.8],
-//  [Nikhil Olsson], [],
-//  [Sofia Gustafsson], [],
-//  [William Bodin], [],
-//  [Vanja Utberg], [Ankom 2.4]
+#deltagere(
+[Albin Otterhäll], [Ja],
+[Angelika Hagberg], [Ja],
+[Anton Frost], [Ja],
+[Aowis Tabbaa], [Ja],
+[Björn Rosengren], [Ja],
+[Daniell Blomdahl], [Ja],
+[Erica Geramyari], [Ja, Lämnade 4],
+[Felix Tan], [Ja, Lämnade 4],
+[Gustav Richter], [Ja],
+[Hannes Carlsson], [Ja],
+[Ida Kjellerstedt], [Ja],
+[Ida Vranvuk], [Ja],
+[Isabell Johansson], [Ja],
+[Kevin Pettersson], [Ja],
+[Kristoffer Gustafsson], [Ja],
+[Max Rydberg], [Ja],
+[Nikhil Olsson Mukhopadhyay], [Ja],
+[Oscar Enes Rei], [Ja],
+[Robin Persson], [Ja],
+[Sofia Gustafsson], [Ja],
+[Vanja Utberg], [Ja],
+[Vera Bodin], [Ja],
+[Isac Ekeroth], [Ja, Lämnade 4],
+)
+
+// #ordningsFråga([Namn], [
+// Text \
+//   #ordningsFrågaBody(
+//     förslag: "", 
+//   )
+//   #ordningsFrågaBody(
+//     förslag: "", 
+//   )
+// ])
+
+
+
+// === Utjustering
+// Namn justeras ut.
+
+// === Beslut
+// #attSatser(
+//   [Namn väljs in som ordförande för Femme++ under verksamhetsåret 2024.],
 // )
+
+// === Injustering
+// Namn justeras in.
+
 
 = Öppnande av möte
 Mötet planeras öppnas av #time. #linebreak()
@@ -54,10 +85,10 @@ stämmomötet.
 === Förslag
 #attSatser([ stämman fastställer den nuvarande röstlängden ])
 
-// === Beslut
-// #attSatser(
-//   [ attsatsen bifalles. ]
-// )
+=== Beslut
+#attSatser(
+  [ attsatsen bifalles. ]
+)
 
 #pagebreak()
 == Divisionsstämmans beslutbarhet
@@ -75,10 +106,10 @@ Detta möteschema ska ha skickats ut under måndagen den 2024-12-16.
   ]
 )
 
-// === Beslut
-// #attSatser(
-//   [ attsatsen bifalles ]
-// )
+=== Beslut
+#attSatser(
+  [ attsatsen bifalles ]
+)
 
 == Fastställande av mötesschema
 För att divisionsstämman ska kunna fatta ett beslut eller protokollföra en diskussion behöver punkten i
@@ -90,10 +121,10 @@ punkten.
   [ mötesschemat fastställs utan några ändringar. ]
 )
 
-// === Beslut
-// #attSatser(
-//   [ attsatsen bifalles. ]
-// )
+=== Beslut
+#attSatser(
+  [ attsatsen bifalles. ]
+)
 #pagebreak()
 
 == Val av mötesordförande
@@ -108,10 +139,10 @@ styrelsen väljer att nominera
 
 - Samuel Hammersberg
 
-// === Beslut
-// #attSatser(
-//   [ Samuel Hammersberg väljs in som mötesordförande. ]
-// )
+=== Beslut
+#attSatser(
+  [ Samuel Hammersberg väljs in som mötesordförande. ]
+)
 
 == Val av vice mötesordförande
 Vice mötesordförande hjälper mötesordförande med att hålla talarlistan, och att alla får komma till tals.
@@ -123,10 +154,10 @@ Styrelsen finner det passande att vice ordförande för styrelsen även
 är vice mötesordförande så styrelsen väljer att nominera:
 
 - Tim Persson
-// === Beslut
-// #attSatser(
-//   [ Tim Persson väljs in som vice mötesordförande. ]
-// )
+=== Beslut
+#attSatser(
+  [ Tim Persson väljs in som vice mötesordförande. ]
+)
 
 #pagebreak()
 
@@ -141,10 +172,10 @@ Styrelsen finner även det passande att sekreteraren för styrelsen även
 är mötessekreteraren så styrelsen väljer att nominera:
 
 - Gustav Dalemo
-// === Beslut
-// #attSatser(
-//   [ Gustav Dalemo väljs in som vice mötessekreterare. ]
-// )
+=== Beslut
+#attSatser(
+  [ Gustav Dalemo väljs in som vice mötessekreterare. ]
+)
 #pagebreak()
 == Val av protokolljusterare
 Protokolljusterare har till uppgift att kontrollera att protokollet i slutändan reflekterar de faktiska besluten
@@ -157,16 +188,20 @@ Nomineringar som har inkommit till styrelsen i tid för att inkluderas i stämmo
 
 _Inga nomineringar för dessa positioner har inkommit._
 
+=== Förslag till beslut
+#attSatser(
+  [Kristoffer Gustafsson och Ida Vranvuk nomineras]
+)
 
-// === Beslut
-// #attSatser(
-  // [
-    // \_ väljs till protokolljusterare.
-  // ],
-  // [
-    // \_ väljs till protokolljusterare.
-  // ]
-// )
+=== Beslut
+#attSatser(
+  [
+    Kristoffer Gustafsson väljs till protokolljusterare.
+  ],
+  [
+    Ida Vranvuk väljs till protokolljusterare.
+  ]
+)
 
 #pagebreak()
 
@@ -202,6 +237,13 @@ Vi har (förhoppningsvis) en ny styrelse, och jag har starkt förtroende i att d
 jobb när de tar över! 
 
 \- Samuel Hammersberg, Styrelsen'24/23/22/21
+
+#ordningsFråga([Samuel Hammersberg], [
+Eftersom det tillkommit en medlem efter mötet börjat måste vi jsutera röstlängden från 26 till 27. \
+  #ordningsFrågaBody(
+    förslag: "Att justera röstlängden från 26 till 27", 
+  )
+])
 
 === Kassör
 Efter två år som kassör för divisionen skriver jag nu min sista rapport. Tyvärr kunde jag inte närvara på stämman då jag som i vanlig ordning åker på semester mitt i terminen. Sedan förra stämman har vi fått pengar från institutionen för ett antal event:
@@ -259,7 +301,7 @@ Sedan senaste stämman har jag i vanlig ordning fört protokoll under styrelsem�
 #pagebreak()
 
 == Revisionsberättelse
-Muntlig rapport på stämman.
+Muntlig rapport på stämman. // TODO Infoga skriftlig rapport
 
 == MEGA6
 Sen i oktober har Mega6 mest ägnat sig åt sin aspning och inval för mandatperioden 2025. Våra events sedan dess har varit Bubbel provning, Halloween sittningen, Edward kir hands, Fulsittningen, ett chill krök, och Glöggkväll. Verksamheten har smidigt flutit på då vi har anammat rutiner och beprövade tillvägagångssätt. För Mega6’25 kvarstår att bevara dessa lärdomar för kommande generationer. 
@@ -277,7 +319,7 @@ Vi skulle även ha gått på utvärderingarna av 1:ornas första kurser men fick
 \- Studienämnden'24
 
 == DVRK
-Sedan senaste stämman har vi i DVRK’24 hållit i ett flertal asp-event och vi har nu valt våra rekommendationer för DVRK'25. 
+Sedan senaste stämman har vi i DVRK'24 hållit i ett flertal asp-event och vi har nu valt våra rekommendationer för DVRK'25. 
 
 En utvärdering av mottagningen har gjorts. Det som diskuterades mest var antalet arrangemang under mottagningen, platsbegränsning samt Haskell workshopen. 
 
@@ -308,6 +350,20 @@ Förutom vårt hårda arbete ute på gräsmattan har vi också haft regelbundna 
 
 #pagebreak()
 
+#ordningsFråga([Tim Persson], [
+Vi börjar bli kissnödiga. \
+  #ordningsFrågaBody(
+    förslag: "Att ta en 10 minuters toapaus", 
+  )
+])
+
+#ordningsFråga([Samuel Hammersberg], [
+Några lämnade mötet under toapausen. Vi behöver justera röstlängden. \
+  #ordningsFrågaBody(
+    förslag: "Att justera röstlängden från 27 till 23", 
+  )
+])
+
 = Beslutspunkter
 Enligt Stadgan måste ändringar av Stadgan röstas igenom på två av Divisionsstämmans varandra följande
 möten. Om en beslutpunkt innehåller "första läsningen" innebär det att det är första gången beslutet tas
@@ -337,6 +393,22 @@ Efter att denna rapport så föreslår styrelsen följande:
   [ConCats ordförande ska komma klädd som katt på nästa stämma.]
 )
 
+=== Yrkande från styrelsen
+Styrelsen ändrar attsats 1 till: "ConCats ska fortsätta arbetet i samarbete med Styrelsen"
+
+=== Yrkande från concats ordförande
+Concats ordförande yrkan: Ändring av attsats 2 att ConCats ska komma iklädd kattöron till nästa stämma.
+
+=== Förslag till beslut
+#attSatser([Attsats 2 ändras till: ConCats ska komma iklädd kattöron till nästa stämma])
+
+=== Beslut
+#attSatser([Attsats 1 avslås])
+
+=== Beslut om ursprungliga frågan 
+#attSatser([Attsats 1 bifalles (ConCats ska fortsätta arbetet i samarbete med Styrelsen)],
+           [Attsats 2 bifalles (ConCats ordförande ska komma klädd som katt på nästa stämma.)])
+
 == Motion: Omformulering av målformuleringen för Femme++
 För tillfället är beskrivningen av vårt mål konstigt formulerat och innehåller ett syftningsfel. Vi skulle vilja fixa detta. 
 
@@ -365,6 +437,22 @@ Tycker detta låter väldigt sunt!
     Femme++ har till uppgift att stödja minoritetsgrupper under de program divisionen riktar sig mot och att skapa en trygg miljö att uttrycka åsikter och sig själv i. 
 ])
 
+=== Yrkande från styrelsen
+Ändra attsats 1 till:
+#attSatser([
+    Att ändra i 9 kap. 2 § i reglementet från: 
+
+    Femme++ har till uppgift att stödja dessa minoriteter och skapa en trygg miljö att uttrycka åsikter
+
+    Till: 
+    
+    Femme++ har till uppgift att stödja minoritetsgrupper under de program divisionen riktar sig mot och att skapa en trygg miljö att uttrycka åsikter och sig själv i. 
+])
+
+
+=== Beslut
+#attSatser([Attsats 1 bifalles])
+
 #pagebreak()
 == Proposition: Stoppa skändningen av DV_Ops
 
@@ -392,6 +480,9 @@ Ordförande Kevin "Pettzzon" Pettersson valdes vid förra stämma in till ordfö
 
 === Förslag till beslut inför mötet
 #attSatser([missförtroendeförklara nuvarande ordförande; Kevin Petterson])
+
+=== Beslut
+#attSatser([Attsats 1 bifalles])
 
 == Motion: Införa kalenderåret som mandatperiod for Mega6
 
@@ -470,6 +561,9 @@ Detta låter som en självklar ändring och så styrelsen föreslår följande a
   Mandatperioden för kommittémedlemmarna är densamma som kalenderår.
 ])
 
+=== Beslut
+#attSatser([Attsats 1-7 bifalles])
+
 #pagebreak()
 == Andra läsning: Förtydliga att det är en studentförening i divisionens engelska namn
 
@@ -535,6 +629,8 @@ Följande attsats bifalldes förgående stämma.
   Vid översättning till engelska ska divisionens namn översättas till Computer Science Division.
 ])
 
+=== Beslut
+#attSatser([Attsats 1 bifalles])
 
 #pagebreak()
 
@@ -566,6 +662,9 @@ Följande attsats bifalldes förgående stämma.
 #attSatser([
   attsats 1 från motionen bifalles.
 ])
+
+=== Beslut
+#attSatser([Attsats 1 bifalles])
 
 #pagebreak()
 
@@ -600,6 +699,9 @@ Följande attsats bifalldes förgående stämma.
   attsats 1 från motionen bifalles.
 ])
 
+=== Beslut
+#attSatser([Attsats 1 bifalles])
+
 == Andra läsning: Kräv inte ny revisor för ny styrelse
 
 Den nuvarande stadgan kräver att vi har tillräkligt med invalda styrelseledamöter OCH minst en revisor för att en ny styrelse ska kunna gå på vid årsskiftet. Fett onödigt (jag orkar inte försöka hitta ny revisor).
@@ -632,6 +734,9 @@ Följande attsats bifalldes förgående stämma.
   attsats 1 från motionen bifalles.
 ])
 
+=== Beslut
+#attSatser([Attsats 1 bifalles])
+
 #pagebreak()
 
 == Andra läsning: Revisor > ordförande
@@ -660,6 +765,9 @@ Följande attsats bifalldes förgående stämma.
 #attSatser([
   attsats 1 från motionen bifalles.
 ])
+
+=== Beslut
+#attSatser([Attsats 1 bifalles])
 
 #pagebreak()
 
@@ -691,6 +799,21 @@ Vi rekommenderar följande medlemmar:
 \- Gustav “Bävern” Richter, Mega6’24
 
 Vi nominerar Gustav “Bävern” Richter som ordförande för Mega6 mandatperiod 2025
+
+=== Utjustering
+Gustav "Bävern" Richter justeras ut.
+
+=== Förslag till beslut
+#attSatser(
+  [Gustav "Bävern" Richter väljs in som ordförande för Mega6 under verksamhetsåret 2025.],
+)
+
+=== Beslut
+#attSatser([Attsats 1 bifalles])
+
+=== Injustering
+Gustav "Bävern" Richter justeras in.
+
 #pagebreak()
 
 == DVRK'25
@@ -717,6 +840,20 @@ Det är upp till nästkommande ordförande att välja vilka andra personer som s
 
 Vi nominerar Anton "SubZero" Frost till Ordförande för DVRK under verksamhetsåret 2025
 
+=== Utjustering
+Anton "SubZero" Frost justeras ut.
+
+=== Förslag till beslut
+#attSatser(
+  [Anton "SubZero" Frost väljs in som ordförande för DVRK under verksamhetsåret 2025.],
+)
+
+=== Beslut
+#attSatser([Attsats 1 bifalles])
+
+=== Injustering
+Anton "SubZero" Frost justeras in.
+
 #pagebreak()
 == Studienämnd'25
 Studienämnden ansvarar för att se till att kvaliten på kurserna här på universitet håller sig,
@@ -729,11 +866,37 @@ Från Ida Vranvuk och Nikhil Olsson Mukhopadhyay
 
 Pick me, choose me, love me, vi nominerar: Ida Vranvuk
 
+=== Utjustering
+Ida Vranvuk justeras ut.
+
+=== Förslag till beslut
+#attSatser(
+  [Ida Vranvuk väljs in som ordförande för studienämnden under verksamhetsåret 2025.],
+)
+
+=== Beslut
+#attSatser([Attsats 1 bifalles])
+
+=== Injustering
+Ida Vranvuk justeras in.
+
 == ConCats'25
 ConCats har hand om Monaden.
 
 === Inkomna nomineringar inför mötet
 ConCats nominerar Nikhil "Minaj" som ordförande för ConCats till kommande mandatperiod.
+
+=== Yrkande av Nikhil
+Nikhil drar tillbaks sin nominering och nominerar istället Martin Felix som ordförande för Concats till kommande mandatperiod.
+
+=== Förslag till beslut med acklamation
+#attSatser(
+  [Martin Felix väljs in som ordförande för ConCats under verksamhetsåret 2025]
+)
+
+=== Beslut
+#attSatser([Attsats 1 bifalles])
+
 
 == Femme++'25
 Femme++ har i uppgift att främja minoriteter inom programmet.
@@ -741,11 +904,31 @@ Femme++ har i uppgift att främja minoriteter inom programmet.
 === Inkomna nomineringar inför mötet
 _Styrelsen har ej fått in några nominering innan stämman._
 
+=== Nominering under mötet
+Daniell Cole nominerar sig själv som ordförande för Femme++ under verksamhetsåret 2025.
+
+=== Utjustering
+Daniell Cole justeras ut.
+
+=== Förslag till beslut med acklamation
+#attSatser(
+  [Daniell Cole väljs in som ordförande för Femme++ under verksamhetsåret 2025.],
+)
+
+=== Beslut
+#attSatser([Attsats 1 bifalles])
+
+=== Injustering
+Daniell Cole justeras in.
+
 == DV_Ops'25
 DV_Ops ansvarar för föreningens diverse IT system och med att främja hackerandra.
 
 === Inkomna nomineringar inför mötet
 _Styrelsen har ej fått in några nominering innan stämman._
+
+=== Beslut
+Inga nomineringar
 
 #pagebreak()
 == DV_Arm'25
@@ -753,6 +936,9 @@ DV_Arm ansvarar för att förbättra relationer mellan divisionen och företag.
 
 === Inkomna nomineringar inför mötet
 _Styrelsen har ej fått in några nominering innan stämman._
+
+=== Beslut
+Inga nomineringar
 
 == Mega7'25
 Mega7 ansvarar för att vattna gräsmattan utanför Monaden.
@@ -764,7 +950,31 @@ talang i att vattna gräsmattor *oavsett* vädertillstånd, och det är något
 han brinner starkt för. Rådet mår bra över denna rekommendation och vi tror
 att detta kommer leda till en grönare framtid.
 
-Mega7 rekomenderar *starkt*: Kevin "Pettzzon" Pettersson 
+Mega7 rekomenderar *starkt*: Kevin "Pettzzon" Pettersson
+
+=== Nominering under mötet
+Mega7 nominerar: Kevin "Petzzon" Pettersson
+
+=== Utjustering
+Kevin "Pettzzon" Pettersson justeras ut.
+
+=== Förslag till beslut med acklamation
+#attSatser(
+  [Kevin "Pettzzon" Pettersson väljs in som ordförande för Mega7 under verksamhetsåret 2025.],
+)
+
+=== Beslut
+#attSatser([Attsats 1 bifalles])
+
+=== Injustering
+Kevin "Pettzzon" Pettersson justeras in.
+
+#ordningsFråga([Samuel Hammersberg], [
+Jag behöver tömma min blåsa i.e urinera. \
+  #ordningsFrågaBody(
+    förslag: "Att ta en 5 minuters pudra-näsan paus", 
+  )
+])
 
 #pagebreak()
 == Styrelse Ordförande'25
@@ -779,11 +989,28 @@ riktigt bra jobb med att leda denna förening.
 
 \- Samuel Hammersberg, Styrelse'24/23/22/21
 
+=== Nominering under mötet
+Samuel nominerar Ida Vranvuk som orförande för styrelsen under verksamhetsåret 2025. 
+
+=== Utjustering
+Ida Vranvuk justeras ut.
+
+=== Förslag till beslut med acklamation
+#attSatser(
+  [Ida Vranvuk väljs in som ordförande i styrelsen för verksamhetsåret 2025], 
+)
+
+=== Beslut
+#attSatser([Attsats 1 bifalles])
+
+=== Injustering
+Ida Vranvuk justeras in.
+
 == Styrelsen'25
 Styrlesen består av fem medlemmar, ordförande, vice-ordförande, kassör, SAMO och sekreterare.
 === Inkomna nomineringar inför mötet
 En styrelse är ju inte en styrelse utan styrelsemedlemmar! Styrelsen har haft
-en intervju process och vi har hittat ett flertal kandidater vi tycker
+en intervjuprocess och vi har hittat ett flertal kandidater vi tycker
 hade passat i styrelsen, nämligen:
 - Hannes Carlsson, Kassör
 - Ida Kjellerstedt, Vice Ordförande
@@ -794,12 +1021,33 @@ vi har stort förtroendet i dem!
 
 \- Styrelsen 24
 
+=== Utjustering
+Hannes Carlsson, Ida Kjellerstedt, Nikhil Olsson Mukhopadhyay och Daniell Cole justeras ut.
+
+=== Förslag till beslut med acklamation
+#attSatser(
+  [Hannes Carlsson väljs in som kassör i styrelsen för verksamhetsåret 2025],
+  [Ida Kjellerstedt väljs in som vice ordförande i styrelsen för verksamhetsåret 2025],
+  [Nikhil Olsson Mukhopadhyay väljs in som sekreterare i styrelsen för verksamhetsåret 2025],
+  [Daniell Cole väljs in som SAMO i styrelsen för verksamhetsåret 2025],
+)
+
+=== Beslut
+#attSatser([Attsats 1-4 bifalles])
+
+=== Injustering
+Hannes Carlsson, Ida Kjellerstedt, Nikhil Olsson Mukhopadhyay och Daniell Cole justeras in.
+
+
 == Revisior'25
 Revisorn ansvarar för att föreningen sköter sig! Detta görs genom att se 
 att stadgan följs och alla ekonomiska regler!
 
 === Inkomna nomineringar inför mötet
 _Styrelsen har ej fått in några nominering innan stämman._
+
+=== Beslut
+Inga nomineringar
 
 = Diskussionspunkter
 Stämman är inte bara en chans för oss i divisionen att rösta om saker, utan den ger oss även en chans att
@@ -808,11 +1056,13 @@ diskutera olika ämnen, som kanske nödvändigtvis inte behövs röstas om.
 Styrelsen har ej kommit med några diskussionspunkter, men vi lämnar golvet
 öppet för närvarande medlemmar att ta upp det dom har på hjärtat.
 
+== Tear down the walls
+Det kan finnas en ide att ta denna frågan högre upp än instutionen. Eftersom handikappsanpassningar bör prioriteras kanske detta får bättre gehör högre upp. Vi för denna diskussionen vidare framöver och vi uppmanar nästkommande styrelse att fortsätta detta arbetet.
 
 #pagebreak()
 = Avslutande av möte
 
 == Mötets avslutande
-Mötet planeras avslutas 18:18.
-// #pagebreak()
-// #signatures(stämma: true)
+Mötet planeras avslutas 20:40.
+#pagebreak()
+#signatures(stämma: true)
