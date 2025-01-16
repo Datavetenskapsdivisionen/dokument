@@ -350,15 +350,62 @@
     ]
   )
 ]
-  #let ordningsFrågaBody(
-    förslag: "",
-    förslagTillBeslut: "Attsatsen bifalles",
-    beslut: "Attsatsen bifalles",
-  ) = [
-    *Förslag:* \
-    #attSatser(förslag) \
-    *Förslag till beslut:* \
-    #attSatser(förslagTillBeslut) \
-    *Beslut:* \
-    #attSatser(beslut) \
-  ]
+#let ordningsFrågaBody(
+  förslag: "",
+  förslagTillBeslut: "Attsatsen bifalles",
+  beslut: "Attsatsen bifalles",
+) = [
+  *Förslag:* \
+  #attSatser(förslag) \
+  *Förslag till beslut:* \
+  #attSatser(förslagTillBeslut) \
+  *Beslut:* \
+  #attSatser(beslut) \
+]
+
+#let yrkning(title, body) = [
+  #box(
+    stroke: black,
+    width: 100%,
+    [
+      #box(
+        fill: black,
+        width: 100%,
+        inset: (left: 5pt, right: 5pt),
+        text(fill: white, heading([Yrkning: #title], 
+          level: 2, bookmarked: false, outlined: false,
+          numbering: none
+        ))
+      )
+      #box(
+        inset: (left: 5pt, right: 5pt, bottom: 10pt),
+        body
+      )
+    ]
+  )
+]
+
+#let andraLäsning(when,body) = [
+  #block(
+    stroke: black,
+    width: 100%,
+    breakable: true,
+    [
+      #block(
+        fill: black,
+        width: 100%,
+        breakable: true,
+        inset: (left: 5pt, right: 5pt),
+        text(fill: white, heading([Beslut och attsatser från föregående möte (#when)], 
+          level: 2, bookmarked: false, outlined: false,
+          numbering: none
+        ))
+      )
+      #block(
+        breakable: true,
+        inset: (left: 5pt, right: 5pt, bottom: 10pt),
+        body
+      )
+    ]
+  )
+]

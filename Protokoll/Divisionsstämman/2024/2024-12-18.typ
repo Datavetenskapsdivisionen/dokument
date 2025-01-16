@@ -25,8 +25,8 @@
 [Aowis Tabbaa], [Ja],
 [Björn Rosengren], [Ja],
 [Daniell Blomdahl], [Ja],
-[Erica Geramyari], [Ja, Lämnade 4],
-[Felix Tan], [Ja, Lämnade 4],
+[Erica Geramyari], [Ja, lämnade vid punkt 4.1],
+[Felix Tan], [Ja, lämnade vid punkt 4.1],
 [Gustav Richter], [Ja],
 [Hannes Carlsson], [Ja],
 [Ida Kjellerstedt], [Ja],
@@ -41,7 +41,7 @@
 [Sofia Gustafsson], [Ja],
 [Vanja Utberg], [Ja],
 [Vera Bodin], [Ja],
-[Isac Ekeroth], [Ja, Lämnade 4],
+[Isac Ekeroth], [Ja, lämnade vid punkt 4.1],
 )
 
 // #ordningsFråga([Namn], [
@@ -69,7 +69,7 @@
 
 
 = Öppnande av möte
-Mötet planeras öppnas av #time. #linebreak()
+Mötet öppnades #time. #linebreak()
 
 #pagebreak()
 
@@ -188,10 +188,9 @@ Nomineringar som har inkommit till styrelsen i tid för att inkluderas i stämmo
 
 _Inga nomineringar för dessa positioner har inkommit._
 
-=== Förslag till beslut
-#attSatser(
-  [Kristoffer Gustafsson och Ida Vranvuk nomineras]
-)
+=== Fria nomineringar
+- Kristoffer Gustafsson nominerar sig själv
+- Ida Vranvuk nominerar sig själv
 
 === Beslut
 #attSatser(
@@ -351,14 +350,14 @@ Förutom vårt hårda arbete ute på gräsmattan har vi också haft regelbundna 
 #pagebreak()
 
 #ordningsFråga([Tim Persson], [
-Vi börjar bli kissnödiga. \
+Mötet har redan tagit lång tid och en paus skulle behövas. \
   #ordningsFrågaBody(
-    förslag: "Att ta en 10 minuters toapaus", 
+    förslag: "Att ta en 10 minuters paus", 
   )
 ])
 
 #ordningsFråga([Samuel Hammersberg], [
-Några lämnade mötet under toapausen. Vi behöver justera röstlängden. \
+Några lämnade mötet under pausen. Vi behöver justera röstlängden. \
   #ordningsFrågaBody(
     förslag: "Att justera röstlängden från 27 till 23", 
   )
@@ -393,19 +392,21 @@ Efter att denna rapport så föreslår styrelsen följande:
   [ConCats ordförande ska komma klädd som katt på nästa stämma.]
 )
 
-=== Yrkande från styrelsen
-Styrelsen ändrar attsats 1 till: "ConCats ska fortsätta arbetet i samarbete med Styrelsen"
+#yrkning("Styrelsen", [
+  Styrelsen ändrar attsats 1 till: "ConCats ska fortsätta arbetet i samarbete med Styrelsen"
+])
 
-=== Yrkande från concats ordförande
-Concats ordförande yrkan: Ändring av attsats 2 att ConCats ska komma iklädd kattöron till nästa stämma.
+#yrkning("Nikhil Olsson Mukhopadhya", [
+  Concats ordförande yrkan: Ändring av attsats 2 att ConCats ska komma iklädd kattöron till nästa stämma.
 
-=== Förslag till beslut
-#attSatser([Attsats 2 ändras till: ConCats ska komma iklädd kattöron till nästa stämma])
+  === Förslag till beslut
+  #attSatser([Attsats 2 ändras till: ConCats ska komma iklädd kattöron till nästa stämma])
+
+  === Beslut
+  #attSatser([Attsats 1 avslås])
+])
 
 === Beslut
-#attSatser([Attsats 1 avslås])
-
-=== Beslut om ursprungliga frågan 
 #attSatser([Attsats 1 bifalles (ConCats ska fortsätta arbetet i samarbete med Styrelsen)],
            [Attsats 2 bifalles (ConCats ordförande ska komma klädd som katt på nästa stämma.)])
 
@@ -413,7 +414,7 @@ Concats ordförande yrkan: Ändring av attsats 2 att ConCats ska komma iklädd k
 För tillfället är beskrivningen av vårt mål konstigt formulerat och innehåller ett syftningsfel. Vi skulle vilja fixa detta. 
 
 Daniell "Cassilda" Cole
-=== Förslag till beslut inför mötet
+=== Förslag till beslut inför mötet från motionären
 #attSatser([
     Byta målformuleringen för Femme++ från: 
 
@@ -426,9 +427,9 @@ Daniell "Cassilda" Cole
 
 == Yrkande från styrelsen
 Tycker detta låter väldigt sunt!
-=== Förslag till beslut inför mötet
+=== Förslag till beslut inför mötet från styrelsen
 #attSatser([
-    Att ändra i 9 kap. 2 § från: 
+    Att ändra i 9 kap. 2 § i reglementet  från: 
 
     Femme++ har till uppgift att stödja dessa minoriteter och skapa en trygg miljö att uttrycka åsikter
 
@@ -436,19 +437,6 @@ Tycker detta låter väldigt sunt!
     
     Femme++ har till uppgift att stödja minoritetsgrupper under de program divisionen riktar sig mot och att skapa en trygg miljö att uttrycka åsikter och sig själv i. 
 ])
-
-=== Yrkande från styrelsen
-Ändra attsats 1 till:
-#attSatser([
-    Att ändra i 9 kap. 2 § i reglementet från: 
-
-    Femme++ har till uppgift att stödja dessa minoriteter och skapa en trygg miljö att uttrycka åsikter
-
-    Till: 
-    
-    Femme++ har till uppgift att stödja minoritetsgrupper under de program divisionen riktar sig mot och att skapa en trygg miljö att uttrycka åsikter och sig själv i. 
-])
-
 
 === Beslut
 #attSatser([Attsats 1 bifalles])
@@ -490,7 +478,7 @@ Jag tycker att Mega6 bör hålla sin mandatperiod till kalenderåret. Detta är 
 
 \- Kristoffer Gustafsson
 
-=== Förslag till beslut inför mötet
+=== Förslag till beslut inför mötet från motionären
 #attSatser([
   6 kap. 3 § ändras från
 
@@ -503,6 +491,7 @@ Jag tycker att Mega6 bör hålla sin mandatperiod till kalenderåret. Detta är 
 
 === Styrelsens yrkande
 Detta låter som en självklar ändring och så styrelsen föreslår följande attsattser:
+=== Förslag till beslut inför mötet från styrelsen
 #attSatser([
   6 kap. 3 § ändras från
 
@@ -569,70 +558,70 @@ Detta låter som en självklar ändring och så styrelsen föreslår följande a
 
 Det finns en avdelning/enhet vid CSE som heter något med Computer Science, så bra att vi kan vara tydliga med att vi är en studenförening. Inte samma problem på svenska.
 
-=== Förslag till beslut inför mötet
-#attSatser([
-  1 kap. 1 § 2 stycket i stadgan ändras från
-
-  Vid översättning till engelska ska divisionens namn översättas till Division for Computer Science.
-
-  till
-
-  Vid översättning till engelska ska divisionens namn översättas till Student Division for Computer Science.
-])
-
-=== Styrelsens yrkande
-Vi tycker att detta är bra idé, men finner det lite udda att inte ha samma namn
-på båda språken.
-#attSatser([
-  attsats 1 från motionen bifalles.
-], [
+#andraLäsning("2024-10-15", [
+  === Förslag till beslut inför mötet
+  #attSatser([
     1 kap. 1 § 2 stycket i stadgan ändras från
 
-  Vid översättning till engelska ska divisionens namn översättas till Division for Computer Science.
+    Vid översättning till engelska ska divisionens namn översättas till Division for Computer Science.
 
-  till
+    till
 
-  Vid översättning till engelska ska divisionens namn översättas till Computer Science Division.
-])
+    Vid översättning till engelska ska divisionens namn översättas till Student Division for Computer Science.
+  ])
 
-// Albin yrkande
+  === Styrelsens yrkande
+  Vi tycker att detta är bra idé, men finner det lite udda att inte ha samma namn
+  på båda språken.
+  #attSatser([
+    attsats 1 från motionen bifalles.
+  ], [
+      1 kap. 1 § 2 stycket i stadgan ändras från
 
-=== Yrkan av motionär
-#attSatser([Vid översättning till engelska ska divisionens namn översättas till Computer Science Division.])
+    Vid översättning till engelska ska divisionens namn översättas till Division for Computer Science.
 
-=== Nya attsatser efter yrkanden
-Vi tycker att detta är bra idé, men finner det lite udda att inte ha samma namn
-på båda språken.
-#attSatser([
-  attsats 1 från motionen bifalles.
-], [
+    till
+
+    Vid översättning till engelska ska divisionens namn översättas till Computer Science Division.
+  ])
+
+  // Albin yrkande
+
+  === Yrkan av motionär
+  #attSatser([Vid översättning till engelska ska divisionens namn översättas till Computer Science Division.])
+
+  === Nya attsatser efter yrkanden
+  Vi tycker att detta är bra idé, men finner det lite udda att inte ha samma namn
+  på båda språken.
+  #attSatser([
+    attsats 1 från motionen bifalles.
+  ], [
+      1 kap. 1 § 2 stycket i stadgan ändras från
+
+    Vid översättning till engelska ska divisionens namn översättas till Division for Computer Science.
+
+    till
+
+    Vid översättning till engelska ska divisionens namn översättas till Computer Science Division.
+  ], 
+
+  [Vid översättning till engelska ska divisionens namn översättas till Computer Student Science Division.])
+
+  === Beslutet efter föregående stämma
+  Följande attsats bifalldes föregående stämma.
+  #attSatser([
     1 kap. 1 § 2 stycket i stadgan ändras från
 
-  Vid översättning till engelska ska divisionens namn översättas till Division for Computer Science.
+    Vid översättning till engelska ska divisionens namn översättas till Division for Computer Science.
 
-  till
+    till
 
-  Vid översättning till engelska ska divisionens namn översättas till Computer Science Division.
-], 
-
-[Vid översättning till engelska ska divisionens namn översättas till Computer Student Science Division.])
-
-=== Beslutet efter förgående stämma
-Följande attsats bifalldes förgående stämma.
-#attSatser([
-  1 kap. 1 § 2 stycket i stadgan ändras från
-
-  Vid översättning till engelska ska divisionens namn översättas till Division for Computer Science.
-
-  till
-
-  Vid översättning till engelska ska divisionens namn översättas till Computer Science Division.
+    Vid översättning till engelska ska divisionens namn översättas till Computer Science Division.
+  ])
 ])
 
 === Beslut
-#attSatser([Attsats 1 bifalles])
-
-#pagebreak()
+#attSatser([Attsats 1 från föregående stämma bifalles igen])
 
 == Andra läsning: Förtydliga att styrelsen sköter administration av medlemssystem
 
@@ -641,32 +630,32 @@ Inte en nödvändig förändring, men tydlighet är bra.
 Albin "Slaget" Otterhäll#linebreak()
 Revisor
 
-=== Förslag till beslut inför mötet
-#attSatser([
-  4 kap. 2 § i stadgan ändras från
+#andraLäsning("2024-10-15", [
+  === Förslag till beslut inför mötet
+  #attSatser([
+    4 kap. 2 § i stadgan ändras från
 
-  Man blir medlem i divisionen genom att kontakta divisionens styrelse.
+    Man blir medlem i divisionen genom att kontakta divisionens styrelse.
 
-  till
+    till
 
-  Styrelsen ansvarar för administrationen av medlemskap i divisionen.
-])
-=== Styrelsens yrkande
-#attSatser([
-  attsats 1 från motionen bifalles.
-])
+    Styrelsen ansvarar för administrationen av medlemskap i divisionen.
+  ])
+  === Styrelsens yrkande
+  #attSatser([
+    attsats 1 från motionen bifalles.
+  ])
 
 
-=== Beslutet efter förgående stämma
-Följande attsats bifalldes förgående stämma.
-#attSatser([
-  attsats 1 från motionen bifalles.
+  === Beslutet efter föregående stämma
+  Följande attsats bifalldes föregående stämma.
+  #attSatser([
+    attsats 1 från motionen bifalles.
+  ])
 ])
 
 === Beslut
-#attSatser([Attsats 1 bifalles])
-
-#pagebreak()
+#attSatser([Attsats 1 från föregående stämma bifalles igen])
 
 == Andra läsning: Regler för ekonomiskt ansvar och ansvarfrihet
 Det finns ingen lag som reglerar ideella föreningar i Sverige. Det innebär att vi behöver själva definiera vad det innebär med ansvarsfrihet i divisionen.
@@ -678,29 +667,31 @@ Den nya lydelsen är den som jurister specialiserade på ideella föreningar rek
 Albin "Slaget" Otterhäll#linebreak()
 Revisor
 
-=== Förslag till beslut inför mötet
-#attSatser([
-  ändra 5 kap. 4 § i stadgan från
+#andraLäsning("2024-10-15", [
+  === Förslag till beslut inför mötet
+  #attSatser([
+    ändra 5 kap. 4 § i stadgan från
 
-  Att bevilja styrelsen ansvarsfrihet innebär att medlemmarna utifrån den information de har på ordinarie divisionsstämman godkänner att styrelsen har arbetat korrekt utifrån styrdokumenten. Om ansvarsfrihet inte beviljas markerar divisionsstämman att man inte är nöjd med styrelsens arbete, att man misstänker att något inte skötts korrekt/lagligt, att man vill underlätta framtida skadeståndsansvar eller att man har resterande uppgifter man vill att styrelsen skall ha löst innan ansvarsfrihet beviljas. Om ansvarsfrihet inte beviljats skall frågan behandlas på följande divisionsstämma.
+    Att bevilja styrelsen ansvarsfrihet innebär att medlemmarna utifrån den information de har på ordinarie divisionsstämman godkänner att styrelsen har arbetat korrekt utifrån styrdokumenten. Om ansvarsfrihet inte beviljas markerar divisionsstämman att man inte är nöjd med styrelsens arbete, att man misstänker att något inte skötts korrekt/lagligt, att man vill underlätta framtida skadeståndsansvar eller att man har resterande uppgifter man vill att styrelsen skall ha löst innan ansvarsfrihet beviljas. Om ansvarsfrihet inte beviljats skall frågan behandlas på följande divisionsstämma.
 
-  till
+    till
 
-  I föreningen gäller reglerna för ansvar och ansvarsfrihet enligt 21 kap. i Lag (2018:672) om ekonomiska föreningar.
-])
+    I föreningen gäller reglerna för ansvar och ansvarsfrihet enligt 21 kap. i Lag (2018:672) om ekonomiska föreningar.
+  ])
 
-=== Styrelsens yrkande
-#attSatser([attsats 1 från motionen bifalles.])
+  === Styrelsens yrkande
+  #attSatser([attsats 1 från motionen bifalles.])
 
 
-=== Beslutet efter förgående stämma
-Följande attsats bifalldes förgående stämma.
-#attSatser([
-  attsats 1 från motionen bifalles.
+  === Beslutet efter föregående stämma
+  Följande attsats bifalldes föregående stämma.
+  #attSatser([
+    attsats 1 från motionen bifalles.
+  ])
 ])
 
 === Beslut
-#attSatser([Attsats 1 bifalles])
+#attSatser([Attsats 1 från föregående stämma bifalles igen])
 
 == Andra läsning: Kräv inte ny revisor för ny styrelse
 
@@ -709,33 +700,35 @@ Den nuvarande stadgan kräver att vi har tillräkligt med invalda styrelseledam�
 Albin "Slaget" Otterhäll#linebreak()
 Revisor
 
-=== Förslag till beslut inför mötet
-#attSatser([
-  Att 6 kap. 2 § 1 stycket i stadgan ändras från
+#andraLäsning("2024-10-15", [
+  === Förslag till beslut inför mötet
+  #attSatser([
+    Att 6 kap. 2 § 1 stycket i stadgan ändras från
 
-  Senast dagen före ett nytt räkenskapsår börjar ska divisionsstämman beslutat om
-  - tillräckligt många styrelsemedlemmar för att styrelsen ska vara beslutsfattig; samt
-  - revisor
-  för det kommande räkenskapsåret.
+    Senast dagen före ett nytt räkenskapsår börjar ska divisionsstämman beslutat om
+    - tillräckligt många styrelsemedlemmar för att styrelsen ska vara beslutsfattig; samt
+    - revisor
+    för det kommande räkenskapsåret.
 
-  till
+    till
 
-  Senast dagen före ett nytt räkenskapsår börjar ska divisionsstämman beslutat om tillräckligt många styrelsemedlemmar för att styrelsen ska vara beslutsfattig för det kommande räkenskapsåret.
-])
-=== Styrelsens yrkande
-Detta är ett väldigt rimligt förslag, speciellt med tanke på att divisionen gick många år
-utan en revisor.
-#attSatser([attsats 1 från motionen bifalles.])
+    Senast dagen före ett nytt räkenskapsår börjar ska divisionsstämman beslutat om tillräckligt många styrelsemedlemmar för att styrelsen ska vara beslutsfattig för det kommande räkenskapsåret.
+  ])
+  === Styrelsens yrkande
+  Detta är ett väldigt rimligt förslag, speciellt med tanke på att divisionen gick många år
+  utan en revisor.
+  #attSatser([attsats 1 från motionen bifalles.])
 
 
-=== Beslutet efter förgående stämma
-Följande attsats bifalldes förgående stämma.
-#attSatser([
-  attsats 1 från motionen bifalles.
+  === Beslutet efter föregående stämma
+  Följande attsats bifalldes föregående stämma.
+  #attSatser([
+    attsats 1 från motionen bifalles.
+  ])
 ])
 
 === Beslut
-#attSatser([Attsats 1 bifalles])
+#attSatser([Attsats 1 från föregående stämma bifalles])
 
 #pagebreak()
 
@@ -745,30 +738,30 @@ Då det är revisorn som anses vara den som granskar makten™ är det rimligt a
 
 Albin "Slaget" Otterhäll#linebreak()
 Revisor
+#andraLäsning("2024-10-15", [
+  === Förslag till beslut inför mötet
+  #attSatser([
+    ändra 10 kap. 4 § andra stycket från
 
-=== Förslag till beslut inför mötet
-#attSatser([
-  ändra 10 kap. 4 § andra stycket från
+    Om det uppstår en tvist om hur man ska tolka dokument där endast divisionsstämman kan besluta om ändringar tolkas dokumentet av divisionssordförande för avgörande.
 
-  Om det uppstår en tvist om hur man ska tolka dokument där endast divisionsstämman kan besluta om ändringar tolkas dokumentet av divisionssordförande för avgörande.
+    till
 
-  till
+    Om det uppstår en tvist om hur man ska tolka dokument där endast divisionsstämman kan besluta om ändringar tolkas dokumentet av revisor för avgörande. I händelse av att det inte finns en revisor tolkas dokumentet av divisionsordförande.
+  ])
 
-  Om det uppstår en tvist om hur man ska tolka dokument där endast divisionsstämman kan besluta om ändringar tolkas dokumentet av revisor för avgörande. I händelse av att det inte finns en revisor tolkas dokumentet av divisionsordförande.
-])
+  === Styrelsens yrkande
+  #attSatser([attsats 1 från motionen bifalles.])
 
-=== Styrelsens yrkande
-#attSatser([attsats 1 från motionen bifalles.])
-
-=== Beslutet efter förgående stämma
-Följande attsats bifalldes förgående stämma.
-#attSatser([
-  attsats 1 från motionen bifalles.
+  === Beslutet efter föregående stämma
+  Följande attsats bifalldes föregående stämma.
+  #attSatser([
+    attsats 1 från motionen bifalles.
+  ])
 ])
 
 === Beslut
-#attSatser([Attsats 1 bifalles])
-
+#attSatser([Attsats 1 från förgående stämma bifalles])
 #pagebreak()
 
 = Inval
@@ -880,6 +873,8 @@ Ida Vranvuk justeras ut.
 === Injustering
 Ida Vranvuk justeras in.
 
+#pagebreak()
+
 == ConCats'25
 ConCats har hand om Monaden.
 
@@ -889,13 +884,15 @@ ConCats nominerar Nikhil "Minaj" som ordförande för ConCats till kommande mand
 === Yrkande av Nikhil
 Nikhil drar tillbaks sin nominering och nominerar istället Martin Felix som ordförande för Concats till kommande mandatperiod.
 
-=== Förslag till beslut med acklamation
+=== Förslag till beslut
 #attSatser(
   [Martin Felix väljs in som ordförande för ConCats under verksamhetsåret 2025]
 )
 
 === Beslut
 #attSatser([Attsats 1 bifalles])
+
+#pagebreak()
 
 
 == Femme++'25
@@ -905,7 +902,7 @@ Femme++ har i uppgift att främja minoriteter inom programmet.
 _Styrelsen har ej fått in några nominering innan stämman._
 
 === Nominering under mötet
-Daniell Cole nominerar sig själv som ordförande för Femme++ under verksamhetsåret 2025.
+- Daniell Cole nominerar sig själv som ordförande för Femme++ under verksamhetsåret 2025.
 
 === Utjustering
 Daniell Cole justeras ut.
@@ -921,14 +918,21 @@ Daniell Cole justeras ut.
 === Injustering
 Daniell Cole justeras in.
 
+#pagebreak()
+
 == DV_Ops'25
 DV_Ops ansvarar för föreningens diverse IT system och med att främja hackerandra.
 
 === Inkomna nomineringar inför mötet
 _Styrelsen har ej fått in några nominering innan stämman._
 
+=== Förslag till beslut
+#attSatser(
+  [punkten bordsläggs]
+)
+
 === Beslut
-Inga nomineringar
+#attSatser([Attsats 1 bifalles])
 
 #pagebreak()
 == DV_Arm'25
@@ -937,8 +941,14 @@ DV_Arm ansvarar för att förbättra relationer mellan divisionen och företag.
 === Inkomna nomineringar inför mötet
 _Styrelsen har ej fått in några nominering innan stämman._
 
+=== Förslag till beslut
+#attSatser(
+  [punkten bordsläggs]
+)
+
 === Beslut
-Inga nomineringar
+#attSatser([Attsats 1 bifalles])
+#pagebreak()
 
 == Mega7'25
 Mega7 ansvarar för att vattna gräsmattan utanför Monaden.
@@ -958,7 +968,7 @@ Mega7 nominerar: Kevin "Petzzon" Pettersson
 === Utjustering
 Kevin "Pettzzon" Pettersson justeras ut.
 
-=== Förslag till beslut med acklamation
+=== Förslag till beslut
 #attSatser(
   [Kevin "Pettzzon" Pettersson väljs in som ordförande för Mega7 under verksamhetsåret 2025.],
 )
@@ -970,9 +980,9 @@ Kevin "Pettzzon" Pettersson justeras ut.
 Kevin "Pettzzon" Pettersson justeras in.
 
 #ordningsFråga([Samuel Hammersberg], [
-Jag behöver tömma min blåsa i.e urinera. \
+  Mötet är långt och en paus hade varit passande!  \
   #ordningsFrågaBody(
-    förslag: "Att ta en 5 minuters pudra-näsan paus", 
+    förslag: "Att ta en 5 minuters paus", 
   )
 ])
 
@@ -995,7 +1005,7 @@ Samuel nominerar Ida Vranvuk som orförande för styrelsen under verksamhetsåre
 === Utjustering
 Ida Vranvuk justeras ut.
 
-=== Förslag till beslut med acklamation
+=== Förslag till beslut 
 #attSatser(
   [Ida Vranvuk väljs in som ordförande i styrelsen för verksamhetsåret 2025], 
 )
@@ -1005,6 +1015,8 @@ Ida Vranvuk justeras ut.
 
 === Injustering
 Ida Vranvuk justeras in.
+
+#pagebreak()
 
 == Styrelsen'25
 Styrlesen består av fem medlemmar, ordförande, vice-ordförande, kassör, SAMO och sekreterare.
@@ -1024,12 +1036,12 @@ vi har stort förtroendet i dem!
 === Utjustering
 Hannes Carlsson, Ida Kjellerstedt, Nikhil Olsson Mukhopadhyay och Daniell Cole justeras ut.
 
-=== Förslag till beslut med acklamation
+=== Förslag till beslut
 #attSatser(
-  [Hannes Carlsson väljs in som kassör i styrelsen för verksamhetsåret 2025],
-  [Ida Kjellerstedt väljs in som vice ordförande i styrelsen för verksamhetsåret 2025],
-  [Nikhil Olsson Mukhopadhyay väljs in som sekreterare i styrelsen för verksamhetsåret 2025],
-  [Daniell Cole väljs in som SAMO i styrelsen för verksamhetsåret 2025],
+  [Hannes Carlsson väljs in i styrelsen för verksamhetsåret 2025],
+  [Ida Kjellerstedt väljs in i styrelsen för verksamhetsåret 2025],
+  [Nikhil Olsson Mukhopadhyay väljs in i styrelsen för verksamhetsåret 2025],
+  [Daniell Cole väljs in i styrelsen för verksamhetsåret 2025],
 )
 
 === Beslut
@@ -1046,9 +1058,15 @@ att stadgan följs och alla ekonomiska regler!
 === Inkomna nomineringar inför mötet
 _Styrelsen har ej fått in några nominering innan stämman._
 
-=== Beslut
-Inga nomineringar
+=== Förslag till beslut
+#attSatser(
+  [punkten bordsläggs]
+)
 
+=== Beslut
+#attSatser([Attsats 1 bifalles])
+
+#pagebreak()
 = Diskussionspunkter
 Stämman är inte bara en chans för oss i divisionen att rösta om saker, utan den ger oss även en chans att
 diskutera olika ämnen, som kanske nödvändigtvis inte behövs röstas om.
@@ -1063,6 +1081,6 @@ Det kan finnas en ide att ta denna frågan högre upp än instutionen. Eftersom 
 = Avslutande av möte
 
 == Mötets avslutande
-Mötet planeras avslutas 20:40.
+Mötet avslutades 21:10.
 #pagebreak()
 #signatures(stämma: true)
