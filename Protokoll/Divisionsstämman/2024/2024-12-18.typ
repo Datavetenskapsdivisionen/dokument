@@ -1075,7 +1075,7 @@ Styrelsen har ej kommit med några diskussionspunkter, men vi lämnar golvet
 öppet för närvarande medlemmar att ta upp det dom har på hjärtat.
 
 == Tear down the walls
-Det kan finnas en ide att ta denna frågan högre upp än instutionen. Eftersom handikappsanpassningar bör prioriteras kanske detta får bättre gehör högre upp. Vi för denna diskussionen vidare framöver och vi uppmanar nästkommande styrelse att fortsätta detta arbetet.
+Det kan finnas en ide att ta denna frågan om att riva väggen i mitten av Monaden högre upp än instutionen. Eftersom handikappsanpassningar bör prioriteras kanske detta får bättre gehör högre upp. Vi för denna diskussionen vidare framöver och vi uppmanar nästkommande styrelse att fortsätta detta arbetet.
 
 #pagebreak()
 = Avslutande av möte
