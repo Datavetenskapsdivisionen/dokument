@@ -240,7 +240,7 @@ jobb när de tar över!
 #ordningsFråga([Samuel Hammersberg], [
 Eftersom det tillkommit en medlem efter mötet börjat måste vi justera röstlängden från 26 till 27. \
   #ordningsFrågaBody(
-    förslag: "Att justera röstlängden från 26 till 27", 
+    förslag: "Att justera röstlängden från 27 till 28", 
   )
 ])
 
@@ -359,7 +359,7 @@ Mötet har redan tagit lång tid och en paus skulle behövas. \
 #ordningsFråga([Samuel Hammersberg], [
 Några lämnade mötet under pausen. Vi behöver justera röstlängden. \
   #ordningsFrågaBody(
-    förslag: "Att justera röstlängden från 27 till 24", 
+    förslag: "Att justera röstlängden från 28 till 25", 
   )
 ])
 
