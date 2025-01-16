@@ -14,6 +14,7 @@
   set rect(width: 100%, height: 100%, inset: 0pt)
   set par(justify: true)
   set heading(numbering: "1.1")
+  show figure: set block(breakable: true)
   show selector(heading.where(level: 3)) : set heading(numbering: none)
   show selector(heading.where(level: 4)) : set heading(numbering: none)
   // show heading: set text(font: "DejaVu Sans", weight: "medium", size: 0.9em)
@@ -181,15 +182,17 @@
   let header = ();
   if styrelsen {
     header = table.header(
+      repeat: true,
       [Befattning], [Namn], [Närvarande],
     )
   } else {
     header = table.header(
+      repeat: true,
       [Namn], [Närvarande],
     )
   }
 
-  rect(
+  block(
     width: 100%,
     height: auto,
     stroke: none,
@@ -199,6 +202,7 @@
       right: 0.3cm,
       bottom: 0.2cm
     ),
+    breakable: true,
     if styrelsen {
       table(
         stroke: (_, y) => if (y == 0) { (bottom: 1pt) },
