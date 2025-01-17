@@ -107,6 +107,7 @@ lualatex --output-directory=output/ styrdokument/Datavetenskapsdivisionen\ stadg
 | [Protokoll/Styrelsen/2024/2024-11-01.typ](Protokoll/Styrelsen/2024/2024-11-01.typ) | [❌ Saknas](mailto:styrelsen@dvet.se?subject=Dokument%20som%20saknas&body=Signerade%20PDF%20filen%20för%20Protokoll/Styrelsen/2024/2024-11-01.typ%20saknas!) |
 | [Protokoll/Styrelsen/2024/2024-11-15.typ](Protokoll/Styrelsen/2024/2024-11-15.typ) | [❌ Saknas](mailto:styrelsen@dvet.se?subject=Dokument%20som%20saknas&body=Signerade%20PDF%20filen%20för%20Protokoll/Styrelsen/2024/2024-11-15.typ%20saknas!) |
 | [Protokoll/Styrelsen/2024/2024-12-11.typ](Protokoll/Styrelsen/2024/2024-12-11.typ) | [❌ Saknas](mailto:styrelsen@dvet.se?subject=Dokument%20som%20saknas&body=Signerade%20PDF%20filen%20för%20Protokoll/Styrelsen/2024/2024-12-11.typ%20saknas!) |
+| [Protokoll/Styrelsen/2025/2025-01-20.typ](Protokoll/Styrelsen/2025/2025-01-20.typ) | [❌ Saknas](mailto:styrelsen@dvet.se?subject=Dokument%20som%20saknas&body=Signerade%20PDF%20filen%20för%20Protokoll/Styrelsen/2025/2025-01-20.typ%20saknas!) |
 ## Dokument/Divisionsstämman - Signerat
 | Dokument | Link |
 | -------- | ---- |
