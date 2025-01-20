@@ -15,13 +15,13 @@
     [Daniell Cole], [Ja],
     [Nikhil Olsson \ Mukhopadhyay], [Ja],
 )
-// #deltagere(
-// [Samuel Hammersberg], [Ja],
-// [Tim Persson], [Ja],
-// [Lukas Gartman], [Ja],
-// [Josefin Kokkinakis], [Ja],
-// [Gustav Dalemo], [Ja],
-//)
+ #deltagere(
+ [Samuel Hammersberg], [Ja],
+ [Tim Persson], [Ja],
+ [Lukas Gartman], [Ja],
+ [Josefin Kokkinakis], [Ja],
+ [Gustav Dalemo], [Ja],
+)
 
 
 
