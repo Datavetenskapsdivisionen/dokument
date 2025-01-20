@@ -176,6 +176,12 @@ Då Ida Vranvuk och Hannes Carlsson har valts som ordförande resp. kassör, så
 
 #pagebreak()
 
+== ADS programmet försvinner
+Anmälan till ADS för hösten 2025 är isntälld.
+
+=== Förslag till beslut
+#attSatser([en godtycklig styrelsemedlem tar reda på Information om inställningen av anmälan till ADS och annan relevant information.])
+
 == Överlämmning
 Nu när det är en ny styrelse behöver överlämning ske. Information som föreningens olika konton, vilka man ska kontakta när något sker, eller hur man får veta att olika möten sker behövs diskuteras tidigare styrelsen.
 
