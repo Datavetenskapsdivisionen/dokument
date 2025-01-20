@@ -19,7 +19,6 @@
  [Samuel Hammersberg], [Ja],
  [Tim Persson], [Ja],
  [Lukas Gartman], [Ja],
- [Josefin Kokkinakis], [Ja],
  [Gustav Dalemo], [Ja],
 )
 
