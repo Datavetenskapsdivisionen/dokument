@@ -165,6 +165,13 @@ Då styrelsen konstituerar sig själv måste styrelsen nu välja roller.
   [Nikhil Olsson Mukhopadhyay väls till sekreterare för verksamhetsåret 2025.]
   )
 
+=== Uppdatering av externchatten
+Då en ny vice-ordförande (förhoppningsvis) valts bör exrternchatten uppdateras genom att före detta vice-ordförande tas bort från externchatter och nya vice-ordförande läggs till.
+
+=== Förslag till beslut
+#attSatser([vice-ordförande, Ida Kjellerstedt, bjuds in till relaterade forum.],
+[före detta vice-ordförande, Tim Persson, tas bort från relaterade forum.])
+
 #pagebreak()
 
 == Val av firmatecknare
@@ -173,6 +180,7 @@ Då Ida Vranvuk och Hannes Carlsson har valts som ordförande resp. kassör, så
 
 === Förslag till beslut
 #attSatser([Ida Vranvuk och Hannes Carlsson representerar divisionen *var för sig*])
+
 
 #pagebreak()
 
