@@ -1,6 +1,6 @@
 #import "../../../Template/Typst/DVD.typ": setupDocument, attSatser, blank, blockqoute, deltagere, signatures, formalia
 
-#let time = "17:30"
+#let time = "17:10"
 #show: setupDocument.with(
   time: time,
   title: "konstituerande",
@@ -25,8 +25,7 @@
 
 
 = Öppnande av möte
-Mötet planeras att öppnas #time. \
-Mötet öppnades 17:10.
+Mötet öppnades #time.
 
 = Runda bordet
 #formalia.rundaBordet
@@ -68,7 +67,7 @@ Mötet öppnades 17:10.
 == Val av mötessekreterare
 #formalia.valAvMöteSekreterare
 
-=== Förslag
+=== Förslag till beslut
 #attSatser(
   [
     Nikhil Olsson Mukhopadhyay väljs in som mötessekreterare.
@@ -83,7 +82,7 @@ Mötet öppnades 17:10.
 == Val av protokolljusterare
 #formalia.valAvMöteJusterare
 
-=== Förslag tillb beslut
+=== Förslag till beslut
 #attSatser(
   [
     Ida Kjellerstedt väljs in som protokolljusterare.
@@ -101,7 +100,7 @@ Mötet öppnades 17:10.
 
 == Ordförande
 
-Har blivit kontaktad av Akavia för sammarbete under fettisdagen. Signerat för kårkällaren
+Har blivit kontaktad av Akavia för samarbete under fettisdagen. Signerat för kårkällaren
 
 == Vice ordförande
 
@@ -109,7 +108,7 @@ Signerat för kårkällaren.
 
 == Kassör
 
-Uppmärksammat ett fel i google docs som lösts.
+Uppmärksammat ett fel i Google Docs som lösts.
 
 == SAMO
 
@@ -127,17 +126,27 @@ Här diskuterar styrelsen diverse punkter som behövs tas upp men kanske inte be
 == Formalia kring beslut
 I och med att det är en ny styrelse så kan det behövas att snabbt gå igenom hur beslut ska göras och hur beslut tas. Denna diskussion kommer ske med tidigare styrelse.
 
+Tidigare styrelse sammanfattar muntligt hur reglerna kring beslut fungerar.
+
 == Tidigare arbeten
 Tidigare styrelsen bestämde att en ringklocka ska sättas upp utanför Monaden, och att krokar ska sättas upp i styrelserummet. Det hade varit passande att individerna som påbörjade arbetet även avslutar det.
+
+Tidigare styrelsen tar på sig att göra klart dessa arbeten, då de kände att detta var mer passande.
 
 == Merch för styrelsen
 Tidigare styrelsen har diskuterat att införskaffa passande plagg. Detta skedde dock inte, och frågan är om nuvarande styrelse vill fortsätta detta arbete.
 
+Alla styrelsemedlemmar och föregående styrelsemedlemmar tar med ett rimligt plagg till nästa styrelsemöte för att tryckas.
+
 == Patches
-Tidigare styrelsen har diskuterat att införskaffa patches. Detta skedde dock inte, och frågan är om nuvarande stydelse vill fortsätta detta arbete.
+Tidigare styrelsen har diskuterat att införskaffa patches. Detta skedde dock inte, och frågan är om nuvarande styrelse vill fortsätta detta arbete.
+
+En order av patches designade efter styrelsens logga ska införskaffas. Dessa är ämnade att gå i arv till kommande styrelse.
 
 == Utlåning
 Formalia angående utlåning av Datavetenskapsdivisionens ägodelar till utomstående.
+
+Tidigare styrelse sammanfattar muntligt hur reglerna kring utlåning fungerar.
 
 #pagebreak()
 
@@ -197,16 +206,16 @@ Då Ida Vranvuk och Hannes Carlsson har valts som ordförande resp. kassör, så
 Anmälan till Applied Data Science Master-Programmet för hösten 2025 är inställd.
 
 === Förslag till beslut
-#attSatser([en godtycklig styrelsemedlem tar reda på Information om inställningen av anmälan till Applied Data Science Master-Programmet och annan relevant information.])
+#attSatser([Ida Vranvuk tar reda på mer relevant information och delar denna information med styrelsen på lämpligt vis innan nästkommande styrelsemöte.])
 
 === Beslut
 #attSatser(
-  [Ida Vranvuk tar reda på mer relevant information och delar denna information med styrelsen på lämpligt vis innan näskommande styrelsemöte.]
+  [attsats 1 bifalles.]
 )
 
 #pagebreak()
 
-== Överlämmning
+== Överlämning
 Nu när det är en ny styrelse behöver överlämning ske. Information som föreningens olika konton, vilka man ska kontakta när något sker, eller hur man får veta att olika möten sker behövs diskuteras med tidigare styrelse.
 
 === Förslag till beslut
@@ -226,22 +235,22 @@ Nu när det är en ny styrelse behöver överlämning ske. Information som före
 #pagebreak()
 
 == Studenthälsoenkät
-Tidigare styrelse skickade ut en enkät runt denna tiden förra året, detta var mycket uppskattat av instutitionen och vi har blivit ombedda att göra detta igen.
+Tidigare styrelse skickade ut en enkät runt denna tiden förra året, detta var mycket uppskattat av institutionen och vi har blivit ombedda att göra detta igen.
 
 === Förslag till beslut
-#attSatser([en godtycklig styrelsemedlem tar på sig att skapa en sådan enkät till nästa styrelsemöte.])
+#attSatser([Daniell Cole tar på sig att skapa en sådan enkät till nästa styrelsemöte.])
 
 === Beslut
-#attSatser([Daniell Cole tar på sig ansvaret.])
+#attSatser([attsats 1 bifalles.])
 
 == Kandidatkursrepresentanter
 Ordförande för IT-sektionen på Göta Studentkår, Petrus Hagby, har kontaktat styrelsen om att fixa en eller två representanter för kandidatkursen på datavetenskapsprogrammet.
 
 === Förslag till Beslut
-#attSatser([en godtycklig styrelsemedlem tar på sig att hitta en eller två studenter som är intereserade av att vara studentrepresentatner för kandidatskursen på datavetenskapsprogrammet.])
+#attSatser([Ida Vranvuk tar på sig att hitta en eller två studenter som är intereserade av att vara studentrepresentanter för kandidatskursen på datavetenskapsprogrammet.])
 
 === Beslut
-#attSatser([Ida Vranvuk tar på sig ansvaret.])
+#attSatser([attsats 1 bifalles])
 
 #pagebreak()
 
@@ -255,14 +264,14 @@ Tidigare vice-ordförande började med någolunda regelbundna kommittéemöten f
 #attSatser([attsats 1 bifalles])
 
 
-==  Firandet av föreningens #strike[20]21-årsdag
-Tidigare ordförande, Samuel Hammersberg, var mycket intereserad av att annordna en fest för att fira föreningens födelsedag. Detta är något han fortfarande vill driva och skulle vilja ha hjälp av nuvarande styrelse för att driva detta.
+==  Firandet av föreningens 22-årsdag
+Tidigare ordförande, Samuel Hammersberg, var mycket intereserad av att anordna en fest för att fira föreningens födelsedag. Detta är något han fortfarande vill driva och skulle vilja ha hjälp av nuvarande styrelse för att driva detta.
 
 === Förslag till beslut
 #attSatser([punkten tas upp på nästkommande kommittéemöte.])
 
 === Beslut
-#attSatser([attsats 1 wbifalles])
+#attSatser([attsats 1 bifalles])
 
 #pagebreak()
 
@@ -314,7 +323,7 @@ Kostnaden för att ha en konto med swish är 1668kr. Detta bör äskas för till
 Nästa möte planeras preliminärt 2025-02-03 : 12:00.
 
 == Mötets avslutande
-Mötet planeras avslutas 18:30. \
+
 Mötet avslutas 18:38.
 #pagebreak()
 #signatures()
