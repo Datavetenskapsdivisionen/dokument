@@ -23,7 +23,7 @@
 		}
 		{#1 #3 #2}{}
 
-	\NewDocumentCommand{\förtroendevald}{m m m}{%
+	\NewDocumentCommand{\fortroendevald}{m m m}{%
 		#1 & #2 & #3\\
 	}
 
@@ -69,7 +69,7 @@
 		\end{tabular}
 	}
 
-	\NewDocumentCommand{\stämmosignaturer}{}{%
+	\NewDocumentCommand{\stammosignaturer}{}{%
 		\newpage
 		\begin{tabular}{@{}p{\textwidth/2-2em} p{\textwidth/2-2em}@{}}
 		    \textbf{Mötesordförande:}
