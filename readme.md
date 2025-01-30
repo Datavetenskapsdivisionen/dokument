@@ -97,7 +97,7 @@ lualatex --output-directory=output/ styrdokument/Datavetenskapsdivisionen\ stadg
 | [Protokoll/Styrelsen/2024/2024-03-04.tex](Protokoll/Styrelsen/2024/2024-03-04.tex) | [✅ Signerad](https://drive.google.com/file/d/16CCylT6jyp9Qg83U55WoitpBmchp7uQa/view?usp=drive_link) |
 | [Protokoll/Styrelsen/2024/2024-03-21.tex](Protokoll/Styrelsen/2024/2024-03-21.tex) | [✅ Signerad](https://drive.google.com/file/d/1gGO63WqVW92Yl6mBsNI34ftFQ7jn5VZG/view?usp=sharing) |
 | [Protokoll/Styrelsen/2024/2024-04-08.tex](Protokoll/Styrelsen/2024/2024-04-08.tex) | [✅ Signerad](https://drive.google.com/file/d/1wCPhpIjWBM8M6Vm9tEEO_dMai4-dgAVy/view?usp=drive_link) |
-| [Protokoll/Styrelsen/2024/2024-05-07.tex](Protokoll/Styrelsen/2024/2024-05-07.tex) | [❌ Saknas](mailto:styrelsen@dvet.se?subject=Dokument%20som%20saknas&body=Signerade%20PDF%20filen%20för%20Protokoll/Styrelsen/2024/2024-05-07.tex%20saknas!) |
+| [Protokoll/Styrelsen/2024/2024-05-07.tex](Protokoll/Styrelsen/2024/2024-05-07.tex) | [✅ Signerad](https://drive.google.com/file/d/1K8i5bg13lmixCZPSZXKjLG1DgJ9GbFFI/view?usp=sharing) |
 | [Protokoll/Styrelsen/2024/2024-05-13.tex](Protokoll/Styrelsen/2024/2024-05-13.tex) | [✅ Signerad](https://drive.google.com/file/d/1piHIAHDZ3K4WJWqNb5YmwVkaGup8yYmj/view?usp=drive_link) |
 | [Protokoll/Styrelsen/2024/2024-08-27.tex](Protokoll/Styrelsen/2024/2024-08-27.tex) | [✅ Signerad](https://drive.google.com/drive/u/1/folders/1QB8kgy3urjC6i54s_langEAp1qFb4RCF) |
 | [Protokoll/Styrelsen/2024/2024-09-23.tex](Protokoll/Styrelsen/2024/2024-09-23.tex) | [✅ Signerad](https://drive.google.com/file/d/1O-iy8BwYJwAAH-o1WnVw5AefczF8v40L/view?usp=sharing) |
@@ -106,8 +106,8 @@ lualatex --output-directory=output/ styrdokument/Datavetenskapsdivisionen\ stadg
 | [Protokoll/Styrelsen/2024/2024-10-14.typ](Protokoll/Styrelsen/2024/2024-10-14.typ) | [✅ Signerad](https://drive.google.com/file/d/1nuOxsAjEMGihW3gKKRw89N0_HkPSmjGq/view?usp=sharing) |
 | [Protokoll/Styrelsen/2024/2024-11-01.typ](Protokoll/Styrelsen/2024/2024-11-01.typ) | [✅ Signerad](https://drive.google.com/drive/u/1/folders/1QB8kgy3urjC6i54s_langEAp1qFb4RCF) |
 | [Protokoll/Styrelsen/2024/2024-11-15.typ](Protokoll/Styrelsen/2024/2024-11-15.typ) | [✅ Signerad](https://drive.google.com/drive/u/1/folders/1QB8kgy3urjC6i54s_langEAp1qFb4RCF) |
-| [Protokoll/Styrelsen/2024/2024-12-11.typ](Protokoll/Styrelsen/2024/2024-12-11.typ) | [❌ Saknas](mailto:styrelsen@dvet.se?subject=Dokument%20som%20saknas&body=Signerade%20PDF%20filen%20för%20Protokoll/Styrelsen/2024/2024-12-11.typ%20saknas!) |
-| [Protokoll/Styrelsen/2025/2025-01-20.typ](Protokoll/Styrelsen/2025/2025-01-20.typ) | [❌ Saknas](mailto:styrelsen@dvet.se?subject=Dokument%20som%20saknas&body=Signerade%20PDF%20filen%20för%20Protokoll/Styrelsen/2025/2025-01-20.typ%20saknas!) |
+| [Protokoll/Styrelsen/2024/2024-12-11.typ](Protokoll/Styrelsen/2024/2024-12-11.typ) | [✅ Signerad](https://drive.google.com/file/d/1iwUE1SMh5em0VSzxttoRKUP8MdGKo6Xy/view?usp=sharing) |
+| [Protokoll/Styrelsen/2025/2025-01-20.typ](Protokoll/Styrelsen/2025/2025-01-20.typ) | [✅ Signerad](https://drive.google.com/file/d/1Q_6SFdXtDeyDd_d2iY3Gz9u-lweH7Vxh/view?usp=sharing) |
 ## Dokument/Divisionsstämman - Signerat
 | Dokument | Link |
 | -------- | ---- |
