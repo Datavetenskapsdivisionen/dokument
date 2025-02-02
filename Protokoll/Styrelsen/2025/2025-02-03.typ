@@ -11,7 +11,7 @@
     styrelsen: true, 
     [Ida "IceByte" Vranvuk], [],
     [Ida "Poppi" Kjellerstedt], [],
-    [Hannes "Bellford" Carlsson], [],
+    [Hannes "Belfort" Carlsson], [],
     [Daniell "Cassilda" Cole], [],
     [Nikhil "Minaj" Olsson \ Mukhopadhyay], [],
 )
@@ -164,8 +164,8 @@ För att främja föreningsen ekonomi och för att skapa ett bättre studentliv 
 
 === Förslag till beslut
 #attSatser(
-  [Godtycklig individ kontaktar kårkällar'n om eventuella bokningar inför nästa möte.],
-    [Godtycklig individ skapar en enkät som kan användas för att bestämma tema inför nästa möte.]
+  [Godtycklig individ undersöker när en bra tid att hålla i kårkällar'n hade varit och bokar kårkällar'n utifrån resultaten.],
+  [Godtycklig individ skapar en enkät som kan användas för att bestämma tema inför nästa möte.]
 )
 
 == Upprustning av Monaden
