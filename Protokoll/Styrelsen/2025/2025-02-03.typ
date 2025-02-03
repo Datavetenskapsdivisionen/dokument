@@ -146,6 +146,44 @@ Här diskuterar och *bestämmer* styrelsen diverse saker.
 När nästa stämma är, styrelsens arbeten, äskningar, och allt annat som kan bestämmas 
 om bestäms här!
 
+== Studienämnden äskan
+
+Från Studienämnden:
+
+Studienämnden äskar för vår kursutvärderingsfika som ska hållas under vecka 6 för att motivera studenter (speciellt förstaårsstudenter) att ge feedback om deras kurser till oss som vi sedan kan föra vidare för att förbättra kurser.\
+Vi vill äska 1000 kr (20kr/person) som kommer gå till kaffe, te, fika och tillbehör såsom servetter, pappersglas och tallrikar. Vi beräknar att ca. 50 personer kommer att delta. 
+
+=== Förslag till beslut
+
+#attSatser([IceByte och Belfort (Firmatecknare) godkänner äskan])
+
+=== Beslut
+
+#attSatser([])
+
+#pagebreak()
+
+== ConCats äskan
+
+Från ConCats:
+
+Hello!
+
+Vi i ConCats planerar att arrangera vår första ConCat's night för året. 
+Vi ska ha en brädspelskväll och har på tidigare event haft olika snacks tillgängliga eftersom detta lockar till sig mer personer.
+
+Vi uppskattar att ungefär 20 personer kommer och vi skulle önska en budget på 300 kr för chips, godis och möjligtvis läsk.
+
+Mvh
+Martin "Marabou"
+ConCats
+
+=== Förslag till beslut
+#attSatser([IceByte och Belfort (Firmatecknare) godkänner äskan])
+
+=== Beslut
+#attSatser([])
+
 == SAMO bör vara registrerad som göta SAMO
 
 För att underlätta SAMOs arbete bör denne vara registrerad som SAMO med göta studentkår. Presenteras muntligt av IceByte
