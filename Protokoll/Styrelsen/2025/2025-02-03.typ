@@ -139,6 +139,10 @@ Presenteras av Cassilda.
 
 Vid spontana fester eller eftersläpp bör monaden fortfarande städas. Det bör finnas ett bättre system för detta då ingen är direkt ansvarig för städning. 
 
+== Enhetliga loggor
+
+Då det inte finns en stilguide för märken och loggor finns det en del olika stilar. Jag, Minaj, tycker att det borde finnas någon form av stilguide så att loggor och patches behåller en någorlunda enhetlig stil. Denna bör inte vara särskiljt strikt eftersom vi vill tillåta fri design utan endast peka designerna i samma riktning.
+
 #pagebreak()
 
 = Beslutspunkter
