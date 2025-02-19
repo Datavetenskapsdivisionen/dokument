@@ -1,6 +1,6 @@
 #import "../../../Template/Typst/DVD.typ": setupDocument, attSatser, blank, blockqoute, deltagere, signatures, formalia
 
-#let time = "16:00"
+#let time = "16:01"
 #show: setupDocument.with(
   time: time,
   title: "",
@@ -77,7 +77,7 @@ Mötet öppnades #time.
 
 === Förslag till beslut
 #attSatser(
-  [Cassilda väljs som protokolljusterare.]
+  [Hannes Classon väljs som protokolljusterare.]
 )
 
 === Beslut
@@ -91,91 +91,53 @@ Mötet öppnades #time.
 
 == Ordförande
 
-Fått svar om ADS situationen som nämndes under förra mötet.
-Se bifogad bild.
-#align(center,image("2025-02-03ADS.png"))
-Har pratat mer med Akavia och skall be om en offert från bageri om semlor. Arbetet fortsätter.
+Har skickat ut information om ADS. Ska fråga om utökad CS master. Har skickat in dokument till banken för överlämmning. Undersökt om tema för kårkällaren. Varit på möte angående insparken för göta tillsamans med DVRK representanter. Planerat möte med DVRK + pateter för att reda ut stulet runt insparken. Möte i måndags i monaden. TLDR för insparken: Planen är inte bra för någon involverad och vi tänker dra oss ur götas inspark om det inte går att lösa.
+Inför valborg ska hella IT ha en sittning veckan innan valborg. Pengarna för denna sittningen kommer från studs, DV är ansvariga för mat/catering. Fins preliminärt schema för restev av valborg.
+Akavia har godkännt inköp av semlor för fettisdagen.
 
 == Vice ordförande
 
-Såg ingen anledning att inte ha mötet denna vecka. Ska boka till nästa vecka. Köpt tröja för tryck.
+Har beställt patches och fått båda fotoproven.
+Arrangerat kommittéemötet.
+Skickat ut information om städning samt patches.
+Ska på externmöte 20/2.
+Deltog på mötet
 
 == Kassör
 
-Har inte hunnit ha överlämmningsmöte än. Har inte heller gjort något arbete. Allt som behöver göras ska göras snart i mån av tid och avklarat överlämmningsmöte.
+Skickat in och fått två äskningar godkännda.
+Fått en mindre utbildning/överlämmning av hur äskningar fungerar i praktiken.
+Har varit på äskningsmöte och fått information om hur Studs och budget fungerar.
+Studs tillåter mycket i form av fester och sittningar. Vi borde använda detta mer. Finns fler lokaler som finns att använda.
+Götas budget är inte superstor. Göta kan dock sponsra vissa evenemang. Event utanför studs kan eskas från göta.
 
 == SAMO
 
-Köpt tröja inför tryck. Avklarat överlämningsmöte. Skapat enkäten som nämnts i tidigare möte.
+SKickat ut enkät.
+Inte fixat gamlingsfliken på hemsidan pga avsaknad av information men påbörjat arbetet.
 
 == Sekreterare
 
-Avklarat överlämningsmöte. Uppdaterat stadgan för att inkludera de ändringar som bestämdes på senaste stämma. Fixade tröja för tryck.
+Gett ConCats info om ramar och möbler.
+Signerat men inte skannat föregående protokoll.
 
 #pagebreak()
 
 = Diskussionspunkter
 Här diskuterar styrelsen diverse punkter som behövs tas upp men kanske inte behövs beslutas om. 
 
-== Alumner
+== Städning av styrelsen och städdag från ConCats
 
-Just nu har DVD mycket dålig koll på sina alumner och bör göra något åt detta. Förslagsvis en alumnlista eller liknande.
+ConCats ska skicka ut påminnelser. Styrelsen kanske kan hjälpa med detta i form av automatiska utskick. Styrelserummet bör städas mer regelbundet.
 
-Styrelsen är positiv till iden och vill gärna skapa en lista av något slag. Kanske i samarbete med Alex Gerdes för att kunna kontakta tidigare alumner.
+Städdagen är preliminärt planerat till nästa LP. ConCats vill gärna att styrelsen medverkar i utskick av information och planering av städning.
 
-== Styrelsearr
+== Gamlinglistor
 
-Styrelsen skulle gärna kunna hålla i en del arrangemang då och då. Kanske i samarbete med andra föreningar? Tidigare arrangemang (dock endast för styrelsen) har varit en grillkväll med chalmers data. Vad ska styrelsen göra och när?
+Vad skall inkluderas i en gamlinglistor? Hur ska de se ut? Detta behövs diskuteras innan arbetet med gamlinglistan kan avslutas.
+Skall endast namn namn vara med? Årtal?
 
-Styrelsen är positiv till små arrangemang,Kan skapa ett bättre nätverk med andra föreningar.
-Större arrangemang är inte något som vi är positiva till. Göra exklusivt styrelsen + andra styrelsemedlemmar eller liknande är en ide.
-Förslag att ha grill eller liknande med chalmers Data, SG fysik, Kog6 och fler.
-
-== Sociala medier
-
-Vi bör öka våran aktivitet på sociala medier för att göra oss mer kända. Kom med ideer och förslag på vad som skulle kunna göras!
-
-Lägg upp nya sittande. Publicerar arrangemang och händelser men inte bara vad som. Fler bilder efter arrangemang, exempelvis efter Mega6 fester.\
-Länka facebook sidan till instagram då vi inte har intention att använda facebook mer.
-
-#pagebreak()
-
-== Samarbeten
-IceByte presenterar muntligt:
-
-- SKIP: Workshop, hackathons 
-- IT-föreningar: Sittning med System6, Kog6 och OOPSex i Studs, kontakta dem redan nu för att boka lokal + datum + märken
-- Humsex - Shotluckan?
-- Just nu: Akavia
-- I framtiden:(Förslag), XAMERA? 
-
-Fler företag. Skicka ut mejl osv och kontakta dem, exempelvis MullvadVPN eller Akavia.
-SKIP vill gärna samarbeta. Fixa ett hackaton?
-IceByte vill ha en sittning med System, Sem och Kog (IT). En stor sittning, kanske i Studs för storlekens skull.\
-Skriv med IT föreningarna och arrangera en sittning. Mega6 borde vara med och arrangera med syrelsen ska hjälpa till.\
-Boka del av shotluckan och ha ett arrangemang tillsammans. Avvakta kontakt tills efter Humsex styrelsebyte.\
-Fler samarbeten med andra IT föreningar, speciellt one on one, hade varit kul.
-
-== Enkät
-
-Den enkät som beslutades om förra mötet bör ses över innan den skickas ut.
-Presenteras av Cassilda.
-
-Enkäten liknar förra årets enkät. Frågar om välmående och nöjdhet samt lite frågor om hur individen hittade sitt program. Sista fråga om information och arrangemang har kommit ut.\
-Styrelsen tycket enkäten sen bra ut och ger tummen upp att skicka ut den.
-
-== Städning av stök utanför arrangemang
-
-Vid spontana fester eller eftersläpp bör monaden fortfarande städas. Det bör finnas ett bättre system för detta då ingen är direkt ansvarig för städning. 
-
-De som deltar i en spontan fest bör städa efter sig. En tumregel att runt 3 tiden bör ett försök att städa det mesta göras. Samma regler som när man är nykter gäller, städa upp efter dig. Punkter bör tas upp på kommittéemötet.
-Ett utskick kommer göras efter kommittéemötet.
-
-== Enhetliga loggor
-
-Då det inte finns en stilguide för märken och loggor finns det en del olika stilar. Jag, Minaj, tycker att det borde finnas någon form av stilguide så att loggor och patches behåller en någorlunda enhetlig stil. Denna bör inte vara särskiljt strikt eftersom vi vill tillåta fri design utan endast peka designerna i samma riktning.
-
-En konkret guide är något som styrelsen är positiva till men det borde inte göras för restriktivt även om stilguiden inte är bindande.
+Styrelsen föreslår att namn (namn och ovvenamn), post och år ska vara med. För medlemmar som vait med flera år ska de stå flera gånger, en gång för varje år. Ingen som inte sitter nu och därmed är medveten om gamlinglistorna, eller kan kontaktas enkelt, skall inte vara med för att skydda privat infromation.
 
 #pagebreak()
 
@@ -184,186 +146,151 @@ Här diskuterar och *bestämmer* styrelsen diverse saker.
 När nästa stämma är, styrelsens arbeten, äskningar, och allt annat som kan bestämmas 
 om bestäms här!
 
-== Studienämnden äskan
+== Fler Standar
 
-Från Studienämnden:
+Då det finns ett DVRK standar som varit uppskattat tycker vi att information om att göra fler. Styrelsen bör även göra ett DVD standar.
 
-Studienämnden äskar för vår kursutvärderingsfika som ska hållas under vecka 6 för att motivera studenter (speciellt förstaårsstudenter) att ge feedback om deras kurser till oss som vi sedan kan föra vidare för att förbättra kurser.\
-Vi vill äska 1000 kr (20kr/person) som kommer gå till kaffe, te, fika och tillbehör såsom servetter, pappersglas och tallrikar. Vi beräknar att ca. 50 personer kommer att delta. 
 
 === Förslag till beslut
 
-#attSatser([IceByte och Belfort (Firmatecknare) godkänner äskan vars datum bestäms senare av äskande part.])
+#attSatser(
+  [Styrelsen påbörjar arbetet att göra ett standar för hela DVD innan valborg.],
+  [Ida Kjellerstedt skickar info om att göra standar för varje kommitte.]
+)
 
 === Beslut
 
-#attSatser([Attsats 1 bifalles.])
+#attSatser([attsats 1 bifalles],[attsats 2 bifalles])
 
 #pagebreak()
 
-== ConCats äskan
+== SKIP sammarbete
 
-Från ConCats:
-
-Hello!
-
-Vi i ConCats planerar att arrangera vår första ConCat's night för året. 
-Vi ska ha en brädspelskväll och har på tidigare event haft olika snacks tillgängliga eftersom detta lockar till sig mer personer.
-
-Vi uppskattar att ungefär 20 personer kommer och vi skulle önska en budget på 300 kr för chips, godis och möjligtvis läsk.
-
-Mvh
-Martin "Marabou"
-ConCats
+SKIP är positiva till sammarbete med DVD. Förslag inkluderar ett gamejam, hackathon, liknande advent of code sammarbete.
 
 === Förslag till beslut
-#attSatser([IceByte och Belfort (Firmatecknare) godkänner äskan.])
+#attSatser([Ida K pratar med SKIP och föreslår ett gamejam eller hackathon tillsamans.])
 
 === Beslut
-#attSatser([Attsats 1 bifalles.])
+#attSatser([attsats 1 bifalles.])
 
-== SAMO bör vara registrerad som göta SAMO
 
-För att underlätta SAMOs arbete bör denne vara registrerad som SAMO med göta studentkår. Presenteras muntligt av IceByte
+== Alumnlistan
+
+En intern alimnlista hade varit en användbar sak att ha. Vi kontaktar alla som studerar just nu och lägger dem på en lista. Vi bör även använda oss av CSEs lista för at kontakta aumner.
 
 === Förslag till beslut
-#attSatser([IceByte kontaktar Göta om att tillsätta Cassilda som SAMO för Data och informationsteknik.])
+#attSatser([Ida V kontaktar CSE och kontaktar alumner om att vara med på en almunlista. Samt skirver upp nuvarande studerande.])
 
 === Beslut
-#attSatser([Attsats 1 bifalles.])
+#attSatser([attsats 1 bifalles])
 
 #pagebreak()
 
-== Mer Kårkällar'n
+== Ryggtryck 2
 
-För att främja föreningen ekonomi och för att skapa ett bättre studentliv vill vi gärna hålla i Kårkällaren oftare. Förslagsvis kan detta göras en gång per termin eller oftare, gärna med en aspppub. Temat bör väljas kollektivt exempelvis genom att skicka ut en enkät.
+På kommittéemötet togs ryggtryck up. Styrelsen bör skicka ut en intressekoll och uppmuntra till rycggtryck. Då detta har gjorts innan och varit upskattat bör traditionen fortsättas.
 
 === Förslag till beslut
-#attSatser(
-  [Poppi undersöker när en bra tid att hålla i kårkällar'n hade varit och bokar kårkällar'n utifrån resultaten.],
-  [IceByte skapar en enkät eller liknande som kan användas för att bestämma tema på kårkällar'n inför nästa möte.]
-)
+#attSatser([Ida K skickar ut intressekoll för ryggtryck och påbörjar arbete.])
 
 === Beslut
-#attSatser(
-  [Attsats 1 bifalles],
-  [Attsats 2 bifalles]
-)
+#attSatser([attsats 1 bifalles.])
 
 #pagebreak()
 
-== Upprustning av Monaden
+== Valborg information
 
-Soffor, fåtöljer och stolar måste bytas ut. Detta borde helst göras under vårterminen (måste godkännas av Gerdes?). 
-Nyare bilder i Monaden borde sättas upp på väggarna. 
-Väggarna borde målas om, det ser rätt så slitet ut just nu. 
-Den vita väggen med den stora målningen kan upprustas - ta in förslag från aktiva.\
-Detta bör delvis utföras med ConCats hjälp/samarbete.
+Då flera medlemmar inte varit på ett valborgsfirande i studentkretsar innan är det viktigt att informera om hur det går till.
 
 === Förslag till beslut
-#attSatser(
-  [Styrelsen delegerar till ConCats att skapa en rapport om relevanta möbler som ska köpas in till monaden. ConCats kan gärna kontakta Alex Gerdes om information.],
-  [Styrelsen delegerar rusta upp ramar och byta ut bilder till ConCats.]
-)
+#attSatser([Styrelsen bordslägger punken till nästa möte.])
 
 === Beslut
-#attSatser(
-  [Attsats 1 bifalles.],
-  [Attsats 2 bifalles.]
-)
+#attSatser([attsats 1 bifalles.])
+
+
+== Patches i stilguide
+
+=== Förslag till beslut
+#attSatser([Styrelsen borddslägger punkten till nästa möte.])
+
+=== Beslut
+#attSatser([attsats 1 bifalles.])
+
+== Godkännande pengar till patches
+
+Styrelsen skall godkänna styrelsens äskning av pengar till patches som bestämdes förra mötet. Summan som ska äskas är 2163kr.
+
+=== Förslag till beslut
+#attSatser([Styrelsen godkänner äskan för 2163kr från föreningen för inköp av "DVD patches" som beslutades om förra mötet.])
+
+=== Beslut
+#attSatser([attsats 1 bifalles.])
 
 #pagebreak()
 
-== märken
-För att gynna ekonomin av föreningen och göra oss mer synliga skulle ett antal märken kunna göras och säljas på exempelvis kårkällaren eller sittningar. Dessa skulle kunna vara lika andra föreningars märken exempelvis system-kompis eller åka buss med hum6. Även ett årsdagsmärke hade varit kul då föreningen fyller 22. Det har även visats intresse för en pride patch.\
-Även de DVD märken som sitter på brösfickan av de flesta overaller bör köpas in fler av.
+== Tema kårkällaren
+
+Temat för kårkällaren bör ftaställas. Förslaget är Megaman/DV.
 
 === Förslag till beslut
-#attSatser(
-  [Samtliga villiga medlemmar i föreningen försöker designa en/flera patches som skickas till styrelsens mejl för att röstas om på nästa möjliga möte.],
-  [Poppi kontaktar en märkestillverkare och köper in 50 DVD märken och 50 styrelsemärken.]
-)
+#attSatser([temat för nästa tillfälle av kårkällaren skall vara Megaman/DV.])
 
 === Beslut
-#attSatser(
-  [Attsats 1 bifalles.],
-  [Attsats 2 bifalles.]
-)
+#attSatser([attsats 1 bifalles])
 
-== Examenssittning
 
-Det är rimligt att sittning i för de som tar examen. Denna bör vara en finsittning fär alumner är välkomna samt studenter inom DVD. Företräde för examenstagande bör ges.
+
+== Deadline för märken
+
+Det behövs en deadline för märken som beslutades om förra mötet. 
 
 === Förslag till beslut
-#attSatser([Styrelsen bordslägger punkten tillsvidare.])
+#attSatser([16:e mars är deadline för märken.])
 
 === Beslut
 #attSatser([Attsats 1 bifalles.])
 
 #pagebreak()
 
-== Interna arrangemang
+== Fettisdagen med AKAVIA
 
-Det finns även en del interna arrangemang som vi vill hålla i. Dessa är
-- En omsits för pateter
-- En styrelserummssittning för gamla styrelsen
-Vi bör arrangera dessa snart
+Evenemanget är spikat och AKAVIA har godkännt budgeten. Nu ska eventet marknadsföras och förberedas.
 
 === Förslag till beslut
 #attSatser(
-  [Styrelsen planerar styrelserummssittningen preliminärt till lördag den 1:e mars.],
-  [Styrelsen planerar omsittsen för pateter preliminärt till lördag den 12:e April.]
+  [Ida V arrangerar och marknadsför eventet med AKAVIA.]
 )
 
 === Beslut
 #attSatser(
-  [Attsats 1 bifalles],
-  [Attsats 2 bifalles]
+  [Attsats 1 bifalles]
 )
 
-== Gamlingar på hemsidan
+== Märket på marken
 
-Då detta inte finns hade det varit kul att lägga in gamlingar på dvet.se i någon form. Möjligtvis en gamlinglista av något slag? 
+Under kommittéemötet kom det upp att ett märke utanför/nära monaden hade varit kul. Detta måsta i sådana falll godkännas av relevanta organisationer.
 
 === Förslag till beslut
-#attSatser([Cassilda skapar en flik på hemsidan för gamlingar till slutet av terminen och presenterar detta på relevant styrelsemöte.])
+#attSatser([Ida V kontaktar ansvariga och ber om lov att måla upp ett märke i närheten av monaden, liknande de som redan finns på campus.])
 
 === Beslut
 #attSatser([Attsats 1 bifalles.])
 
 
-== Märket i backen
+== Marknadsföring av icke-DVD arrangemang i monaden
 
-Vi vill måla våran logga i backen ovanför Olgas trappa precis som resten av folket på campus. Detta bör göras med godkännande från Chalmers.
-Loggan ska helst målas i maj/juni och sedan piffas upp någon gång runt augusti.
-
-=== Förslag till beslut
-#attSatser(
-  [Cassilda kontaktar relevanta parter och ser till att vi kan och får måla i backen.],
-  [En arbetsgrupp skapas för att måla loggan.],
-  [Punkten tas upp på kommande kommittéemötet och vidare aktion tas vid nästa styrelsemöte.]
-)
-
-=== Beslut
-#attSatser([Attsats 3 bifalles.])
-
-#pagebreak()
-
-== Tejp
-
-Då det finns stor efterfrågan och lite utbud bör fler föreningsaktiva införskaffa sig tejprullar, så kallad "Gasque-tejp". Detta bör göras snarast.
-Notera att ett ungefärligt pris bör finnas när intressekollen görs så en mer korrekt lista av intereserade kan skapas.
+Då klubbsport FC satt upp posters i monaden kommer frågan om reklam för icke DVD event i monaden upp. Skall detta tillåtas och om ja, när ska det godkännas?
 
 === Förslag till beslut
 #attSatser(
-  [IceByte samlar in en lista av intereserade.],
-  [IceByte köper in tejp och delar ut den till intereserade.]
+  [Ida V skickar ut information om att: lappar med reklam for icke-DV events eller annan information skall sitta på affischtavlan och får endast sättas upp efter godkännande av minst en styrelsemedlem.],
 )
 
 === Beslut
 #attSatser(
-  [Attsats 1 bifalles],
-  [Attsats 2 bifalles]
+  [attsats 1 bifalles.]
 )
 
 // ___________________________________________________________________________
@@ -373,10 +300,10 @@ Notera att ett ungefärligt pris bör finnas när intressekollen görs så en me
 = Avslutande av möte
 
 == Nästa möte
-Nästa möte bokas till 19:e Februari klockan 15:00
+Nästa möte bokas till 3:e Mars klockan 17:00
 
 == Mötets avslutande
-Mötet avslutas 18:33
+Mötet avslutas 18:00
 
 #pagebreak()
 #signatures()
