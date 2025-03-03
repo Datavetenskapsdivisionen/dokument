@@ -63,7 +63,7 @@ Mötet öppnades #time.
 === Förslag till beslut
 #attSatser(
   [
-    Minaj väljs in som mötessekreterare.
+    Nikhil Olsson Mukhopadhyay väljs in som mötessekreterare.
   ]
 )
 
@@ -82,7 +82,7 @@ Mötet öppnades #time.
 
 === Beslut
 #attSatser(
-  [Attsats 1 bifalles]
+  [ attsats 1 bifalles]
 )
 
 #pagebreak()
@@ -91,35 +91,39 @@ Mötet öppnades #time.
 
 == Ordförande
 
-Har skickat ut information om ADS. Ska fråga om utökad CS master. Har skickat in dokument till banken för överlämmning. Undersökt om tema för kårkällaren. Varit på möte angående insparken för göta tillsamans med DVRK representanter. Planerat möte med DVRK + pateter för att reda ut stulet runt insparken. Möte i måndags i monaden. TLDR för insparken: Planen är inte bra för någon involverad och vi tänker dra oss ur götas inspark om det inte går att lösa.
-Inför valborg ska hella IT ha en sittning veckan innan valborg. Pengarna för denna sittningen kommer från studs, DV är ansvariga för mat/catering. Fins preliminärt schema för restev av valborg.
+Har skickat ut information om ADS som nämndes på förra mötet, skall fråga om utökad CS master.\
+Har skickat in dokument till banken för överlämmning.\
+Har undersökt om tema för kårkällaren, se beslutspunkt.\
+Varit på möte för götas inspark tillsamans med DVRK och har planerat ett möte med DVRK + pateter för att reda ut stulet runt insparken. Deltog även i ett möte i måndags i monaden angående samma ämne med hela IT sektionen.\
+TLDR för insparken: Planen är inte bra för någon involverad och vi tänker dra oss ur götas inspark om det inte går att lösa.\
+Inför valborg ska hella IT ha en sittning veckan innan valborg. Pengarna för denna sittningen kommer från studs, DV är ansvariga för mat/catering.\
 Akavia har godkännt inköp av semlor för fettisdagen.
 
 == Vice ordförande
 
-Har beställt patches och fått båda fotoproven.
-Arrangerat kommittéemötet.
-Skickat ut information om städning samt patches.
-Ska på externmöte 20/2.
-Deltog på mötet
+Har beställt patches och fått båda fotoproven.\
+Bokade kommittéemötet.\
+Skickat ut information om städning utanför arrangemang samt patches.\
+Ska på externmöte 20/2.\
+Deltog på mötet i måndags.
 
 == Kassör
 
-Skickat in och fått två äskningar godkännda.
-Fått en mindre utbildning/överlämmning av hur äskningar fungerar i praktiken.
+Skickat in och fått två äskningar godkännda.\
+Fått en mindre utbildning/överlämmning av hur äskningar fungerar i praktiken.\
 Har varit på äskningsmöte och fått information om hur Studs och budget fungerar.
 Studs tillåter mycket i form av fester och sittningar. Vi borde använda detta mer. Finns fler lokaler som finns att använda.
 Götas budget är inte superstor. Göta kan dock sponsra vissa evenemang. Event utanför studs kan eskas från göta.
 
 == SAMO
 
-SKickat ut enkät.
+Skickat ut enkäten om välmående från tidigare möte.\
 Inte fixat gamlingsfliken på hemsidan pga avsaknad av information men påbörjat arbetet.
 
 == Sekreterare
 
-Gett ConCats info om ramar och möbler.
-Signerat men inte skannat föregående protokoll.
+Har gett ConCats info om ramar och möbler.\
+Har samlat signaturer för, men inte skannat, föregående protokoll.
 
 #pagebreak()
 
@@ -137,7 +141,7 @@ Städdagen är preliminärt planerat till nästa LP. ConCats vill gärna att sty
 Vad skall inkluderas i en gamlinglistor? Hur ska de se ut? Detta behövs diskuteras innan arbetet med gamlinglistan kan avslutas.
 Skall endast namn namn vara med? Årtal?
 
-Styrelsen föreslår att namn (namn och ovvenamn), post och år ska vara med. För medlemmar som vait med flera år ska de stå flera gånger, en gång för varje år. Ingen som inte sitter nu och därmed är medveten om gamlinglistorna, eller kan kontaktas enkelt, skall inte vara med för att skydda privat infromation.
+Styrelsen tycler att namn (namn och ovvenamn), post och år ska vara med. För medlemmar som vait med flera år ska de stå flera gånger, en gång för varje år. Ingen som inte är aktiv nu och, därmed antingen är medveten om gamlinglistorna eller kan kontaktas enkelt, skall inte vara med för att skydda privat infromation.
 
 #pagebreak()
 
@@ -169,7 +173,7 @@ Då det finns ett DVRK standar som varit uppskattat tycker vi att information om
 SKIP är positiva till sammarbete med DVD. Förslag inkluderar ett gamejam, hackathon, liknande advent of code sammarbete.
 
 === Förslag till beslut
-#attSatser([Ida K pratar med SKIP och föreslår ett gamejam eller hackathon tillsamans.])
+#attSatser([Ida Kjellerstedt pratar med SKIP och föreslår ett gamejam eller hackathon tillsamans.])
 
 === Beslut
 #attSatser([attsats 1 bifalles.])
@@ -177,10 +181,10 @@ SKIP är positiva till sammarbete med DVD. Förslag inkluderar ett gamejam, hack
 
 == Alumnlistan
 
-En intern alimnlista hade varit en användbar sak att ha. Vi kontaktar alla som studerar just nu och lägger dem på en lista. Vi bör även använda oss av CSEs lista för at kontakta aumner.
+En intern alimnlista hade varit användbart av olika anledningar. Vi kontaktar alla som studerar just nu och lägger dem på en lista. Vi bör även använda oss av CSEs lista för at kontakta aumner.
 
 === Förslag till beslut
-#attSatser([Ida V kontaktar CSE och kontaktar alumner om att vara med på en almunlista. Samt skirver upp nuvarande studerande.])
+#attSatser([Ida Vranvuk kontaktar CSE och kontaktar alumner om att vara med på en almunlista. Samt skirver upp nuvarande studerande.])
 
 === Beslut
 #attSatser([attsats 1 bifalles])
@@ -189,10 +193,10 @@ En intern alimnlista hade varit en användbar sak att ha. Vi kontaktar alla som 
 
 == Ryggtryck 2
 
-På kommittéemötet togs ryggtryck up. Styrelsen bör skicka ut en intressekoll och uppmuntra till rycggtryck. Då detta har gjorts innan och varit upskattat bör traditionen fortsättas.
+På kommittéemötet togs ryggtryck up. Styrelsen bör skicka ut en intressekoll och uppmuntra till ryggtryck. Eftersom detta upskattats tidigare och hjälper sprida vetskap om DVD bör denna tradition följas om möjligt.
 
 === Förslag till beslut
-#attSatser([Ida K skickar ut intressekoll för ryggtryck och påbörjar arbete.])
+#attSatser([Ida Kjellerstedt skickar ut intressekoll för ryggtryck och påbörjar arbete.])
 
 === Beslut
 #attSatser([attsats 1 bifalles.])
@@ -218,6 +222,8 @@ Då flera medlemmar inte varit på ett valborgsfirande i studentkretsar innan ä
 === Beslut
 #attSatser([attsats 1 bifalles.])
 
+#pagebreak()
+
 == Godkännande pengar till patches
 
 Styrelsen skall godkänna styrelsens äskning av pengar till patches som bestämdes förra mötet. Summan som ska äskas är 2163kr.
@@ -228,11 +234,11 @@ Styrelsen skall godkänna styrelsens äskning av pengar till patches som bestäm
 === Beslut
 #attSatser([attsats 1 bifalles.])
 
-#pagebreak()
+
 
 == Tema kårkällaren
 
-Temat för kårkällaren bör ftaställas. Förslaget är Megaman/DV.
+Temat för kårkällaren bör fastställas.
 
 === Förslag till beslut
 #attSatser([temat för nästa tillfälle av kårkällaren skall vara Megaman/DV.])
@@ -240,19 +246,18 @@ Temat för kårkällaren bör ftaställas. Förslaget är Megaman/DV.
 === Beslut
 #attSatser([attsats 1 bifalles])
 
-
+#pagebreak()
 
 == Deadline för märken
 
-Det behövs en deadline för märken som beslutades om förra mötet. 
+Det behövs en deadline för att designa allämna märken som beslutades om förra mötet. 
 
 === Förslag till beslut
 #attSatser([16:e mars är deadline för märken.])
 
 === Beslut
-#attSatser([Attsats 1 bifalles.])
+#attSatser([attsats 1 bifalles.])
 
-#pagebreak()
 
 == Fettisdagen med AKAVIA
 
@@ -260,13 +265,15 @@ Evenemanget är spikat och AKAVIA har godkännt budgeten. Nu ska eventet marknad
 
 === Förslag till beslut
 #attSatser(
-  [Ida V arrangerar och marknadsför eventet med AKAVIA.]
+  [Ida Vranvuk arrangerar och marknadsför eventet med AKAVIA.]
 )
 
 === Beslut
 #attSatser(
-  [Attsats 1 bifalles]
+  [attsats 1 bifalles]
 )
+
+#pagebreak()
 
 == Märket på marken
 
@@ -276,7 +283,7 @@ Under kommittéemötet kom det upp att ett märke utanför/nära monaden hade va
 #attSatser([Ida V kontaktar ansvariga och ber om lov att måla upp ett märke i närheten av monaden, liknande de som redan finns på campus.])
 
 === Beslut
-#attSatser([Attsats 1 bifalles.])
+#attSatser([attsats 1 bifalles.])
 
 
 == Marknadsföring av icke-DVD arrangemang i monaden
