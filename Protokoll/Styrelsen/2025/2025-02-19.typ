@@ -201,7 +201,6 @@ På kommittéemötet togs ryggtryck up. Styrelsen bör skicka ut en intressekoll
 === Beslut
 #attSatser([attsats 1 bifalles.])
 
-#pagebreak()
 
 == Valborg information
 
@@ -213,6 +212,7 @@ Då flera medlemmar inte varit på ett valborgsfirande i studentkretsar innan ä
 === Beslut
 #attSatser([attsats 1 bifalles.])
 
+#pagebreak()
 
 == Patches i stilguide
 
@@ -285,6 +285,7 @@ Under kommittéemötet kom det upp att ett märke utanför/nära monaden hade va
 === Beslut
 #attSatser([attsats 1 bifalles.])
 
+#pagebreak()
 
 == Marknadsföring av icke-DVD arrangemang i monaden
 
