@@ -3,8 +3,8 @@
 #let time = "XX:XX"
 #show: setupDocument.with(
   time: time,
-  title: "",
-  date: datetime(year: 2024, month: 9, day: 20)
+  title: "Template",
+  date: datetime(year: 1, month: 1, day: 1)
 )
 
 #deltagere(
