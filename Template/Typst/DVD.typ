@@ -206,7 +206,7 @@
     if styrelsen {
       table(
         stroke: (_, y) => if (y == 0) { (bottom: 1pt) },
-        columns: (1fr, 1fr, 1fr),
+        columns: (1fr, 2fr, 1fr),
         header,
         ..for (b, (p, a)) in peeps {
           (b, p, a)
