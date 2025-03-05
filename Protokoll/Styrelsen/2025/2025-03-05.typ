@@ -1,6 +1,6 @@
 #import "../../../Template/Typst/DVD.typ": setupDocument, attSatser, blank, blockqoute, deltagere, signatures, formalia
 
-#let time = "17:XX"
+#let time = "15:00"
 #show: setupDocument.with(
   time: time,
   title: "",
@@ -36,10 +36,10 @@ Mötet planeras att öppnas #time
   ]
 )
 
-// === Beslut
-// #attSatser(
-//   [ bifalles ]
-// )
+=== Beslut
+#attSatser(
+  [attsats 1 bifalles ]
+)
 
 == Fastställande av mötesschema
 #formalia.fastställandeAvMötesSchema
@@ -51,10 +51,10 @@ Mötet planeras att öppnas #time
   ]
 )
 
-// === Beslut
-// #attSatser(
-//   [ bifalles ]
-// )
+=== Beslut
+#attSatser(
+  [attsats 1 bifalles ]
+)
 
 == Val av mötessekreterare
 #formalia.valAvMöteSekreterare
@@ -66,10 +66,10 @@ Mötet planeras att öppnas #time
   ]
 )
 
-// === Beslut
-// #attSatser(
-//   [ bifalles ]
-// )
+=== Beslut
+#attSatser(
+  [attsats 1 bifalles ]
+)
 
 #pagebreak()
 
@@ -79,32 +79,37 @@ Mötet planeras att öppnas #time
 === Förslag
 #attSatser(
   [
-    MÖTESJUSTERARE väljs in som mötesjusterare
+    Daniell cole väljs in som mötesjusterare
   ]
 )
 
-// === Beslut
-// #attSatser(
-//   [ bifalles ]
-// )
+=== Beslut
+#attSatser(
+  [attsatts 1 bifalles ]
+)
 
 #pagebreak()
 
 = Rapport
 == Ordförande
-INSERT ORDFÖRANDE RAPPORT
+Har kollat Tims mående. Han mår bra.\
+Deltagit i ett möte med Petrus och Maximilian från göta angående isnsparken. Mötet gick bra och de verkar okej med en kompromiss.\
+Deltagit i en "besöksdag" (Öppet hus). Deltagit i information om att analysen byts ut mot ett funktionellt projekt. MatStat databaser och AI blir obligatoriska i år 2. Mattematisk Modelering blir applied mathmatical thinking. Anledningen för detta tillsamans med att ta bort ADS och sänkningen av antalet antagna studenter är att programmet ska göras internationellt. Detta är tänkt som en temporär lösning.\
 
 == Vice ordförande
-INSERT VICE ORDFÖRANDE RAPPORT
+Deltog i externmötet. Mötet gick bra men asågs som oproduktivt.\
+Deltog även i mötet med PEtrus och Maximilian.\
+Arrangerade semlefika akavia.\
 
 == Kassör
-INSERT KASSÖR RAPPORT
+Tagit emot 3 äskningar.\
+Samtalat med före detta kassör om fakturor. Faturering till CSE skall göras klumpvis, gärna inte innan föreningen behöver in pengar för att underlätta arbetet på CSE:s sida. Pengar finns att täcka utlägg för tillfället.\
 
 == SAMO
-INSERT SAMO RAPPORT
+Enkäten om studenthälsa har ej skickats ut på mejl som den skulle. Detta åtgärdas ASAP.\
 
 == Sekreterare
-INSERT SEKRETERARE RAPPORT
+Signeringar och inskannigar. Fixat protokollet som vanligt.
 
 #pagebreak()
 
@@ -115,13 +120,12 @@ Här diskuterar styrelsen diverse punkter som behövs tas upp men kanske inte be
 Styrelsen bör titta på resultaten från enkäten om studenthälsa och se över om någon åtgärd bör tas eller om något bör noteras.
 
 === Anteckningar
-VAD SOM BLEV SAGT
+16 svar. På grund av ett mistag har enkäten inte skickats ut via mejl. Däför väljer styrelsen att ta upp detta igen nästa möte.
 
 == Ny kabel till projektor
 Då kabeln till projektorn är trasig bör en ny införskaffas. Styrelsen bör diskutera vilken sorts kabel som ska köpas och ungefär hur den bör installeras.
 === Anteckningar
-VAD SOM BLEV SAGT
-
+Förslaget är att skaffa en DVI kabel med en HDMI ände så att en kortare HDMI kabel kan användas mellan stereon och änden av kabeln som dras i taket. Nikhil skall kolla på detta vidare och möjligen skicka in en äskan.  
 
 
 //== Diskussionspunkt
@@ -155,22 +159,25 @@ Vi önskar oss en budget på 100 kr för inköp av dessa.
 
 === Förslag till beslut:
 #attSatser(
-  [attsats 1 bifalles],
-  [attsats 2 bifalles]
+  [äskan nr 1 för 300 kr godkäns och skickas till CSE ],
+  [äskan nr 2 för 100 kr godkäns och skickas till CSE ]
 )
 
-// === Beslut:
-// #attSatser([bifalles])
+=== Beslut:
+#attSatser([attsats 1 bifalles],[attsats 2 bifalles])
 
 #pagebreak()
 
  == Äskan från Samuel
  Hej! Vill köpa te, och äskar då för 250kr för att kunna köpa en stor mängd 🪇
  === Förslag till beslut:
- #attSatser([äskan för 250 kr för inköp av te godkäns och skickas till Göta])
+ #attSatser(
+  [äskan på 250 kr för inköp av te, som ska läggas i monaden, godkäns och skickas till CSE],
+ [styrelsen mejlar Samuel ett starkt ordad mejl om hur en äskning bör formuleras]
+ )
 
-// === Beslut:
-// #attSatser([bifalles])
+=== Beslut:
+#attSatser([attsats 1 bifalles], [attsats 2 bifalles])
 
 
 == Valborg information
@@ -180,53 +187,57 @@ Då flera medlemmar inte varit på ett valborgsfirande i studentkretsar innan ä
 === Förslag till beslut
 #attSatser([Styrelsen bordslägger punken till nästa möte då mer information ej finns.])
 
+=== Beslut:
+#attSatser([attsats 1 bifalles])
+
+#pagebreak()
 
 == Patches i stilguiden
 Då det inte finns någon guide för hur patches bör se ut är det rimligt att introducera detta i stilguiden. Nikhil presenterar förslag på formulering under mötet.
 === Förslag till beslut:
-#attSatser([INSERT ATT SATS])
+#attSatser([Nikhil Olsson Mukhopadhyay skriver om och skapar ett konkret förslag till nästa möte])
 
-// === Beslut:
-// #attSatser([bifalles])
+=== Beslut:
+#attSatser([attsats 1 bifalles])
 
-#pagebreak()
+
 
 == Planering av omsitsen 
 Då omsitsen är preliminärt planerad 12:e april bör seriös planering påbörjas snarast. Beslut bör fattas om ansvarsområden och planering bör starta.
 === Förslag till beslut:
 #attSatser(
-  [ansvarosområdena är X X X],
-  [styrelsen beslutar att skjuta upp planerade datumet till XXX]
+  [ett planeringsmöte bokas den 24:e mars]
 )
 
-// === Beslut:
-// #attSatser([bifalles])
+=== Beslut:
+#attSatser([attsats 1 bifalles])
 
+#pagebreak()
 
 == Götas säkerhetspolicy
 Göta har skickat ut ett förslag på en ny säkerhetspolicy. Styrelsen bör ge sin åsikt på detta förslag och svara på detta mejl.
 === Förslag till beslut:
-#attSatser([INSERT ATT SATS])
+#attSatser([Styrelsen har inger att tillga och väljer att inte svara på mejlet])
 
-// === Beslut:
-// #attSatser([bifalles])
+=== Beslut:
+#attSatser([attsats 1 bifalles])
 
 
 == OOP6 gemensamt evenemang
 OOP6 har föreslagit ett gemensamt event. Detta är så klar något positivt och styrelsen bör skicka detta vidare till relevanta kommiteer.
 === Förslag till beslut:
-#attSatser([styrelsen upprättar en kontakt mellan Mega6 och OOP6])
+#attSatser([Ida Vranvuk upprättar en kontakt mellan Mega6 och OOP6])
 
-// === Beslut:
-// #attSatser([bifalles])
+=== Beslut:
+#attSatser([attsats 1 bifalles])
 
 #pagebreak()
 = Avslutande av möte
 
 == Nästa möte
-Nästa möte planeras preliminärt XXXX-XX-XX : XX:XX.
+Nästa möte planeras preliminärt 2025-03-24 : 15:00.
 
 == Mötets avslutande
-Mötet avslutas XX:XX.
+Mötet avslutas 16:04.
 #pagebreak()
 #signatures()
