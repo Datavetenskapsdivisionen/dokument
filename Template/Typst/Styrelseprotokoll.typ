@@ -119,7 +119,7 @@ Här diskuterar styrelsen diverse punkter som behövs tas upp men kanske inte be
 #pagebreak()
 
 = Beslutspunkter
-Här bestämmer disktuerar och *bestämmer* styrelsen diverse saker. 
+Här bestämmer diskuterar och *bestämmer* styrelsen diverse saker. 
 När nästa stämma är, styrelsens arbeten, äskningar, och allt annat som kan bestämmas 
 om bestäms här!
 
