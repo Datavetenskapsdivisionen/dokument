@@ -217,11 +217,8 @@ OOP6 har föreslagit ett gemensamt event. Detta är så klar något positivt och
 === Förslag till beslut:
 #attSatser([styrelsen upprättar en kontakt mellan Mega6 och OOP6])
 
-=== Beslut:
-#attSatser([bifalles])
-
-#pagebreak()
-
+// === Beslut:
+// #attSatser([bifalles])
 
 #pagebreak()
 = Avslutande av möte
