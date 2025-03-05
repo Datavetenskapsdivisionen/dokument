@@ -137,6 +137,41 @@ Här bestämmer disktuerar och *bestämmer* styrelsen diverse saker.
 När nästa stämma är, styrelsens arbeten, äskningar, och allt annat som kan bestämmas 
 om bestäms här!
 
+== Äskningar från concats
+ConCats har skickat in två äskningar. Dessa bör beslutas om. Se nedan för själva äskan.
+
+
+Äskan nr 1:\
+Vi i ConCats planerar att arrangera en pluggstuga inför tentorna i mars. 
+Detta är något som har varit uppskattat tidigare läsperioder och en tradition vi vill bibehålla. Dels för att locka så många som möjligt att komma och plugga samt hjälpa varandra, men också så att de studerande kan hålla energi nivån uppe, vill vi bjuda på fika. 
+
+Vår uppskattning är att ungefär 20 personer kommer och vi skulle önska en budget på 300 kr för fika, kaffe och te. 
+
+Äskan nr 2:\
+Vi i ConCats vill köpa in en ny penna och maskeringstejp till köket så att folk kan skriva sina namn på sina matlådor. Vi vill också köpa in tråd för att tejpa fast pennan och tejpen på kylskåpet. 
+
+Vi önskar oss en budget på 100 kr för inköp av dessa. 
+
+
+=== Förslag till beslut:
+#attSatser(
+  [attsats 1 bifalles],
+  [attsats 2 bifalles]
+)
+
+// === Beslut:
+// #attSatser([bifalles])
+
+#pagebreak()
+
+ == Äskan från Samuel
+ Hej! Vill köpa te, och äskar då för 250kr för att kunna köpa en stor mängd 🪇
+ === Förslag till beslut:
+ #attSatser([äskan för 250 kr för inköp av te godkäns och skickas till Göta])
+
+// === Beslut:
+// #attSatser([bifalles])
+
 
 == Valborg information
 
@@ -153,6 +188,8 @@ Då det inte finns någon guide för hur patches bör se ut är det rimligt att 
 
 // === Beslut:
 // #attSatser([bifalles])
+
+#pagebreak()
 
 == Planering av omsitsen 
 Då omsitsen är preliminärt planerad 12:e april bör seriös planering påbörjas snarast. Beslut bör fattas om ansvarsområden och planering bör starta.
@@ -185,30 +222,6 @@ OOP6 har föreslagit ett gemensamt event. Detta är så klar något positivt och
 
 #pagebreak()
 
-== Äskningar från concats
-ConCats har skickat in två äskningar. Dessa bör beslutas om. Se nedan för själva äskan.
-
-
-Äskan nr 1:\
-Vi i ConCats planerar att arrangera en pluggstuga inför tentorna i mars. 
-Detta är något som har varit uppskattat tidigare läsperioder och en tradition vi vill bibehålla. Dels för att locka så många som möjligt att komma och plugga samt hjälpa varandra, men också så att de studerande kan hålla energi nivån uppe, vill vi bjuda på fika. 
-
-Vår uppskattning är att ungefär 20 personer kommer och vi skulle önska en budget på 300 kr för fika, kaffe och te. 
-
-Äskan nr 2:\
-Vi i ConCats vill köpa in en ny penna och maskeringstejp till köket så att folk kan skriva sina namn på sina matlådor. Vi vill också köpa in tråd för att tejpa fast pennan och tejpen på kylskåpet. 
-
-Vi önskar oss en budget på 100 kr för inköp av dessa. 
-
-
-=== Förslag till beslut:
-#attSatser(
-  [attsats 1 bifalles],
-  [attsats 2 bifalles]
-)
-
-// === Beslut:
-// #attSatser([bifalles])
 
 #pagebreak()
 = Avslutande av möte
