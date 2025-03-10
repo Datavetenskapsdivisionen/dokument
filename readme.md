@@ -109,7 +109,7 @@ lualatex --output-directory=output/ styrdokument/Datavetenskapsdivisionen\ stadg
 | [Protokoll/Styrelsen/2024/2024-12-11.typ](Protokoll/Styrelsen/2024/2024-12-11.typ) | [✅ Signerad](https://drive.google.com/file/d/1iwUE1SMh5em0VSzxttoRKUP8MdGKo6Xy/view?usp=sharing) |
 | [Protokoll/Styrelsen/2025/2025-01-20.typ](Protokoll/Styrelsen/2025/2025-01-20.typ) | [✅ Signerad](https://drive.google.com/file/d/1Q_6SFdXtDeyDd_d2iY3Gz9u-lweH7Vxh/view?usp=sharing) |
 | [Protokoll/Styrelsen/2025/2025-02-03.typ](Protokoll/Styrelsen/2025/2025-02-03.typ) | [✅ Signerad](https://drive.google.com/file/d/11HqT48ISna4T1p_h7Wp3OrmRyaRzzEuB/view?usp=sharing) |
-| [Protokoll/Styrelsen/2025/2025-02-19.typ](Protokoll/Styrelsen/2025/2025-02-19.typ) | [❌ Saknas](mailto:styrelsen@dvet.se?subject=Dokument%20som%20saknas&body=Signerade%20PDF%20filen%20för%20Protokoll/Styrelsen/2025/2025-02-19.typ%20saknas!) |
+| [Protokoll/Styrelsen/2025/2025-02-19.typ](Protokoll/Styrelsen/2025/2025-02-19.typ) | [✅ Signerad](https://drive.google.com/file/d/1rLksAnr0l7xhHcQrh9MU1LtXWMBBoyvs/view?usp=sharing) |
 | [Protokoll/Styrelsen/2025/2025-03-05.typ](Protokoll/Styrelsen/2025/2025-03-05.typ) | [❌ Saknas](mailto:styrelsen@dvet.se?subject=Dokument%20som%20saknas&body=Signerade%20PDF%20filen%20för%20Protokoll/Styrelsen/2025/2025-03-05.typ%20saknas!) |
 ## Dokument/Divisionsstämman - Signerat
 | Dokument | Link |
