@@ -93,7 +93,7 @@ Mötet planeras att öppnas #time
 Har kollat Tims mående. Han mår bra.\
 Har deltagit på ett möte med Petrus och Maximilian från Göta angående insparken. Mötet gick bra och de verkar okej med en kompromiss som löser många av de problem som tidigare uppmärksammats.\
 Har deltagit på en "besöksdag" för potentiella nya studenter.\
-Deltagit i information om att Envariabelanalys byts ut mot ett en projektkurs i funktionell programmering. Matematisk statistik och diskret matematik, databaser och Introduktion till Data science and AI blir obligatoriska för år 2. Matematisk modellering byts applied mathmatical thinking. Anledningen för detta samt att ta bort ADS och sänkningen av antalet antagna studenter är att programmet ska göras internationellt. Detta är tänkt som en temporär lösning för att omstrukturera och bli mer internationella.\
+Deltagit i information om att Envariabelanalys byts ut mot ett en projektkurs i funktionell programmering. Matematisk statistik och diskret matematik, databaser och Introduktion till Data science and AI blir obligatoriska för år 2. Matematisk modellering byts till applied mathmatical thinking. Anledningen för detta samt att ta bort ADS och sänkningen av antalet antagna studenter är att programmet ska göras internationellt. Detta är tänkt som en temporär lösning för att omstrukturera och bli mer internationella.\
 
 == Vice ordförande
 Deltog i externmötet. Mötet gick bra men ansågs av vice ordförande som aningen överflödigt och därmed oproduktivt.\
@@ -222,7 +222,7 @@ Då omsittsen är preliminärt planerad 12:e april bör seriös planering påbö
 == Götas säkerhetspolicy
 Göta har skickat ut ett förslag på en ny säkerhetspolicy. Styrelsen bör ge sin åsikt på detta förslag och svara på detta mejl.
 === Förslag till beslut:
-#attSatser([Styrelsen har inger att tillägga och väljer att inte svara på mejlet])
+#attSatser([Styrelsen har inget att tillägga och väljer att inte svara på mejlet])
 
 === Beslut:
 #attSatser([attsats 1 bifalles])
