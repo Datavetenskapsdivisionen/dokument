@@ -40,12 +40,12 @@ om du behöver en startpunkt.
 
 ## LaTeX - Kompilering
 
-När du ska kompilera ett dokument ska du först sätta miljövariabeln `TEXINPUTS` till `templates/latex:`.
+När du ska kompilera ett dokument ska du först sätta miljövariabeln `TEXINPUTS` till `Template/Latex:`.
 Sätt **inte** detta globalt i din `~/.bashrc` eller `~/.bash_profile`, för då kan du inte längre kompilera LaTeX dokument utanför den här mappen.
 Du sätter miljövariabeln genom att köra kommandot
 
-- `export TEXINPUTS="templatex/latex:"` i Bash eller ZSH; eller
-- `set -x TEXINPUTS "templates/latex:"` i Fish
+- `export TEXINPUTS="Template/Latex:"` i Bash eller ZSH; eller
+- `set -x TEXINPUTS "Template/Latex:"` i Fish
 
 beroende på vilket shell du har som standard.
 Detta behöver du göra varje gång du har ska kompilera LaTeX dokumenten i ett nytt shell.
