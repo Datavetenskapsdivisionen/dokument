@@ -591,16 +591,27 @@ Tim "Båtsman" Persson#linebreak()
 Josefin "Bomben" Kokkinakis#linebreak()
 Gustav "Görby" Dalemo
 
+// #place(
+//   dx: 360pt,
+//   dy: -70pt,
+//   scale(
+//     x: 54%,
+//     y: 54%,
+//     reflow: true,
+//     image("2024-10-15-mega7-lies.png")
+//   )
+// )
 #place(
   dx: 360pt,
-  dy: -70pt,
+  dy: -90pt,
   scale(
-    x: 54%,
-    y: 54%,
+    x: 3%,
+    y: 3%,
     reflow: true,
     image("2024-10-15-mega7-lies.png")
   )
 )
+
 
 === Förslag till beslut
 #attSatser(
