@@ -92,12 +92,12 @@ Mötet planeras att öppnas #time
 
 = Rapport
 == Ordförande
-Har skickat ett starkt ordat mejl.
+Har skickat ett starkt ordat mejl till Samuel.
 Har deltagit i programrådet.
-Äskan från studs inför valborg är godkänd, detta diskuteras mer senare.
+Äskan från studs inför valborg är godkänd, detta diskuteras mer vid en senare punkt.
 
 == Vice ordförande
-Har betalat och börjat dela ut märkena.
+Har betalat och börjat dela ut de märken som beställts.
 
 == Kassör
 Har fått tillgång till föreningens bankkonto.
@@ -107,6 +107,7 @@ Studenthälsoenkäten är avklarad och har fått in markant fler svar, detta dis
 
 == Sekreterare
 Har fokuserat på tentor och inte gjort mycket. Har fixat protokoll.
+Jobbar för att klara av resterande sena uppgifter.
 
 #pagebreak()
 
@@ -114,23 +115,20 @@ Har fokuserat på tentor och inte gjort mycket. Har fixat protokoll.
 Här diskuterar styrelsen diverse punkter som behövs tas upp men kanske inte behövs beslutas om. 
 
 == Studenthälsoenkät
-Styrelsen skall diskutera resultaten från den enkät angående studenthälsa som tagits upp på tidigare möten. Resultaten presenteras av SAMO.
+Styrelsen skall diskutera resultaten från den enkät om studenthälsa som tagits upp på tidigare möten. Resultaten presenteras av SAMO och finns även på google drive.
+
 === Anteckningar
-Resultaten skulle kunna sammanställas inför nästa stämma. 
-Det verkar som de flesta är nöjda med sitt program. Medianen är 4/5 på hur nöjda de som svarat på enkäten är med sitt program.
-Ett önskemål är att ha exempelvis fika för att låta studenter träffa varandra mer, speciellt för master studenterna. Försök få fler masters studenter att delta, kanske håll detta i en annan lokal.
+Resultaten bör sammanställas inför nästa stämma. 
+Det verkar som de flesta är nöjda med sitt program. Medianen på denna punkt är 4 av 5.\
+Ett önskemål är att ha exempelvis fika för att låta studenter träffa varandra mer, speciellt för master studenterna. Försök få fler masters studenter att delta behövs, kanske håll detta i en annan lokal för att uppmuntra mer deltagande?
 Det finns en del att ta hänsyn till i denna enkät. Ett snyggt format inför stämman och programrådet hade varit en bra idé.
 Inte många vet mycket om programmet innan de började. Marknadsföringen av programmet är relativt dåligt och något hade kunnat göras om detta.
+
 
 == Gräns DVD aktiva
 Det finns för tillfället inga regler om hur länge gamlingar (alltså före detta aktiva i föreningen) ska få ha tillgång till våran aktiva discord. Detta bör diskuteras av styrelsen för att förhindra att servern blir överfylld med personer som inte bör vara där.
 === Anteckningar
-De som inte längre är aktiva bör inte stanna i alla kanaler. Att begränsa folk som inte längre är aktiva till vissa kanaler är rimligt. Exempelvis kan de endast se allmänt. Styrelsen är positiv till någon form av restriktion. Någon bör hantera detta, eftersom denna server inte är en officiell kanal behövs inget beslut tas.
-
-// == Diskussionspunkt
-// BESKRIVNING
-// === Anteckningar
-// VAD SOM BLEV SAGT
+De som inte längre är aktiva bör inte stanna i alla kanaler. Att begränsa folk som inte längre är aktiva till vissa kanaler är rimligt. Exempelvis kan de endast se allmänt. Styrelsen är positiv till någon form av restriktion
 
 #pagebreak()
 
@@ -139,7 +137,7 @@ Här bestämmer diskuterar och *bestämmer* styrelsen diverse saker.
 När nästa stämma är, styrelsens arbeten, äskningar, och allt annat som kan bestämmas 
 om bestäms här!
 
-== tillgång till monaden för icke DV
+== Tillgång till monaden för icke DV
 Kristoffer Gustafsson har ombett att Saga, hans partner för masterarbetet, ska få tillgång till Monaden då hon och Kristoffer sitter i monaden och arbetar ofta. Styrelsen bör besluta om detta skall tillåtas och om ja, fixa så att detta händer.
 
 === Förslag till beslut:
@@ -159,11 +157,11 @@ Då det inte finns någon samlad kanal för bilder i föreningen föreslår styr
 #pagebreak()
 
 == Boka bord inför valborg
-Inför valborg tycker styrelsen att det hade varit en bra ide att boka bord på "Foxes" för att säkerställa en bra plats för att se chalmers Cortegé och ha en trevlig dag. Detta skulle eventuellt kunna äskas för.
+Inför valborg tycker styrelsen att det hade varit en bra ide att boka bord på "Foxes" för att säkerställa en bra plats för att se chalmers Cortegé. Detta skulle eventuellt kunna äskas för.
 === Förslag till beslut:
 #attSatser(
-  [Nikhil Skickar ut en intressekoll bokning av någon uteplats alternativt något annat förslag.],
-  [Hannes äskar 400kr för grillkol och grilltillbehör till CSE.]
+  [Nikhil Skickar ut en intressekoll bokning av någon uteservering alternativt något annat förslag.],
+  [Hannes äskar 400kr för grillkol och grilltillbehör till CSE för valborgskvällen.]
 )
 
 === Beslut:
@@ -180,6 +178,8 @@ Efter många borsläggningar har en plan äntligen fastställts för valborg och
 === Beslut:
 #attSatser([attsats 1 bifalles])
 
+#pagebreak()
+
 == Utskick av arbetsschema för kårkällaren
 Nu har temat beslutats om och ett arbetsschema bör fastställas och skickas ut. Styrelsen skall skapa schemat och skicka ut information till relevanta kanaler.
 === Förslag till beslut:
@@ -192,9 +192,9 @@ Nu har temat beslutats om och ett arbetsschema bör fastställas och skickas ut.
 
 == Märken
 Deadline för design av märken är nu passerad. Styrelsen ska därför besluta om vilka märken som skall produceras. Förslagen är de följande:
-+ Mega Pride av Samuel\ [bild]
-+ Mega Beer av Nikhil\ [bild]
-+ Megaprogrammering av Ida V\ [bild]
++ Mega Pride av Samuel #image("mega_pride.png", height:30%)
++ Mega Beer av Nikhil #image("MegaBeer_final.png",width:40%)
++ Megaprogrammering av Ida V\ *[bild]*
 
 === Förslag till beslut:
 #attSatser(
@@ -206,8 +206,8 @@ Deadline för design av märken är nu passerad. Styrelsen ska därför besluta 
 === Beslut:
 #attSatser(
   [attsats 1 bifalles],
-  [attsats 2 avslages],
-  [attsats 3 avslages]
+  [attsats 2 avslås],
+  [attsats 3 avslås]
 )
 
 #pagebreak()
@@ -244,12 +244,14 @@ Och självklart så är det tänkt att det är ett öppet event så att alla, in
 ConCats har planerat in en städdag den 4:e april och ber styrelsen om hjälp för att arrangera detta. Styrelsen bör komma med korrektur och/eller förslag på saker som skal göras samt skicka ut en uppmaning till alla relevanta medlemmar om att de bör hjälpa till under städdagen.
 === Förslag till beslut:
 #attSatser(
-  [vill se mer detaljstäd.],
+  [lägga till mer detaljstäd.],
   [Nikhil skickar ut kallelse till städdagen till alla aktiva.]
 )
 
 === Beslut:
 #attSatser([attsats 1 bifalles],[attsats 2 bifalles])
+
+#pagebreak()
 
 == Äskan saltkar
 ConCats har skickat in en äskan för att köpa saltkar, mejlet finns nedan:\
@@ -264,7 +266,7 @@ Mvh
 Martin "Marabou"
 ConCats\
 === Förslag till beslut:
-#attSatser([styrelsen godkänner en äskan på detta och skickar en äskan till CSE.])
+#attSatser([Styrelsen godkänner denna summa och skickar en äskan till CSE.])
 
 === Beslut:
 #attSatser([attsats 1 bifalles])
@@ -272,10 +274,12 @@ ConCats\
 == Standarfixardag
 Inför valborg hade det varit kul att ha fler standar likt det som DVRK har. En gemensam dag för att måla dessa hade varit en rolig aktivitet. Även styrelsen skulle kunna måla ett standar för hela DVD då ett sådant inte finns.
 === Förslag till beslut:
-#attSatser([Styrelsen ber ConCats arrangera en dag fär de aktiva som vill kan måla sitt egen standar.])
+#attSatser([Styrelsen ber ConCats arrangera en dag fär de som vill kan måla sitt egen standar, exempelvis kommitteer.])
 
 === Beslut:
 #attSatser([attsats 1 bifalles])
+
+#pagebreak()
 
 == Nästa stämma
 Det är snart dags förr nästa stämma. Styrelsen bör därför besluta om ett datum och skicka ut information i god tid.
@@ -293,6 +297,8 @@ Nikhil skulle kolla kablar. Dock har detta inte gjorts.
 === Beslut:
 #attSatser([attsats 1 bifalles])
 
+#pagebreak()
+
 == stilguide
 Nikhil skulle skriva ett sista förslag till stilguiden. Dock har detta inte gjorts
 === Förslag till beslut:
@@ -302,13 +308,6 @@ Nikhil skulle skriva ett sista förslag till stilguiden. Dock har detta inte gjo
 #attSatser([attsats 1 bifalles])
 
 
-// == Beslutspunkt
-// BESKRIVNING
-// === Förslag till beslut:
-// #attSatser([INSERT ATT SATS])
-
-// === Beslut:
-// #attSatser([bifalles])
 
 
 #pagebreak()
