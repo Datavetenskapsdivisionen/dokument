@@ -118,9 +118,8 @@ Här diskuterar styrelsen diverse punkter som behövs tas upp men kanske inte be
 Styrelsen skall diskutera resultaten från den enkät om studenthälsa som tagits upp på tidigare möten. Resultaten presenteras av SAMO och finns även på google drive.
 
 === Anteckningar
-Resultaten bör sammanställas inför nästa stämma. 
 Det verkar som de flesta är nöjda med sitt program. Medianen på denna punkt är 4 av 5.\
-Ett önskemål är att ha exempelvis fika för att låta studenter träffa varandra mer, speciellt för master studenterna. Försök få fler masters studenter att delta behövs, kanske håll detta i en annan lokal för att uppmuntra mer deltagande?
+Ett önskemål är att ha exempelvis fika för att låta studenter träffa varandra mer, speciellt för masterstudenterna. Försök få fler masterstudenter att delta behövs, kanske håll detta i en annan lokal för att uppmuntra mer deltagande?
 Det finns en del att ta hänsyn till i denna enkät. Ett snyggt format inför stämman och programrådet hade varit en bra idé.
 Inte många vet mycket om programmet innan de började. Marknadsföringen av programmet är relativt dåligt och något hade kunnat göras om detta.
 
@@ -194,7 +193,8 @@ Nu har temat beslutats om och ett arbetsschema bör fastställas och skickas ut.
 Deadline för design av märken är nu passerad. Styrelsen ska därför besluta om vilka märken som skall produceras. Förslagen är de följande:
 + Mega Pride av Samuel #image("mega_pride.png", height:30%)
 + Mega Beer av Nikhil #image("MegaBeer_final.png",width:40%)
-+ Megaprogrammering av Ida V\ *[bild]*
++ Megaprogrammering av Ida V
+Då detta märke inte fördigställts i tid fins ingen bild
 
 === Förslag till beslut:
 #attSatser(
