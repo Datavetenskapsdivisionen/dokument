@@ -71,7 +71,7 @@ stämmomötet.
 == Divisionsstämmans beslutbarhet
 6 kap. i stadgan definierar regler Divisionstämman.
 
-Den 2024-12-03 kallade styrelsen till divisionsstämma genom att skriva i discordservern MonadenDV, och
+2025-10-05 kallade styrelsen till divisionsstämma genom att skriva i discordservern MonadenDV, och
 genom en nyhet på dvet.se.
 
 Detta möteschema ska ha skickats ut under måndagen den 2025-04-23.
@@ -158,7 +158,7 @@ Styrelsen finner även det passande att sekreteraren för styrelsen även
 == Val av protokolljusterare
 Protokolljusterare har till uppgift att kontrollera att protokollet i slutändan reflekterar de faktiska besluten
 och diskussionerna som fördes under sammanträdet; samt agera rösträknare vid slutna omröstningar. Utöver
-protokolljusterarna så ska mötesordförande och mötessekreteraren signera protokollet. Vid Divisionsstäm mans sammanträden ska det vara två justerare. Mötesordförande och mötessekreteraren kan inte vara
+protokolljusterarna så ska mötesordförande och mötessekreteraren signera protokollet. Vid Divisionsstämmans sammanträden ska det vara två justerare. Mötesordförande och mötessekreteraren kan inte vara
 justerare.
 
 === Inkomna nomineringar inför mötet
@@ -360,13 +360,13 @@ se vad ni hittar på för något! Docks så är vi åsiktsfulla om namnet, men u
 stämman och motionären att vara med i diskussion om namnet!
 === Förslag till beslut inför mötet från styrelsen
 #attSatser([
-    Att införa kapitel 13 "Regler för Klubb-Sport DV" i reglementet vilket lyder: 
+    Att införa kapitel 12 "Regler för Klubb-Sport DV" i reglementet vilket lyder: 
 
   1 § Kommittéens namn är Klubb-Sport DV.
 
   2 § Klubb-Sport DV har till uppgift att hålla i sport och motions relaterade evenemang.
   
-  3 § Mandatperioden för kommittémedlemmarna bestäms internt inom kommittén.
+  3 § Mandatperioden för kommittémedlemmarna är densamma som kalenderår.
   
   4 § Kommittémedlemmarna bestäms internt inom kommittén.
 ])
@@ -417,7 +417,7 @@ Därför föreslår jag att styrelsen tvingas vara tydliga när de ska hålla m�
   Om dessa krav inte uppfylls upphävs beslutet.
 ])
 
-=== Yrkande från styrelsen styrelsen
+=== Yrkande från styrelsen
 Detta är väldigt rimliga förslag! Dock så finner vi i styrelsen att det kan leda till
 ett slöseri med papper, men står bakom de andra förslagen!
 === Förslag till beslut inför mötet från styrelsen
