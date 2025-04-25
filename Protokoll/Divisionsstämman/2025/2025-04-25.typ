@@ -1,6 +1,6 @@
 #import "../../../Template/Typst/DVD.typ": *
 
-#let time = "17:17"
+#let time = "17:26"
 #show: setupDocument.with(
   time: time,
   title: "",
@@ -19,7 +19,19 @@
 )
 
 #deltagere(
-  // [Samuel Hammersberg], [Ja]
+  [Owais], [Ja],
+  [Angelika], [Ja],
+  [Belly johansson], [Ja],
+  [Lukas gart], [Ja],
+  [Samuel], [Ja],
+  [KG gustavsson], [Ja],
+  [Gustav richter], [Ja],
+  [Vanja], [Ja],
+  [Martin], [Ja],
+  [Kevin petterson], [Ja],
+  [Basse], [Ja],
+  [Robin], [Ja],
+  [Anton Frost],[Ja],
 )
 
 // #ordningsFråga([Namn], [
@@ -62,10 +74,10 @@ stämmomötet.
 === Förslag
 #attSatser([ stämman fastställer den nuvarande röstlängden ])
 
-// === Beslut
-// #attSatser(
-//  [ attsats 1 bifalles. ]
-// )
+=== Beslut
+#attSatser(
+ [ attsats 1 bifalles. ]
+)
 
 #pagebreak()
 == Divisionsstämmans beslutbarhet
@@ -83,10 +95,10 @@ Detta möteschema ska ha skickats ut under måndagen den 2025-04-23.
   ]
 )
 
-// === Beslut
-// #attSatser(
-// //  [ attsats 1 bifalles ]
-// )
+=== Beslut
+#attSatser(
+  [ attsats 1 bifalles ]
+)
 
 == Fastställande av mötesschema
 För att divisionsstämman ska kunna fatta ett beslut eller protokollföra en diskussion behöver punkten i
@@ -98,10 +110,10 @@ punkten.
   [ mötesschemat fastställs utan några ändringar. ]
 )
 
-// === Beslut
-// #attSatser(
-// //  [ attsats 1 bifalles. ]
-// )
+=== Beslut
+#attSatser(
+  [ attsats 1 bifalles. ]
+)
 #pagebreak()
 
 == Val av mötesordförande
@@ -111,15 +123,15 @@ Mötesordförande har till uppgift att leda Divisionsstämmans sammankomst. Hen 
 Nomineringar som har inkommit till styrelsen i tid för att inkluderas i stämmohandlingarna.
 
 ==== Från styrelsen
-Styrelseordförande brukar tradionellt vara den som driver stämmorna så
+Styrelseordförande brukar traditionellt vara den som driver stämmorna så
 styrelsen väljer att nominera 
 
 - Ida Vranvuk
 
-// === Beslut
-// #attSatser(
-// //  [ Ida Vranvuk väljs in som mötesordförande. ]
-// )
+=== Beslut
+#attSatser(
+  [ Ida Vranvuk väljs in som mötesordförande. ]
+)
 
 == Val av vice mötesordförande
 Vice mötesordförande hjälper mötesordförande med att hålla talarlistan, och att alla får komma till tals.
@@ -131,10 +143,10 @@ Styrelsen finner det passande att vice ordförande för styrelsen även
 är vice mötesordförande så styrelsen väljer att nominera:
 
 - Ida Kjellerstedt
-// === Beslut
-// #attSatser(
-// //  [ Ida Kjellerstedt väljs in som vice mötesordförande. ]
-// )
+=== Beslut
+#attSatser(
+  [ Ida Kjellerstedt väljs in som vice mötesordförande. ]
+)
 
 #pagebreak()
 
@@ -151,9 +163,10 @@ Styrelsen finner även det passande att sekreteraren för styrelsen även
 - Nikhil Olsson Mukhopadhyay
 
 === Beslut
-// #attSatser(
-// //  [ Nikhil Olsson Mukhopadhyay väljs in som vice mötessekreterare. ]
-// )
+#attSatser(
+  [ Nikhil Olsson Mukhopadhyay väljs in som mötessekreterare. ]
+)
+
 #pagebreak()
 == Val av protokolljusterare
 Protokolljusterare har till uppgift att kontrollera att protokollet i slutändan reflekterar de faktiska besluten
@@ -168,24 +181,28 @@ _Inga nomineringar för dessa positioner har inkommit._
 
 === Fria nomineringar
 
-// === Beslut
-// #attSatser(
-//   // [
-//   //  väljs till protokolljusterare.
-//   // ],
-//   // [
-//   //  väljs till protokolljusterare.
-//   // ]
-// )
+- Daniell Cole nominerar sig själv
+- Samuel Hammersberg nominerar sig själv
+
+=== Beslut
+#attSatser(
+  [
+   Daneill Cole väljs till protokolljusterare.
+  ],
+  [
+   Samuel Hammersberg till protokolljusterare.
+  ]
+)
 
 #pagebreak()
 
 = Rapport
-Här berättar styrelsen, revisorn och alla kommittéer kort om allt de har åstakommit sedan senaste
+Här berättar styrelsen, revisorn och alla kommittéer kort om allt de har åstadkommit sedan senaste
 stämman!
 
 == Styrelsen
 === Ordförande
+
 Sedan senaste stämman har jag som styrelseordförande arbetat relativt aktivt. Vi har hållit regelbundna styrelsemöten där vi behandlat en mängd olika frågor som rör föreningen, planerat evenemang såsom en omsits för styrelsens pateter och framtida planer för verksamhetsåret. Det har varit ett engagerat arbete där hela styrelsen bidragit på ett positivt sätt.
 
 Under våren har vi inlett ett nytt samarbete med Akavia, tack vare en kontakt inom kognitionsvetenskapsprogrammet. Första aktiviteten i detta samarbete var ett semmelfika i Monaden, vilket blev väldigt uppskattat. Vi planerar att fortsätta detta samarbete och har ett gemensamt event planerat i mitten av maj tillsammans med SYS6 och KOG6. Det ser ut att bestå av en picknick och en trekamp, och vi ser fram emot en rolig och inkluderande dag för alla inblandade.
@@ -203,7 +220,7 @@ Tills nästa stämma hoppas jag på fler samarbeten med andra föreningar och f�
 
 \- Ida “iceByte” Vranvuk\
 #h(0.2cm)  Divisionsordförande\
-#h(0.2cm) Styrelsen  
+#h(0.2cm) Styrelsen
 
 
 === Kassör
@@ -232,7 +249,7 @@ Akavias semledag: vi stod för initiala kostnaden och skickar faktura till Akavi
 === Vice ordförande
 Sedan jag tillträdde som vice ordförande har jag hållit ett kommittémöte. Jag har även deltagit i möten om den nya insparken och Valborgssittningen. Utöver det har jag medverkat på ett externmöte samt haft kommunikation med andra föreningar. 
 
-Stort tack till alla som hjälpte till att hålla i Kårkällarn, det blev riktigt lyckat! Förhoppningsvis väckte det intresse för att arrangera fler kvällar under året! 
+Stort tack till alla som hjälpte till att hålla i Kårkällarn', det blev riktigt lyckat! Förhoppningsvis väckte det intresse för att arrangera fler kvällar under året! 
 
 \- Ida Kjellerstedt
 
@@ -242,9 +259,16 @@ Sedan senaste stämman har jag skickat ut en enkät för att kolla studenters ti
 
 Sedan har jag också varit på ett Institutionsrådsmöte, där det diskuterades bl.a. omstruktureringen som kommer ske. 
 DV kandidat kommer bli ett internationellt program och ADS blir en del av det nya programmet med working title CSDSAI "ComputerScienceDataScienceAI". 
-Denna omstrukturering planeras vara färdig 2025
+Denna omstrukturering planeras vara färdig 2027
 
 \- Daniell Cole
+
+#ordningsFråga([Ida Vranvuk], [
+En person har anlänt klockan 17:48. Vi behöver justera röstlängden. \
+  #ordningsFrågaBody(
+    förslag: "Att justera röstlängden från 19 till 20", 
+  )
+])
 
 === Sekreterare
 Som sekreterare har jag inget större att rapportera.
@@ -278,6 +302,8 @@ Sen senaste stämman har Studienämnden hållit i ytterligare ett kursutvärderi
 
 \- Studienämnden'25
 
+#pagebreak()
+
 == DVRK
 
 Inför stämma 2025-04-25\
@@ -303,7 +329,9 @@ Ingen rapport.
 == ConCats
 
 Muntlig rapport på stämman
+
 #pagebreak()
+
 == Mega7
 
 April 22, 2025
@@ -354,29 +382,52 @@ Vi satsar starkt på jämställdhet och att alla som vill och kan ingå i våra 
   göra Klubb-Sport FC till en ny kommitté under DV
 ])
 
-=== Yrkande från styrelsen styrelsen
+#pagebreak()
+
+// #ordningsFråga([Namn], [
+// Text \
+//   #ordningsFrågaBody(
+//     förslag: "", 
+//   )
+//   #ordningsFrågaBody(
+//     förslag: "", 
+//   )
+// ])
+
+SLAGETS ÄNDRING AVSLAGES
+
+=== Yrkande från styrelsen
 Jätteskoj initiativ! Vi tycker att detta är en riktigt rolig idé och vi ser framemot att
 se vad ni hittar på för något! Docks så är vi åsiktsfulla om namnet, men uppmanar 
 stämman och motionären att vara med i diskussion om namnet!
 === Förslag till beslut inför mötet från styrelsen
 #attSatser([
-    Att införa kapitel 12 "Regler för Klubb-Sport DV" i reglementet vilket lyder: 
+    Att införa kapitel 12 "Regler för Klubbsport DV" i reglementet vilket lyder: 
 
-  1 § Kommittéens namn är Klubb-Sport DV.
+  1 § Kommittéens namn är Klubbsport DV.
 
-  2 § Klubb-Sport DV har till uppgift att hålla i sport och motions relaterade evenemang.
+  2 § Klubbsport DV har till uppgift att hålla i sport och motions relaterade evenemang.
   
   3 § Mandatperioden för kommittémedlemmarna är densamma som kalenderår.
   
   4 § Kommittémedlemmarna bestäms internt inom kommittén.
+],
+)
+
+=== Beslut
+#attSatser([Attsats 1 bifalles])
+
+#ordningsFråga([Ida Vranvuk], [
+Då några deltagare lämnat behöver röstlängden justeras  \
+  #ordningsFrågaBody(
+    förslag: "ändra röstlängden från 20 till 17",
+  ),
 ])
 
-// === Beslut
-// #attSatser([Attsats 1 bifalles])
-// 
 
 #pagebreak()
-== Motion: Styrelsemöten behöver annonseras i god tid på Discord och i Monaden
+
+== Första läsning, Motion: Styrelsemöten behöver annonseras i god tid på Discord och i Monaden
 
 Enligt 7 kap. 6 § i stadgan har samtliga divisionsmedlemmar närvarorätt på styrelsens sammanträden.
 Medlemmarna kan endast utöva sin rättighet om de känner till när och vart styrelsen sammanträder.
@@ -420,6 +471,7 @@ Därför föreslår jag att styrelsen tvingas vara tydliga när de ska hålla m�
 === Yrkande från styrelsen
 Detta är väldigt rimliga förslag! Dock så finner vi i styrelsen att det kan leda till
 ett slöseri med papper, men står bakom de andra förslagen!
+
 === Förslag till beslut inför mötet från styrelsen
 #attSatser([
   införa en ny paragraf under kap. 7 Styrelsen i stadgan med lydelsen
@@ -449,7 +501,11 @@ ett slöseri med papper, men står bakom de andra förslagen!
   Om dessa krav inte uppfylls upphävs beslutet.
 ])
 
-#pagebreak()
+=== Beslut
+#attSatser(
+  [attsats 1 bifalles],
+  [attsats 2 bifalles]
+)
 
 == Motion: Publisera signerade protokoll i Monaden
 
@@ -464,14 +520,18 @@ Göra det tydligare vilka beslut som styrelsen har beslutat om.
   Det senaste signerade protokollet ska finnas upphängt på Monadens anslagstavla fram tills dess det finns ett nytt signerat protokoll.
 ])
 
-=== Yrkande från styrelsen styrelsen
+=== Yrkande från styrelsen
 Vi finner att detta är slöseri med papper, och dessa protokoll är tillgängliga genom 
 både GitHub och Drive.
 
 === Förslag till beslut inför mötet från styrelsen
-#attSatser([avslå attsats 1 från motionären])
+#attSatser([avslå attsats 1 från motionären TODO: CHANGE THIS TO CHANGED SHIT])
+
+=== Beslut
+#attSatser([attsats 1 bifalles])
 
 #pagebreak()
+
 == Motion: Visa uppskattning för tidigare styrelsemedlemmar.
 
 En av de viktigaste delarna av styrelsen är ju självfallet styrelsemedlemmarna, men en del som är ännu viktigare men lite lätt att glömma av är de tidigare styrelsemedlemmarna.
@@ -498,16 +558,33 @@ Vi finner att #strike("vi") de är en minoritet som länge har varit förtryckta
   styrelsen ska ha på sig clownnäsor vid nästkommande stämma.
 ])
 
-=== Yrkande från styrelsen styrelsen
-Clownnäsor är skoj, speciellt för att de hjälper oss undvika lukten av gammla stinky styrelsemedlemmar som vi inte vill gratta!
+=== Yrkande från styrelsen
+Clownnäsor är skoj, speciellt för att de hjälper oss undvika lukten av gamla stinky styrelsemedlemmar som vi inte vill gratta!
 
 === Förslag till beslut inför mötet från styrelsen
 #attSatser([
     styrelsen måste skicka ett grattis till motionärerna när de snart fyller 50.
   ], [
-    bifalla atsats 2 från motionären
+    bifalla attsats 2 från motionären
 ])
+
+SLAGETS ÄNDRING OM ATT rösta om orginal istället
+
+// #ordningsFråga([Namn], [
+// Text \
+//   #ordningsFrågaBody(
+//     förslag: "", 
+//   )
+//   #ordningsFrågaBody(
+//     förslag: "", 
+//   )
+// ])
+
+=== Beslut:
+#attSatser([attsats 1 och attsats 2 bifalles])
+
 #pagebreak()
+
 == Motion: Uppdatera logga med guldkant
 
 Vi har en officiell "inofficiell" logga.
@@ -528,6 +605,9 @@ Detta låter bra!
 === Förslag till beslut inför mötet från styrelsen
 #attSatser([bifall attsats 1 från motionären])
 
+=== Beslut
+#attSatser([attsats 1 bifalles])
+
 #pagebreak()
 == Motion: Måla divisionsloggan i backen tillsammans med Chalmerssektioner
 Desto fler Chalmersstudenter som är medvetna om att vi finns på campus och vill umgås med oss, desto lättare blir det att bli integrerade med dem.
@@ -543,14 +623,17 @@ Dörför föreslår jag att vi målar vår divisionslogga tillsammans med Chalme
   vi endast ansöker om tillstånd att måla divisionsloggan i backen där Chalmerssektionerna har målat sina logotyper.
 ])
 
-=== Yrkande från styrelsen styrelsen
-Vid ett kommittéemöte så har detta tagits upp och det verkar som att det finns ett större 
+=== Yrkande från styrelsen
+Vid ett kommittémöte så har detta tagits upp och det verkar som att det finns ett större 
 intresse av att måla divisionsloggan i vindgården utanför Monaden, likt Haddock,
 med målet att börja etablera sig lite i taget. 
 Styrelsen har redan påbörjat detta arbetet på egen hand. 
 
 === Förslag till beslut inför mötet från styrelsen
-#attSatser([avslå attsats 1 från motionären])
+#attSatser([bifall attsats 1 från motionären])
+
+=== Beslut
+#attSatser([attsats 1 bifalles])
 
 #pagebreak()
 == Motion: Styrelsen kan inte avsätta revisor
@@ -577,11 +660,16 @@ Albin "Slaget" Otterhäll, revisor'24
 === Yrkande från styrelsen styrelsen
 Detta låtter som ett sunt förslag! Vi håller med!
 === Förslag till beslut inför mötet från styrelsen
-#attSatser([
+#attSatser(
+[
   bifalla attsats 1 från motionären
-], [
+],[
   bifalla attsats 2 från motionären
 ])
+
+=== Beslut
+#attSatser([attsats 1 och attsats 2 bifalles])
+
 #pagebreak()
 
 = Inval
@@ -593,27 +681,34 @@ DV_Ops ansvarar för föreningens diverse IT system och med att främja hackeran
 === Inkomna nomineringar inför mötet
 _Styrelsen har ej fått in några nominering innan stämman._
 
+=== Fri nominering
+
+Samuel Hammersberg nominerar Kevin Persson, Kevin avslår
+
 === Förslag till beslut
 #attSatser(
   [punkten bordsläggs]
 )
 
-// === Beslut
-// #attSatser([Attsats 1 bifalles])
+=== Beslut
+#attSatser([Attsats 1 bifalles])
 
-== DV_Arm'25
-DV_Arm ansvarar för att förbättra relationer mellan divisionen och företag.
+== DVArm'25
+DVArm ansvarar för att förbättra relationer mellan divisionen och företag.
 
 === Inkomna nomineringar inför mötet
 _Styrelsen har ej fått in några nominering innan stämman._
 
+=== Fri nominering
+
 === Förslag till beslut
 #attSatser(
   [punkten bordsläggs]
 )
 
-// === Beslut
-// #attSatser([Attsats 1 bifalles])
+=== Beslut
+#attSatser([Attsats 1 bifalles])
+
 #pagebreak()
 == Revisior'25
 Revisorn ansvarar för att föreningen sköter sig! Detta görs genom att se 
@@ -627,15 +722,17 @@ _Styrelsen har ej fått in några nominering innan stämman._
   [punkten bordsläggs]
 )
 
-// === Beslut
-// #attSatser([Attsats 1 bifalles])
+=== Beslut
+#attSatser([Attsats 1 bifalles])
 
-== Klubb-Sport DV'25
-Klubb-Sport DV är sportiga knattar!
+== Klubbsport DV'25
+Klubbsport DV är sportiga knattar!
 
 === Inkomna nomineringar inför mötet
 - Robin Persson - DV’24
-// #attSatser([Attsats 1 bifalles])
+
+=== Beslut
+#attSatser([Robin Persson väljs till ordförande för Klubbsport DV för det kommande verksamhetsåret])
 
 #pagebreak()
 = Diskussionspunkter
@@ -650,6 +747,6 @@ _Inga punkter har inkommit innan mötet, och styrelsen har ej kommit några punk
 = Avslutande av möte
 
 == Mötets avslutande
-Mötet avslutades 00:00.
+Mötet avslutades 19:22.
 #pagebreak()
 #signatures(stämma: true)
