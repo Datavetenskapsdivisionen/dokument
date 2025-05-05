@@ -6,7 +6,7 @@
   title: "",
   date: datetime(year: 2025, month: 04, day: 25),
   stämma: true,
-  location: "TBD"
+  location: "ED"
 )
 
 #deltagere(
@@ -19,19 +19,21 @@
 )
 
 #deltagere(
-  [Owais], [Ja],
-  [Angelika], [Ja],
-  [Belly johansson], [Ja],
-  [Lukas gart], [Ja],
-  [Samuel], [Ja],
-  [KG gustavsson], [Ja],
-  [Gustav richter], [Ja],
-  [Vanja], [Ja],
-  [Martin], [Ja],
-  [Kevin petterson], [Ja],
-  [Basse], [Ja],
-  [Robin], [Ja],
+  [Owais Tabba], [Ja],
+  [Angelika Hagberg], [Ja],
+  [Isabell Johansson], [Ja],
+  [Lukas Gartman], [Ja],
+  [Samuel Hammersberg], [Ja],
+  [Kristoffer Gustavsson], [Ja],
+  [Gustav Richter], [Ja],
+  [Vanja Utberg], [Ja],
+  [Martin Zegarra], [Ja],
+  [Kevin Petterson], [Ja],
+  [Sebastian Pålsson], [Ja],
+  [Robin Persson], [Ja],
   [Anton Frost],[Ja],
+  [Albin Otterhäll], [Ja],
+  [William Bodin],[Ja, 17:48],
 )
 
 // #ordningsFråga([Namn], [
@@ -384,17 +386,12 @@ Vi satsar starkt på jämställdhet och att alla som vill och kan ingå i våra 
 
 #pagebreak()
 
-// #ordningsFråga([Namn], [
-// Text \
-//   #ordningsFrågaBody(
-//     förslag: "", 
-//   )
-//   #ordningsFrågaBody(
-//     förslag: "", 
-//   )
-// ])
-
-SLAGETS ÄNDRING AVSLAGES
+#ordningsFråga([Albin Otterhäll], [
+Ändringsförslag på styrelsens förslag på punkt 4.1\
+  #ordningsFrågaBody(
+    förslag: "Att namnet för kommittéen blir \"Klubbsport FC\" och att förslagets att-satser anpassas", beslut: "Attsatsen avslages",
+  )
+])
 
 === Yrkande från styrelsen
 Jätteskoj initiativ! Vi tycker att detta är en riktigt rolig idé och vi ser framemot att
@@ -507,7 +504,7 @@ ett slöseri med papper, men står bakom de andra förslagen!
   [attsats 2 bifalles]
 )
 
-== Motion: Publisera signerade protokoll i Monaden
+== Första läsning, Motion: Publicera signerade protokoll i Monaden
 
 Göra det tydligare vilka beslut som styrelsen har beslutat om.
 
@@ -525,7 +522,13 @@ Vi finner att detta är slöseri med papper, och dessa protokoll är tillgängli
 både GitHub och Drive.
 
 === Förslag till beslut inför mötet från styrelsen
-#attSatser([avslå attsats 1 från motionären TODO: CHANGE THIS TO CHANGED SHIT])
+#attSatser([
+  ändra attsats 1 till:\
+
+  I 7 kap. 8 § i stadgan lägga till ett stycke med lydelsen
+
+  Det senaste signerade protokollet ska direktlänkas i divisionens Discordserver så fort den finns tillgängligt.
+])
 
 === Beslut
 #attSatser([attsats 1 bifalles])
@@ -568,17 +571,12 @@ Clownnäsor är skoj, speciellt för att de hjälper oss undvika lukten av gamla
     bifalla attsats 2 från motionären
 ])
 
-SLAGETS ÄNDRING OM ATT rösta om orginal istället
+#ordningsFråga([Albin Otterhäll], [
 
-// #ordningsFråga([Namn], [
-// Text \
-//   #ordningsFrågaBody(
-//     förslag: "", 
-//   )
-//   #ordningsFrågaBody(
-//     förslag: "", 
-//   )
-// ])
+  #ordningsFrågaBody(
+    förslag: "att rösta om motionärens första attsats istället för styrelsens yrkande",
+  )
+])
 
 === Beslut:
 #attSatser([attsats 1 och attsats 2 bifalles])
@@ -636,7 +634,7 @@ Styrelsen har redan påbörjat detta arbetet på egen hand.
 #attSatser([attsats 1 bifalles])
 
 #pagebreak()
-== Motion: Styrelsen kan inte avsätta revisor
+== Första läsning, Motion: Styrelsen kan inte avsätta revisor
 
 Revisorn har till uppdrag att å medlemmarnas vägnar granska styrelsen och kommittéerna.
 Då är det lite konstigt om styrelsen kan avsätta revisorn.
