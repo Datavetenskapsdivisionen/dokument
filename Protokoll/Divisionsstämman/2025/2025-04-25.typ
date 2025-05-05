@@ -29,11 +29,11 @@
   [Vanja Utberg], [Ja],
   [Martin Zegarra], [Ja],
   [Kevin Petterson], [Ja],
-  [Sebastian Pålsson], [Ja],
-  [Robin Persson], [Ja],
-  [Anton Frost],[Ja],
+  [Sebastian Pålsson], [Ja, lämnade vid punk 4.2],
+  [Robin Persson], [Ja, lämnade vid punk 4.2],
+  [Anton Frost],[Ja, lämnade vid punk 4.2],
   [Albin Otterhäll], [Ja],
-  [William Bodin],[Ja, 17:48],
+  [William Bodin],[Ja, ankom vid punkt 2.6],
 )
 
 // #ordningsFråga([Namn], [
@@ -268,7 +268,7 @@ Denna omstrukturering planeras vara färdig 2027
 #ordningsFråga([Ida Vranvuk], [
 En person har anlänt klockan 17:48. Vi behöver justera röstlängden. \
   #ordningsFrågaBody(
-    förslag: "Att justera röstlängden från 19 till 20", 
+    förslag: "Att justera röstlängden från 19 till 20",
   )
 ])
 
@@ -579,7 +579,7 @@ Clownnäsor är skoj, speciellt för att de hjälper oss undvika lukten av gamla
 ])
 
 === Beslut:
-#attSatser([attsats 1 och attsats 2 bifalles])
+#attSatser([attsats 1 bifalles],[attsats 2 bifalles])
 
 #pagebreak()
 
