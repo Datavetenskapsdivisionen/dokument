@@ -81,7 +81,7 @@ Mötet planeras att öppnas #time
 === Förslag
 #attSatser(
   [
-    Ida? väljs in som mötesjusterare
+    Daniell Cole väljs in som mötesjusterare
   ]
 )
 
