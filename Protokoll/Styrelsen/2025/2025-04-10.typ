@@ -92,37 +92,42 @@ Mötet planeras att öppnas #time
 
 = Rapport
 == Ordförande
-- Mejlat om märket utanför monaden
-- Styrelseomsits info och boka
-- Valborg info
-- Jobbar på föreningsansökan
-- Deltagit i sektionsmöte
+Ordförande har sen senaste mötet utfört följande arbeten:
+- Mejlat chalmers om märket utanför monaden
+- Skickat ut information om styrelseomsits info och bokat monaden
+- Skickat ut information om valborg
+- Påbörjat jobbet på föreningsansökan
+- Deltagit i sektionsmötet
 
 == Vice ordförande
-- Mejlat med haddock
+Vice Ordförande har sen senaste mötet utfört följande arbeten:
+- Mejlat med haddock om att boka monaden
 - Klarställt schemat för kårkällaren
-- Deltagit i möte för valborgssittning
-- Planerat och inför valborgssittning
+- Deltagit i möte för valborgssittningen
+- Planerat och inför valborgssittningen
 
 == Kassör
+Kassören har sen senaste mötet utfört följande arbeten:
 - Tagit emot fatura för SUS-utbildning
-- Jobbat för att skicka in en faktura till CSE
+- Jobbat för att skicka in en faktura till CSE 
 
 == SAMO
-- Jobbar på att skapa en snygg presentation av studenthälsoenkäten
-- Deltagit i instutitionsrådsmötet
-  - DV ska göras om. "Återupplivas".
-  - Ska kallas Computer Science, Data science and AI. Ska ersätta ADS och bli internationellt.
+SAMO har sen senaste mötet utfört följande arbeten:
+- påbörjat jobb med att skapa en snygg presentation av studenthälsoenkäten
+- Deltagit i instutitionsrådsmötet, en kort sammanfattning kommer här:
+  - DV ska göras om, skall "Återupplivas".
+  - Ska kallas Computer Science, Data science and AI. DV kommer ersätta ADS och bli internationellt.
   - Chalmers masters kommer också omstruktureras
-  - CSE får möjligen en ny budget under Natur. Förhandling pågår
-  - Satsning på att anställa lektorer. Vill främja forskning och ha dedikerade föreläsare. 
+  - CSE får möjligen en ny budget under Natur. Förhandling pågår för att få en så förmånlig budget som möjligt.
+  - En satsning görs på att anställa lektorer. Vill främja forskning och ha dedikerade föreläsare. 
   - Mer cybersäkerhet fokus, kanske en ny utbildning. Kopplingar till svenska militären och deras cybersäkerhet-gren
-- Bad gänget i toppen att mejla korrekt mejl istället för individer
-- Inga klagomål liknande
+- Har bett CSE i toppen att mejla korrekt mejl istället för individer
+- Inga rapporter eller klagomål har inkommit till SAMO.
 
 == Sekreterare
-- Meddelat ConCats om ramar och möbler i monaden. Ska återkoppla med Martin om detta
-- Fixar gamla protokoll
+Sekreterare har sen senaste mötet utfört följande arbeten:
+- Meddelat ConCats om ramar och möbler i monaden. Ska återkoppla med Martin om detta.
+- Jobbat vidare på gamla protokoll
 - Upptäckt ett fel i gamla protokoll som ska fixas
 - planerat och hjälpt inför diverse sittningar
 
@@ -162,16 +167,18 @@ lingonsylt,
 gräddsås,
 pickles(?)
 
+#pagebreak()
+
 == CC styrelsen vid svar på mejl till styrelsen\@dvet.se
-Då styrelsen ofta får mejl som besvaras av någon enstaka styrelsemedlem bör det diskuteras att en kopia av svaret skall skickas till styrelsens mnejl för att undvika duplicerade svar samt göra det tydligt vad som sagts.
+Då styrelsen ofta får mejl som besvaras av någon enstaka styrelsemedlem bör det diskuteras att en kopia av svaret skall skickas till styrelsens mejl för att undvika duplicerade svar samt göra det tydligt vad som sagts.
 === Anteckningar
-Nyligen svarade styrelsen två gånger på ett mejl. Det bör vara praxis att skicka en kopia till styrelsen\@dvet.se så att inte fler sådana incidenter framkommer.
+Nyligen svarade styrelsen två gånger på ett mejl. Det bör vara praxis att skicka en kopia till styrelsen\@dvet.se så att inte fler sådana händelser förekommer.
 
 == Process för att acceptera ändringar på hemsidan
 Då vi har tillgång till att acceptera pull request så bör en process bestämmas så att styrelsen är överens innan en request accepteras eller avkastas.
 === Anteckningar
 Det finns inget protokoll för detta.
-Förslaget är att minst en person från styrelsen måste se over och godkänna en pull request innan den accepteras. Detta tas upp på sin rapport vid nästa möte. Skulle det vara relevant har styrelsen rätt att stoppa detta och be att det tas upp på nästa möte. 
+Förslaget är att minst en person från styrelsen måste se over och godkänna en pull request innan den accepteras. Styrelsemedlemmen tar upp detta på rapporten vid nästa möte. Skulle det vara relevant har styrelsen rätt att stoppa detta och be att det tas upp på nästa möte. 
 
 // == Diskussionspunkt
 // BESKRIVNING

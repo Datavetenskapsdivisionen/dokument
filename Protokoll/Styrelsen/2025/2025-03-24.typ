@@ -9,11 +9,11 @@
 
 #deltagere(
     styrelsen: true, 
-    [Ordförande], [Ja],
-    [Vice Ordförande], [Ja],
-    [Kassör], [Ja],
-    [SAMO], [Ja (på distans)],
-    [Sekreterare], [Ja],
+    [Ida Vranvuk], [Ja],
+    [Ida Kjellerstedt], [Ja],
+    [Hannes Carlsson], [Ja],
+    [Daniell Cole], [Ja (på distans)],
+    [Nikhil Olsson Mukhopadhyay], [Ja],
 )
 
 = Öppnande av möte
@@ -185,7 +185,7 @@ Nu har temat beslutats om och ett arbetsschema bör fastställas och skickas ut.
 #attSatser([Ida K färdigställer schemat och skickat ut i relevanta kanaler så fort som möjligt.])
 
 === Beslut:
-#attSatser([bifalles])
+#attSatser([attsats 1 ifalles])
 
 #pagebreak()
 
