@@ -299,8 +299,7 @@
   styrelsensBeslutbarhet: [
     #blockqoute([
       Styrelsen är endast beslutsmässig då samtliga styrelsemedlemmar har fått
-      kallelsen till styrelsemötet och minst hälften av styrelsemedlemmarna är när-
-      varande. Ordförande eller vice ordförande måste vara närvarande när beslut
+      kallelsen till styrelsemötet och minst hälften av styrelsemedlemmarna är närvarande. Ordförande eller vice ordförande måste vara närvarande när beslut
       tas.
     ], [
       7 kap. 5 
