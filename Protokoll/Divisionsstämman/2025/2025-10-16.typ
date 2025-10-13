@@ -540,6 +540,6 @@ _Inga punkter har inkommit innan mötet, och styrelsen har ej kommit några punk
 = Avslutande av möte
 
 == Mötets avslutande
-Mötet avslutades 19:22.
+Mötet avslutades XX:XX,
 #pagebreak()
 #signatures(stämma: true)
