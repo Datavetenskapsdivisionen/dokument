@@ -6,7 +6,7 @@
   title: "",
   date: datetime(year: 2025, month: 10, day: 16),
   stämma: true,
-  location: "TBD"
+  location: "EA"
 )
 
 #deltagere(
