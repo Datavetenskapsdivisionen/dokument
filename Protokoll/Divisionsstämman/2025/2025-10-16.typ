@@ -463,6 +463,17 @@ MvH
 - Samuel `Smalben` Hammersberg
 - Lukas `Långben` Gartman
 
+=== Yrkande från styrelsen
+Så klart ni ska få ansvarsfrihet käraste företrädare. Dock har en del dokument inte signerats och skannats in från 2021 och 2022. Vi vill gärna se att detta löst innan vi kan låta er gå. Dock är styrelsen 2023 utan bakläxa.
+
+=== Förslag till beslut inför mötet från styrelsen
+#attSatser(
+  [förklara styrelsen 2023 ansvarsfria]
+)
+
+=== Beslut
+#attSatser([])
+
 #pagebreak()
 
 = Inval
