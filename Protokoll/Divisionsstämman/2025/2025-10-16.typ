@@ -1,6 +1,6 @@
 #import "../../../Template/Typst/DVD.typ": *
 
-#let time = "17:17"
+#let time = "17:28"
 #show: setupDocument.with(
   time: time,
   title: "",
@@ -13,13 +13,21 @@
     styrelsen: true,
     [Ida Vranvuk], [Ja],
     [Ida Kjellerstedt], [Ja],
-    [Hannes Carlsson], [Ja],
+    [Hannes Carlsson], [Nej, sjuk],
     [Daniell Cole], [Ja],
     [Nikhil Olsson Mukhopadhyay], [Ja],
 )
 
 #deltagere(
-  //[John Doe],[Ja, exploderade vid punk 2.5],
+  [Owais Tabba],[Ja],
+  [Martin Felix], [Ja],
+  [Kristoffer Gustavsson], [Ja],
+  [Samuel Hammersberg],[Ja],
+  [William Bodin], [Ja],
+  [Gustav Richter], [Ja],
+  [Anton Frost], [Ja],
+  [Robin Persson], [Ja],
+  [Albin Otterhäll],[Ja]
 )
 
 // #ordningsFråga([Namn], [
@@ -63,15 +71,14 @@ stämmomötet.
 
 === Beslut
 #attSatser(
- //[ attsats 1 bifalles. ]
+ [ attsats 1 bifalles. ]
 )
 
 #pagebreak()
 == Divisionsstämmans beslutbarhet
 6 kap. i stadgan definierar regler Divisionstämman.
 
-2025-10-01 kallade styrelsen till divisionsstämma genom att skriva i discordservern MonadenDV, och
-genom en nyhet på dvet.se.
+2025-10-01 kallade styrelsen till divisionsstämma genom att skriva i discordservern MonadenDV, och genom en nyhet på dvet.se.
 
 Detta möteschema ska ha skickats ut under måndagen den 2025-10-13.
 
@@ -84,7 +91,7 @@ Detta möteschema ska ha skickats ut under måndagen den 2025-10-13.
 
 === Beslut
 #attSatser(
-  //[ attsats 1 bifalles ]
+  [ attsats 1 bifalles ]
 )
 
 == Fastställande av mötesschema
@@ -99,8 +106,9 @@ punkten.
 
 === Beslut
 #attSatser(
- // [ attsats 1 bifalles. ]
+ [ attsats 1 bifalles. ]
 )
+
 #pagebreak()
 
 == Val av mötesordförande
@@ -117,7 +125,7 @@ styrelsen väljer att nominera
 
 === Beslut
 #attSatser(
-//  [ Ida Vranvuk väljs in som mötesordförande. ]
+  [ Ida Vranvuk väljs in som mötesordförande. ]
 )
 
 == Val av vice mötesordförande
@@ -134,7 +142,7 @@ Styrelsen finner det passande att vice ordförande för styrelsen även
 
 === Beslut
 #attSatser(
-//  [ Ida Kjellerstedt väljs in som vice mötesordförande. ]
+  [ Ida Kjellerstedt väljs in som vice mötesordförande. ]
 )
 
 #pagebreak()
@@ -153,10 +161,11 @@ Styrelsen finner även det passande att sekreteraren för styrelsen även
 
 === Beslut
 #attSatser(
-//  [ Nikhil Olsson Mukhopadhyay väljs in som mötessekreterare. ]
+  [ Nikhil Olsson Mukhopadhyay väljs in som mötessekreterare. ]
 )
 
 #pagebreak()
+
 == Val av protokolljusterare
 Protokolljusterare har till uppgift att kontrollera att protokollet i slutändan reflekterar de faktiska besluten
 och diskussionerna som fördes under sammanträdet; samt agera rösträknare vid slutna omröstningar. Utöver
@@ -170,11 +179,14 @@ _Inga nomineringar för dessa positioner har inkommit._
 
 === Fria nomineringar
 
+- Albin Otterhäll nominerar sig själv
+- Robin Persson blir nominerad av annonym person
+
 === Beslut
 #attSatser(
-  // [
-  //  John Doe väljs till protokolljusterare.
-  // ]
+  [
+   Albin Otterhäll och Robin Persson väljs in som protokolljusterare
+  ]
 )
 
 #pagebreak()
@@ -193,11 +205,29 @@ Ida “iceByte” Vranvuk
 
 === Kassör
 
-Muntlig rapport på stämman
+Då kassören blivit sjuk läser sekreterare upp en skriflig rapport från kassören:
+
+Nästa stämma kommer en mer detaljerad rapport (den är snart).
+
+En del äskningar har äskats och godkänts.
+Insparken har gått smort, good job Isac!
+Rätt mycket blev över från budgetten från insparken, framförallt att lokalen till utflykten var billigare än beräknat och att volleybollen blev billigare.
+Lite långsamt när det kommer till äskningen för finalsittningen, de ville att man skulle använda en fakturaportal vilket kunde ta upp till 30 dagar. 
+Därav fick vi temporärt pengar från Göta till att betala fakturan för cateringen på finalsittningen och när vi får äskningen från studs betalar vi tillbaka Göta.
+Specifika siffror kommer nästa stämma.
+
+Påbörjar årsredovisningen (ångest).
+
+
 
 === Vice ordförande
 
 Muntlig rapport på stämman
+
+noteringar:
+
+Har hållit i kommiteemöte angående aspning och insparken.
+Medverkat under insparken.
 
 === SAMO
 
@@ -205,7 +235,9 @@ Sedan senaste stämman, utöver insparksevent, aspplanering och regelbundna styr
 
 === Sekreterare
 
-Sedan senaste stämma har jag jobbar vidare med protokollföring i vanlig ordning. Det finns för tillfället en del bakläxa angående signering av dokument som jobbas på. Franstegen går långsamt men frammåt.
+Sedan senaste stämma har jag jobbar vidare med protokollföring i vanlig ordning. Det finns för tillfället en del bakläxa angående signering av dokument vilket jobbas på. Franstegen går långsamt men framåt.
+
+#pagebreak()
 
 == Revisionsberättelse
 
@@ -214,6 +246,9 @@ Ingen rapport.
 == MEGA6
 
 Muntlig rapport på stämman
+
+notes:
+har hafft typ 9 event, varav 5 på inspakren. No further comments
 
 == Femme++
 
@@ -239,6 +274,8 @@ Vi planerar även att återuppta arbetet på märket och få ut några för nuva
 
 \- Studienämnden'25
 
+#pagebreak()
+
 == DVRK
 
 Sedan senaste stämman har DVRK slutfört både planering- och utförande av insparken, som i år har kallats mottagningen. DVRK har haft interna möten, möten med Kommandobryggan inom NaT, möten med DVDs kommittéer, samt Gerdes och CSE.
@@ -263,9 +300,27 @@ Ingen rapport.
 
 Muntlig rapport på stämman
 
+notes:
+Hållit i en aktivitet, större pluggstuga under 3 dagar. Inaktiva under sommaren. Mottagningen gick inte som önskat, mindre reccar än önskat, 0 på två av dem. ConCatsCup gick bra.
+Satsar på aspningen och låter inte detta förstöra.
+Nya möbler till monaden har tittats på. Har frågat var chalmers införskaffar sina möbler och hittat en rimlig design på soffa och fotölj som verkar slittålig och passar i monaden. Gerdes har bett om att få detta skickat och har kommenterat att budgeten inte bör vara orimig men att taket är högt.
+ConCats ska skickad detta snart. 
+
+Exakta detaljer:
+ca 13000 kr per fotölj
+ca 20000 kr för en 3 sits soffa
+ca 16000 kr för en 2 sits soffa
+
+Troligen kommer två fotäljer och tre 3-sists soffor köpas in för att byta ut nuvarande möbler. En ny konfiguration har också funnits i åtanke men inte valts.
+valet av tyg har tänkts på och några bra kandidater som skulle underlätta tvätt har valts. 
+
 == Mega7
 
 Muntlig rapport på stämman
+
+Då alla mega7 medlemmar är sjuka och inte kan närvara läser ordförande en skriftlig rapport av mega7:
+
+Vi är megaSjuk.
 
 == Klubbsport DV
 
@@ -370,7 +425,7 @@ Därför föreslår jag att styrelsen tvingas vara tydliga när de ska hålla m�
 ])
 
 === Beslut
-//#attSatser([Attsats 1 från föregående stämma bifalles igen])
+#attSatser([attsats 1 och attsats 2 från förra stämma bifalles])
 
 #pagebreak()
 
@@ -407,7 +462,7 @@ både GitHub och Drive.
 ])
 
 === Beslut
-#attSatser([])
+#attSatser([attsats 1 från föregående stämma bifalles igen])
 
 #pagebreak()
 
@@ -446,9 +501,11 @@ Detta låtter som ett sunt förslag! Vi håller med!
 ])
 
 === Beslut
-#attSatser([])
+#attSatser([attsats 1 och 2 från föregående stämma igen])
 
-=== Ansvarsfrihet 2021-2023
+#pagebreak()
+
+== Ansvarsfrihet 2021-2023
 
 Vi i tidigare styrelser tycker det är på tiden att stämman förklarar oss ansvarsfria för tidigare år.
 I och med att det inte har suttit någon revisor mellan 2021-2023 så lämnar vi då bedömningen till vår kära stämma.
@@ -472,7 +529,7 @@ Så klart ni ska få ansvarsfrihet käraste företrädare. Dock har en del dokum
 )
 
 === Beslut
-#attSatser([])
+#attSatser([attsats 1 bifalles])
 
 #pagebreak()
 
@@ -493,7 +550,9 @@ _Styrelsen har ej fått in några nominering innan stämman._
 )
 
 === Beslut
-//#attSatser([Attsats 1 bifalles])
+#attSatser([Attsats 1 bifalles])
+
+#pagebreak()
 
 == DVArm'25
 DVArm ansvarar för att förbättra relationer mellan divisionen och företag.
@@ -512,7 +571,7 @@ _Styrelsen har ej fått in några nominering innan stämman._
 #attSatser([Attsats 1 bifalles])
 
 
-== Revisior'25
+== Revisor'25
 Revisorn ansvarar för att föreningen sköter sig! Detta görs genom att se 
 att stadgan följs och alla ekonomiska regler!
 
@@ -525,9 +584,10 @@ _Styrelsen har ej fått in några nominering innan stämman._
 )
 
 === Beslut
-//#attSatser([Attsats 1 bifalles])
+#attSatser([Attsats 1 bifalles])
 
 #pagebreak()
+
 = Diskussionspunkter
 Stämman är inte bara en chans för oss i divisionen att rösta om saker, utan den ger oss även en chans att diskutera olika ämnen, som kanske nödvändigtvis inte behövs röstas om.
 
@@ -540,6 +600,6 @@ _Inga punkter har inkommit innan mötet, och styrelsen har ej kommit några punk
 = Avslutande av möte
 
 == Mötets avslutande
-Mötet avslutades XX:XX,
+Mötet avslutades 18:18,
 #pagebreak()
 #signatures(stämma: true)
