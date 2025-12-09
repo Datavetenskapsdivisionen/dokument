@@ -54,7 +54,7 @@
 
 
 = Öppnande av möte
-Mötet öppnades #time. #linebreak()
+//Mötet öppnades #time. #linebreak()
 
 #pagebreak()
 
@@ -195,11 +195,42 @@ stämman!
 
 == Styrelsen
 
+#pagebreak()
+
 === Ordförande
 
-Sedan senaste stämman så har jag tillsammans med styrelsen hållit i två event under insparken. Jag har även medverkat på regelbundna styrelsemöten där vi i Styrelsen har diskuterat olika ämnen om hur föreningen ska gå vidare och planerat våra aspevent för att få in nya kandidater till nästkommande verksamhetsår. Jag har också suttit med under sektionsstyrelsemöten för Natur- och tekniksektionen.
+Dags för årets sista stämma! Vi har haft ett väldigt intressant år. Det har varit mycket förändringar för föreningen och programmet och jag hoppas att nästa år blir något lättare att hantera. 
 
-Ida “iceByte” Vranvuk
+
+Sedan senaste stämman har vi i Styrelsen haft ett fåtal möten angående mindre diskussionspunkter. Vi har även hållit i några aspevent för att locka nya sittande. 
+
+
+Programråd: 
+
+    På programrådet diskuterades den nya ändringen av kandidatprogrammet N1COS. En av anledningarna till att programmets antagningstal sänktes i HT25 var för att man hoppades att detta skulle höja antagningsstatistiken. Detta skedde inte. Det pratades även om det nya programmet “Computer Science and AI” som kommer starta HT27. Kursupplägget har godkänts och inga större ändringar kommer att göras innan programstart. Nuvarande programansvarig, Alex Gerdes, kommer efter årsskiftet inte längre vara programansvarig, men kommer fortfarande vara kontaktbar. Den som kommer ta över för Gerdes är inte bestämt än (i skrivande stund). 
+
+    Om N2COS pratade man mest om kurserna i LP1. Programansvarig hade gett nya studenter ett alternativ att ta kurserna Algoritmer och Logik inom datavetenskap ifall en student var osäker på vad man skulle välja för kurser. Extremt många klarade inte kurserna. 
+
+
+Föreningsträff: Jag satt med på den studiesociala delen av föreningsträffen.
+
+    En arbetsgrupp för hur insparken ska se ut nästa år har bildats. Följande har föreslagits av den gruppen: 
+
+        50% närvaro vid gratisevent
+
+        Generalphaddrar
+
+        5 nystudenter per phadder max
+
+        Max 250 phaddrar totalt (180 förra året) 
+
+        Ev. färre event
+
+
+Det är nu dags att lämna över styrelsen till nästa generation och ta en ordentlig nap, tack för mig!
+
+
+    Ida “iceByte” Vranvuk - DV'23 student, DVRK'24 ordförande, Studienämnden'24 ordförande, Studienämnden'25 ordförande, extremt trött'25, Femme++'25 medlem, Mega6'25 medlem, Styrelsen'25 ordförande
 
 === Kassör
 
@@ -222,18 +253,22 @@ Påbörjar årsredovisningen (ångest).
 
 Muntlig rapport på stämman
 
-noteringar:
-
-Har hållit i kommiteemöte angående aspning och insparken.
-Medverkat under insparken.
 
 === SAMO
 
-Sedan senaste stämman, utöver insparksevent, aspplanering och regelbundna styrelsemöten, har jag varit i kontakt med Göta Studentkår om att bli tillsatt rollen som SAMO vid Institutionen för data- och informationsteknik (CSE). 
+Alloo, 
+
+Inte mycket som hänt, deltog på ett insparks sammanslagningsmöte med göta (11/11), diskuterade lite om hur de olika föreningarna vill att insparken ska se ut nästa år. Det kommer bli fler sådana möten och kommer bjuda in nästa DVRK att medverka på dem i framtiden, detta var förta mötet av detta slaget och det var mer diskuterande önskemål. Det ända som egentligen nu är fastställt är att varje phaddergrupp kommer ha generelphaddrar som agerar något mer administrativt utöver vanliga phadderuppdragen och att det kommer skapas en gemensam och dedikerad informationskanal (just nu verkar det som en discord server). 
+
+Också en föreningsträff där jag diskuterade diverse utbildningsbevaknings-relaterade frågor. 
+
+- Daniell Cole, SAMO '25, Datavetenskapsdivisionen
 
 === Sekreterare
 
-Sedan senaste stämma har jag jobbar vidare med protokollföring i vanlig ordning. Det finns för tillfället en del bakläxa angående signering av dokument vilket jobbas på. Franstegen går långsamt men framåt.
+Då jag har haft en del saker att stå i i mitt privata liv har inget markant hänt med arbetet som sekreterare.
+Jag jobbar fortfarande på att hålla protokollen uppdaterade samt med att skriva protokoll för stämmor och möten.
+Snart så är det också dags för en ny styrelse och jag förbereder mig på att överlämna min post samt avsluta det arbete som behöver göras klart från min sida.
 
 #pagebreak()
 
@@ -243,46 +278,32 @@ Ingen rapport.
 
 == MEGA6
 
-Muntlig rapport på stämman
-
-notes:
-har hafft typ 9 event, varav 5 på inspakren. No further comments
+Sen senaste stämman har MEGA6 hållt i 3 events; pubrunda, halloweensittning samt vinprovning i samband med aspningen. Sorgligt nog inga nya aspar men najs events trots allt. Vi ser också i att hålla en sista sittning innan årets slut med flygplanssittningen.
 
 == Femme++
 
-Aloo!
+Vi planerade ett knytkalas som aspevent. Alla blev upptagna (och/eller deprimerade) och (nästan) ingen kunde delta. 
+Förhoppningsvis blir det fler event I framtiden. 
 
-Sedan den senaste stämman har vi haft ett event innan sommaren, en sy-och-vin kväll, sedan under sommaren hade vi också möjligheten att gå med i Pride-paraden,  vilket några av oss gjorde!🏳️‍🌈🏳️‍⚧️ 
-Hoppas vi kan bli ett gäng som går med nästa år också!
-
-Under mottagningen hade vi två aktiviteter, en lunch och Prison Island, och tycker båda blev lyckade! 
-
-
-Med vänliga hälsningar \<3
-
-Daniell
+- Daniell, Femme++ ordförande'25
 
 == Studienämnden
 
-Hej hej!
+Halloj!
 
-Sedan senaste stämman har vi haft ett möte angående framtiden av studienämnden då vi fått det tragiska beskedet att CSE inte längre vill stå för kursutvärderingsfika (😭😭😭😭😭). Vi planerar andra sätt att få folk att fylla i kursutvärderingarna samtidigt som dem får något för det.
+Vi har dratt på ett kursutvärderingsmöte för funktionell programmering, very slay, tack för oss.
 
-Vi planerar även att återuppta arbetet på märket och få ut några för nuvarande och framtida studienämnden.
 
-\- Studienämnden'25
+- Studienämnden'25
 
-#pagebreak()
 
 == DVRK
 
-Sedan senaste stämman har DVRK slutfört både planering- och utförande av insparken, som i år har kallats mottagningen. DVRK har haft interna möten, möten med Kommandobryggan inom NaT, möten med DVDs kommittéer, samt Gerdes och CSE.
+Vad DVRK har gjort:
+Sedan senaste stämman har DVRK haft aspperiod samt intervjuer för att föreslå vem av asparna som kan tänkas vara ordförande för kommande DVRK. En utvärdering av mottagningen med Gerdes har också gjorts.
 
-Mottagningen gick bra överlag men en del arr kunde planerats bättre och/eller marknadsförts mer. 
-
-Likt tidigare år var deltagandet bland reccar högt i början och trappades ner allt eftersom.
-
-I dagsläget håller DVRK i aspningsperiod som resterande kommittéer för att komma med en rekommendation till nästkommande DVRK.
+Vad DVRK kommer att göra:
+AVGÅ!
 
 - SubZero
 
@@ -298,37 +319,23 @@ Ingen rapport.
 
 Muntlig rapport på stämman
 
-notes:
-Hållit i en aktivitet, större pluggstuga under 3 dagar. Inaktiva under sommaren. Mottagningen gick inte som önskat, mindre reccar än önskat, 0 på två av dem. ConCatsCup gick bra.
-Satsar på aspningen och låter inte detta förstöra.
-Nya möbler till monaden har tittats på. Har frågat var chalmers införskaffar sina möbler och hittat en rimlig design på soffa och fotölj som verkar slittålig och passar i monaden. Gerdes har bett om att få detta skickat och har kommenterat att budgeten inte bör vara orimig men att taket är högt.
-ConCats ska skickad detta snart. 
-
-Exakta detaljer:
-ca 13000 kr per fotölj
-ca 20000 kr för en 3 sits soffa
-ca 16000 kr för en 2 sits soffa
-
-Troligen kommer två fotäljer och tre 3-sists soffor köpas in för att byta ut nuvarande möbler. En ny konfiguration har också funnits i åtanke men inte valts.
-valet av tyg har tänkts på och några bra kandidater som skulle underlätta tvätt har valts. 
-
 == Mega7
 
-Muntlig rapport på stämman
-
-Då alla mega7 medlemmar är sjuka och inte kan närvara läser ordförande en skriftlig rapport av mega7:
-
-Vi är megaSjuk.
+Sedan senaste stämman har Mega7 fokuserat mer på gräset än tidigare. Genom
+att skifta fokus till gräsets egenskaper har vi hittat nya tillvägagångssätt för att
+göra både Monaden och innergården till bättre platser. Med dessa innovativa
+id'eer omsatta i verkligheten fortsätter Mega7 att hålla uppe fanan i Dataveten-
+skapsdivisionens framkant och leda vägen mot en grönare Monad.
 
 == Klubbsport DV
 
-Sedan senaste stämman har Klubbsport DV hållit i allt från frisbeegolf, innebandy och badminton. Eventen har blivit lite sporadiska på grund av intresse, tentor osv. Vi har fortfarande en AI bild som logga (It is cooked😭).
+lubbsport DV med ansvar för sport och sportrelaterade aktiviteter
 
-Under insparken höll vi i ett samarr med IT och volleyboll. Det första arret var inte alls så lyckat som vi hoppades på 😣 medan volleybollen var mycket uppskattad 🤩.
+Efter en aspperiod med events nästintill en gång i veckan har Klubbsport DV kommit fram till att nominera Robin “Mr Cake” Persson som ordförande (men gärna inte). 
 
-Nu blickar vi framåt till våra aspevent och att få bekanta oss med våra nya potentiella kommittémedlemmar ☺️.
+Robin “Mr Cake” Persson rekommenderar Isabell “McLovin” Johansson som ordförande.
 
-\ - Robin Alvar ”MrCake” Anders Persson
+Ordförande väljer in resten av medlemmarna under mandatperioden 2026.
 
 #pagebreak()
 
@@ -339,200 +346,219 @@ röstats igenom förra stämmomötet, och beslutet behöver bekräftas för att 
 
 #pagebreak()
 
-== Andra läsning, Motion: Styrelsemöten behöver annonseras i god tid på Discord och i Monaden
+== Motion från Patrik, "Soffa" 
 
-Enligt 7 kap. 6 § i stadgan har samtliga divisionsmedlemmar närvarorätt på styrelsens sammanträden.
-Medlemmarna kan endast utöva sin rättighet om de känner till när och vart styrelsen sammanträder.
-Styrelsen har de senaste åren, med vissa undantag, varit väldigt dålig på att informera medlemmarna när och vart sammanträderna hålls.
-Därför föreslår jag att styrelsen tvingas vara tydliga när de ska hålla möten, och när deras protokoll finns tillgängliga.
+Efter att soffan som var i det rummet som är allmänt känt som "lilla rummet" flyttades till det
+andra rummet, känt som det "stora rummet", skapades en namnlista för att återinföra soffan tillbaka.
+Det fanns en åsikt att beslutet skedde utan faktiskt mandat av studenter som går på programmet, 
+vilket reflekterades på namnlistan som hade ett brett stöd från många delar av programmet. 
+Namninsamlingen varade dessvärre inte då den av oförklarade anledningar togs ner innan studenterna på
+programmet han reflektera över sina val att få skriva på eller inte.
 
-\- Albin "Slaget" Otterhäll, revisor'24
+- Patrik "FLISP" Wahlgren
 
-#andraLäsning("2025-04-25", [
-  === Förslag till beslut inför mötet från motionären
-  #attSatser([
-    införa en ny paragraf under kap. 7 Styrelsen i stadgan med lydelsen
-
-    Styrelsens sammanträden måste kallas minst två läsdagar innan sammanträdet.
-    Kallelsen ska innehålla
-    - vilket styrelsesammanträde i ordningen som kallas till;
-    - sista dagen när det signerade protokollet ska vara tillgängligt för medlemmarna;
-    - tid och datum för sammanträdet;
-    - plats för sammanträdet.
-    Kallelsen ska ske med
-    - en papperslapp i minst A4 storlek med stor och tydlig text som sätts upp på Monadens anslagstavla;
-    - en kallelse på divisionens Discordserver;
-    - en kallelse på dvet.se.
-    Kallelsen får inte tas ner innan det signerade sammanträdesprotokollet finns tillgängligt för medlemmarna.
-
-    Kallelse till sammanträde får endast ske när protokollet från tidigare sammanträde är justerat och tillgängligt för medlemmarna.
-  ],[
-    införa en ny paragraf under kap. 7 Styrelsen i stadgan med lydelsen
-
-    När per capsulam-beslut har fattats måste beslutet dokumenteras
-    - på Monadens anslagstavla;
-    - på divisionens Discordserver som är tillgänglig alla studenter;
-    - i protokollet för det första styrelsesammanträdet efter beslut har fattats.
-
-    Dokumentationen ska innehålla
-    - vilka att-satser som har bifallits;
-    - omröstningsperioden.
-
-    Om dessa krav inte uppfylls upphävs beslutet.
-  ])
-
-  === Yrkande från styrelsen
-  Detta är väldigt rimliga förslag! Dock så finner vi i styrelsen att det kan leda till
-  ett slöseri med papper, men står bakom de andra förslagen!
-
-  === Förslag till beslut inför mötet från styrelsen
-  #attSatser([
-    införa en ny paragraf under kap. 7 Styrelsen i stadgan med lydelsen
-
-    Styrelsens sammanträden måste kallas minst två läsdagar innan sammanträdet.
-    Kallelsen ska innehålla
-    - vilket styrelsesammanträde i ordningen som kallas till;
-    - när det signerade protokollet som senast ska vara tillgängligt för medlemmarna;
-    - tid och datum för sammanträdet;
-    - plats för sammanträdet.
-    Kallelsen ska ske med
-    - en kallelse på Discordservern MonadenDV;
-    - en kallelse på dvet.se.
-
-    Kallelse till sammanträde får endast ske när protokollet från tidigare sammanträde är justerat och tillgängligt för medlemmarna.
-  ],[
-    införa en ny paragraf under kap. 7 Styrelsen i stadgan med lydelsen
-
-    När per capsulam-beslut har fattats måste beslutet dokumenteras
-    - på divisionens Discordserver som är tillgänglig alla studenter;
-    - i protokollet för det första styrelsesammanträdet efter beslut har fattats.
-
-    Dokumentationen ska innehålla
-    - vilka att-satser som har bifallits;
-    - omröstningsperioden.
-
-    Om dessa krav inte uppfylls upphävs beslutet.
-  ])
-
-  === Beslut efter föregående stämma
-  #attSatser(
-    [attsats 1 bifalles],
-    [attsats 2 bifalles]
-  )
-
-])
-
-=== Beslut
-#attSatser([attsats 1 och attsats 2 från förra stämma bifalles])
-
-#pagebreak()
-
-== Andra läsning, Motion: Publicera signerade protokoll i Monaden
-
-Göra det tydligare vilka beslut som styrelsen har beslutat om.
-
-- Albin "Slaget" Otterhäll, revisor'24
-
-#andraLäsning("2025-05-25",[
-=== Förslag till beslut inför mötet från motionären
-#attSatser([
-  I 7 kap. 8 § i stadgan lägga till ett stycke med lydelsen
-
-  Det senaste signerade protokollet ska finnas upphängt på Monadens anslagstavla fram tills dess det finns ett nytt signerat protokoll.
-])
-
-=== Yrkande från styrelsen
-Vi finner att detta är slöseri med papper, och dessa protokoll är tillgängliga genom 
-både GitHub och Drive.
-
-=== Förslag till beslut inför mötet från styrelsen
-#attSatser([
-  ändra attsats 1 till:\
-
-  I 7 kap. 8 § i stadgan lägga till ett stycke med lydelsen
-
-  Det senaste signerade protokollet ska direktlänkas i divisionens Discordserver så fort den finns tillgängligt.
-])
-
-=== Beslut från föregående stämma
-#attSatser([attsats 1 bifalles])
-
-])
-
-=== Beslut
-#attSatser([attsats 1 från föregående stämma bifalles igen])
-
-#pagebreak()
-
-== Andra läsning, Motion: Styrelsen kan inte avsätta revisor
-
-Revisorn har till uppdrag att å medlemmarnas vägnar granska styrelsen och kommittéerna.
-Då är det lite konstigt om styrelsen kan avsätta revisorn.
-
-Albin "Slaget" Otterhäll, revisor'24
-#andraLäsning("2025-04-25",[=== Förslag till beslut inför mötet från motionären
-#attSatser([
-  i 9 kap. 2 § tredje stycket i stadgan införa "revisor" i listan.
-], [
-  ändra 9 kap. 3 § första stycket i stadgan från
-
-  Styrelsen har rätt att
-  • stänga av medlem från deras förtroendeuppdrag.
-
-  till
-
-  Styrelsen har rätt att stänga av enskild medlem från deras förtroendeuppdrag endast om medlemmen inte är revisor.
-])
-
-=== Yrkande från styrelsen styrelsen
-Detta låtter som ett sunt förslag! Vi håller med!
-=== Förslag till beslut inför mötet från styrelsen
+=== Förslag till beslut från motionären
 #attSatser(
-[
-  bifalla attsats 1 från motionären
-],[
-  bifalla attsats 2 från motionären
-])
-
-=== Beslut från föregående stämma
-#attSatser([attsats 1 och attsats 2 bifalles])
-])
-
-=== Beslut
-#attSatser([attsats 1 och 2 från föregående stämma igen])
-
-#pagebreak()
-
-== Ansvarsfrihet 2021-2023
-
-Vi i tidigare styrelser tycker det är på tiden att stämman förklarar oss ansvarsfria för tidigare år.
-I och med att det inte har suttit någon revisor mellan 2021-2023 så lämnar vi då bedömningen till vår kära stämma.
-Detta innebär att stämman finner att en tidigare styrelse har gjort ett lämpligt arbete och har följt föreningens stadgar, ekonomiska regler, och även svensk lag. Om det finnas uppgifter för ett år som inte har blivit lösta innan den nuvarande stämma, har stämman all rätt att yrka att styrelsen för att det årets styrelse ska lösa uppgifterna innan de kan beviljas ansvarsfrihet.
-
-Vi föreslår därmed följande attsatser:
-- Att förklara styrelsen 2021 ansvarsfria
-- Att förklara styrelsen 2022 ansvarsfria
-- Att förklara styrelsen 2023 ansvarsfria
-
-MvH
-- Samuel `Smalben` Hammersberg
-- Lukas `Långben` Gartman
-
-=== Yrkande från styrelsen
-Så klart ni ska få ansvarsfrihet käraste företrädare. Dock har en del dokument inte signerats och skannats in från 2021 och 2022. Vi vill gärna se att detta löst innan vi kan låta er gå. Dock är styrelsen 2023 utan bakläxa.
-
-=== Förslag till beslut inför mötet från styrelsen
-#attSatser(
-  [förklara styrelsen 2023 ansvarsfria]
+  [ styrelsen undersöker motivationen för att namninsamlingen togs ner då det berör om studenternas grundläggande förmåga att uttrycka sig demokratiskt.],
+  [ återinföra soffan till det "lilla rummet".]
 )
 
-=== Beslut
-#attSatser([attsats 1 bifalles])
+=== Yrkande från styrelsen
+Soffan flyttades av ett par studenter under sommaren då golven vaxades och alla möbler behövdes flyttas för att inte vara ivägen under detta arbete. Efter att alla möbler flyttats från båda rummen bestämde de studenter som närvarade sig för att flytta tillbaka möblerna i denna nya konfiguration då detta var hur sofforna stog tidigare. Styrelsen såg på detta som en rimlig ändrig eftersom vi vill uppmuntra till att det stora rummen används för socialisering och att lilla rummet skall användas som pluggrum.
+
+Angående namnlistan som sattes upp så vet styrelsen inte varför den togs ner och anser även att om en student vill utöva sina demokratiska rättigheter kan denna införa sig på stämmor, styrelsemöten och skriva i den officiella discorden eller mejla styrelsen/relevant kommitee direkt.
+
+Styrelsen anser att en omröstning på stämman om specifik placering av möbler på detta vis är onödigt och att om det skulle finnas behov så kan en omröstning i per publika kanaler upprättas. Detta för att en stor del av de som använder monaden inte deltar regelbundet på stämmor.
+
+=== Förslag till beslut inför mötet från styrelsen
+#attSatser(
+  [ stämman anser att har adekvat förklarat försvinnandet av namninsamlingen ]
+)
+
+#pagebreak()
+
+== Göra Mega7 till en kommitt'e för pateter
+
+Under den senaste tiden har vi märkt ett ökat intresse bland pateter och gamlingar för att bli en del av Mega7. Eftersom det i dagsläget saknas en naturlig samlingsplats för pateter på Datavetenskapsdivisionen i kombination med att många tidigare föreningsaktiva avslutat sina stuidier, anser jag att detta bör förändras.
+
+- Kevin ”Pettzzon” Pettersson
+
+=== Förslag till beslut från motionären
+#attSatser(
+  [inrätta mega7 som en officiell kommitt'e för pateter]
+)
+
+=== Yrkande från styrelsen
+
+Styrelsen tycker att detta initiativ än mycket bra och hoppas att arbetet med en patetkommitt'e kommer gå bra!
+
+
+=== Förslag till beslut inför mötet från styrelsen
+#attSatser(
+  [ändra kap 12 av reglementet från:
+  ```md
+    1 § Kommittéens namn är Mega7.
+    2 § Mega7 vattnar gräsmattan utanför Monaden under första veckan i varje månad, oavsett väder tillstånd. Detta ska dokumenteras genom frivilligt men tillgängligt forum.
+    3 § Mandatperioden för kommittémedlemmarna bestäms internt inom kommittén.
+    4 § Kommittémedlemmarna bestäms internt inom kommittén.
+  ``` 
+  till
+  ```md
+    1 § Kommittéens namn är Mega7.
+    2 § Mega7 ansvarar för värna om Datavetenskapsdivisionens pateter.
+    3 § Mandatperioden för kommittémedlemmarna bestäms internt inom kommittén.
+    4 § Kommittémedlemmarna bestäms internt inom kommittén.
+  ```
+  ]
+)
 
 #pagebreak()
 
 = Inval
 Inval av personer till förtroendeposterna som väljs in av Divisionsstämman. Dessa väljs in för en ordinarie mandatperiod, vilket sträcker sig från 1 januari till 31 december.
+
+== Styrelsen
+
+Styrelsen är programmets högsta organ förutom stämman.
+
+=== Inkomna nomineringar inför mötet
+
+Daniell har varit otroligt engagerad de senaste verksamhetsåren i olika uppdrag och tar sitt arbete seriöst. Jag har ingen tvekan om att hon kommer göra ett otroligt arbete nästa verksamhetsår och nominerar därför Daniell Cole till divisionsordförande för Styrelsen'26!
+
+Vi i Styrelsen'25 nominerar Owais "Mirage" Tabbaa till kassör för Styrelsen'26
+
+Lycka till och tack för oss!
+
+- Styrelsen'25
+
+
+//=== Utjustering
+
+=== Förslag till beslut
+//#attSatser([])
+
+=== Beslut
+//#attSatser([])
+
+//=== Injustering
+
+#pagebreak()
+
+== DVRK
+DVRK ansvarar för insparken.
+
+=== Inkomna nomineringar inför mötet
+DVRK nomminerar:
+Halimo "Lost&&Found" Hassan Ali
+som ny ordförande för DVRK inför kommande verksamhetsår.
+
+DVRK rekommenderar ytterligare personer att sitta med i nästkommande DVRK:
+Ola "a'loco" Forss - vice ordförande
+Tural "Mårt Money" Binnatov - kassör
+Alexander "Wildcard" Appelin - eventansvarig
+Sarah "βetah" Manktelow - pr-minister
+Edvin "Dubbel d" Lundgren - uppdragsansvarig
+
+//=== Utjustering
+
+=== Förslag till beslut
+//#attSatser([])
+
+=== Beslut
+//#attSatser([])
+
+//=== Injustering
+
+#pagebreak()
+
+== Mega6
+
+Mega6 ansvarar för festligheter på programmet.
+
+=== Inkomna nomineringar inför mötet
+
+För nästkommande generation av MEGA6 nomineras Robin "Mr Cake" Persson till ordförande
+
+- Gustav Richter, Mega6'25
+
+//=== Utjustering
+
+=== Förslag till beslut
+//#attSatser([])
+
+=== Beslut
+//#attSatser([])
+
+//=== Injustering
+
+#pagebreak()
+
+== Studienämnden
+
+Studienämnden ansvarar för att sötta stduenter och dess studier.
+
+=== Inkomna nomineringar inför mötet
+
+Efter en riktigt låååååång process har vi i Studienämnden bestämt en värdig kandidat för ordförande och nominerar Daniell Cole som ordförande för Studienämnden 2026. 
+
+- Ida "iceByte" Vranvuk 
+
+//=== Utjustering
+
+=== Förslag till beslut
+//#attSatser([])
+
+=== Beslut
+//#attSatser([])
+
+//=== Injustering
+
+#pagebreak()
+
+== Femme++
+
+Femme++ ansvarar för att stötta och främna Kvinnor och HBTQ personer på programmet.
+
+=== Inkomna nomineringar inför mötet
+
+Femme++ nominerar Sofia "rubix" Gustafsson till kommande mandatperiod.
+
+- Femme++'25
+
+//=== Utjustering
+
+=== Förslag till beslut
+//#attSatser([])
+
+=== Beslut
+//#attSatser([])
+
+//=== Injustering
+
+#pagebreak()
+
+== ConCats
+
+ConCats är programmets rustmästeri.
+
+=== Inkomna nomineringar inför mötet
+
+ConCats nominerar Owais "Mirage" Altabbaa till kommande mandatperiod.
+
+Martin "Marabou" Felix
+ConCats
+
+//=== Utjustering
+
+=== Förslag till beslut
+//#attSatser([])
+
+=== Beslut
+//#attSatser([])
+
+//=== Injustering
+
+#pagebreak()
 
 == DV_Ops'25
 DV_Ops ansvarar för föreningens diverse IT system och med att främja hackerandra.
@@ -548,7 +574,7 @@ _Styrelsen har ej fått in några nominering innan stämman._
 )
 
 === Beslut
-#attSatser([Attsats 1 bifalles])
+//#attSatser([Attsats 1 bifalles])
 
 #pagebreak()
 
@@ -566,7 +592,7 @@ _Styrelsen har ej fått in några nominering innan stämman._
 )
 
 === Beslut
-#attSatser([Attsats 1 bifalles])
+//#attSatser([Attsats 1 bifalles])
 
 
 == Revisor'25
@@ -582,7 +608,7 @@ _Styrelsen har ej fått in några nominering innan stämman._
 )
 
 === Beslut
-#attSatser([Attsats 1 bifalles])
+//#attSatser([Attsats 1 bifalles])
 
 #pagebreak()
 
@@ -598,6 +624,6 @@ _Inga punkter har inkommit innan mötet, och styrelsen har ej kommit några punk
 = Avslutande av möte
 
 == Mötets avslutande
-Mötet avslutades 18:18,
+Mötet avslutades XX:XX
 #pagebreak()
 #signatures(stämma: true)
