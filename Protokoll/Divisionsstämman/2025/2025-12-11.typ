@@ -331,11 +331,6 @@ skapsdivisionens framkant och leda vägen mot en grönare Monad.
 
 lubbsport DV med ansvar för sport och sportrelaterade aktiviteter
 
-Efter en aspperiod med events nästintill en gång i veckan har Klubbsport DV kommit fram till att nominera Robin “Mr Cake” Persson som ordförande (men gärna inte). 
-
-Robin “Mr Cake” Persson rekommenderar Isabell “McLovin” Johansson som ordförande.
-
-Ordförande väljer in resten av medlemmarna under mandatperioden 2026.
 
 #pagebreak()
 
@@ -414,6 +409,36 @@ Styrelsen tycker att detta initiativ än mycket bra och hoppas att arbetet med e
 
 #pagebreak()
 
+== Terry Davis foto
+Man kan inte hjälpa att bli motiverad och inspirerad av alla personer som hänger
+i det allmänt så kallade "lilla rummet". Dessa personer har gjort stora insatser
+för datavetenskap, och ämnet hade inte varit i det samma om det inte vore för dem.
+Men, förutom alla dessa fantastiska personer så saknas det en, oftast missförstånd
+person: Terry Davis. Skapare av TempleOS och HolyC har han gjort en otrolig påverkan
+inom ämnet och därmed förtjänas att ha ett foto ramat in, så han får hänga bland de
+andra legenderna.
+
+Patrik "FLISP" Wahlgren
+
+=== Förslag till beslut från motionären
+#attSatser(
+  [Att säkra finansiering för ett laminerat foto av Terry Davis, och en ram.],
+  [Häng upp ett foto inramat av Terry Davis i lilla rummet; bredvid Alonzo Church och KG.]
+)
+
+=== Yrkande från styrelsen
+
+Även om terry davis är en aningen känd programmerare många ser upp till när det kommer till hans kunskap och förmåga innom programmering så rekomendedar styrelsen startk emot att sätta upp ett porträtt av honnom då han uttryckte extrema åsikter som inte föreningen bör associera sig med.
+
+=== Förslag till beslut inför mötet från styrelsen
+
+#attSatser(
+  [inget sådant fotto sätts up.]
+)
+
+
+#pagebreak()
+
 = Inval
 Inval av personer till förtroendeposterna som väljs in av Divisionsstämman. Dessa väljs in för en ordinarie mandatperiod, vilket sträcker sig från 1 januari till 31 december.
 
@@ -425,12 +450,12 @@ Styrelsen är programmets högsta organ förutom stämman.
 
 Daniell har varit otroligt engagerad de senaste verksamhetsåren i olika uppdrag och tar sitt arbete seriöst. Jag har ingen tvekan om att hon kommer göra ett otroligt arbete nästa verksamhetsår och nominerar därför Daniell Cole till divisionsordförande för Styrelsen'26!
 
+Vi i Styrelsen'25 nominerar Daniell "Cassilda" Cole till ordförande för Styrelsen'26
 Vi i Styrelsen'25 nominerar Owais "Mirage" Tabbaa till kassör för Styrelsen'26
 
 Lycka till och tack för oss!
 
 - Styrelsen'25
-
 
 //=== Utjustering
 
@@ -557,6 +582,27 @@ ConCats
 //#attSatser([])
 
 //=== Injustering
+
+== Klubbsport DV
+
+=== Inkomna nomineringar inför mötet
+
+Efter en aspperiod med events nästintill en gång i veckan har Klubbsport DV kommit fram till att nominera Robin “Mr Cake” Persson som ordförande (men gärna inte). 
+
+Robin “Mr Cake” Persson rekommenderar Isabell “McLovin” Johansson som ordförande.
+
+Ordförande väljer in resten av medlemmarna under mandatperioden 2026.
+
+//=== Utjustering
+
+=== Förslag till beslut
+//#attSatser([])
+
+=== Beslut
+//#attSatser([])
+
+//=== Injustering
+
 
 #pagebreak()
 
