@@ -610,13 +610,14 @@ Ordförande väljer in resten av medlemmarna under mandatperioden 2026.
 DV_Ops ansvarar för föreningens diverse IT system och med att främja hackerandra.
 
 === Inkomna nomineringar inför mötet
-_Styrelsen har ej fått in några nominering innan stämman._
+
+Det är dags att återuppliva DV_Ops och få tillbaka IT intresset till DV.  Som datastudenter borde IT-intresset vara en självklar del av vår gemenskap, inte bara i kurserna utan även vid sidan av dem. Jag, Alexander Appelin, ställer upp som kandidat till ordförande för DV_Ops. Mitt mål är att återetablera kommittén med samma vision som innan, att främja IT-intresse och kunskap för alla som vill lära sig mer, oavsett förkunskaper. Utöver det ska kommittén fortsätta ansvara för divisionens IT-infrastruktur, däribland hemsidan. För att förverkliga visionen vill jag hålla ett flertal evenemang men fokus på programmering och kreativ utveckling.
 
 === Fri nominering
 
 === Förslag till beslut
 #attSatser(
-  [punkten bordsläggs]
+//  [punkten bordsläggs]
 )
 
 === Beslut
