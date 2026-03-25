@@ -1,0 +1,427 @@
+\documentclass[protokoll]{dvd}
+
+\KOMAoptions{
+	headwidth = 18cm,
+	footwidth = 18cm,
+}
+
+\setlength{\parskip}{0.2em}
+
+% --------------------------------------------------------------------- %
+% ---------------------------- Definitions ---------------------------- %
+% --------------------------------------------------------------------- %
+
+% Styrelsen
+\def\ordf{Namn Ordförande}
+\def\vice{Namn Vice}
+\def\samo{Namn SAMO}
+\def\kassa{Namn Kassör}
+\def\sekr{Namn Sekreterare}
+\def\vak{\emph{vakant}}
+
+% mötesinfo
+
+\def\nr{X}
+\def\yr{yyyy}
+\def\ymd{YYYY-MM-DD}
+\def\starttime{HH:MM}
+\def\loc{EX}
+
+% formalia
+\def\kall{KALLELSEDATUM}
+
+% --------------------------------------------------------------------- %
+
+\begin{document}
+
+\title{Divisionsstämmans möte \nr}
+\subtitle{\yr}
+\author{Divisionsstämman}
+\date{\ymd}
+
+\textbf{Datum:} \csname @date\endcsname\\
+\textbf{Tid:} \starttime\\
+\textbf{Plats:} \loc\\
+\textbf{Styrelsemedlemmar:}
+\begin{närvarande_förtroendevalda}
+    \förtroendevald{Ordförande}{\ordf}{}
+    \förtroendevald{Vice ordförande}{\vice}{}
+    \förtroendevald{SAMO}{\samo}{}
+    \förtroendevald{Kassör}{\kassa}{}
+    \förtroendevald{Sekreterare}{\sekr}{}
+\end{närvarande_förtroendevalda}
+
+\textbf{Närvarande övriga medlemmar:}
+\begin{närvarande_medlemmar}
+    \medlem{NAMN namn}[(tillkom/avgick)]
+\end{närvarande_medlemmar}
+\newpage
+
+\section{Öppnande av möte}
+Mötet beräknas öppnas av \ordf\ \starttime
+
+
+\newpage
+\section{Formalia}
+
+\subsection{Fastställande av röstlängd}
+En röstlängd är en lista på personer som har rösträtt. Under våra stämmomöten äger endast divisionsmedlemmar som närvarar vid mötet rösträtt. Därmed krävs det att för att stämmomötet ska kunna genomföras behöver vi en lista med namn på röstberättigade medlemmar som närvarar vid stämmosammanträdet.
+
+Medlemmar kan under mötets gång, det vill säga efter denna punkt, läggas till eller tas bort ur röstlängden.
+Det ska då framgå i röstlängden vid vilken punkt i mötesschemat medlemmen lämnar eller ankommer till
+stämmomötet.
+
+\subsubsection*{Förslag till beslut}
+\begin{attsatser}
+    \item stämman fastställer den nuvarande röstlängden
+\end{attsatser}
+
+\subsubsection*{Beslut}
+\begin{attsatser}
+    \item %attsats 1 bifalles.
+\end{attsatser}
+
+
+\subsection{Divisionsstämmans beslutbarhet}
+
+6 kap. i stadgan definierar regler Divisionstämman.
+
+\kall \ 
+kallade styrelsen till divisionsstämma genom att skriva i discordservern \emph{MonadenDV}, samt annonserades detta på \emph{dvet}.se \kall
+
+\subsubsection*{Förslag till beslut}
+
+\begin{attsatser}
+    \item divisionsstämman har uppnått kraven i stadgan för att få hålla möte, och är därmed beslutbar.
+\end{attsatser}
+
+\subsubsection*{Beslut}
+\begin{attsatser}
+    \item %attsats 1 bifalles.
+\end{attsatser}
+
+
+\subsection{Fastställande av mötesschema}
+
+För att divisionsstämman ska kunna fatta ett beslut eller protokollföra en diskussion behöver punkten i mötesschemat där stämman ska fatta beslut vara inlagd eller föras in i mötesschemat senast vid den här punkten.
+
+\subsubsection*{Förslag till beslut}
+
+\begin{attsatser}
+    \item mötesschemat fastställs utan några ändringar.
+    \item lägga till \textit{punkt vid sektion ...}
+\end{attsatser}
+
+\subsubsection*{Beslut}
+\begin{attsatser}
+    \item %attsats 1 bifalles.
+\end{attsatser}
+
+\subsection{Val av mötesordförande}
+
+Mötesordförande har till uppgift att leda Divisionsstämmans sammankomst.
+Hen ansvarar för att mötesformalia sköts.
+
+
+
+\subsubsection*{Förslag till beslut}
+\begin{attsatser}
+    \item \ordf\ väljs till mötesordförande.
+\end{attsatser}
+
+\subsubsection*{Beslut}
+\begin{attsatser}
+    \item %attsats 1 bifalles.
+\end{attsatser}
+
+\subsection{Val av vice mötesordförande}
+
+Vice mötesordförande hjälper mötesordförande med att hålla talarlistan, och att alla får komma till tals.
+
+\subsubsection*{Förslag till beslut}
+\begin{attsatser}
+    \item \vice\ väljs till vice mötesordförande
+\end{attsatser}
+
+\subsubsection*{Beslut}
+\begin{attsatser}
+    \item %attsats 1 bifalles.
+\end{attsatser}
+
+\subsection{Val av mötessekreterare}
+
+Mötessekreteraren har till uppgift att anteckna diskussioner, beslut, och eventuella reservationer under mötet.
+
+\subsubsection*{Förslag till beslut}
+\begin{attsatser}
+    \item \sekr\ väljs till mötessekreterare
+\end{attsatser}
+
+\subsubsection*{Beslut}
+\begin{attsatser}
+    \item %attsats 1 bifalles.
+\end{attsatser}
+
+\subsection{Val av protokolljusterare}
+
+Protokolljusterare har till uppgift att kontrollera att protokollet i slutändan reflekterar de faktiska besluten och diskussionerna som fördes under sammanträdet; samt agera rösträknare vid slutna omröstningar.
+Utöver protokolljusterarna så ska mötesordförande och mötessekreteraren signera protokollet.
+Vid Divisionsstämmans sammanträden ska det vara två justerare.\\
+Mötesordförande och mötessekreteraren kan inte vara justerare.
+
+\subsubsection*{Förslag till beslut}
+\begin{attsatser}
+    \item 
+\end{attsatser}
+
+\subsubsection*{Beslut}
+\begin{attsatser}
+    \item %attsats 1 bifalles.
+\end{attsatser}
+
+\newpage
+
+\section{Rapporter}
+
+\subsection{Styrelsen}
+
+\subsubsection*{Ordförande}
+Verksamhetsrapport.
+
+\subsubsection*{Kassör}
+Verksamhetsrapport.
+
+\subsubsection*{Vice Ordförande}
+Verksamhetsrapport.
+
+
+\subsubsection*{SAMO}
+Verksamhetsrapport.
+
+
+\subsubsection*{Sekreterare}
+Verksamhetsrapport.
+
+\subsection{Revisor}
+Revisionsberättelse.
+
+\subsection{Verksamhetsrapporter av kommittéer}
+
+\subsubsection*{DVRK}
+Verksamhetsrapport.
+
+
+\subsubsection*{ConCats}
+Verksamhetsrapport.
+
+
+\subsubsection*{Femme++}
+Verksamhetsrapport.
+
+\subsection{Studienämnden}
+Verksamhetsrapport.
+
+\subsubsection*{Mega6}
+Verksamhetsrapport.
+
+\subsubsection*{DVOps}
+Verksamhetsrapport.
+
+\subsubsection*{Mega7}
+Verksamhetsrapport.
+
+\subsubsection*{Klubbsport DV}
+Verksamhetsrapport.
+
+\subsubsection*{DVArm}
+Verksamhetsrapport.
+
+\subsection{Eventuella Arbetsgrupper}
+Verksamhetsrapport.
+
+
+\newpage
+
+\section{Beslutspunkter}
+
+Enligt Stadgan måste ändringar av Stadgan röstas igenom på två av Divisionsstämmans varandra följande möten.
+Om en beslutpunkt innehåller ``första läsningen' innebär det att det är första gången beslutet tas upp för omröstning.
+Om en beslutspunkt innehåller ``andra läsningen'' innebär det att beslutspunkten har röstats igenom förra stämmomötet, och beslutet behöver bekräftas för att gå igenom.
+
+\subsection*{Beslutspunkt}
+beskrivning av beslutspunkt
+
+\subsubsection*{Förslag till beslut}
+\begin{attsatser}
+    \item besluta något
+\end{attsatser}
+
+\subsubsection*{Beslut}
+\begin{attsatser}
+    \item 
+\end{attsatser}
+
+
+\subsection*{Motion: Motion}
+Insänd motion
+
+
+\subsubsection*{Förslag till beslut}
+\begin{attsatser}
+    \item 
+\end{attsatser}
+
+\subsubsection*{Beslut}
+\begin{attsatser}
+     \item 
+\end{attsatser}
+
+\newpage
+
+\section{Inval}
+Inval av personer till förtroendeposterna som väljs in av Divisionsstämman. Dessa väljs in för en ordinarie mandatperiod, vilket sträcker sig från 1 januari till 31 december.
+
+% \subsection*{Styrelsen}
+% \subsubsection*{Inkomna nomineringar inför mötet}
+% \textit{Styrelsen har ej fått in några nominering innan stämman.}
+% \subsubsection*{Fri nominering}
+% \subsubsection*{Förslag till beslut}
+% \begin{attsatser}
+%     \item 
+% \end{attsatser}
+% \subsubsection*{Beslut} 
+% \begin{attsatser}
+%     \item  
+% \end{attsatser}
+
+% \subsection*{DVRK}
+% \subsubsection*{Inkomna nomineringar inför mötet}
+% \textit{Styrelsen har ej fått in några nominering innan stämman.}
+% \subsubsection*{Fri nominering}
+% \subsubsection*{Förslag till beslut}
+% \begin{attsatser}
+%     \item 
+% \end{attsatser}
+% \subsubsection*{Beslut}
+% \begin{attsatser}
+%     \item 
+% \end{attsatser}
+
+% \subsection*{Mega6}
+% \subsubsection*{Inkomna nomineringar inför mötet}
+% \textit{Styrelsen har ej fått in några nominering innan stämman.}
+% \subsubsection*{Fri nominering}
+% \subsubsection*{Förslag till beslut}
+% \begin{attsatser}
+%     \item 
+% \end{attsatser}
+% \subsubsection*{Beslut}
+% \begin{attsatser}
+%     \item 
+% \end{attsatser}
+
+% \subsection*{Studienämnden}
+% \subsubsection*{Inkomna nomineringar inför mötet}
+% \textit{Styrelsen har ej fått in några nominering innan stämman.}
+% \subsubsection*{Fri nominering}
+% \subsubsection*{Förslag till beslut}
+% \begin{attsatser}
+%     \item 
+% \end{attsatser}
+% \subsubsection*{Beslut}
+% \begin{attsatser}
+%     \item 
+% \end{attsatser}
+
+% \subsection*{Femme++}
+% \subsubsection*{Inkomna nomineringar inför mötet}
+% \textit{Styrelsen har ej fått in några nominering innan stämman.}
+% \subsubsection*{Fri nominering}
+% \subsubsection*{Förslag till beslut}
+% \begin{attsatser}
+%     \item 
+% \end{attsatser}
+% \subsubsection*{Beslut}
+% \begin{attsatser}
+%     \item 
+% \end{attsatser}
+
+% \subsection*{ConCats}
+% \subsubsection*{Inkomna nomineringar inför mötet}
+% \textit{Styrelsen har ej fått in några nominering innan stämman.}
+% \subsubsection*{Fri nominering}
+% \subsubsection*{Förslag till beslut}
+% \begin{attsatser}
+%     \item 
+% \end{attsatser}
+% \subsubsection*{Beslut}
+% \begin{attsatser}
+%     \item 
+% \end{attsatser}
+
+% \subsection*{Klubbsport DV}
+% \subsubsection*{Inkomna nomineringar inför mötet}
+% \textit{Styrelsen har ej fått in några nominering innan stämman.}
+% \subsubsection*{Fri nominering}
+% \subsubsection*{Förslag till beslut}
+% \begin{attsatser}
+%     \item 
+% \end{attsatser}
+% \subsubsection*{Beslut}
+% \begin{attsatser}
+%     \item 
+% \end{attsatser}
+
+% \subsection*{DV\textunderscore Ops}
+% \subsubsection*{Inkomna nomineringar inför mötet}
+% \textit{Styrelsen har ej fått in några nominering innan stämman.}
+% \subsubsection*{Fri nominering}
+% \subsubsection*{Förslag till beslut}
+% \begin{attsatser}
+%     \item 
+% \end{attsatser}
+% \subsubsection*{Beslut}
+
+\subsection*{DVArm}
+\subsubsection*{Inkomna nomineringar inför mötet}
+\textit{Styrelsen har ej fått in några nominering innan stämman.}
+\subsubsection*{Fri nominering}
+\subsubsection*{Förslag till beslut}
+\begin{attsatser}
+    \item punkten bordsläggs
+\end{attsatser}
+\subsubsection*{Beslut}
+\begin{attsatser}
+    \item 
+\end{attsatser}
+
+\subsection*{Revisor}
+\subsubsection*{Inkomna nomineringar inför mötet}
+\textit{Styrelsen har ej fått in några nominering innan stämman.}
+\subsubsection*{Fri nominering}
+\subsubsection*{Förslag till beslut}
+\begin{attsatser}
+    \item punkten bordsläggs
+\end{attsatser}
+\subsubsection*{Beslut}
+\begin{attsatser}
+    \item 
+\end{attsatser}
+
+\newpage
+\section{Diskussionspunkter}
+Stämman är inte bara en chans för oss i divisionen att rösta om saker, utan den ger oss även en chans att diskutera olika ämnen, som kanske nödvändigtvis inte behövs röstas om.
+
+Styrelsen har ej kommit med några diskussionspunkter, men vi lämnar golvet
+öppet för närvarande medlemmar att ta upp det dom har på hjärtat.
+
+%\textit{Inga punkter har inkommit innan mötet, och styrelsen har ej kommit några punkter själva.}
+\subsection*{Eventuella diskusionspunkter}
+
+\section{Avslutande av möte}
+
+Mötet avslutades klockan XX:XX
+
+\stämmosignaturer
+
+\end{document}
