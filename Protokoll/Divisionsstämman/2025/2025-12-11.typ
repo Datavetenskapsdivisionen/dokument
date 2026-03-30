@@ -14,21 +14,21 @@
     [Ida Vranvuk], [],
     [Ida Kjellerstedt], [],
     [Hannes Carlsson], [],
-    [Daniell Cole], [],
+    [Daniel Cole], [],
     [Nikhil Olsson Mukhopadhyay], [],
 )
 
-// #deltagere(
-//   [Owais Tabba],[Ja],
-//   [Martin Felix], [Ja],
-//   [Kristoffer Gustavsson], [Ja],
-//   [Samuel Hammersberg],[Ja],
-//   [William Bodin], [Ja],
-//   [Gustav Richter], [Ja],
-//   [Anton Frost], [Ja],
-//   [Robin Persson], [Ja],
-//   [Albin Otterhäll],[Ja]
-// )
+#deltagere(
+  [Aowis Tabba],[Ja],
+  [Martin Felix], [Ja],
+  [Kristoffer Gustavsson], [Ja],
+  [Samuel Hammersberg],[Ja],
+  [William Bodin], [Ja],
+  [Gustav Richter], [Ja],
+  [Anton Frost], [Ja],
+  [Robin Persson], [Ja],
+  [Albin Otterhäll],[Ja]
+)
 
 // #ordningsFråga([Namn], [
 // Text \
@@ -71,7 +71,7 @@ stämmomötet.
 
 === Beslut
 #attSatser(
-// [ attsats 1 bifalles. ]
+[ attsats 1 bifalles. ]
 )
 
 #pagebreak()
@@ -91,7 +91,7 @@ Detta möteschema ska ha skickats ut under måndagen den 2025-12-08.
 
 === Beslut
 #attSatser(
-//  [ attsats 1 bifalles ]
+ [ attsats 1 bifalles ]
 )
 
 == Fastställande av mötesschema
@@ -106,7 +106,7 @@ punkten.
 
 === Beslut
 #attSatser(
-// [ attsats 1 bifalles. ]
+[ attsats 1 bifalles. ]
 )
 
 #pagebreak()
@@ -125,7 +125,7 @@ styrelsen väljer att nominera
 
 === Beslut
 #attSatser(
-//  [ Ida Vranvuk väljs in som mötesordförande. ]
+ [ Ida Vranvuk väljs in som mötesordförande. ]
 )
 
 == Val av vice mötesordförande
@@ -142,7 +142,7 @@ Styrelsen finner det passande att vice ordförande för styrelsen även
 
 === Beslut
 #attSatser(
-//  [ Ida Kjellerstedt väljs in som vice mötesordförande. ]
+ [ Ida Kjellerstedt väljs in som vice mötesordförande. ]
 )
 
 #pagebreak()
@@ -161,7 +161,7 @@ Styrelsen finner även det passande att sekreteraren för styrelsen även
 
 === Beslut
 #attSatser(
-//  [ Nikhil Olsson Mukhopadhyay väljs in som mötessekreterare. ]
+ [ Nikhil Olsson Mukhopadhyay väljs in som mötessekreterare. ]
 )
 
 #pagebreak()
@@ -183,7 +183,7 @@ _Inga nomineringar för dessa positioner har inkommit._
 === Beslut
 #attSatser(
   [
-//   Albin Otterhäll och Robin Persson väljs in som protokolljusterare
+  Albin Otterhäll och Robin Persson väljs in som protokolljusterare
   ]
 )
 
@@ -262,7 +262,7 @@ Inte mycket som hänt, deltog på ett insparks sammanslagningsmöte med göta (1
 
 Också en föreningsträff där jag diskuterade diverse utbildningsbevaknings-relaterade frågor. 
 
-- Daniell Cole, SAMO '25, Datavetenskapsdivisionen
+- Daniel Cole, SAMO '25, Datavetenskapsdivisionen
 
 === Sekreterare
 
@@ -285,7 +285,7 @@ Sen senaste stämman har MEGA6 hållt i 3 events; pubrunda, halloweensittning sa
 Vi planerade ett knytkalas som aspevent. Alla blev upptagna (och/eller deprimerade) och (nästan) ingen kunde delta. 
 Förhoppningsvis blir det fler event I framtiden. 
 
-- Daniell, Femme++ ordförande'25
+- Daniel, Femme++ ordförande'25
 
 == Studienämnden
 
@@ -448,24 +448,42 @@ Styrelsen är programmets högsta organ förutom stämman.
 
 === Inkomna nomineringar inför mötet
 
-Daniell har varit otroligt engagerad de senaste verksamhetsåren i olika uppdrag och tar sitt arbete seriöst. Jag har ingen tvekan om att hon kommer göra ett otroligt arbete nästa verksamhetsår och nominerar därför Daniell Cole till divisionsordförande för Styrelsen'26!
+Daniel har varit otroligt engagerad de senaste verksamhetsåren i olika uppdrag och tar sitt arbete seriöst. Jag har ingen tvekan om att hon kommer göra ett otroligt arbete nästa verksamhetsår och nominerar därför Daniel Cole till divisionsordförande för Styrelsen'26!
 
-Vi i Styrelsen'25 nominerar Daniell "Cassilda" Cole till ordförande för Styrelsen'26
-Vi i Styrelsen'25 nominerar Owais "Mirage" Tabbaa till kassör för Styrelsen'26
+Vi i Styrelsen'25 nominerar Daniel Cole till ordförande för Styrelsen'26
+Vi i Styrelsen'25 nominerar Aowis Tabbaa till kassör för Styrelsen'26
 
 Lycka till och tack för oss!
 
 - Styrelsen'25
 
-//=== Utjustering
+=== Utjustering
+Daniel Cole och Aowis Tabbaa justeras ut
 
 === Förslag till beslut
-//#attSatser([])
+#attSatser(
+  [Daniel Cole väljs till ordförande för Styrelsen'26],
+  [Aowis Tabbaa väljs till kassör för Styrelsen'26]
+)
 
 === Beslut
-//#attSatser([])
+#attSatser(
+  [Daniel Cole väljs till ordförande för Styrelsen'26],
+  [Aowis Tabbaa väljs till kassör för Styrelsen'26]
+)
+=== Injustering
+Daniel Cole och Aowis Tabbaa justeras in
 
-//=== Injustering
+
+#table(
+ columns: 5,
+ table.header(
+   [],[Namn],[Personnummer],[Användarrättigheter,\ Internetbanken],[Fullmakt\ att teckna avtal\ i Internetbanken]
+ ),
+ [Företrädate 1],[Daniel Cole],[19980209-0010],[Ensam],[Ja],
+ [Företrädate 2],[Aowis Tabbaa],[20040716-8236],[Ensam],[Ja]
+)
+
 
 #pagebreak()
 
@@ -506,15 +524,17 @@ För nästkommande generation av MEGA6 nomineras Robin "Mr Cake" Persson till or
 
 - Gustav Richter, Mega6'25
 
-//=== Utjustering
+=== Utjustering
+Robin "Mr Cake" Persson justeras ut
 
 === Förslag till beslut
-//#attSatser([])
+#attSatser([Robin "Mr Cake" Persson väljs till ordförande för Mega6])
 
 === Beslut
-//#attSatser([])
+#attSatser([Attsats 1 bifalles])
 
-//=== Injustering
+=== Injustering
+Robin "Mr Cake" Persson justeras in
 
 #pagebreak()
 
@@ -524,19 +544,21 @@ Studienämnden ansvarar för att sötta stduenter och dess studier.
 
 === Inkomna nomineringar inför mötet
 
-Efter en riktigt låååååång process har vi i Studienämnden bestämt en värdig kandidat för ordförande och nominerar Daniell Cole som ordförande för Studienämnden 2026. 
+Efter en riktigt låååååång process har vi i Studienämnden bestämt en värdig kandidat för ordförande och nominerar Daniel Cole som ordförande för Studienämnden 2026. 
 
 - Ida "iceByte" Vranvuk 
 
-//=== Utjustering
+=== Utjustering
+Daniel Cole justeras ut
 
 === Förslag till beslut
-//#attSatser([])
+#attSatser([Daniel Cole väljs till ordförande för Studienämnden])
 
 === Beslut
-//#attSatser([])
+#attSatser([Attsts 1 bifalles])
 
-//=== Injustering
+=== Injustering
+Daniel Cole justeras in
 
 #pagebreak()
 
@@ -550,15 +572,17 @@ Femme++ nominerar Sofia "rubix" Gustafsson till kommande mandatperiod.
 
 - Femme++'25
 
-//=== Utjustering
+=== Utjustering
+Sofia "rubix" Gustafsson justeras ut
 
 === Förslag till beslut
-//#attSatser([])
+#attSatser([Sofia "rubix" Gustafsson väljs till ordförande av Femme++])
 
 === Beslut
-//#attSatser([])
+#attSatser([Attsats 1 bifalles])
 
-//=== Injustering
+=== Injustering
+Sofia "rubix" Gustafsson justeras in
 
 #pagebreak()
 
@@ -568,20 +592,22 @@ ConCats är programmets rustmästeri.
 
 === Inkomna nomineringar inför mötet
 
-ConCats nominerar Owais "Mirage" Altabbaa till kommande mandatperiod.
+ConCats nominerar Aowis "Mirage" Tabbaa till kommande mandatperiod.
 
 Martin "Marabou" Felix
 ConCats
 
-//=== Utjustering
+=== Utjustering
+Aowis "Mirage" Tabbaa Justeras ut
 
 === Förslag till beslut
-//#attSatser([])
+#attSatser([Aowis "Mirage" Tabbaa väljs till ordförande för  ConCats])
 
 === Beslut
-//#attSatser([])
+#attSatser([Attsats 1 bifalles])
 
-//=== Injustering
+=== Injustering
+Aowis "Mirage" Tabbaa justeras in
 
 == Klubbsport DV
 
@@ -593,16 +619,17 @@ Robin “Mr Cake” Persson rekommenderar Isabell “McLovin” Johansson som or
 
 Ordförande väljer in resten av medlemmarna under mandatperioden 2026.
 
-//=== Utjustering
+=== Utjustering
+Robin “Mr Cake” Persson Justeras ut
 
 === Förslag till beslut
-//#attSatser([])
+#attSatser([Robin “Mr Cake” Persson väljs till ordförande för Klubbsport_DV])
 
 === Beslut
-//#attSatser([])
+#attSatser([Attsats 1 bifalles])
 
-//=== Injustering
-
+=== Injustering
+Robin “Mr Cake” Persson Justeras in
 
 #pagebreak()
 
@@ -613,15 +640,19 @@ DV_Ops ansvarar för föreningens diverse IT system och med att främja hackeran
 
 Det är dags att återuppliva DV_Ops och få tillbaka IT intresset till DV.  Som datastudenter borde IT-intresset vara en självklar del av vår gemenskap, inte bara i kurserna utan även vid sidan av dem. Jag, Alexander Appelin, ställer upp som kandidat till ordförande för DV_Ops. Mitt mål är att återetablera kommittén med samma vision som innan, att främja IT-intresse och kunskap för alla som vill lära sig mer, oavsett förkunskaper. Utöver det ska kommittén fortsätta ansvara för divisionens IT-infrastruktur, däribland hemsidan. För att förverkliga visionen vill jag hålla ett flertal evenemang men fokus på programmering och kreativ utveckling.
 
-=== Fri nominering
+=== Utjustering
+Alexander Appelin justeras ut
 
 === Förslag till beslut
 #attSatser(
-//  [punkten bordsläggs]
+ [Alexander Appelin väljs in till ordförande för]
 )
 
 === Beslut
-//#attSatser([Attsats 1 bifalles])
+#attSatser([Attsats 1 bifalles])
+
+=== Injustering
+Alexander Appelin justeras in
 
 #pagebreak()
 
@@ -639,7 +670,7 @@ _Styrelsen har ej fått in några nominering innan stämman._
 )
 
 === Beslut
-//#attSatser([Attsats 1 bifalles])
+#attSatser([Attsats 1 bifalles])
 
 
 == Revisor'25
@@ -655,7 +686,7 @@ _Styrelsen har ej fått in några nominering innan stämman._
 )
 
 === Beslut
-//#attSatser([Attsats 1 bifalles])
+#attSatser([Attsats 1 bifalles])
 
 #pagebreak()
 
