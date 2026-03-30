@@ -458,7 +458,7 @@ Lycka till och tack för oss!
 - Styrelsen'25
 
 === Utjustering
-Daniel Cole och Aowis Tabbaa justeras ut
+Daniel Cole och Aowis Tabbaa justeras ut.
 
 === Förslag till beslut
 #attSatser(
@@ -472,7 +472,7 @@ Daniel Cole och Aowis Tabbaa justeras ut
   [Aowis Tabbaa väljs till kassör för Styrelsen'26]
 )
 === Injustering
-Daniel Cole och Aowis Tabbaa justeras in
+Daniel Cole och Aowis Tabbaa justeras in.
 
 
 #table(
@@ -483,7 +483,6 @@ Daniel Cole och Aowis Tabbaa justeras in
  [Företrädate 1],[Daniel Cole],[19980209-0010],[Ensam],[Ja],
  [Företrädate 2],[Aowis Tabbaa],[20040716-8236],[Ensam],[Ja]
 )
-
 
 #pagebreak()
 
@@ -502,15 +501,17 @@ Alexander "Wildcard" Appelin - eventansvarig
 Sarah "βetah" Manktelow - pr-minister
 Edvin "Dubbel d" Lundgren - uppdragsansvarig
 
-//=== Utjustering
+=== Utjustering
+Halimo "Lost&&Found" Hassan Ali justeras ut.
 
 === Förslag till beslut
-//#attSatser([])
+#attSatser([Halimo "Lost&&Found" Hassan Ali väljs till ordförande för DVRK])
 
 === Beslut
-//#attSatser([])
+#attSatser([Attsats 1 bifalles])
 
-//=== Injustering
+=== Injustering
+Halimo "Lost&&Found" Hassan Ali justeras in.
 
 #pagebreak()
 
@@ -525,7 +526,7 @@ För nästkommande generation av MEGA6 nomineras Robin "Mr Cake" Persson till or
 - Gustav Richter, Mega6'25
 
 === Utjustering
-Robin "Mr Cake" Persson justeras ut
+Robin "Mr Cake" Persson justeras ut.
 
 === Förslag till beslut
 #attSatser([Robin "Mr Cake" Persson väljs till ordförande för Mega6])
@@ -534,7 +535,7 @@ Robin "Mr Cake" Persson justeras ut
 #attSatser([Attsats 1 bifalles])
 
 === Injustering
-Robin "Mr Cake" Persson justeras in
+Robin "Mr Cake" Persson justeras in.
 
 #pagebreak()
 
@@ -549,7 +550,7 @@ Efter en riktigt låååååång process har vi i Studienämnden bestämt en vä
 - Ida "iceByte" Vranvuk 
 
 === Utjustering
-Daniel Cole justeras ut
+Daniel Cole justeras ut.
 
 === Förslag till beslut
 #attSatser([Daniel Cole väljs till ordförande för Studienämnden])
@@ -558,7 +559,7 @@ Daniel Cole justeras ut
 #attSatser([Attsts 1 bifalles])
 
 === Injustering
-Daniel Cole justeras in
+Daniel Cole justeras in.
 
 #pagebreak()
 
@@ -573,7 +574,7 @@ Femme++ nominerar Sofia "rubix" Gustafsson till kommande mandatperiod.
 - Femme++'25
 
 === Utjustering
-Sofia "rubix" Gustafsson justeras ut
+Sofia "rubix" Gustafsson justeras ut.
 
 === Förslag till beslut
 #attSatser([Sofia "rubix" Gustafsson väljs till ordförande av Femme++])
@@ -582,7 +583,7 @@ Sofia "rubix" Gustafsson justeras ut
 #attSatser([Attsats 1 bifalles])
 
 === Injustering
-Sofia "rubix" Gustafsson justeras in
+Sofia "rubix" Gustafsson justeras in.
 
 #pagebreak()
 
@@ -598,7 +599,7 @@ Martin "Marabou" Felix
 ConCats
 
 === Utjustering
-Aowis "Mirage" Tabbaa Justeras ut
+Aowis "Mirage" Tabbaa Justeras ut.
 
 === Förslag till beslut
 #attSatser([Aowis "Mirage" Tabbaa väljs till ordförande för  ConCats])
@@ -607,7 +608,7 @@ Aowis "Mirage" Tabbaa Justeras ut
 #attSatser([Attsats 1 bifalles])
 
 === Injustering
-Aowis "Mirage" Tabbaa justeras in
+Aowis "Mirage" Tabbaa justeras in.
 
 == Klubbsport DV
 
@@ -620,7 +621,7 @@ Robin “Mr Cake” Persson rekommenderar Isabell “McLovin” Johansson som or
 Ordförande väljer in resten av medlemmarna under mandatperioden 2026.
 
 === Utjustering
-Robin “Mr Cake” Persson Justeras ut
+Robin “Mr Cake” Persson Justeras ut.
 
 === Förslag till beslut
 #attSatser([Robin “Mr Cake” Persson väljs till ordförande för Klubbsport_DV])
@@ -629,7 +630,7 @@ Robin “Mr Cake” Persson Justeras ut
 #attSatser([Attsats 1 bifalles])
 
 === Injustering
-Robin “Mr Cake” Persson Justeras in
+Robin “Mr Cake” Persson Justeras in.
 
 #pagebreak()
 
@@ -641,7 +642,7 @@ DV_Ops ansvarar för föreningens diverse IT system och med att främja hackeran
 Det är dags att återuppliva DV_Ops och få tillbaka IT intresset till DV.  Som datastudenter borde IT-intresset vara en självklar del av vår gemenskap, inte bara i kurserna utan även vid sidan av dem. Jag, Alexander Appelin, ställer upp som kandidat till ordförande för DV_Ops. Mitt mål är att återetablera kommittén med samma vision som innan, att främja IT-intresse och kunskap för alla som vill lära sig mer, oavsett förkunskaper. Utöver det ska kommittén fortsätta ansvara för divisionens IT-infrastruktur, däribland hemsidan. För att förverkliga visionen vill jag hålla ett flertal evenemang men fokus på programmering och kreativ utveckling.
 
 === Utjustering
-Alexander Appelin justeras ut
+Alexander Appelin justeras ut.
 
 === Förslag till beslut
 #attSatser(
@@ -652,7 +653,7 @@ Alexander Appelin justeras ut
 #attSatser([Attsats 1 bifalles])
 
 === Injustering
-Alexander Appelin justeras in
+Alexander Appelin justeras in.
 
 #pagebreak()
 
@@ -702,6 +703,6 @@ _Inga punkter har inkommit innan mötet, och styrelsen har ej kommit några punk
 = Avslutande av möte
 
 == Mötets avslutande
-Mötet avslutades XX:XX
+Mötet avslutades 20:20
 #pagebreak()
 #signatures(stämma: true)
