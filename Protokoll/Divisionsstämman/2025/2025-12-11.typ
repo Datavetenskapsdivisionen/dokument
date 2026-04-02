@@ -475,15 +475,6 @@ Daniel Cole och Aowis Tabbaa justeras ut.
 Daniel Cole och Aowis Tabbaa justeras in.
 
 
-#table(
- columns: 5,
- table.header(
-   [],[Namn],[Personnummer],[Användarrättigheter,\ Internetbanken],[Fullmakt\ att teckna avtal\ i Internetbanken]
- ),
- [Företrädate 1],[Daniel Cole],[19980209-0010],[Ensam],[Ja],
- [Företrädate 2],[Aowis Tabbaa],[20040716-8236],[Ensam],[Ja]
-)
-
 #pagebreak()
 
 == DVRK
