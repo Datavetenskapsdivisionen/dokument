@@ -4,3 +4,4 @@ readme.md
 **/*.aux
 **/*.log
 **/*.out
+!Protokoll/**/reports/*.pdf
