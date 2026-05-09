@@ -178,7 +178,7 @@ Nu när det är en ny styrelse behöver överlämning ske. Information som före
 #attSatser(
   [attsats 1 bifalles],
   [attsats 2 bifalles],
-  [attsats 3 bifalles],
+//  [attsats 3 bifalles],
 )
 
 #pagebreak()
