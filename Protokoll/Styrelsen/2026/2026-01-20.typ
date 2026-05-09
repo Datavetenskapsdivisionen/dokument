@@ -3,7 +3,7 @@
 #let time = "12:07"
 #show: setupDocument.with(
   time: time,
-  title: "Template",
+  title: "Styrelsemöte 1",
   date: datetime(year: 2026, month: 1, day: 20)
 )
 
@@ -13,13 +13,14 @@
     [-], [Nej],
     [Owais Tabbaa], [Ja],
     [-], [Nej],
-    [Nikhil Olsson\ Mukhopadhyay], [Ja],
+    [-], [Nej]
 )
 
 #deltagere(
   [Ida Vranvuk], [Ja],
   [Ida Kjellerstedt], [Ja],
   [Hannes Carlsson], [Ja],
+  [Nikhil Olsson\ Mukhopadhyay], [Ja],
   [Alice Olsson], [Ja]
 )
 
@@ -148,7 +149,6 @@ När nästa stämma är, styrelsens arbeten, äskningar, och allt annat som kan 
 === Förslag till beslut:
 #attSatser(
   [Owais Tabbaa väljs in som kassör för verksamhetsåret 2026.],
-  [Nikhil Olsson Mulhopadhyay väljs in som sekreterare för verksamhetsåret 2026.],
 )
 
 === Beslut:
@@ -172,7 +172,6 @@ Nu när det är en ny styrelse behöver överlämning ske. Information som före
 #attSatser(
   [Daniel Cole ska boka ett överlämningsmöte med Ida Vranvuk],
   [Owais Tabbaa ska boka ett överlämningsmöte med Hannes Carlsson],
-  [Nikhil Olsson Mukhopadhyay ska boka ett överlämningsmöte mig sig själv],
 )
 
 === Beslut:
